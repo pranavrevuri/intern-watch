@@ -66,13 +66,38 @@ def check_lever(token):
     return hits
 
 
-def check_browser(page, url):
+def check_browser(browser, url):
     """Default for everything else: load the page in a real headless
-    browser so client-side-rendered job listings actually appear, then
-    keyword-match against the rendered text."""
-    page.goto(url, wait_until="networkidle", timeout=45000)
-    page.wait_for_timeout(3000)  # let any lazy-loaded content settle
-    text = page.inner_text("body")
+    browser (in its own fresh, isolated tab) so client-side-rendered job
+    listings actually appear, then keyword-match against the rendered
+    text.
+
+    Each company gets a brand new browser context rather than reusing
+    one tab across companies - some career sites trigger background
+    redirects that were colliding with the *next* company's page load
+    when a tab was shared. A fresh context also means one company's
+    cookies/session can't affect another's."""
+    context = browser.new_context(
+        user_agent=(
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+            "(KHTML, like Gecko) Chrome/124.0 Safari/537.36"
+        )
+    )
+    page = context.new_page()
+    try:
+        try:
+            # domcontentloaded = "the page is there", not "network is
+            # completely silent" - some sites never go fully idle
+            # because of analytics/chat-widget pings, so networkidle
+            # would time out on them even though the page loaded fine.
+            page.goto(url, wait_until="domcontentloaded", timeout=30000)
+        except Exception:
+            # one retry with an even looser condition before giving up
+            page.goto(url, wait_until="load", timeout=30000)
+        page.wait_for_timeout(4000)  # let client-side rendering settle
+        text = page.inner_text("body")
+    finally:
+        context.close()
 
     hits = []
     for m in KEYWORD_PATTERN.finditer(text):
@@ -83,14 +108,14 @@ def check_browser(page, url):
     return hits
 
 
-def check_company(company, page):
+def check_company(company, browser):
     ats = company.get("ats", "browser")
     try:
         if ats == "greenhouse":
             return check_greenhouse(company["token"])
         if ats == "lever":
             return check_lever(company["token"])
-        return check_browser(page, company["url"])
+        return check_browser(browser, company["url"])
     except Exception as e:
         print(f"  ! error checking {company.get('name')}: {e}", file=sys.stderr)
         return []
@@ -139,18 +164,12 @@ def main():
     new_hits = []
 
     with sync_playwright() as p:
-        browser = p.chromium.launch()
-        page = browser.new_page(
-            user_agent=(
-                "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
-                "(KHTML, like Gecko) Chrome/124.0 Safari/537.36"
-            )
-        )
+        browser = p.chromium.launch(args=["--disable-http2"])
 
         for company in companies:
             name = company["name"]
             print(f"Checking {name}...")
-            hits = check_company(company, page)
+            hits = check_company(company, browser)
             seen = set(state.get(name, []))
             for hit in hits:
                 key = hit["url"] or hit["title"]
