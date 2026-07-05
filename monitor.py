@@ -31,7 +31,7 @@ KEYWORD_PATTERN = re.compile(
     re.IGNORECASE,
 )
 # Matches "2027" and also things like "Summer 2027"
-YEAR_PATTERN = re.compile(r"2026")
+YEAR_PATTERN = re.compile(r"2027")
 
 
 def fetch(url, headers=None):
@@ -45,8 +45,11 @@ def check_greenhouse(token):
     boards.greenhouse.io/<token> URL."""
     url = f"https://boards-api.greenhouse.io/v1/boards/{token}/jobs?content=true"
     data = json.loads(fetch(url))
+    jobs = data.get("jobs", [])
+    intern_count = sum(1 for j in jobs if re.search(r"intern", j.get("title", ""), re.IGNORECASE))
+    print(f"    -> {len(jobs)} total postings, {intern_count} mention 'intern' in the title")
     hits = []
-    for job in data.get("jobs", []):
+    for job in jobs:
         text = f"{job.get('title', '')} {job.get('content', '')}"
         if KEYWORD_PATTERN.search(text) and YEAR_PATTERN.search(text):
             hits.append({"title": job.get("title"), "url": job.get("absolute_url")})
@@ -58,6 +61,8 @@ def check_lever(token):
     jobs.lever.co/<token> URL."""
     url = f"https://api.lever.co/v0/postings/{token}?mode=json"
     data = json.loads(fetch(url))
+    intern_count = sum(1 for j in data if re.search(r"intern", j.get("text", ""), re.IGNORECASE))
+    print(f"    -> {len(data)} total postings, {intern_count} mention 'intern' in the title")
     hits = []
     for job in data:
         text = f"{job.get('text', '')} {job.get('descriptionPlain', '')}"
@@ -115,6 +120,9 @@ def check_browser(browser, url):
     finally:
         context.close()
 
+    intern_count = len(re.findall(r"intern", text, re.IGNORECASE))
+    print(f"    -> {len(text)} chars of page text extracted, 'intern' appears {intern_count}x")
+
     hits = []
     for m in KEYWORD_PATTERN.finditer(text):
         window = text[max(0, m.start() - 150): m.end() + 150]
@@ -131,6 +139,9 @@ def check_static(url):
     block headless-browser traffic (bot detection) while letting
     normal HTTP requests through untouched."""
     html = fetch(url)
+    intern_count = len(re.findall(r"intern", html, re.IGNORECASE))
+    print(f"    -> {len(html)} chars of page HTML fetched, 'intern' appears {intern_count}x")
+
     hits = []
     for m in KEYWORD_PATTERN.finditer(html):
         window = html[max(0, m.start() - 200): m.end() + 200]
