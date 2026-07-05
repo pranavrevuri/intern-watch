@@ -24,14 +24,52 @@ from playwright.sync_api import sync_playwright
 STATE_FILE = "state.json"
 CONFIG_FILE = "companies.json"
 
-# Matches common phrasings of the role
-KEYWORD_PATTERN = re.compile(
-    r"(software\s*engineer(?:ing)?\s*intern|swe\s*intern|"
-    r"software\s*development\s*intern|sde\s*intern)",
-    re.IGNORECASE,
-)
+# Any listing that mentions one of these terms near the word "intern"
+# counts as a hit. Edit this list any time to widen or narrow what
+# counts as relevant - it doesn't need code changes elsewhere.
+ROLE_KEYWORDS = [
+    r"\bsoftware\b",
+    r"\bmachine\s+learning\b",
+    r"\bartificial\s+intelligence\b",
+    r"\bai\b",
+    r"\bml\b",
+    r"\btech\b",
+    r"\btechnology\b",
+    r"\bdata\s+science\b",
+    r"\bcomputer\s+science\b",
+    r"\bengineering\b",
+]
+ROLE_PATTERN = re.compile("|".join(ROLE_KEYWORDS), re.IGNORECASE)
+INTERN_PATTERN = re.compile(r"intern", re.IGNORECASE)
 # Matches "2027" and also things like "Summer 2027"
 YEAR_PATTERN = re.compile(r"2027")
+
+
+def text_matches(text, window=150):
+    """True if any 'intern' mention in text has a relevant role
+    keyword and the target year nearby. Used where we already have a
+    clean per-job title/url (Greenhouse, Lever) and just need a
+    yes/no answer."""
+    for m in INTERN_PATTERN.finditer(text):
+        window_text = text[max(0, m.start() - window): m.end() + window]
+        if ROLE_PATTERN.search(window_text) and YEAR_PATTERN.search(window_text):
+            return True
+    return False
+
+
+def find_hits(text, url, window=150):
+    """For pages without per-job structure (a flat page of rendered
+    text or HTML): return one hit per matching 'intern' mention, using
+    a text snippet as the title since there's no structured job title
+    to point to."""
+    hits = []
+    for m in INTERN_PATTERN.finditer(text):
+        window_text = text[max(0, m.start() - window): m.end() + window]
+        if ROLE_PATTERN.search(window_text) and YEAR_PATTERN.search(window_text):
+            snippet = re.sub(r"<[^>]+>", " ", window_text)  # strip any leftover HTML tags
+            snippet = re.sub(r"\s+", " ", snippet).strip()
+            hits.append({"title": snippet[:160], "url": url})
+    return hits
 
 
 def fetch(url, headers=None):
@@ -51,7 +89,7 @@ def check_greenhouse(token):
     hits = []
     for job in jobs:
         text = f"{job.get('title', '')} {job.get('content', '')}"
-        if KEYWORD_PATTERN.search(text) and YEAR_PATTERN.search(text):
+        if text_matches(text):
             hits.append({"title": job.get("title"), "url": job.get("absolute_url")})
     return hits
 
@@ -66,7 +104,7 @@ def check_lever(token):
     hits = []
     for job in data:
         text = f"{job.get('text', '')} {job.get('descriptionPlain', '')}"
-        if KEYWORD_PATTERN.search(text) and YEAR_PATTERN.search(text):
+        if text_matches(text):
             hits.append({"title": job.get("text"), "url": job.get("hostedUrl")})
     return hits
 
@@ -115,21 +153,27 @@ def check_browser(browser, url):
         if not loaded:
             raise last_error
 
+        # Google and Salesforce came back nearly empty (~250 chars) -
+        # almost certainly a cookie-consent overlay sitting in front of
+        # the real content. Best-effort: try clicking anything that
+        # looks like an "accept" button before giving up on it.
+        for accept_text in ["Accept all", "Accept All", "Accept", "I agree", "I Agree", "Got it", "Allow all"]:
+            try:
+                page.get_by_role("button", name=accept_text, exact=False).click(timeout=2000)
+                page.wait_for_timeout(1000)
+                break
+            except Exception:
+                continue
+
         page.wait_for_timeout(5000)  # let client-side rendering settle
         text = page.inner_text("body")
     finally:
         context.close()
 
-    intern_count = len(re.findall(r"intern", text, re.IGNORECASE))
+    intern_count = len(INTERN_PATTERN.findall(text))
     print(f"    -> {len(text)} chars of page text extracted, 'intern' appears {intern_count}x")
 
-    hits = []
-    for m in KEYWORD_PATTERN.finditer(text):
-        window = text[max(0, m.start() - 150): m.end() + 150]
-        if YEAR_PATTERN.search(window):
-            snippet = re.sub(r"\s+", " ", window).strip()
-            hits.append({"title": snippet[:160], "url": url})
-    return hits
+    return find_hits(text, url)
 
 
 def check_static(url):
@@ -139,17 +183,10 @@ def check_static(url):
     block headless-browser traffic (bot detection) while letting
     normal HTTP requests through untouched."""
     html = fetch(url)
-    intern_count = len(re.findall(r"intern", html, re.IGNORECASE))
+    intern_count = len(INTERN_PATTERN.findall(html))
     print(f"    -> {len(html)} chars of page HTML fetched, 'intern' appears {intern_count}x")
 
-    hits = []
-    for m in KEYWORD_PATTERN.finditer(html):
-        window = html[max(0, m.start() - 200): m.end() + 200]
-        if YEAR_PATTERN.search(window):
-            snippet = re.sub(r"<[^>]+>", " ", window)
-            snippet = re.sub(r"\s+", " ", snippet).strip()
-            hits.append({"title": snippet[:160], "url": url})
-    return hits
+    return find_hits(html, url, window=200)
 
 
 def check_company(company, browser):
@@ -220,7 +257,13 @@ def main():
             hits = check_company(company, browser)
             seen = set(state.get(name, []))
             for hit in hits:
-                key = hit["url"] or hit["title"]
+                # Combine url+title rather than url alone: for
+                # greenhouse/lever each hit has its own real per-job
+                # url, but for browser/static hits every match on a
+                # page shares the same page url - using url alone would
+                # treat every posting after the first as "already
+                # seen" forever, even genuinely new ones.
+                key = f"{hit.get('url', '')}::{hit.get('title', '')}"
                 if key not in seen:
                     new_hits.append((name, hit))
                     seen.add(key)
