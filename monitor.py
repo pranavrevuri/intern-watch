@@ -124,6 +124,23 @@ def check_browser(browser, url):
     return hits
 
 
+def check_static(url):
+    """For pages that are fully rendered server-side already (no JS
+    needed) - just a plain HTTP request, no browser. Useful both
+    because it's cheaper/faster, and because some sites specifically
+    block headless-browser traffic (bot detection) while letting
+    normal HTTP requests through untouched."""
+    html = fetch(url)
+    hits = []
+    for m in KEYWORD_PATTERN.finditer(html):
+        window = html[max(0, m.start() - 200): m.end() + 200]
+        if YEAR_PATTERN.search(window):
+            snippet = re.sub(r"<[^>]+>", " ", window)
+            snippet = re.sub(r"\s+", " ", snippet).strip()
+            hits.append({"title": snippet[:160], "url": url})
+    return hits
+
+
 def check_company(company, browser):
     ats = company.get("ats", "browser")
     try:
@@ -131,6 +148,8 @@ def check_company(company, browser):
             return check_greenhouse(company["token"])
         if ats == "lever":
             return check_lever(company["token"])
+        if ats == "static":
+            return check_static(company["url"])
         return check_browser(browser, company["url"])
     except Exception as e:
         print(f"  ! error checking {company.get('name')}: {e}", file=sys.stderr)
