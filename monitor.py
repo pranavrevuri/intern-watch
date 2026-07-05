@@ -31,7 +31,7 @@ KEYWORD_PATTERN = re.compile(
     re.IGNORECASE,
 )
 # Matches "2027" and also things like "Summer 2027"
-YEAR_PATTERN = re.compile(r"2027")
+YEAR_PATTERN = re.compile(r"2026")
 
 
 def fetch(url, headers=None):
