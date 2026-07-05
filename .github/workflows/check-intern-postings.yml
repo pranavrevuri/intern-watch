@@ -2,11 +2,16 @@ name: Check Intern Postings
 
 on:
   schedule:
-    - cron: "0 13 * * *"
-  workflow_dispatch: {}
+    # All times below are UTC, mapped to Eastern Time (currently EDT,
+    # UTC-4, in effect roughly mid-March through early November - shift
+    # each by 1 hour after DST ends if you want exact clock alignment).
+    - cron: "0 4 * * *"    # ~midnight ET
+    - cron: "0 13 * * *"   # ~9:00 AM ET
+    - cron: "0 21 * * *"   # ~5:00 PM ET
+  workflow_dispatch: {}   # lets you click "Run workflow" manually to test
 
 permissions:
-  contents: write
+  contents: write   # needed so the workflow can commit the updated state.json
 
 jobs:
   check:
