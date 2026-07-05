@@ -2,13 +2,11 @@ name: Check Intern Postings
 
 on:
   schedule:
-    # Runs daily at 13:00 UTC (~9am ET / 6am PT). Adjust as you like:
-    # https://crontab.guru is helpful for building cron expressions.
     - cron: "0 13 * * *"
-  workflow_dispatch: {}   # lets you click "Run workflow" manually to test
+  workflow_dispatch: {}
 
 permissions:
-  contents: write   # needed so the workflow can commit the updated state.json
+  contents: write
 
 jobs:
   check:
