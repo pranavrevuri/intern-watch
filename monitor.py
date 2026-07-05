@@ -76,25 +76,41 @@ def check_browser(browser, url):
     one tab across companies - some career sites trigger background
     redirects that were colliding with the *next* company's page load
     when a tab was shared. A fresh context also means one company's
-    cookies/session can't affect another's."""
+    cookies/session can't affect another's.
+
+    Some sites (seen on Nvidia, Roblox) run bot-detection that stalls
+    or blocks obviously-automated browsers, so this also patches the
+    most common automation tell (navigator.webdriver) and tries three
+    increasingly lenient load conditions before giving up."""
     context = browser.new_context(
         user_agent=(
             "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
             "(KHTML, like Gecko) Chrome/124.0 Safari/537.36"
         )
     )
+    context.add_init_script(
+        "Object.defineProperty(navigator, 'webdriver', {get: () => undefined})"
+    )
     page = context.new_page()
     try:
-        try:
-            # domcontentloaded = "the page is there", not "network is
-            # completely silent" - some sites never go fully idle
-            # because of analytics/chat-widget pings, so networkidle
-            # would time out on them even though the page loaded fine.
-            page.goto(url, wait_until="domcontentloaded", timeout=30000)
-        except Exception:
-            # one retry with an even looser condition before giving up
-            page.goto(url, wait_until="load", timeout=30000)
-        page.wait_for_timeout(4000)  # let client-side rendering settle
+        loaded = False
+        last_error = None
+        for wait_until, timeout in [
+            ("domcontentloaded", 30000),
+            ("load", 30000),
+            ("commit", 20000),  # last resort: just wait for a response to start
+        ]:
+            try:
+                page.goto(url, wait_until=wait_until, timeout=timeout)
+                loaded = True
+                break
+            except Exception as e:
+                last_error = e
+                continue
+        if not loaded:
+            raise last_error
+
+        page.wait_for_timeout(5000)  # let client-side rendering settle
         text = page.inner_text("body")
     finally:
         context.close()
@@ -164,7 +180,9 @@ def main():
     new_hits = []
 
     with sync_playwright() as p:
-        browser = p.chromium.launch(args=["--disable-http2"])
+        browser = p.chromium.launch(
+            args=["--disable-http2", "--disable-blink-features=AutomationControlled"]
+        )
 
         for company in companies:
             name = company["name"]
