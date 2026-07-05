@@ -15,7 +15,7 @@
   {"name": "Netflix", "ats": "browser", "url": "https://jobs.netflix.com/careers/internships"},
   {"name": "Oracle", "ats": "browser", "url": "https://www.oracle.com/careers/students-grads/internships/"},
   {"name": "LinkedIn", "ats": "browser", "url": "https://careers.linkedin.com/pathways-programs/internships"},
-  {"name": "Roblox", "ats": "browser", "url": "https://careers.roblox.com/early-career"},
+  {"name": "Roblox", "ats": "static", "url": "https://careers.roblox.com/jobs"},
   {"name": "Coinbase", "ats": "browser", "url": "https://www.coinbase.com/careers/internships"},
   {"name": "Spotify", "ats": "browser", "url": "https://www.lifeatspotify.com/start-your-journey/students"},
   {"name": "Snap", "ats": "browser", "url": "https://careers.snap.com/jobs"},
