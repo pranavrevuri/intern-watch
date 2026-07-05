@@ -1,6 +1,6 @@
 """
-Checks a list of companies' career pages for new 2027 SWE intern postings
-and emails you only when something new shows up.
+Checks a list of companies' career pages for new SWE/tech-adjacent
+intern postings and emails you only when something new shows up.
 
 Most big-company career sites (Amazon, Meta, Palantir, etc.) only load
 their actual job listings via JavaScript after the page loads, so this
@@ -41,34 +41,62 @@ ROLE_KEYWORDS = [
 ]
 ROLE_PATTERN = re.compile("|".join(ROLE_KEYWORDS), re.IGNORECASE)
 INTERN_PATTERN = re.compile(r"intern", re.IGNORECASE)
-# Matches "2027" and also things like "Summer 2027"
-YEAR_PATTERN = re.compile(r"2027")
 
 
 def text_matches(text, window=150):
     """True if any 'intern' mention in text has a relevant role
-    keyword and the target year nearby. Used where we already have a
-    clean per-job title/url (Greenhouse, Lever) and just need a
-    yes/no answer."""
+    keyword nearby. Used where we already have a clean per-job
+    title/url (Greenhouse, Lever) and just need a yes/no answer.
+
+    No year check: most companies don't print a cohort year in
+    visible text anywhere near the actual listing (confirmed on
+    Apple's page - the date shown is separate page metadata, not part
+    of the flowing text), so requiring one silently filtered out
+    almost everything except companies that happen to write years
+    into prose. Freshness comes from the new-vs-seen check in main()
+    instead - only postings not seen on a previous run get flagged."""
     for m in INTERN_PATTERN.finditer(text):
         window_text = text[max(0, m.start() - window): m.end() + window]
-        if ROLE_PATTERN.search(window_text) and YEAR_PATTERN.search(window_text):
+        if ROLE_PATTERN.search(window_text):
             return True
     return False
 
 
 def find_hits(text, url, window=150):
     """For pages without per-job structure (a flat page of rendered
-    text or HTML): return one hit per matching 'intern' mention, using
+    text or HTML): return one hit per distinct matching posting, using
     a text snippet as the title since there's no structured job title
-    to point to."""
-    hits = []
+    to point to.
+
+    A page often has several close-together mentions of "intern" that
+    all belong to the same one or two actual postings (e.g. one in the
+    title, one in surrounding boilerplate). Matching on every mention
+    independently produced multiple near-duplicate hits for a single
+    real posting, so overlapping windows get merged into one hit
+    before snippets are generated."""
+    ranges = []
     for m in INTERN_PATTERN.finditer(text):
-        window_text = text[max(0, m.start() - window): m.end() + window]
-        if ROLE_PATTERN.search(window_text) and YEAR_PATTERN.search(window_text):
-            snippet = re.sub(r"<[^>]+>", " ", window_text)  # strip any leftover HTML tags
-            snippet = re.sub(r"\s+", " ", snippet).strip()
-            hits.append({"title": snippet[:160], "url": url})
+        start, end = max(0, m.start() - window), m.end() + window
+        window_text = text[start:end]
+        if ROLE_PATTERN.search(window_text):
+            ranges.append([start, end])
+
+    if not ranges:
+        return []
+
+    ranges.sort()
+    merged = [ranges[0]]
+    for start, end in ranges[1:]:
+        if start <= merged[-1][1]:  # overlaps the previous range - same posting
+            merged[-1][1] = max(merged[-1][1], end)
+        else:
+            merged.append([start, end])
+
+    hits = []
+    for start, end in merged:
+        snippet = re.sub(r"<[^>]+>", " ", text[start:end])  # strip any leftover HTML tags
+        snippet = re.sub(r"\s+", " ", snippet).strip()
+        hits.append({"title": snippet[:160], "url": url})
     return hits
 
 
@@ -275,10 +303,10 @@ def main():
 
     if new_hits:
         lines = [f"- {name}: {hit['title']} ({hit['url']})" for name, hit in new_hits]
-        body = "New 2027 SWE intern postings found:\n\n" + "\n".join(lines)
+        body = "New intern postings found:\n\n" + "\n".join(lines)
         print(body)
         if os.environ.get("SMTP_HOST"):
-            send_email("New 2027 SWE Intern Postings", body)
+            send_email("New Intern Postings", body)
     else:
         print("No new postings found.")
 
