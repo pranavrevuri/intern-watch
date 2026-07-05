@@ -1,0 +1,23 @@
+[
+  {"name": "Amazon", "ats": "browser", "url": "https://www.amazon.jobs/content/en/career-programs/university/internships-for-students"},
+  {"name": "Microsoft", "ats": "browser", "url": "https://careers.microsoft.com/v2/global/en/universityinternship"},
+  {"name": "Meta", "ats": "browser", "url": "https://www.metacareers.com/careerprograms/students"},
+  {"name": "Apple", "ats": "browser", "url": "https://jobs.apple.com/en-us/search?team=internships-STDNT-INTRN"},
+  {"name": "Google", "ats": "browser", "url": "https://www.google.com/about/careers/applications/internships"},
+  {"name": "Nvidia", "ats": "browser", "url": "https://www.nvidia.com/en-us/about-nvidia/careers/university-recruiting/"},
+  {"name": "Databricks", "ats": "browser", "url": "https://www.databricks.com/company/careers/university-recruiting"},
+  {"name": "Stripe", "ats": "browser", "url": "https://stripe.com/jobs/university"},
+  {"name": "Palantir", "ats": "browser", "url": "https://www.palantir.com/careers/students-and-early-talent/"},
+  {"name": "Uber", "ats": "browser", "url": "https://jobs.uber.com/en/teams/emerging-talent/"},
+  {"name": "Airbnb", "ats": "browser", "url": "https://careers.airbnb.com/internship-programs/"},
+  {"name": "Salesforce", "ats": "browser", "url": "https://www.salesforce.com/company/careers/talent-programs/future-pathways/"},
+  {"name": "Adobe", "ats": "browser", "url": "https://careers.adobe.com/us/en/intern-and-graduate"},
+  {"name": "Netflix", "ats": "browser", "url": "https://jobs.netflix.com/careers/internships"},
+  {"name": "Oracle", "ats": "browser", "url": "https://www.oracle.com/careers/students-grads/internships/"},
+  {"name": "LinkedIn", "ats": "browser", "url": "https://careers.linkedin.com/pathways-programs/internships"},
+  {"name": "Roblox", "ats": "browser", "url": "https://careers.roblox.com/early-career"},
+  {"name": "Coinbase", "ats": "browser", "url": "https://www.coinbase.com/careers/internships"},
+  {"name": "Spotify", "ats": "browser", "url": "https://www.lifeatspotify.com/start-your-journey/students"},
+  {"name": "Snap", "ats": "browser", "url": "https://careers.snap.com/jobs"},
+  {"name": "TikTok", "ats": "browser", "url": "https://jobs.bytedance.com/en/campus"}
+]
