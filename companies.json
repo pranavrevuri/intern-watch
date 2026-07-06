@@ -1,23 +1,589 @@
 [
-  {"name": "Amazon", "ats": "browser", "url": "https://www.amazon.jobs/content/en/career-programs/university/internships-for-students"},
-  {"name": "Microsoft", "ats": "browser", "url": "https://careers.microsoft.com/v2/global/en/universityinternship"},
-  {"name": "Meta", "ats": "browser", "url": "https://www.metacareers.com/careerprograms/students"},
-  {"name": "Apple", "ats": "browser", "url": "https://jobs.apple.com/en-us/search?team=internships-STDNT-INTRN"},
-  {"name": "Google", "ats": "browser", "url": "https://www.google.com/about/careers/applications/internships"},
-  {"name": "Nvidia", "ats": "browser", "url": "https://www.nvidia.com/en-us/about-nvidia/careers/university-recruiting/"},
-  {"name": "Databricks", "ats": "browser", "url": "https://www.databricks.com/company/careers/university-recruiting"},
-  {"name": "Stripe", "ats": "browser", "url": "https://stripe.com/jobs/university"},
-  {"name": "Palantir", "ats": "browser", "url": "https://www.palantir.com/careers/students-and-early-talent/"},
-  {"name": "Uber", "ats": "browser", "url": "https://jobs.uber.com/en/teams/emerging-talent/"},
-  {"name": "Airbnb", "ats": "browser", "url": "https://careers.airbnb.com/internship-programs/"},
-  {"name": "Salesforce", "ats": "browser", "url": "https://www.salesforce.com/company/careers/talent-programs/future-pathways/"},
-  {"name": "Adobe", "ats": "browser", "url": "https://careers.adobe.com/us/en/intern-and-graduate"},
-  {"name": "Netflix", "ats": "browser", "url": "https://jobs.netflix.com/careers/internships"},
-  {"name": "Oracle", "ats": "browser", "url": "https://www.oracle.com/careers/students-grads/internships/"},
-  {"name": "LinkedIn", "ats": "browser", "url": "https://careers.linkedin.com/pathways-programs/internships"},
-  {"name": "Roblox", "ats": "static", "url": "https://careers.roblox.com/jobs"},
-  {"name": "Coinbase", "ats": "browser", "url": "https://www.coinbase.com/careers/internships"},
-  {"name": "Spotify", "ats": "browser", "url": "https://www.lifeatspotify.com/start-your-journey/students"},
-  {"name": "Snap", "ats": "browser", "url": "https://careers.snap.com/jobs"},
-  {"name": "TikTok", "ats": "browser", "url": "https://jobs.bytedance.com/en/campus"}
+  {
+    "name": "Amazon",
+    "sources": [
+      {
+        "type": "browser",
+        "url": "https://www.amazon.jobs/content/en/career-programs/university/internships-for-students"
+      }
+    ]
+  },
+  {
+    "name": "Microsoft",
+    "sources": [
+      {
+        "type": "browser",
+        "url": "https://careers.microsoft.com/v2/global/en/universityinternship"
+      }
+    ]
+  },
+  {
+    "name": "Meta",
+    "sources": [
+      {
+        "type": "browser",
+        "url": "https://www.metacareers.com/careerprograms/students"
+      }
+    ]
+  },
+  {
+    "name": "Apple",
+    "sources": [
+      {
+        "type": "browser",
+        "url": "https://jobs.apple.com/en-us/search?team=internships-STDNT-INTRN"
+      }
+    ]
+  },
+  {
+    "name": "Google",
+    "sources": [
+      {
+        "type": "browser",
+        "url": "https://www.google.com/about/careers/applications/jobs/results?q=intern"
+      }
+    ]
+  },
+  {
+    "name": "Nvidia",
+    "sources": [
+      {
+        "type": "browser",
+        "url": "https://www.nvidia.com/en-us/about-nvidia/careers/university-recruiting/"
+      }
+    ]
+  },
+  {
+    "name": "Databricks",
+    "sources": [
+      {
+        "type": "greenhouse",
+        "token": "databricks"
+      },
+      {
+        "type": "browser",
+        "url": "https://www.databricks.com/company/careers/university-recruiting"
+      }
+    ]
+  },
+  {
+    "name": "Stripe",
+    "sources": [
+      {
+        "type": "greenhouse",
+        "token": "stripe"
+      },
+      {
+        "type": "browser",
+        "url": "https://stripe.com/jobs/university"
+      }
+    ]
+  },
+  {
+    "name": "Palantir",
+    "sources": [
+      {
+        "type": "lever",
+        "token": "palantir"
+      },
+      {
+        "type": "browser",
+        "url": "https://www.palantir.com/careers/students-and-early-talent/"
+      }
+    ]
+  },
+  {
+    "name": "Uber",
+    "sources": [
+      {
+        "type": "browser",
+        "url": "https://jobs.uber.com/en/teams/emerging-talent/"
+      }
+    ]
+  },
+  {
+    "name": "Airbnb",
+    "sources": [
+      {
+        "type": "greenhouse",
+        "token": "airbnb"
+      },
+      {
+        "type": "browser",
+        "url": "https://careers.airbnb.com/internship-programs/"
+      }
+    ]
+  },
+  {
+    "name": "Salesforce",
+    "sources": [
+      {
+        "type": "browser",
+        "url": "https://careers.salesforce.com/en/jobs/?search=intern"
+      }
+    ]
+  },
+  {
+    "name": "Adobe",
+    "sources": [
+      {
+        "type": "browser",
+        "url": "https://careers.adobe.com/us/en/intern-and-graduate"
+      }
+    ]
+  },
+  {
+    "name": "Netflix",
+    "sources": [
+      {
+        "type": "browser",
+        "url": "https://jobs.netflix.com/careers/internships"
+      }
+    ]
+  },
+  {
+    "name": "Oracle",
+    "sources": [
+      {
+        "type": "browser",
+        "url": "https://www.oracle.com/careers/students-grads/internships/"
+      }
+    ]
+  },
+  {
+    "name": "LinkedIn",
+    "sources": [
+      {
+        "type": "browser",
+        "url": "https://careers.linkedin.com/pathways-programs/internships"
+      }
+    ]
+  },
+  {
+    "name": "Roblox",
+    "sources": [
+      {
+        "type": "greenhouse",
+        "token": "roblox"
+      },
+      {
+        "type": "static",
+        "url": "https://careers.roblox.com/jobs"
+      }
+    ]
+  },
+  {
+    "name": "Coinbase",
+    "sources": [
+      {
+        "type": "greenhouse",
+        "token": "coinbase"
+      },
+      {
+        "type": "browser",
+        "url": "https://www.coinbase.com/careers/internships"
+      }
+    ]
+  },
+  {
+    "name": "Spotify",
+    "sources": [
+      {
+        "type": "lever",
+        "token": "spotify"
+      },
+      {
+        "type": "browser",
+        "url": "https://www.lifeatspotify.com/start-your-journey/students"
+      }
+    ]
+  },
+  {
+    "name": "Snap",
+    "sources": [
+      {
+        "type": "browser",
+        "url": "https://careers.snap.com/jobs"
+      }
+    ]
+  },
+  {
+    "name": "TikTok",
+    "sources": [
+      {
+        "type": "browser",
+        "url": "https://jobs.bytedance.com/en/campus"
+      }
+    ]
+  },
+  {
+    "name": "Capital One",
+    "sources": [
+      {
+        "type": "browser",
+        "url": "https://www.capitalonecareers.com/search-jobs/intern"
+      }
+    ]
+  },
+  {
+    "name": "Citi",
+    "sources": [
+      {
+        "type": "browser",
+        "url": "https://jobs.citi.com/search-jobs/intern"
+      }
+    ]
+  },
+  {
+    "name": "Visa",
+    "sources": [
+      {
+        "type": "smartrecruiters",
+        "token": "Visa"
+      },
+      {
+        "type": "browser",
+        "url": "https://corporate.visa.com/en/jobs.html"
+      }
+    ]
+  },
+  {
+    "name": "JPMorgan Chase",
+    "sources": [
+      {
+        "type": "browser",
+        "url": "https://careers.jpmorgan.com/us/en/students/programs"
+      }
+    ]
+  },
+  {
+    "name": "Goldman Sachs",
+    "sources": [
+      {
+        "type": "browser",
+        "url": "https://higher.gs.com/roles?SEARCH_TERMS=intern"
+      }
+    ]
+  },
+  {
+    "name": "Morgan Stanley",
+    "sources": [
+      {
+        "type": "browser",
+        "url": "https://www.morganstanley.com/careers/students-graduates"
+      }
+    ]
+  },
+  {
+    "name": "Bloomberg",
+    "sources": [
+      {
+        "type": "browser",
+        "url": "https://careers.bloomberg.com/job/search?qf=internship"
+      }
+    ]
+  },
+  {
+    "name": "IBM",
+    "sources": [
+      {
+        "type": "browser",
+        "url": "https://www.ibm.com/careers/search?q=intern"
+      }
+    ]
+  },
+  {
+    "name": "Intel",
+    "sources": [
+      {
+        "type": "browser",
+        "url": "https://jobs.intel.com/en/search-jobs/intern"
+      }
+    ]
+  },
+  {
+    "name": "AMD",
+    "sources": [
+      {
+        "type": "browser",
+        "url": "https://careers.amd.com/careers-home/jobs?keywords=intern"
+      }
+    ]
+  },
+  {
+    "name": "Qualcomm",
+    "sources": [
+      {
+        "type": "browser",
+        "url": "https://careers.qualcomm.com/careers?query=intern"
+      }
+    ]
+  },
+  {
+    "name": "Cisco",
+    "sources": [
+      {
+        "type": "browser",
+        "url": "https://jobs.cisco.com/jobs/SearchJobs/intern"
+      }
+    ]
+  },
+  {
+    "name": "Atlassian",
+    "sources": [
+      {
+        "type": "lever",
+        "token": "atlassian"
+      },
+      {
+        "type": "browser",
+        "url": "https://www.atlassian.com/company/careers/all-jobs"
+      }
+    ]
+  },
+  {
+    "name": "Dropbox",
+    "sources": [
+      {
+        "type": "greenhouse",
+        "token": "dropbox"
+      },
+      {
+        "type": "browser",
+        "url": "https://jobs.dropbox.com/all-jobs"
+      }
+    ]
+  },
+  {
+    "name": "DoorDash",
+    "sources": [
+      {
+        "type": "greenhouse",
+        "token": "doordash"
+      },
+      {
+        "type": "browser",
+        "url": "https://careers.doordash.com/"
+      }
+    ]
+  },
+  {
+    "name": "Robinhood",
+    "sources": [
+      {
+        "type": "greenhouse",
+        "token": "robinhood"
+      },
+      {
+        "type": "browser",
+        "url": "https://careers.robinhood.com/"
+      }
+    ]
+  },
+  {
+    "name": "Pinterest",
+    "sources": [
+      {
+        "type": "greenhouse",
+        "token": "pinterest"
+      },
+      {
+        "type": "browser",
+        "url": "https://www.pinterestcareers.com/jobs/"
+      }
+    ]
+  },
+  {
+    "name": "Lyft",
+    "sources": [
+      {
+        "type": "greenhouse",
+        "token": "lyft"
+      },
+      {
+        "type": "browser",
+        "url": "https://www.lyft.com/careers"
+      }
+    ]
+  },
+  {
+    "name": "T-Mobile",
+    "sources": [
+      {
+        "type": "browser",
+        "url": "https://careers.t-mobile.com/search-jobs/intern"
+      }
+    ]
+  },
+  {
+    "name": "Verizon",
+    "sources": [
+      {
+        "type": "browser",
+        "url": "https://mycareer.verizon.com/jobs/?search=intern"
+      }
+    ]
+  },
+  {
+    "name": "AT&T",
+    "sources": [
+      {
+        "type": "browser",
+        "url": "https://www.att.jobs/search-jobs/intern"
+      }
+    ]
+  },
+  {
+    "name": "Comcast",
+    "sources": [
+      {
+        "type": "browser",
+        "url": "https://jobs.comcast.com/search-jobs/intern"
+      }
+    ]
+  },
+  {
+    "name": "Raymond James",
+    "sources": [
+      {
+        "type": "browser",
+        "url": "https://www.raymondjames.com/careers"
+      }
+    ]
+  },
+  {
+    "name": "General Motors",
+    "sources": [
+      {
+        "type": "browser",
+        "url": "https://search-careers.gm.com/en/jobs/?search=intern"
+      }
+    ]
+  },
+  {
+    "name": "Ford",
+    "sources": [
+      {
+        "type": "browser",
+        "url": "https://careers.ford.com/en/jobs.html?keywords=intern"
+      }
+    ]
+  },
+  {
+    "name": "Fidelity",
+    "sources": [
+      {
+        "type": "browser",
+        "url": "https://jobs.fidelity.com/search-jobs/intern"
+      }
+    ]
+  },
+  {
+    "name": "Bank of America",
+    "sources": [
+      {
+        "type": "browser",
+        "url": "https://careers.bankofamerica.com/en-us/students"
+      }
+    ]
+  },
+  {
+    "name": "Wells Fargo",
+    "sources": [
+      {
+        "type": "browser",
+        "url": "https://www.wellsfargojobs.com/en/jobs/?search=intern"
+      }
+    ]
+  },
+  {
+    "name": "American Express",
+    "sources": [
+      {
+        "type": "browser",
+        "url": "https://aexp.eightfold.ai/careers?query=intern"
+      }
+    ]
+  },
+  {
+    "name": "Walmart",
+    "sources": [
+      {
+        "type": "browser",
+        "url": "https://careers.walmart.com/results?q=intern"
+      }
+    ]
+  },
+  {
+    "name": "Target",
+    "sources": [
+      {
+        "type": "browser",
+        "url": "https://jobs.target.com/search-jobs/intern"
+      }
+    ]
+  },
+  {
+    "name": "Home Depot",
+    "sources": [
+      {
+        "type": "browser",
+        "url": "https://careers.homedepot.com/job-search-results/?keyword=intern"
+      }
+    ]
+  },
+  {
+    "name": "Honeywell",
+    "sources": [
+      {
+        "type": "browser",
+        "url": "https://careers.honeywell.com/us/en/search-results?keywords=intern"
+      }
+    ]
+  },
+  {
+    "name": "Lockheed Martin",
+    "sources": [
+      {
+        "type": "browser",
+        "url": "https://www.lockheedmartinjobs.com/search-jobs/intern"
+      }
+    ]
+  },
+  {
+    "name": "John Deere",
+    "sources": [
+      {
+        "type": "browser",
+        "url": "https://careers.deere.com/careers?query=intern"
+      }
+    ]
+  },
+  {
+    "name": "State Farm",
+    "sources": [
+      {
+        "type": "browser",
+        "url": "https://jobs.statefarm.com/search-jobs/intern"
+      }
+    ]
+  },
+  {
+    "name": "USAA",
+    "sources": [
+      {
+        "type": "browser",
+        "url": "https://www.usaajobs.com/search-jobs/intern"
+      }
+    ]
+  },
+  {
+    "name": "Disney",
+    "sources": [
+      {
+        "type": "browser",
+        "url": "https://jobs.disneycareers.com/search-jobs/intern"
+      }
+    ]
+  }
 ]
