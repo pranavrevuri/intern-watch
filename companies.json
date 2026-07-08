@@ -80,19 +80,6 @@
     ]
   },
   {
-    "name": "Palantir",
-    "sources": [
-      {
-        "type": "lever",
-        "token": "palantir"
-      },
-      {
-        "type": "browser",
-        "url": "https://www.palantir.com/careers/students-and-early-talent/"
-      }
-    ]
-  },
-  {
     "name": "Uber",
     "sources": [
       {
@@ -479,6 +466,15 @@
     ]
   },
   {
+    "name": "Fisher Investments",
+    "sources": [
+      {
+        "type": "browser",
+        "url": "https://www.fishercareers.com/search-jobs/intern"
+      }
+    ]
+  },
+  {
     "name": "Bank of America",
     "sources": [
       {
@@ -574,6 +570,15 @@
       {
         "type": "browser",
         "url": "https://www.usaajobs.com/search-jobs/intern"
+      }
+    ]
+  },
+  {
+    "name": "ReliaQuest",
+    "sources": [
+      {
+        "type": "browser",
+        "url": "https://reliaquest.wd5.myworkdayjobs.com/ReliaQuest_Careers?q=intern"
       }
     ]
   },

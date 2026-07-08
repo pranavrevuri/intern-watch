@@ -37,6 +37,45 @@ class TestMatching(unittest.TestCase):
             self.assertFalse(monitor.text_matches(title), f"should NOT match: {title}")
 
 
+class TestLocationFilter(unittest.TestCase):
+    def test_non_us_locations_detected(self):
+        for loc in [
+            "Taipei, Taiwan",
+            "New Taipei City, Taiwan",
+            "London, United Kingdom",
+            "Bengaluru, India",
+            "Remote - Canada",
+            "Tokyo, Japan",
+            "Dublin, Ireland",
+            "Mexico City, Mexico",
+        ]:
+            self.assertTrue(monitor.is_non_us_location(loc), f"should flag: {loc}")
+
+    def test_us_or_missing_locations_kept(self):
+        for loc in [
+            "",                       # no location shown - keep
+            None,
+            "New York, NY",
+            "Seattle, WA, United States",
+            "Remote",
+            "Albuquerque, New Mexico",  # must not count as Mexico
+            "Atlanta, Georgia",         # US state, not the country
+            "Jersey City, NJ",
+        ]:
+            self.assertFalse(monitor.is_non_us_location(loc), f"should keep: {loc}")
+
+    def test_find_hits_drops_foreign_postings(self):
+        text = "Software Engineer Intern - Taipei, Taiwan - apply now"
+        self.assertEqual(monitor.find_hits(text, "http://x.com"), [])
+
+    def test_find_hits_keeps_us_and_locationless_postings(self):
+        filler = "x" * 500
+        text = ("Software Engineer Intern - Seattle, WA" + filler +
+                "Machine Learning Intern, software team")  # no location shown
+        hits = monitor.find_hits(text, "http://x.com")
+        self.assertEqual(len(hits), 2)
+
+
 class TestFindHits(unittest.TestCase):
     def test_overlapping_windows_merge_into_one_hit(self):
         text = ("internship program details internship overview "

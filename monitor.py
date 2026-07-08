@@ -10,6 +10,11 @@ build their job listings client-side and expose no public API. The
 first source that responds without error wins - a wrong/guessed ATS
 token fails fast and falls through to the next source.
 
+Only US roles are wanted: any posting whose visible location names a
+non-US country/city is dropped, while postings that show no location at
+all are kept (many US roles never print one). See
+NON_US_LOCATION_KEYWORDS for the details.
+
 State lives in state.json (v2 schema): every posting we've ever seen is
 remembered with first/last-seen timestamps and an active flag, so a
 posting is only emailed the first time it appears, disappeared postings
@@ -60,6 +65,80 @@ ROLE_PATTERN = re.compile("|".join(ROLE_KEYWORDS), re.IGNORECASE)
 # the boundary, matching any job description that says "internal tools" or
 # "international" produced hundreds of false hits.
 INTERN_PATTERN = re.compile(r"\binterns?(?:hips?)?\b", re.IGNORECASE)
+
+# Only US roles are wanted. Postings that show a location clearly outside
+# the US (a foreign country or well-known foreign tech-hub city) are
+# dropped; postings that show *no* location are kept, since many US-based
+# roles simply don't print one. So this is a blocklist of non-US places,
+# not a US allowlist - an unrecognized location errs on the side of
+# keeping the posting. Ambiguous names shared with US places (Georgia,
+# Jersey, Ontario CA, Cambridge MA, ...) are deliberately left out.
+NON_US_LOCATION_KEYWORDS = [
+    # East / Southeast / South Asia
+    r"\btaiwan\b", r"\btaipei\b", r"\bhsinchu\b",
+    r"\bchina\b", r"\bbeijing\b", r"\bshanghai\b", r"\bshenzhen\b", r"\bhangzhou\b",
+    r"\bhong\s+kong\b",
+    r"\bjapan\b", r"\btokyo\b", r"\bosaka\b",
+    r"\bkorea\b", r"\bseoul\b",
+    r"\bsingapore\b",
+    r"\bindia\b", r"\bbangalore\b", r"\bbengaluru\b", r"\bhyderabad\b",
+    r"\bchennai\b", r"\bmumbai\b", r"\bpune\b", r"\bnoida\b",
+    r"\bgurgaon\b", r"\bgurugram\b", r"\bnew\s+delhi\b",
+    r"\bvietnam\b", r"\bhanoi\b", r"\bho\s+chi\s+minh\b",
+    r"\bthailand\b", r"\bbangkok\b",
+    r"\bmalaysia\b", r"\bkuala\s+lumpur\b",
+    r"\bindonesia\b", r"\bjakarta\b",
+    r"\bphilippines\b", r"\bmanila\b",
+    # Oceania
+    r"\baustralia\b", r"\bsydney\b", r"\bmelbourne\b", r"\bbrisbane\b",
+    r"\bnew\s+zealand\b", r"\bauckland\b",
+    # Canada
+    r"\bcanada\b", r"\btoronto\b", r"\bvancouver\b", r"\bmontreal\b",
+    r"\bottawa\b", r"\bcalgary\b",
+    # Europe
+    r"\bunited\s+kingdom\b", r"\buk\b", r"\bengland\b", r"\bscotland\b",
+    r"\blondon\b", r"\bireland\b", r"\bdublin\b",
+    r"\bfrance\b", r"\bparis\b",
+    r"\bgermany\b", r"\bberlin\b", r"\bmunich\b",
+    r"\bnetherlands\b", r"\bamsterdam\b",
+    r"\bbelgium\b", r"\bluxembourg\b",
+    r"\bswitzerland\b", r"\bzurich\b",
+    r"\baustria\b", r"\bvienna\b",
+    r"\bspain\b", r"\bmadrid\b", r"\bbarcelona\b",
+    r"\bportugal\b", r"\blisbon\b",
+    r"\bitaly\b", r"\bmilan\b",
+    r"\bpoland\b", r"\bwarsaw\b", r"\bkrakow\b", r"\bkraków\b",
+    r"\bczech(?:ia)?\b", r"\bprague\b",
+    r"\bslovakia\b", r"\bhungary\b", r"\bbudapest\b",
+    r"\bromania\b", r"\bbucharest\b", r"\bbulgaria\b", r"\bgreece\b",
+    r"\bdenmark\b", r"\bcopenhagen\b", r"\bsweden\b", r"\bstockholm\b",
+    r"\bnorway\b", r"\boslo\b", r"\bfinland\b", r"\bhelsinki\b",
+    r"\bestonia\b", r"\blatvia\b", r"\blithuania\b",
+    r"\bukraine\b", r"\bserbia\b", r"\bcroatia\b",
+    # Middle East / Africa
+    r"\bisrael\b", r"\btel\s+aviv\b",
+    r"\bturkey\b", r"\bunited\s+arab\s+emirates\b", r"\buae\b",
+    r"\bdubai\b", r"\babu\s+dhabi\b", r"\bsaudi\s+arabia\b", r"\bqatar\b",
+    r"\begypt\b", r"\bcairo\b", r"\bsouth\s+africa\b",
+    r"\bnigeria\b", r"\blagos\b", r"\bkenya\b", r"\bnairobi\b",
+    # Latin America ("New Mexico" must not count as Mexico)
+    r"(?<!new\s)\bmexico\b", r"\bguadalajara\b", r"\bmonterrey\b",
+    r"\bbrazil\b", r"\bsao\s+paulo\b", r"\bsão\s+paulo\b",
+    r"\bargentina\b", r"\bbuenos\s+aires\b",
+    r"\bchile\b", r"\bsantiago\b",
+    r"\bcolombia\b", r"\bbogotá\b", r"\bbogota\b",
+    r"\bperu\b", r"\bcosta\s+rica\b",
+]
+NON_US_LOCATION_PATTERN = re.compile(
+    "|".join(NON_US_LOCATION_KEYWORDS), re.IGNORECASE
+)
+
+
+def is_non_us_location(text):
+    """True only when text explicitly names a non-US place. Empty or
+    unrecognized location text returns False (kept), per the blocklist
+    approach described above NON_US_LOCATION_KEYWORDS."""
+    return bool(text) and bool(NON_US_LOCATION_PATTERN.search(text))
 
 
 def text_matches(text, window=150):
@@ -115,6 +194,11 @@ def find_hits(text, url, window=150):
     for start, end in merged:
         snippet = re.sub(r"<[^>]+>", " ", text[start:end])  # strip any leftover HTML tags
         snippet = re.sub(r"\s+", " ", snippet).strip()
+        # Unstructured pages print the location inline next to the title,
+        # so it lands inside this same window - if that shows a non-US
+        # place, drop the hit. Snippets with no location text pass.
+        if is_non_us_location(snippet):
+            continue
         hits.append({"title": snippet[:160], "url": url})
     return hits
 
@@ -138,8 +222,12 @@ def check_greenhouse(token):
         # Match on the structured title only - matching the full job
         # description flags every engineering role that merely mentions
         # interns/software somewhere in its body.
-        if text_matches(job.get("title", "")):
-            hits.append({"title": job.get("title"), "url": job.get("absolute_url")})
+        if not text_matches(job.get("title", "")):
+            continue
+        location = (job.get("location") or {}).get("name", "") or ""
+        if is_non_us_location(f"{job.get('title', '')} {location}"):
+            continue
+        hits.append({"title": job.get("title"), "url": job.get("absolute_url")})
     return hits
 
 
@@ -154,8 +242,18 @@ def check_lever(token):
     for job in data:
         # Title only (Lever's "text" field is the job title) - see the
         # note in check_greenhouse on why the description is excluded.
-        if text_matches(job.get("text", "")):
-            hits.append({"title": job.get("text"), "url": job.get("hostedUrl")})
+        if not text_matches(job.get("text", "")):
+            continue
+        # Lever exposes both an ISO country code and a location label;
+        # a present-but-foreign country code is authoritative, and the
+        # label falls back to the keyword blocklist. Missing both = keep.
+        country = (job.get("country") or "").strip()
+        if country and country.upper() not in ("US", "USA"):
+            continue
+        location = (job.get("categories") or {}).get("location", "") or ""
+        if is_non_us_location(f"{job.get('text', '')} {location}"):
+            continue
+        hits.append({"title": job.get("text"), "url": job.get("hostedUrl")})
     return hits
 
 
@@ -171,9 +269,17 @@ def check_smartrecruiters(token):
     hits = []
     for job in jobs:
         title = job.get("name", "")
-        if text_matches(title):
-            job_url = f"https://jobs.smartrecruiters.com/{token}/{job.get('id')}"
-            hits.append({"title": title, "url": job_url})
+        if not text_matches(title):
+            continue
+        # SmartRecruiters gives a lowercase ISO country code; foreign
+        # code = skip, missing code = keep.
+        country = ((job.get("location") or {}).get("country") or "").strip()
+        if country and country.lower() not in ("us", "usa"):
+            continue
+        if is_non_us_location(title):
+            continue
+        job_url = f"https://jobs.smartrecruiters.com/{token}/{job.get('id')}"
+        hits.append({"title": title, "url": job_url})
     return hits
 
 
