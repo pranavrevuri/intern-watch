@@ -105,7 +105,10 @@ few extra lines per site).
 
 A second, separate watcher: `extern_watch.py` scrapes extern.com's
 per-company internship guides (the "Quick Facts" table each one
-carries) for ~158 tech companies and maintains:
+carries) for every company with a tech program - Extern's own tech
+category plus tech tracks at non-tech companies (banks, retail,
+hospitality: think Wells Fargo Technology Summer Analyst) - and
+maintains:
 
 - **`InternWatch.xlsx`** - the human-readable watchlist. Sheet 1 is
   sorted so whatever Extern expects to open soonest sits at the top
@@ -116,13 +119,14 @@ carries) for ~158 tech companies and maintains:
 - **`extern_calendar.json`** - the machine-readable state the diff
   runs against.
 
-It runs weekly (`.github/workflows/extern-calendar.yml`, Mondays ~9 AM
-ET) because Extern's dates are projections refreshed roughly monthly -
-scraping faster buys nothing. You only get an email when something
-actually changed: a window moved, a career link changed, a company
-gained/lost a formal program, or Extern published brand-new guides
-(those are listed for review, never auto-added - some are non-tech).
-Add or remove companies in `extern_companies.json`.
+It runs twice daily (`.github/workflows/extern-calendar.yml`, ~9 AM
+and ~9 PM ET) - cheap enough to be free, and fast enough to catch
+Extern flipping a guide to "OPEN NOW" the same day. You only get an
+email when something actually changed: a window moved, a career link
+changed, a company gained/lost a formal program, or Extern published
+brand-new guides (those are listed for review, never auto-added -
+some are non-tech). Add or remove companies in
+`extern_companies.json`.
 
 The division of labor: the Extern calendar tells you *when to expect*
 each opening; the daily monitor above catches postings *actually going

@@ -238,9 +238,10 @@ def classify(entry, today):
     if entry.get("no_formal_program"):
         return "no_program"
     # Extern sometimes states outright that roles are already live
-    # ("OPEN NOW (as of July 2026)") - believe that over a parsed
-    # window whose start month has passed.
-    if re.search(r"\bopen now\b", entry.get("window_text") or "", re.I):
+    # ("OPEN NOW (as of July 2026)", "open until filled") - believe
+    # that over a parsed window whose start month has passed.
+    if re.search(r"open now|already open|currently open|open until filled",
+                 entry.get("window_text") or "", re.I):
         return "in_window"
     window = entry.get("window")
     if not window:
@@ -251,7 +252,11 @@ def classify(entry, today):
         start_dt = date(int(start[:4]), int(start[5:7]), 1)
         return "upcoming" if (start_dt - today).days <= 62 else "later"
     if cur > end:
-        return "passed"
+        # One month of grace: rolling reviews routinely run past the
+        # posted window, so "ended last month" still means check now.
+        cur_m = today.year * 12 + today.month
+        end_m = int(end[:4]) * 12 + int(end[5:7])
+        return "in_window" if cur_m - end_m == 1 else "passed"
     return "in_window"
 
 
@@ -270,6 +275,45 @@ STATUS_ORDER = ["in_window", "upcoming", "later", "continuous", "passed", "unkno
 
 # Fact-row links that are citations, not places to apply.
 NON_CAREER_LINK = re.compile(r"glassdoor|levels\.fyi|linkedin\.com|reddit\.com|teamblind|blind\.com|indeed\.com|extern\.com")
+
+# Track names that count as tech for the watchlist. Deliberately close
+# to monitor.py's ROLE_KEYWORDS; "Digital Marketing"-style tracks are
+# excluded by the veto even though they contain a match.
+TECH_TRACK = re.compile(
+    r"tech(?:nology)?|software|\bswe\b|\bsde\b|engineer|data\s+(?:scien|analyt|engineer)|"
+    r"machine\s+learning|\bml\b|\bai\b|artificial intelligence|cyber|"
+    r"information\s+(?:technology|security)|computer|quant|cloud|devops|analytics|digital|"
+    r"\bstep\b|applied scien|research scientist|student researcher",
+    re.I)
+TECH_TRACK_VETO = re.compile(r"marketing|sales|brand|communicat|public relations|\bhr\b|people|recruit", re.I)
+
+
+def parse_tracks(raw):
+    """Track/program names from the guide's tracks table (the one
+    headed 'Track' or 'Program' in the 'Which programs should you
+    target' section). Empty list when a guide has no such table."""
+    tracks = []
+    for t in re.findall(r"<table>(.*?)</table>", raw, re.S):
+        rows = re.findall(r"<tr[^>]*>(.*?)</tr>", t, re.S)
+        cells = [re.findall(r"<t[dh][^>]*>(.*?)</t[dh]>", r, re.S) for r in rows]
+        cells = [[strip_tags(c) for c in row] for row in cells if row]
+        if not cells or not cells[0]:
+            continue
+        if not re.match(r"^(track|program|role|internship)", cells[0][0], re.I):
+            continue
+        tracks.extend(row[0][:80] for row in cells[1:] if row and row[0])
+    return tracks
+
+
+def tech_tracks_of(tracks):
+    out = []
+    for t in tracks:
+        if t in out or not TECH_TRACK.search(t):
+            continue
+        if TECH_TRACK_VETO.search(t) and not re.search(r"tech|software|engineer|data|cyber|computer", t, re.I):
+            continue
+        out.append(t)
+    return out
 
 
 def parse_guide(raw, name, slug, today=None):
@@ -296,8 +340,17 @@ def parse_guide(raw, name, slug, today=None):
     pay = get_fact(facts, "compensation")
     entry["pay"] = pay[0][:160] if pay else None
 
-    programs = get_fact(facts, "# programs", "programs")
+    programs = get_fact(facts, "# programs", "programs", "# tracks", "tracks")
     programs_text = programs[0] if programs else ""
+    # What you'd actually be applying for - a row is never just "a
+    # company" but named tracks ("Technology", "STEP, SWE, Student
+    # Researcher..."), taken from the guide's tracks table when it has
+    # one, else the Quick Facts programs row.
+    tracks = parse_tracks(raw)
+    tech = tech_tracks_of(tracks)
+    entry["tech_tracks"] = "; ".join(tech)[:280] if tech else None
+    entry["tracks_total"] = len(tracks)
+    entry["programs"] = programs_text[:280] or None
     formal = get_fact(facts, "formal internship", "internship program", "current status")
     formal_text = formal[0] if formal else ""
     title_m = re.search(r"<title>(.*?)</title>", raw, re.S)
@@ -367,10 +420,35 @@ def diff_calendars(old_entries, new_entries):
         if e.get("no_formal_program") != o.get("no_formal_program"):
             started = "now HAS a formal program" if not e["no_formal_program"] else "no longer lists a formal program"
             changes.append(f"{e['name']}: {started}")
+        if e.get("tech_tracks") != o.get("tech_tracks"):
+            changes.append(
+                f"{e['name']}: tech tracks changed\n"
+                f"    was: {o.get('tech_tracks')}\n"
+                f"    now: {e.get('tech_tracks')}"
+            )
     for slug, o in old.items():
         if slug not in new:
             changes.append(f"REMOVED: {o['name']} (dropped from extern_companies.json)")
     return changes
+
+
+MONTH_NAMES = ["", "January", "February", "March", "April", "May", "June",
+               "July", "August", "September", "October", "November", "December"]
+
+
+def format_window(window):
+    """Human-readable window: 'August 2026', 'August-October 2026',
+    'November 2026 - February 2027'."""
+    if not window:
+        return "-"
+    start, end = window
+    sy, sm = int(start[:4]), int(start[5:7])
+    ey, em = int(end[:4]), int(end[5:7])
+    if (sy, sm) == (ey, em):
+        return f"{MONTH_NAMES[sm]} {sy}"
+    if sy == ey:
+        return f"{MONTH_NAMES[sm]}–{MONTH_NAMES[em]} {sy}"
+    return f"{MONTH_NAMES[sm]} {sy} – {MONTH_NAMES[em]} {ey}"
 
 
 def sort_key(entry, today):
@@ -406,13 +484,15 @@ def build_xlsx(entries, today, path=XLSX_FILE):
 
     ws["A1"] = (f"Intern Watch - Summer 2027 tech internship calendar - regenerated "
                 f"{today.isoformat()} from extern.com company guides. Dates are Extern's "
-                f"projections from prior cycles, not confirmed postings.")
+                f"projections from prior cycles, not confirmed postings. Sorted by how "
+                f"soon each window opens.")
     ws["A1"].font = Font(name="Arial", size=9, italic=True, color="595959")
-    ws.merge_cells("A1:H1")
+    ws.merge_cells("A1:I1")
 
-    headers = ["Company", "Status", "Expected open", "Application window (Extern's words)",
-               "Career page", "Extern guide", "Rolling?", "Intern pay"]
-    widths = [22, 24, 14, 52, 34, 12, 34, 34]
+    headers = ["Company", "Status", "Expected opening", "Programs & tech tracks",
+               "Career page", "Extern guide", "Rolling?", "Intern pay",
+               "Extern's notes on timing"]
+    widths = [22, 24, 26, 46, 34, 12, 32, 32, 46]
     for col, (head, width) in enumerate(zip(headers, widths), start=1):
         cell = ws.cell(row=2, column=col, value=head)
         cell.font = header_font
@@ -425,16 +505,22 @@ def build_xlsx(entries, today, path=XLSX_FILE):
     row = 3
     for e in main:
         status = classify(e, today)
-        window = e.get("window")
         ws.cell(row=row, column=1, value=e["name"]).font = Font(name="Arial", size=10, bold=True)
         scell = ws.cell(row=row, column=2, value=STATUS_LABELS.get(status, status))
         scell.font = body_font
         if status in STATUS_FILLS:
             scell.fill = PatternFill("solid", fgColor=STATUS_FILLS[status])
-        ws.cell(row=row, column=3, value=(f"{window[0]} to {window[1]}" if window else "-")).font = body_font
-        wcell = ws.cell(row=row, column=4, value=e.get("window_text") or e.get("fetch_error") or "")
-        wcell.font = body_font
-        wcell.alignment = wrap
+        ws.cell(row=row, column=3, value=format_window(e.get("window"))).font = body_font
+        if e.get("tech_tracks"):
+            n_tech = e["tech_tracks"].count(";") + 1
+            suffix = (f"  ({n_tech} of {e['tracks_total']} tracks)"
+                      if e.get("tracks_total", 0) > n_tech else "")
+            programs_value = e["tech_tracks"] + suffix
+        else:
+            programs_value = e.get("programs") or "See guide"
+        pcell = ws.cell(row=row, column=4, value=programs_value)
+        pcell.font = body_font
+        pcell.alignment = wrap
         urls = e.get("career_urls") or []
         if urls:
             ccell = ws.cell(row=row, column=5, value=re.sub(r"^https?://(www\.)?", "", urls[0])[:60])
@@ -445,14 +531,15 @@ def build_xlsx(entries, today, path=XLSX_FILE):
         gcell = ws.cell(row=row, column=6, value="guide")
         gcell.hyperlink = e["guide_url"]
         gcell.font = link_font
-        for col, key in ((7, "rolling"), (8, "pay")):
-            cell = ws.cell(row=row, column=col, value=e.get(key) or "")
+        notes = e.get("window_text") or e.get("fetch_error") or ""
+        for col, value in ((7, e.get("rolling") or ""), (8, e.get("pay") or ""), (9, notes)):
+            cell = ws.cell(row=row, column=col, value=value)
             cell.font = body_font
             cell.alignment = wrap
         row += 1
 
-    ws.freeze_panes = "A3"
-    ws.auto_filter.ref = f"A2:H{row - 1}"
+    ws.freeze_panes = "C3"
+    ws.auto_filter.ref = f"A2:I{row - 1}"
 
     # Companies with no formal internship program go on their own sheet
     # so the main watchlist stays actionable; their career links are

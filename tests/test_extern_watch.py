@@ -9,9 +9,12 @@ from datetime import date
 from extern_watch import (
     classify,
     diff_calendars,
+    format_window,
     parse_guide,
     parse_quick_facts,
+    parse_tracks,
     parse_window,
+    tech_tracks_of,
 )
 
 QUICK_FACTS_HTML = """
@@ -152,11 +155,64 @@ class Classification(unittest.TestCase):
     def test_passed(self):
         self.assertEqual(classify(self.entry(window=("2026-01", "2026-03")), self.today), "passed")
 
+    def test_grace_month_still_in_window(self):
+        # Ended last month + rolling reviews = still worth checking.
+        self.assertEqual(classify(self.entry(window=("2026-06", "2026-07")), self.today), "in_window")
+
+    def test_open_until_filled_is_open(self):
+        e = self.entry(window=("2026-07", "2026-07"),
+                       window_text="Posted July 20, 2026; open until filled")
+        self.assertEqual(classify(e, self.today), "in_window")
+
     def test_no_program_wins(self):
         self.assertEqual(classify(self.entry(no_formal_program=True), self.today), "no_program")
 
     def test_continuous(self):
         self.assertEqual(classify(self.entry(window_text="No fixed window"), self.today), "continuous")
+
+
+TRACKS_HTML = """
+<h2>Which Tracks Should You Target?</h2>
+<table>
+<tr><th>Track</th><th>What it is</th></tr>
+<tr><td>Corporate &amp; Investment Banking (CIB)</td><td>...</td></tr>
+<tr><td>Technology</td><td>...</td></tr>
+<tr><td>Digital Marketing</td><td>...</td></tr>
+<tr><td>STEP</td><td>...</td></tr>
+</table>
+<table>
+<tr><th>Skill (from real JDs)</th><th>Where</th></tr>
+<tr><td>Financial modeling</td><td>...</td></tr>
+</table>
+"""
+
+
+class TrackParsing(unittest.TestCase):
+    def test_tracks_table_found_skills_table_skipped(self):
+        self.assertEqual(parse_tracks(TRACKS_HTML),
+                         ["Corporate & Investment Banking (CIB)", "Technology",
+                          "Digital Marketing", "STEP"])
+
+    def test_tech_filter(self):
+        tech = tech_tracks_of(parse_tracks(TRACKS_HTML))
+        self.assertIn("Technology", tech)
+        self.assertIn("STEP", tech)
+        self.assertNotIn("Corporate & Investment Banking (CIB)", tech)
+        self.assertNotIn("Digital Marketing", tech)
+
+
+class WindowFormatting(unittest.TestCase):
+    def test_single_month(self):
+        self.assertEqual(format_window(("2026-08", "2026-08")), "August 2026")
+
+    def test_same_year_range(self):
+        self.assertEqual(format_window(("2026-08", "2026-10")), "August–October 2026")
+
+    def test_cross_year_range(self):
+        self.assertEqual(format_window(("2026-11", "2027-02")), "November 2026 – February 2027")
+
+    def test_none(self):
+        self.assertEqual(format_window(None), "-")
 
 
 class Diffing(unittest.TestCase):

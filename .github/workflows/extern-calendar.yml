@@ -1,11 +1,16 @@
 name: Extern Calendar Refresh
 
-# Weekly, not daily: Extern's guides carry PROJECTED windows refreshed
-# roughly monthly, so re-scraping faster buys nothing. Live posting
-# detection is check-intern-postings.yml's job.
+# Twice daily. Extern refreshes guides on their own schedule (their
+# "OPEN NOW" edits are worth catching same-day), and each run is a few
+# minutes of free compute with zero API/token cost. Live posting
+# detection on career sites themselves is check-intern-postings.yml's
+# job.
 on:
   schedule:
-    - cron: "0 13 * * 1"   # Mondays ~9:00 AM ET
+    # UTC mapped to Eastern (EDT, UTC-4): shift by 1h after DST ends
+    # for exact alignment, same caveat as check-intern-postings.yml.
+    - cron: "0 13 * * *"   # ~9:00 AM ET
+    - cron: "0 1 * * *"    # ~9:00 PM ET
   workflow_dispatch: {}
 
 concurrency:
