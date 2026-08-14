@@ -160,6 +160,52 @@ def text_matches(text, window=150):
     return False
 
 
+# Rendered career pages mix job listings with page furniture -
+# pagination controls, sort menus, filter facets like "Engineering (27)
+# ... Interns (0)" - which the window-based matcher was turning into
+# "postings". Any snippet that looks like that chrome is noise.
+UI_CHROME_PATTERN = re.compile(
+    r"items per page|per page:|sort by|newest to oldest|oldest to newest|"
+    r"most relevant|title a-z|cookie|\(\d+\)[^()]{0,40}\(\d+\)",
+    re.IGNORECASE,
+)
+
+
+def anchor_hits(anchors, page_url):
+    """Job listings almost always render as links, so when the page has
+    intern-mentioning links, match each link's own text - a real job
+    title - instead of fuzzy text windows. Windows turned page chrome
+    into "titles" and let keywords from adjacent postings contaminate
+    each other (a Strategy Consultant posting matching because a tech
+    posting sat within 150 chars of it).
+
+    Returns None when the page has no intern-mentioning links at all -
+    some sites render titles as plain divs - meaning the caller should
+    fall back to window matching. An empty list is authoritative: the
+    page lists intern links and none are relevant."""
+    candidates = [
+        a for a in anchors
+        if a.get("text") and len(a["text"]) < 250 and INTERN_PATTERN.search(a["text"])
+    ]
+    if not candidates:
+        return None
+    hits, seen = [], set()
+    for a in candidates:
+        title = re.sub(r"\s+", " ", a["text"]).strip()
+        # The link's own text must justify the hit - no borrowing
+        # keywords from elsewhere on the page.
+        if not text_matches(title):
+            continue
+        if is_non_us_location(title) or UI_CHROME_PATTERN.search(title):
+            continue
+        key = title.lower()
+        if key in seen:
+            continue
+        seen.add(key)
+        hits.append({"title": title[:160], "url": a.get("href") or page_url})
+    return hits
+
+
 def find_hits(text, url, window=150):
     """For pages without per-job structure (a flat page of rendered
     text or HTML): return one hit per distinct matching posting, using
@@ -194,10 +240,16 @@ def find_hits(text, url, window=150):
     for start, end in merged:
         snippet = re.sub(r"<[^>]+>", " ", text[start:end])  # strip any leftover HTML tags
         snippet = re.sub(r"\s+", " ", snippet).strip()
+        # Window edges land mid-word ("ulting Federal Consulting...") -
+        # trim to word boundaries so the emailed snippet reads sanely.
+        if start > 0 and " " in snippet:
+            snippet = snippet.split(" ", 1)[1]
+        if end < len(text) and " " in snippet:
+            snippet = snippet.rsplit(" ", 1)[0]
         # Unstructured pages print the location inline next to the title,
         # so it lands inside this same window - if that shows a non-US
         # place, drop the hit. Snippets with no location text pass.
-        if is_non_us_location(snippet):
+        if is_non_us_location(snippet) or UI_CHROME_PATTERN.search(snippet):
             continue
         hits.append({"title": snippet[:160], "url": url})
     return hits
@@ -283,6 +335,82 @@ def check_smartrecruiters(token):
     return hits
 
 
+def check_ashby(org):
+    """Works for any company on Ashby. Org = the part of their
+    jobs.ashbyhq.com/<org> URL."""
+    url = f"https://api.ashbyhq.com/posting-api/job-board/{org}"
+    data = json.loads(fetch(url))
+    jobs = data.get("jobs", [])
+    intern_count = sum(1 for j in jobs if re.search(r"intern", j.get("title", ""), re.IGNORECASE))
+    print(f"    -> {len(jobs)} total postings, {intern_count} mention 'intern' in the title")
+    hits = []
+    for job in jobs:
+        if job.get("isListed") is False:
+            continue
+        # Title only, same reasoning as check_greenhouse.
+        if not text_matches(job.get("title", "")):
+            continue
+        locations = [job.get("location") or ""]
+        locations += [(l or {}).get("location", "") for l in job.get("secondaryLocations") or []]
+        loc_text = " ".join(l for l in locations if l)
+        # US-only when every listed location is recognizably foreign,
+        # mirroring the list-of-locations rule used elsewhere.
+        if loc_text and all(is_non_us_location(l) for l in locations if l):
+            continue
+        hits.append({"title": job.get("title"), "url": job.get("jobUrl") or job.get("applyUrl")})
+    return hits
+
+
+WORKDAY_URL_PATTERN = re.compile(
+    r"https://([\w-]+)\.(wd\d+)\.myworkdayjobs\.com/(?:[a-z]{2}-[A-Z]{2}/)?([\w-]+)"
+)
+
+
+def parse_workday_url(url):
+    """(tenant, wdN, site) from any myworkdayjobs.com board URL, e.g.
+    https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite or
+    https://ag.wd3.myworkdayjobs.com/en-US/Airbus?q=intern."""
+    m = WORKDAY_URL_PATTERN.search(url)
+    if not m:
+        raise ValueError(f"not a workday board url: {url}")
+    return m.groups()
+
+
+def check_workday(url):
+    """Works for any company on Workday: the public 'cxs' JSON endpoint
+    that backs the board page, queried for 'intern'. Paginates because
+    big companies routinely have more than one page of intern roles."""
+    tenant, wd, site = parse_workday_url(url)
+    api = f"https://{tenant}.{wd}.myworkdayjobs.com/wday/cxs/{tenant}/{site}/jobs"
+    base = f"https://{tenant}.{wd}.myworkdayjobs.com/{site}"
+    hits, offset, total = [], 0, None
+    while offset < (100 if total is None else min(total, 100)):
+        body = json.dumps({"searchText": "intern", "limit": 20,
+                           "offset": offset, "appliedFacets": {}}).encode()
+        req = urllib.request.Request(api, data=body, headers={
+            "Content-Type": "application/json",
+            "Accept": "application/json",
+            "User-Agent": "Mozilla/5.0",
+        })
+        with urllib.request.urlopen(req, timeout=20) as resp:
+            data = json.loads(resp.read().decode("utf-8", errors="ignore"))
+        postings = data.get("jobPostings", [])
+        if total is None:
+            total = data.get("total", 0)
+            print(f"    -> {total} postings match 'intern' on the board")
+        for p in postings:
+            title = p.get("title") or ""
+            if not text_matches(title):
+                continue
+            if is_non_us_location(f"{title} {p.get('locationsText') or ''}"):
+                continue
+            hits.append({"title": title, "url": base + (p.get("externalPath") or "")})
+        if not postings:
+            break
+        offset += len(postings)
+    return hits
+
+
 def check_browser(browser, url):
     """Default for everything else: load the page in a real headless
     browser (in its own fresh, isolated context) so client-side-rendered
@@ -341,12 +469,20 @@ def check_browser(browser, url):
 
         page.wait_for_timeout(5000)  # let client-side rendering settle
         text = page.inner_text("body")
+        anchors = page.eval_on_selector_all(
+            "a[href]",
+            "els => els.map(el => ({text: (el.innerText || '').trim(), href: el.href}))",
+        )
     finally:
         context.close()
 
     intern_count = len(INTERN_PATTERN.findall(text))
     print(f"    -> {len(text)} chars of page text extracted, 'intern' appears {intern_count}x")
 
+    hits = anchor_hits(anchors, url)
+    if hits is not None:
+        print(f"    -> link mode: {len(hits)} matching job link(s)")
+        return hits
     return find_hits(text, url)
 
 
@@ -372,6 +508,10 @@ def check_source(source, browser):
         return check_lever(source["token"])
     if stype == "smartrecruiters":
         return check_smartrecruiters(source["token"])
+    if stype == "ashby":
+        return check_ashby(source["token"])
+    if stype == "workday":
+        return check_workday(source["url"])
     if stype == "static":
         return check_static(source["url"])
     return check_browser(browser, source["url"])

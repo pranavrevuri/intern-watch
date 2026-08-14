@@ -153,3 +153,72 @@ class TestStateMigration(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class TestAnchorHits(unittest.TestCase):
+    """Link-mode extraction: real job-link titles instead of text
+    windows, which turned page chrome into 'postings' (seen live on
+    IBM's and Atlassian's career pages)."""
+
+    def test_real_job_links_extracted(self):
+        anchors = [
+            {"text": "Software Engineering Intern Oracle Cloud 2027 Internship Chicago, US",
+             "href": "https://careers.ibm.com/job/1"},
+            {"text": "Strategy Consultant Intern 2027 Internship New York, US",
+             "href": "https://careers.ibm.com/job/2"},
+            {"text": "About IBM", "href": "https://ibm.com/about"},
+        ]
+        hits = monitor.anchor_hits(anchors, "https://careers.ibm.com/search")
+        self.assertEqual(len(hits), 1)
+        self.assertIn("Software Engineering Intern", hits[0]["title"])
+        self.assertEqual(hits[0]["url"], "https://careers.ibm.com/job/1")
+
+    def test_consultant_link_not_contaminated_by_neighbors(self):
+        # The old window matcher let a tech posting's keywords justify a
+        # non-tech posting sitting within 150 chars of it.
+        anchors = [
+            {"text": "Strategy Consultant Intern 2027", "href": "https://x/1"},
+            {"text": "Software Engineering Intern 2027", "href": "https://x/2"},
+        ]
+        hits = monitor.anchor_hits(anchors, "https://x")
+        self.assertEqual([h["url"] for h in hits], ["https://x/2"])
+
+    def test_filter_facet_links_rejected(self):
+        anchors = [{"text": "Engineering (27) Finance & Accounting (4) Interns (0)", "href": "https://x/f"}]
+        self.assertEqual(monitor.anchor_hits(anchors, "https://x"), [])
+
+    def test_no_intern_links_means_fall_back(self):
+        anchors = [{"text": "Careers home", "href": "https://x"}]
+        self.assertIsNone(monitor.anchor_hits(anchors, "https://x"))
+
+    def test_non_us_link_dropped(self):
+        anchors = [{"text": "Software Engineer Intern - London, UK", "href": "https://x/1"}]
+        self.assertEqual(monitor.anchor_hits(anchors, "https://x"), [])
+
+
+class TestUiChromeGuard(unittest.TestCase):
+    def test_pagination_snippet_rejected(self):
+        text = ("Items per page: 10 Items per page: 20 Most Relevant Newest To Oldest "
+                "Consulting Hacker Intern 2027 Internship software engineering")
+        self.assertEqual(monitor.find_hits(text, "https://x"), [])
+
+    def test_normal_posting_text_kept(self):
+        text = "Now hiring: Software Engineering Intern for summer, apply today"
+        hits = monitor.find_hits(text, "https://x")
+        self.assertEqual(len(hits), 1)
+
+
+class TestWorkdayUrlParsing(unittest.TestCase):
+    def test_plain_board(self):
+        self.assertEqual(
+            monitor.parse_workday_url("https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite"),
+            ("nvidia", "wd5", "NVIDIAExternalCareerSite"))
+
+    def test_locale_prefix_and_query(self):
+        self.assertEqual(
+            monitor.parse_workday_url("https://ag.wd3.myworkdayjobs.com/en-US/Airbus?q=Internship"),
+            ("ag", "wd3", "Airbus"))
+
+    def test_non_workday_rejected(self):
+        with self.assertRaises(ValueError):
+            monitor.parse_workday_url("https://jobs.lever.co/palantir")

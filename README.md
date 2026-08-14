@@ -1,8 +1,16 @@
 # Intern Watch
 
-Checks 21 companies' career pages daily and emails you only when a new
+Checks ~170 companies' job boards daily and emails you only when a new
 2027 SWE intern posting shows up. Runs for free on GitHub Actions - no
 server, no computer that has to stay on.
+
+Most companies are checked through their ATS's public JSON API
+(Greenhouse, Lever, Ashby, Workday, SmartRecruiters - real titles,
+direct application links, ~1s each). Custom career sites fall back to
+a headless browser, where hits come from actual job *links* on the
+page ("link mode") rather than fuzzy text windows - window matching
+used to turn pagination controls and filter sidebars into "postings"
+and let a tech posting's keywords justify a non-tech neighbor.
 
 **Note:** your doc had 21 companies, not 25 - Amazon, Microsoft, Meta,
 Apple, Google, Nvidia, Databricks, Stripe, Palantir, Uber, Airbnb,

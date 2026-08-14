@@ -105,6 +105,10 @@
     "name": "Salesforce",
     "sources": [
       {
+        "type": "workday",
+        "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/Futureforce_Internships/"
+      },
+      {
         "type": "browser",
         "url": "https://careers.salesforce.com/en/jobs/?search=intern"
       }
@@ -213,78 +217,56 @@
     ]
   },
   {
-    "name": "Citi",
+    "name": "1Password",
     "sources": [
       {
-        "type": "browser",
-        "url": "https://jobs.citi.com/search-jobs/intern"
+        "type": "ashby",
+        "token": "1password"
       }
     ]
   },
   {
-    "name": "Visa",
+    "name": "Abridge",
     "sources": [
       {
-        "type": "smartrecruiters",
-        "token": "Visa"
-      },
-      {
-        "type": "browser",
-        "url": "https://corporate.visa.com/en/jobs.html"
+        "type": "ashby",
+        "token": "abridge"
       }
     ]
   },
   {
-    "name": "JPMorgan Chase",
+    "name": "Affirm",
     "sources": [
       {
-        "type": "browser",
-        "url": "https://careers.jpmorgan.com/us/en/students/programs"
+        "type": "greenhouse",
+        "token": "affirm"
       }
     ]
   },
   {
-    "name": "Goldman Sachs",
+    "name": "Airbus",
     "sources": [
       {
-        "type": "browser",
-        "url": "https://higher.gs.com/roles?SEARCH_TERMS=intern"
+        "type": "workday",
+        "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus?q=Internship"
       }
     ]
   },
   {
-    "name": "Morgan Stanley",
+    "name": "Airtable",
     "sources": [
       {
-        "type": "browser",
-        "url": "https://www.morganstanley.com/careers/students-graduates"
+        "type": "greenhouse",
+        "token": "airtable"
       }
     ]
   },
   {
-    "name": "Bloomberg",
+    "name": "AMC Networks",
     "sources": [
       {
-        "type": "browser",
-        "url": "https://careers.bloomberg.com/job/search?qf=internship"
-      }
-    ]
-  },
-  {
-    "name": "IBM",
-    "sources": [
-      {
-        "type": "browser",
-        "url": "https://www.ibm.com/careers/search?q=intern"
-      }
-    ]
-  },
-  {
-    "name": "Intel",
-    "sources": [
-      {
-        "type": "browser",
-        "url": "https://jobs.intel.com/en/search-jobs/intern"
+        "type": "workday",
+        "url": "https://amcn.wd5.myworkdayjobs.com/amcnetworks/jobs"
       }
     ]
   },
@@ -298,20 +280,56 @@
     ]
   },
   {
-    "name": "Qualcomm",
+    "name": "American Express",
     "sources": [
       {
         "type": "browser",
-        "url": "https://careers.qualcomm.com/careers?query=intern"
+        "url": "https://aexp.eightfold.ai/careers?query=intern"
       }
     ]
   },
   {
-    "name": "Cisco",
+    "name": "Anthropic",
+    "sources": [
+      {
+        "type": "greenhouse",
+        "token": "anthropic"
+      }
+    ]
+  },
+  {
+    "name": "Anyscale",
+    "sources": [
+      {
+        "type": "ashby",
+        "token": "anyscale"
+      }
+    ]
+  },
+  {
+    "name": "Apollo Global",
+    "sources": [
+      {
+        "type": "workday",
+        "url": "https://athene.wd5.myworkdayjobs.com/apollononpubliccareersite"
+      }
+    ]
+  },
+  {
+    "name": "AstraZeneca",
+    "sources": [
+      {
+        "type": "workday",
+        "url": "https://astrazeneca.wd3.myworkdayjobs.com/Emerging-Talent"
+      }
+    ]
+  },
+  {
+    "name": "AT&T",
     "sources": [
       {
         "type": "browser",
-        "url": "https://jobs.cisco.com/jobs/SearchJobs/intern"
+        "url": "https://www.att.jobs/search-jobs/intern"
       }
     ]
   },
@@ -329,15 +347,200 @@
     ]
   },
   {
-    "name": "Dropbox",
+    "name": "Baker Tilly",
+    "sources": [
+      {
+        "type": "workday",
+        "url": "https://bakertilly.wd5.myworkdayjobs.com/BTCareers"
+      }
+    ]
+  },
+  {
+    "name": "Bank of America",
+    "sources": [
+      {
+        "type": "browser",
+        "url": "https://careers.bankofamerica.com/en-us/students"
+      }
+    ]
+  },
+  {
+    "name": "Barclays",
+    "sources": [
+      {
+        "type": "workday",
+        "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays"
+      }
+    ]
+  },
+  {
+    "name": "Berkshire Hathaway",
+    "sources": [
+      {
+        "type": "workday",
+        "url": "https://geico.wd1.myworkdayjobs.com/External"
+      }
+    ]
+  },
+  {
+    "name": "Biogen",
+    "sources": [
+      {
+        "type": "workday",
+        "url": "https://biibhr.wd3.myworkdayjobs.com/external"
+      }
+    ]
+  },
+  {
+    "name": "Bloomberg",
+    "sources": [
+      {
+        "type": "browser",
+        "url": "https://careers.bloomberg.com/job/search?qf=internship"
+      }
+    ]
+  },
+  {
+    "name": "Braze",
     "sources": [
       {
         "type": "greenhouse",
-        "token": "dropbox"
-      },
+        "token": "braze"
+      }
+    ]
+  },
+  {
+    "name": "Broadcom",
+    "sources": [
+      {
+        "type": "workday",
+        "url": "https://broadcom.wd1.myworkdayjobs.com/External_Career"
+      }
+    ]
+  },
+  {
+    "name": "Carlyle Group",
+    "sources": [
+      {
+        "type": "workday",
+        "url": "https://carlyle.wd1.myworkdayjobs.com/Carlyle"
+      }
+    ]
+  },
+  {
+    "name": "Cerebras",
+    "sources": [
+      {
+        "type": "greenhouse",
+        "token": "earlytalentcerebras"
+      }
+    ]
+  },
+  {
+    "name": "Character AI",
+    "sources": [
+      {
+        "type": "ashby",
+        "token": "character"
+      }
+    ]
+  },
+  {
+    "name": "Cisco",
+    "sources": [
       {
         "type": "browser",
-        "url": "https://jobs.dropbox.com/all-jobs"
+        "url": "https://jobs.cisco.com/jobs/SearchJobs/intern"
+      }
+    ]
+  },
+  {
+    "name": "Citi",
+    "sources": [
+      {
+        "type": "browser",
+        "url": "https://jobs.citi.com/search-jobs/intern"
+      }
+    ]
+  },
+  {
+    "name": "Clorox",
+    "sources": [
+      {
+        "type": "workday",
+        "url": "https://clorox.wd1.myworkdayjobs.com/Clorox"
+      }
+    ]
+  },
+  {
+    "name": "Coca-Cola",
+    "sources": [
+      {
+        "type": "workday",
+        "url": "https://coke.wd1.myworkdayjobs.com/en-US/coca-cola-careers/"
+      }
+    ]
+  },
+  {
+    "name": "Cohere",
+    "sources": [
+      {
+        "type": "ashby",
+        "token": "cohere"
+      }
+    ]
+  },
+  {
+    "name": "Comcast",
+    "sources": [
+      {
+        "type": "browser",
+        "url": "https://jobs.comcast.com/search-jobs/intern"
+      }
+    ]
+  },
+  {
+    "name": "Contextual AI",
+    "sources": [
+      {
+        "type": "greenhouse",
+        "token": "contextualai"
+      }
+    ]
+  },
+  {
+    "name": "Decagon",
+    "sources": [
+      {
+        "type": "ashby",
+        "token": "decagon"
+      }
+    ]
+  },
+  {
+    "name": "Deel",
+    "sources": [
+      {
+        "type": "ashby",
+        "token": "deel"
+      }
+    ]
+  },
+  {
+    "name": "DeepL",
+    "sources": [
+      {
+        "type": "ashby",
+        "token": "DeepL"
+      }
+    ]
+  },
+  {
+    "name": "Disney",
+    "sources": [
+      {
+        "type": "browser",
+        "url": "https://jobs.disneycareers.com/search-jobs/intern"
       }
     ]
   },
@@ -355,104 +558,42 @@
     ]
   },
   {
-    "name": "Robinhood",
+    "name": "Dropbox",
     "sources": [
       {
         "type": "greenhouse",
-        "token": "robinhood"
+        "token": "dropbox"
       },
       {
         "type": "browser",
-        "url": "https://careers.robinhood.com/"
+        "url": "https://jobs.dropbox.com/all-jobs"
       }
     ]
   },
   {
-    "name": "Pinterest",
+    "name": "Duke Energy",
     "sources": [
       {
-        "type": "greenhouse",
-        "token": "pinterest"
-      },
-      {
-        "type": "browser",
-        "url": "https://www.pinterestcareers.com/jobs/"
+        "type": "workday",
+        "url": "https://dukeenergy.wd1.myworkdayjobs.com/en-US/Search"
       }
     ]
   },
   {
-    "name": "Lyft",
+    "name": "Edelman",
     "sources": [
       {
-        "type": "greenhouse",
-        "token": "lyft"
-      },
-      {
-        "type": "browser",
-        "url": "https://www.lyft.com/careers"
+        "type": "workday",
+        "url": "https://djeholdings.wd5.myworkdayjobs.com/edelman-careers-E200"
       }
     ]
   },
   {
-    "name": "T-Mobile",
+    "name": "Etsy",
     "sources": [
       {
-        "type": "browser",
-        "url": "https://careers.t-mobile.com/search-jobs/intern"
-      }
-    ]
-  },
-  {
-    "name": "Verizon",
-    "sources": [
-      {
-        "type": "browser",
-        "url": "https://mycareer.verizon.com/jobs/?search=intern"
-      }
-    ]
-  },
-  {
-    "name": "AT&T",
-    "sources": [
-      {
-        "type": "browser",
-        "url": "https://www.att.jobs/search-jobs/intern"
-      }
-    ]
-  },
-  {
-    "name": "Comcast",
-    "sources": [
-      {
-        "type": "browser",
-        "url": "https://jobs.comcast.com/search-jobs/intern"
-      }
-    ]
-  },
-  {
-    "name": "Raymond James",
-    "sources": [
-      {
-        "type": "browser",
-        "url": "https://www.raymondjames.com/careers"
-      }
-    ]
-  },
-  {
-    "name": "General Motors",
-    "sources": [
-      {
-        "type": "browser",
-        "url": "https://search-careers.gm.com/en/jobs/?search=intern"
-      }
-    ]
-  },
-  {
-    "name": "Ford",
-    "sources": [
-      {
-        "type": "browser",
-        "url": "https://careers.ford.com/en/jobs.html?keywords=intern"
+        "type": "workday",
+        "url": "https://etsy.wd5.myworkdayjobs.com/Etsy_Careers"
       }
     ]
   },
@@ -466,6 +607,33 @@
     ]
   },
   {
+    "name": "Figure AI",
+    "sources": [
+      {
+        "type": "greenhouse",
+        "token": "figureai"
+      }
+    ]
+  },
+  {
+    "name": "Fireworks AI",
+    "sources": [
+      {
+        "type": "greenhouse",
+        "token": "fireworksai"
+      }
+    ]
+  },
+  {
+    "name": "Fiserv",
+    "sources": [
+      {
+        "type": "workday",
+        "url": "https://fiserv.wd5.myworkdayjobs.com/en-US/EXT"
+      }
+    ]
+  },
+  {
     "name": "Fisher Investments",
     "sources": [
       {
@@ -475,47 +643,92 @@
     ]
   },
   {
-    "name": "Bank of America",
+    "name": "Flow Traders",
     "sources": [
       {
-        "type": "browser",
-        "url": "https://careers.bankofamerica.com/en-us/students"
+        "type": "greenhouse",
+        "token": "flowtraders"
       }
     ]
   },
   {
-    "name": "Wells Fargo",
+    "name": "Ford",
     "sources": [
       {
         "type": "browser",
-        "url": "https://www.wellsfargojobs.com/en/jobs/?search=intern"
+        "url": "https://careers.ford.com/en/jobs.html?keywords=intern"
       }
     ]
   },
   {
-    "name": "American Express",
+    "name": "General Motors",
     "sources": [
       {
         "type": "browser",
-        "url": "https://aexp.eightfold.ai/careers?query=intern"
+        "url": "https://search-careers.gm.com/en/jobs/?search=intern"
       }
     ]
   },
   {
-    "name": "Walmart",
+    "name": "GitLab",
     "sources": [
       {
-        "type": "browser",
-        "url": "https://careers.walmart.com/results?q=intern"
+        "type": "greenhouse",
+        "token": "gitlab"
       }
     ]
   },
   {
-    "name": "Target",
+    "name": "Glean",
+    "sources": [
+      {
+        "type": "greenhouse",
+        "token": "gleanwork"
+      }
+    ]
+  },
+  {
+    "name": "Goldman Sachs",
     "sources": [
       {
         "type": "browser",
-        "url": "https://jobs.target.com/search-jobs/intern"
+        "url": "https://higher.gs.com/roles?SEARCH_TERMS=intern"
+      }
+    ]
+  },
+  {
+    "name": "Grafana Labs",
+    "sources": [
+      {
+        "type": "greenhouse",
+        "token": "grafanalabs"
+      }
+    ]
+  },
+  {
+    "name": "Harvey",
+    "sources": [
+      {
+        "type": "ashby",
+        "token": "harvey"
+      }
+    ]
+  },
+  {
+    "name": "Hebbia",
+    "sources": [
+      {
+        "type": "ashby",
+        "token": "hebbia-ai"
+      }
+    ]
+  },
+  {
+    "name": "Hims & Hers",
+    "sources": [
+      {
+        "type": "ashby",
+        "token": "hims-and-hers"
       }
     ]
   },
@@ -538,11 +751,47 @@
     ]
   },
   {
-    "name": "Lockheed Martin",
+    "name": "IBM",
     "sources": [
       {
         "type": "browser",
-        "url": "https://www.lockheedmartinjobs.com/search-jobs/intern"
+        "url": "https://www.ibm.com/careers/search?q=intern"
+      }
+    ]
+  },
+  {
+    "name": "Ideogram",
+    "sources": [
+      {
+        "type": "ashby",
+        "token": "ideogram"
+      }
+    ]
+  },
+  {
+    "name": "Included Health",
+    "sources": [
+      {
+        "type": "lever",
+        "token": "includedhealth"
+      }
+    ]
+  },
+  {
+    "name": "Intel",
+    "sources": [
+      {
+        "type": "browser",
+        "url": "https://jobs.intel.com/en/search-jobs/intern"
+      }
+    ]
+  },
+  {
+    "name": "Invesco",
+    "sources": [
+      {
+        "type": "workday",
+        "url": "https://invesco.wd1.myworkdayjobs.com/IVZearlycareers"
       }
     ]
   },
@@ -556,20 +805,347 @@
     ]
   },
   {
-    "name": "State Farm",
+    "name": "JPMorgan Chase",
     "sources": [
       {
         "type": "browser",
-        "url": "https://jobs.statefarm.com/search-jobs/intern"
+        "url": "https://careers.jpmorgan.com/us/en/students/programs"
       }
     ]
   },
   {
-    "name": "USAA",
+    "name": "Klaviyo",
+    "sources": [
+      {
+        "type": "greenhouse",
+        "token": "klaviyocampus"
+      }
+    ]
+  },
+  {
+    "name": "Komodo Health",
+    "sources": [
+      {
+        "type": "greenhouse",
+        "token": "komodohealth"
+      }
+    ]
+  },
+  {
+    "name": "Kroger",
+    "sources": [
+      {
+        "type": "greenhouse",
+        "token": "8451university"
+      }
+    ]
+  },
+  {
+    "name": "Lambda",
+    "sources": [
+      {
+        "type": "ashby",
+        "token": "Lambda"
+      }
+    ]
+  },
+  {
+    "name": "LangChain",
+    "sources": [
+      {
+        "type": "ashby",
+        "token": "langchain"
+      }
+    ]
+  },
+  {
+    "name": "Life360",
+    "sources": [
+      {
+        "type": "greenhouse",
+        "token": "life360"
+      }
+    ]
+  },
+  {
+    "name": "Live Nation",
+    "sources": [
+      {
+        "type": "workday",
+        "url": "https://livenation.wd1.myworkdayjobs.com/LNExternalSite"
+      }
+    ]
+  },
+  {
+    "name": "Lockheed Martin",
     "sources": [
       {
         "type": "browser",
-        "url": "https://www.usaajobs.com/search-jobs/intern"
+        "url": "https://www.lockheedmartinjobs.com/search-jobs/intern"
+      }
+    ]
+  },
+  {
+    "name": "Lowe's",
+    "sources": [
+      {
+        "type": "workday",
+        "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS"
+      }
+    ]
+  },
+  {
+    "name": "Lyft",
+    "sources": [
+      {
+        "type": "greenhouse",
+        "token": "lyft"
+      },
+      {
+        "type": "browser",
+        "url": "https://www.lyft.com/careers"
+      }
+    ]
+  },
+  {
+    "name": "Magna",
+    "sources": [
+      {
+        "type": "workday",
+        "url": "https://magna.wd3.myworkdayjobs.com/Magna"
+      }
+    ]
+  },
+  {
+    "name": "Marathon Petroleum",
+    "sources": [
+      {
+        "type": "workday",
+        "url": "https://mpc.wd1.myworkdayjobs.com/MPCCareers?workerSubType=762d3bc5687201008504b33faf520000"
+      }
+    ]
+  },
+  {
+    "name": "Marqeta",
+    "sources": [
+      {
+        "type": "greenhouse",
+        "token": "marqeta"
+      }
+    ]
+  },
+  {
+    "name": "Midjourney",
+    "sources": [
+      {
+        "type": "ashby",
+        "token": "midjourney"
+      }
+    ]
+  },
+  {
+    "name": "Modal",
+    "sources": [
+      {
+        "type": "ashby",
+        "token": "modal"
+      }
+    ]
+  },
+  {
+    "name": "Moderna",
+    "sources": [
+      {
+        "type": "workday",
+        "url": "https://modernatx.wd1.myworkdayjobs.com/en-US/M_tx"
+      }
+    ]
+  },
+  {
+    "name": "Morgan Stanley",
+    "sources": [
+      {
+        "type": "browser",
+        "url": "https://www.morganstanley.com/careers/students-graduates"
+      }
+    ]
+  },
+  {
+    "name": "Naughty Dog",
+    "sources": [
+      {
+        "type": "greenhouse",
+        "token": "naughtydog"
+      }
+    ]
+  },
+  {
+    "name": "Nextdoor",
+    "sources": [
+      {
+        "type": "greenhouse",
+        "token": "nextdoorcampus"
+      }
+    ]
+  },
+  {
+    "name": "Nissan",
+    "sources": [
+      {
+        "type": "workday",
+        "url": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs"
+      }
+    ]
+  },
+  {
+    "name": "Nubank",
+    "sources": [
+      {
+        "type": "greenhouse",
+        "token": "nubank"
+      }
+    ]
+  },
+  {
+    "name": "Ogilvy",
+    "sources": [
+      {
+        "type": "greenhouse",
+        "token": "ogilvyearlycareers"
+      }
+    ]
+  },
+  {
+    "name": "Oura",
+    "sources": [
+      {
+        "type": "greenhouse",
+        "token": "oura"
+      }
+    ]
+  },
+  {
+    "name": "Perplexity",
+    "sources": [
+      {
+        "type": "greenhouse",
+        "token": "perplexityai"
+      }
+    ]
+  },
+  {
+    "name": "Pfizer",
+    "sources": [
+      {
+        "type": "workday",
+        "url": "https://pfizer.wd1.myworkdayjobs.com/PfizerCareers"
+      }
+    ]
+  },
+  {
+    "name": "Physical Intelligence",
+    "sources": [
+      {
+        "type": "ashby",
+        "token": "physicalintelligence"
+      }
+    ]
+  },
+  {
+    "name": "Pika",
+    "sources": [
+      {
+        "type": "ashby",
+        "token": "pika"
+      }
+    ]
+  },
+  {
+    "name": "Pinecone",
+    "sources": [
+      {
+        "type": "ashby",
+        "token": "pinecone"
+      }
+    ]
+  },
+  {
+    "name": "Pinterest",
+    "sources": [
+      {
+        "type": "greenhouse",
+        "token": "pinterest"
+      },
+      {
+        "type": "browser",
+        "url": "https://www.pinterestcareers.com/jobs/"
+      }
+    ]
+  },
+  {
+    "name": "Postman",
+    "sources": [
+      {
+        "type": "greenhouse",
+        "token": "postman"
+      }
+    ]
+  },
+  {
+    "name": "Qualcomm",
+    "sources": [
+      {
+        "type": "browser",
+        "url": "https://careers.qualcomm.com/careers?query=intern"
+      }
+    ]
+  },
+  {
+    "name": "Ramp",
+    "sources": [
+      {
+        "type": "ashby",
+        "token": "ramp"
+      }
+    ]
+  },
+  {
+    "name": "Raymond James",
+    "sources": [
+      {
+        "type": "workday",
+        "url": "https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesEarlyCareers"
+      },
+      {
+        "type": "browser",
+        "url": "https://www.raymondjames.com/careers"
+      }
+    ]
+  },
+  {
+    "name": "Recursion",
+    "sources": [
+      {
+        "type": "greenhouse",
+        "token": "recursionpharmaceuticals"
+      }
+    ]
+  },
+  {
+    "name": "Reddit",
+    "sources": [
+      {
+        "type": "greenhouse",
+        "token": "reddit"
+      }
+    ]
+  },
+  {
+    "name": "Reka AI",
+    "sources": [
+      {
+        "type": "ashby",
+        "token": "reka"
       }
     ]
   },
@@ -583,11 +1159,455 @@
     ]
   },
   {
-    "name": "Disney",
+    "name": "Replit",
+    "sources": [
+      {
+        "type": "ashby",
+        "token": "replit"
+      }
+    ]
+  },
+  {
+    "name": "Ro",
+    "sources": [
+      {
+        "type": "lever",
+        "token": "ro"
+      }
+    ]
+  },
+  {
+    "name": "Robinhood",
+    "sources": [
+      {
+        "type": "greenhouse",
+        "token": "robinhood"
+      },
+      {
+        "type": "browser",
+        "url": "https://careers.robinhood.com/"
+      }
+    ]
+  },
+  {
+    "name": "Rockwell Automation",
+    "sources": [
+      {
+        "type": "workday",
+        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers"
+      }
+    ]
+  },
+  {
+    "name": "Safe Superintelligence (SSI)",
+    "sources": [
+      {
+        "type": "ashby",
+        "token": "ssi"
+      }
+    ]
+  },
+  {
+    "name": "ServiceNow",
+    "sources": [
+      {
+        "type": "smartrecruiters",
+        "token": "ServiceNow"
+      }
+    ]
+  },
+  {
+    "name": "Sierra",
+    "sources": [
+      {
+        "type": "ashby",
+        "token": "Sierra"
+      }
+    ]
+  },
+  {
+    "name": "Sprout Social",
+    "sources": [
+      {
+        "type": "greenhouse",
+        "token": "sproutsocialcollege"
+      }
+    ]
+  },
+  {
+    "name": "State Farm",
     "sources": [
       {
         "type": "browser",
-        "url": "https://jobs.disneycareers.com/search-jobs/intern"
+        "url": "https://jobs.statefarm.com/search-jobs/intern"
+      }
+    ]
+  },
+  {
+    "name": "Strava",
+    "sources": [
+      {
+        "type": "ashby",
+        "token": "Strava"
+      }
+    ]
+  },
+  {
+    "name": "Suno",
+    "sources": [
+      {
+        "type": "ashby",
+        "token": "suno"
+      }
+    ]
+  },
+  {
+    "name": "Supabase",
+    "sources": [
+      {
+        "type": "ashby",
+        "token": "supabase"
+      }
+    ]
+  },
+  {
+    "name": "Synthesia",
+    "sources": [
+      {
+        "type": "ashby",
+        "token": "synthesia"
+      }
+    ]
+  },
+  {
+    "name": "T-Mobile",
+    "sources": [
+      {
+        "type": "browser",
+        "url": "https://careers.t-mobile.com/search-jobs/intern"
+      }
+    ]
+  },
+  {
+    "name": "T. Rowe Price",
+    "sources": [
+      {
+        "type": "workday",
+        "url": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice/jobs?jobFamilyGroup=598b03f2169c105cec204d4eaf45e628"
+      }
+    ]
+  },
+  {
+    "name": "Target",
+    "sources": [
+      {
+        "type": "browser",
+        "url": "https://jobs.target.com/search-jobs/intern"
+      }
+    ]
+  },
+  {
+    "name": "TD Securities",
+    "sources": [
+      {
+        "type": "workday",
+        "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers"
+      }
+    ]
+  },
+  {
+    "name": "Tempus AI",
+    "sources": [
+      {
+        "type": "workday",
+        "url": "https://tempus.wd5.myworkdayjobs.com/Tempus_Careers"
+      }
+    ]
+  },
+  {
+    "name": "Thinking Machines Lab",
+    "sources": [
+      {
+        "type": "greenhouse",
+        "token": "thinkingmachines"
+      }
+    ]
+  },
+  {
+    "name": "Together AI",
+    "sources": [
+      {
+        "type": "greenhouse",
+        "token": "togetherai"
+      }
+    ]
+  },
+  {
+    "name": "Toyota",
+    "sources": [
+      {
+        "type": "workday",
+        "url": "https://toyota.wd5.myworkdayjobs.com/TMNA"
+      }
+    ]
+  },
+  {
+    "name": "Twilio",
+    "sources": [
+      {
+        "type": "greenhouse",
+        "token": "twiliostudents"
+      }
+    ]
+  },
+  {
+    "name": "Ubisoft",
+    "sources": [
+      {
+        "type": "smartrecruiters",
+        "token": "ubisoft2"
+      }
+    ]
+  },
+  {
+    "name": "USAA",
+    "sources": [
+      {
+        "type": "browser",
+        "url": "https://www.usaajobs.com/search-jobs/intern"
+      }
+    ]
+  },
+  {
+    "name": "Vanta",
+    "sources": [
+      {
+        "type": "ashby",
+        "token": "vanta"
+      }
+    ]
+  },
+  {
+    "name": "VaynerMedia",
+    "sources": [
+      {
+        "type": "greenhouse",
+        "token": "vaynermedia"
+      }
+    ]
+  },
+  {
+    "name": "Vercel",
+    "sources": [
+      {
+        "type": "greenhouse",
+        "token": "vercel"
+      }
+    ]
+  },
+  {
+    "name": "Verizon",
+    "sources": [
+      {
+        "type": "browser",
+        "url": "https://mycareer.verizon.com/jobs/?search=intern"
+      }
+    ]
+  },
+  {
+    "name": "Vertex Pharmaceuticals",
+    "sources": [
+      {
+        "type": "workday",
+        "url": "https://vrtx.wd501.myworkdayjobs.com/Vertex_intern"
+      }
+    ]
+  },
+  {
+    "name": "Virtu Financial",
+    "sources": [
+      {
+        "type": "greenhouse",
+        "token": "virtu"
+      }
+    ]
+  },
+  {
+    "name": "Visa",
+    "sources": [
+      {
+        "type": "workday",
+        "url": "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers"
+      },
+      {
+        "type": "smartrecruiters",
+        "token": "Visa"
+      },
+      {
+        "type": "browser",
+        "url": "https://corporate.visa.com/en/jobs.html"
+      }
+    ]
+  },
+  {
+    "name": "VMware",
+    "sources": [
+      {
+        "type": "workday",
+        "url": "https://broadcom.wd1.myworkdayjobs.com/External_Career"
+      }
+    ]
+  },
+  {
+    "name": "Walmart",
+    "sources": [
+      {
+        "type": "browser",
+        "url": "https://careers.walmart.com/results?q=intern"
+      }
+    ]
+  },
+  {
+    "name": "Weaviate",
+    "sources": [
+      {
+        "type": "ashby",
+        "token": "weaviate"
+      }
+    ]
+  },
+  {
+    "name": "Wellington",
+    "sources": [
+      {
+        "type": "workday",
+        "url": "https://wellington.wd5.myworkdayjobs.com/Campus"
+      }
+    ]
+  },
+  {
+    "name": "Wells Fargo",
+    "sources": [
+      {
+        "type": "browser",
+        "url": "https://www.wellsfargojobs.com/en/jobs/?search=intern"
+      }
+    ]
+  },
+  {
+    "name": "Whoop",
+    "sources": [
+      {
+        "type": "lever",
+        "token": "whoop"
+      }
+    ]
+  },
+  {
+    "name": "Windsurf (Codeium)",
+    "sources": [
+      {
+        "type": "ashby",
+        "token": "cognition"
+      }
+    ]
+  },
+  {
+    "name": "Workday",
+    "sources": [
+      {
+        "type": "workday",
+        "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career"
+      }
+    ]
+  },
+  {
+    "name": "World Labs",
+    "sources": [
+      {
+        "type": "greenhouse",
+        "token": "worldlabs"
+      }
+    ]
+  },
+  {
+    "name": "Writer",
+    "sources": [
+      {
+        "type": "ashby",
+        "token": "writer"
+      }
+    ]
+  },
+  {
+    "name": "xAI",
+    "sources": [
+      {
+        "type": "greenhouse",
+        "token": "xai"
+      }
+    ]
+  },
+  {
+    "name": "Zapier",
+    "sources": [
+      {
+        "type": "ashby",
+        "token": "zapier"
+      }
+    ]
+  },
+  {
+    "name": "Zoox",
+    "sources": [
+      {
+        "type": "lever",
+        "token": "zoox"
+      }
+    ]
+  },
+  {
+    "name": "Zscaler",
+    "sources": [
+      {
+        "type": "greenhouse",
+        "token": "zscaler"
+      }
+    ]
+  },
+  {
+    "name": "Palantir",
+    "sources": [
+      {
+        "type": "lever",
+        "token": "palantir"
+      }
+    ]
+  },
+  {
+    "name": "Mercedes-Benz",
+    "sources": [
+      {
+        "type": "lever",
+        "token": "MBRDNA"
+      }
+    ]
+  },
+  {
+    "name": "Rockstar Games",
+    "sources": [
+      {
+        "type": "greenhouse",
+        "token": "rsgur"
+      }
+    ]
+  },
+  {
+    "name": "Scale AI",
+    "sources": [
+      {
+        "type": "greenhouse",
+        "token": "scaleai"
       }
     ]
   }
