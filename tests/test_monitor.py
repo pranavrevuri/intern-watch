@@ -23,7 +23,7 @@ class TestMatching(unittest.TestCase):
             "2027 Applied Science Intern (Machine Learning)",
             "Technology Analyst Internship Program",
             "Quantitative Developer Intern",
-            "Data Science Intern",
+            "Data Engineering Intern",
         ]:
             self.assertTrue(monitor.text_matches(title), f"should match: {title}")
 
@@ -153,6 +153,35 @@ class TestStateMigration(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class TestTitleVeto(unittest.TestCase):
+    """SWE/AI roles only - consulting, analytics, data-science, and
+    field-science flavors are vetoed even with a tech keyword present.
+    The kept/vetoed examples below came from real alert emails."""
+
+    def test_wanted_titles_kept(self):
+        for title in [
+            "Software Engineer Intern",
+            "Android Platform Software Engineer Intern",
+            "Machine Learning Engineer Intern",
+            "Technology Summer Analyst Internship",  # bank SWE programs
+            "AI Engineer Intern",
+            "Data Engineering Intern",
+        ]:
+            self.assertTrue(monitor.title_ok(title), f"should keep: {title}")
+
+    def test_unwanted_flavors_vetoed(self):
+        for title in [
+            "Geoscience Intern - Geoscientist",
+            "Consulting Intern - Healthcare Data Management and Strategy",
+            "Enterprise Analytics Intern",
+            "Data & AI Intern - Analyst",
+            "Data Science Intern",
+            "Technology Consulting Intern",
+            "Business Intelligence Engineer Intern",
+        ]:
+            self.assertFalse(monitor.title_ok(title), f"should veto: {title}")
 
 
 class TestAnchorHits(unittest.TestCase):

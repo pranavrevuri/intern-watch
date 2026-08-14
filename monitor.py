@@ -52,7 +52,6 @@ ROLE_KEYWORDS = [
     r"\bml\b",
     r"\btech\b",
     r"\btechnology\b",
-    r"\bdata\s+science\b",
     r"\bcomputer\s+science\b",
     r"\bengineering\b",
     r"\bdeveloper\b",
@@ -60,6 +59,16 @@ ROLE_KEYWORDS = [
     r"\bsde\b",
 ]
 ROLE_PATTERN = re.compile("|".join(ROLE_KEYWORDS), re.IGNORECASE)
+
+# Role flavors not wanted even when a tech keyword is present:
+# consulting, analytics/data-science, and field-science tracks. Note
+# "analyst" alone is NOT vetoed - banks title their real SWE programs
+# "Technology Analyst" - only data/analytics-flavored analyst roles are.
+TITLE_VETO_PATTERN = re.compile(
+    r"consult|geoscien|analytics|data\s+scien|business\s+intelligence|"
+    r"\bdata\b.{0,40}\banalyst\b|\banalyst\b.{0,40}\bdata\b",
+    re.IGNORECASE,
+)
 # Word-bounded so "internal", "international", "internet" don't count as
 # intern mentions, while intern / interns / internship(s) all do. Without
 # the boundary, matching any job description that says "internal tools" or
@@ -141,6 +150,14 @@ def is_non_us_location(text):
     return bool(text) and bool(NON_US_LOCATION_PATTERN.search(text))
 
 
+def title_ok(title):
+    """Filter used wherever a real per-job title exists (ATS APIs, link
+    mode): the title itself must read as a software/AI intern role and
+    not be a vetoed flavor. Window-mode snippets don't get the veto -
+    they blend neighboring page text, which would veto good postings."""
+    return text_matches(title) and not TITLE_VETO_PATTERN.search(title)
+
+
 def text_matches(text, window=150):
     """True if any 'intern' mention in text has a relevant role
     keyword nearby. Used where we already have a clean per-job
@@ -194,7 +211,7 @@ def anchor_hits(anchors, page_url):
         title = re.sub(r"\s+", " ", a["text"]).strip()
         # The link's own text must justify the hit - no borrowing
         # keywords from elsewhere on the page.
-        if not text_matches(title):
+        if not title_ok(title):
             continue
         if is_non_us_location(title) or UI_CHROME_PATTERN.search(title):
             continue
@@ -274,7 +291,7 @@ def check_greenhouse(token):
         # Match on the structured title only - matching the full job
         # description flags every engineering role that merely mentions
         # interns/software somewhere in its body.
-        if not text_matches(job.get("title", "")):
+        if not title_ok(job.get("title", "")):
             continue
         location = (job.get("location") or {}).get("name", "") or ""
         if is_non_us_location(f"{job.get('title', '')} {location}"):
@@ -294,7 +311,7 @@ def check_lever(token):
     for job in data:
         # Title only (Lever's "text" field is the job title) - see the
         # note in check_greenhouse on why the description is excluded.
-        if not text_matches(job.get("text", "")):
+        if not title_ok(job.get("text", "")):
             continue
         # Lever exposes both an ISO country code and a location label;
         # a present-but-foreign country code is authoritative, and the
@@ -321,7 +338,7 @@ def check_smartrecruiters(token):
     hits = []
     for job in jobs:
         title = job.get("name", "")
-        if not text_matches(title):
+        if not title_ok(title):
             continue
         # SmartRecruiters gives a lowercase ISO country code; foreign
         # code = skip, missing code = keep.
@@ -348,7 +365,7 @@ def check_ashby(org):
         if job.get("isListed") is False:
             continue
         # Title only, same reasoning as check_greenhouse.
-        if not text_matches(job.get("title", "")):
+        if not title_ok(job.get("title", "")):
             continue
         locations = [job.get("location") or ""]
         locations += [(l or {}).get("location", "") for l in job.get("secondaryLocations") or []]
@@ -400,7 +417,7 @@ def check_workday(url):
             print(f"    -> {total} postings match 'intern' on the board")
         for p in postings:
             title = p.get("title") or ""
-            if not text_matches(title):
+            if not title_ok(title):
                 continue
             if is_non_us_location(f"{title} {p.get('locationsText') or ''}"):
                 continue

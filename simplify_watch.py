@@ -33,7 +33,7 @@ import sys
 import urllib.request
 from datetime import datetime, timezone
 
-from monitor import is_non_us_location, send_email
+from monitor import is_non_us_location, send_email, title_ok
 
 LISTINGS_URL = ("https://raw.githubusercontent.com/SimplifyJobs/"
                 "Summer2027-Internships/dev/.github/scripts/listings.json")
@@ -52,6 +52,17 @@ TECH_CATEGORIES = {
 CITIZENSHIP_REQUIRED = "U.S. Citizenship is Required"
 NO_SPONSORSHIP = "Does Not Offer Sponsorship"
 
+# Simplify's sponsorship flag is community-set and often missing, so
+# known U.S.-person/ITAR shops (defense and space) are skipped by name
+# too - not workable on CPT (see the Extern calendar's visa column).
+COMPANY_SKIP = {
+    "anduril", "bae systems", "blue origin", "booz allen hamilton",
+    "general dynamics", "l3harris", "lockheed martin", "northrop grumman",
+    "raytheon", "rtx", "pratt & whitney", "spacex", "rocket lab",
+    "sierra space", "relativity space", "leidos", "mercury systems",
+    "collins aerospace",
+}
+
 
 def fetch_listings(url=LISTINGS_URL):
     req = urllib.request.Request(url, headers={"User-Agent": "intern-watch"})
@@ -60,15 +71,24 @@ def fetch_listings(url=LISTINGS_URL):
 
 
 def relevant(listing):
-    """Is this a live, US, tech, Summer 2027 posting the user can
-    actually take (no citizenship requirement)?"""
+    """Is this a live, US, software/AI, Summer 2027 posting the user
+    can actually take (no citizenship requirement)?
+
+    Category alone is NOT enough: Simplify's AI/ML/Data bucket lumps in
+    analytics, data-science, and even geoscience roles, so the title
+    must independently read as a software/AI role (monitor.title_ok:
+    tech keyword required, consulting/analytics/data-science vetoed)."""
     if not listing.get("active") or not listing.get("is_visible"):
         return False
     if SEASON not in (listing.get("terms") or []):
         return False
     if listing.get("category") not in TECH_CATEGORIES:
         return False
+    if not title_ok(listing.get("title") or ""):
+        return False
     if listing.get("sponsorship") == CITIZENSHIP_REQUIRED:
+        return False
+    if (listing.get("company_name") or "").strip().lower() in COMPANY_SKIP:
         return False
     locations = [l for l in (listing.get("locations") or []) if l]
     if locations and all(is_non_us_location(l) for l in locations):

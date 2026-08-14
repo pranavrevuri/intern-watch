@@ -39,12 +39,35 @@ class Relevance(unittest.TestCase):
         self.assertFalse(relevant(listing(category="Product")))
         self.assertFalse(relevant(listing(category="Quant")))
 
+    def test_non_swe_titles_dropped_despite_tech_category(self):
+        # Simplify's AI/ML/Data category lumps in analytics, data
+        # science, and even geoscience - the title must stand alone.
+        for title in [
+            "Geoscience Intern - Geoscientist",
+            "Consulting Intern - Healthcare Data Management and Strategy",
+            "Enterprise Analytics Intern",
+            "Data & AI Intern - Analyst",
+        ]:
+            self.assertFalse(relevant(listing(category="AI/ML/Data", title=title)),
+                             f"should drop: {title}")
+
+    def test_swe_and_ml_titles_kept(self):
+        for title in ["Android Platform Software Engineer Intern",
+                      "Machine Learning Engineer Intern - Summer 2027"]:
+            self.assertTrue(relevant(listing(category="AI/ML/Data", title=title)),
+                            f"should keep: {title}")
+
     def test_both_category_spellings_kept(self):
         self.assertTrue(relevant(listing(category="Software Engineering")))
         self.assertTrue(relevant(listing(category="AI/ML/Data")))
 
     def test_citizenship_required_dropped(self):
         self.assertFalse(relevant(listing(sponsorship="U.S. Citizenship is Required")))
+
+    def test_us_person_defense_companies_skipped(self):
+        # Simplify's sponsorship flag is often missing for these.
+        self.assertFalse(relevant(listing(company_name="Anduril")))
+        self.assertFalse(relevant(listing(company_name="SpaceX")))
 
     def test_no_sponsorship_kept(self):
         # CPT doesn't need sponsorship for the internship itself.
