@@ -102,9 +102,13 @@ def get_fact(facts, *prefixes):
     return None
 
 
-def parse_faq_open_answer(raw):
-    """FAQPage JSON-LD answer to 'When do X applications open...' -
-    fallback context when the Quick Facts row is missing or vague."""
+def parse_faqs(raw):
+    """All (question, answer) pairs from the guide's FAQPage JSON-LD.
+    The questions are templated across guides ('When do X internship
+    applications open...', 'What is the X internship interview process
+    like?', 'Does X sponsor visas for interns?'), which makes them the
+    most reliable source for those fields."""
+    faqs = []
     for m in re.finditer(r'<script type="application/ld\+json"[^>]*>(.*?)</script>', raw, re.S):
         try:
             data = json.loads(m.group(1))
@@ -114,9 +118,15 @@ def parse_faq_open_answer(raw):
             if not isinstance(item, dict) or item.get("@type") != "FAQPage":
                 continue
             for q in item.get("mainEntity", []):
-                name = (q.get("name") or "").lower()
-                if "when do" in name and "open" in name:
-                    return strip_tags(q.get("acceptedAnswer", {}).get("text", ""))
+                faqs.append((q.get("name") or "",
+                             strip_tags(q.get("acceptedAnswer", {}).get("text", ""))))
+    return faqs
+
+
+def faq_answer(faqs, pattern):
+    for q, a in faqs:
+        if re.search(pattern, q, re.I):
+            return a
     return None
 
 
@@ -362,7 +372,21 @@ def parse_guide(raw, name, slug, today=None):
         or re.search(r"no internships? posted", formal_text, re.I)
     )
 
-    entry["faq_open_answer"] = parse_faq_open_answer(raw)
+    faqs = parse_faqs(raw)
+    entry["faq_open_answer"] = faq_answer(faqs, r"when do .{0,60}open")
+    # The interview pipeline (OA -> phone -> loop/superday) and the
+    # visa/work-auth stance, for their watchlist columns. Visa prefers
+    # the Quick Facts row; the FAQ is the fallback.
+    interview = faq_answer(faqs, r"interview process|interview like")
+    if not interview:
+        # Older guides have no FAQ block; fall back to the standard
+        # "What Is the X Application and Interview Process Like?" section.
+        m = re.search(r"Application and Interview Process[^<]*</h2>(.*?)<h[23]", raw, re.S)
+        interview = strip_tags(m.group(1)) if m else None
+    entry["interview"] = (interview or "")[:300] or None
+    visa = get_fact(facts, "visa")
+    entry["visa"] = ((visa[0] if visa else None)
+                     or faq_answer(faqs, r"visa|sponsor|international student") or "")[:220] or None
     # Parse before truncating for storage - the dated clause can sit
     # past the storage cap.
     entry["window"] = (parse_window(window_text_full, today)
@@ -487,12 +511,13 @@ def build_xlsx(entries, today, path=XLSX_FILE):
                 f"projections from prior cycles, not confirmed postings. Sorted by how "
                 f"soon each window opens.")
     ws["A1"].font = Font(name="Arial", size=9, italic=True, color="595959")
-    ws.merge_cells("A1:I1")
+    ws.merge_cells("A1:K1")
 
     headers = ["Company", "Status", "Expected opening", "Programs & tech tracks",
-               "Career page", "Extern guide", "Rolling?", "Intern pay",
+               "Career page", "Extern guide", "Interview process",
+               "Visa / work auth", "Rolling?", "Intern pay",
                "Extern's notes on timing"]
-    widths = [22, 24, 26, 46, 34, 12, 32, 32, 46]
+    widths = [22, 24, 24, 44, 32, 10, 46, 36, 28, 28, 44]
     for col, (head, width) in enumerate(zip(headers, widths), start=1):
         cell = ws.cell(row=2, column=col, value=head)
         cell.font = header_font
@@ -532,14 +557,15 @@ def build_xlsx(entries, today, path=XLSX_FILE):
         gcell.hyperlink = e["guide_url"]
         gcell.font = link_font
         notes = e.get("window_text") or e.get("fetch_error") or ""
-        for col, value in ((7, e.get("rolling") or ""), (8, e.get("pay") or ""), (9, notes)):
+        for col, value in ((7, e.get("interview") or ""), (8, e.get("visa") or ""),
+                           (9, e.get("rolling") or ""), (10, e.get("pay") or ""), (11, notes)):
             cell = ws.cell(row=row, column=col, value=value)
             cell.font = body_font
             cell.alignment = wrap
         row += 1
 
     ws.freeze_panes = "C3"
-    ws.auto_filter.ref = f"A2:I{row - 1}"
+    ws.auto_filter.ref = f"A2:K{row - 1}"
 
     # Companies with no formal internship program go on their own sheet
     # so the main watchlist stays actionable; their career links are
@@ -571,6 +597,40 @@ def build_xlsx(entries, today, path=XLSX_FILE):
         gcell.font = link_font
         row += 1
     ws2.freeze_panes = "A3"
+
+    # One-click LinkedIn people searches per company - kept as plain
+    # search URLs (no scraping/automation of LinkedIn itself), for
+    # manual, human-sent outreach.
+    from urllib.parse import quote
+    ws3 = wb.create_sheet("LinkedIn outreach")
+    ws3["A1"] = ("Pre-built LinkedIn people searches. Alumni link: people matching your school + "
+                 "the company. Recruiter link: the company's university recruiters. Send messages "
+                 "yourself - short, specific, and one at a time.")
+    ws3["A1"].font = Font(name="Arial", size=9, italic=True, color="595959")
+    ws3.merge_cells("A1:D1")
+    for col, (head, width) in enumerate(zip(["Company", "Status", "UF alumni there", "University recruiters"],
+                                            [22, 24, 24, 24]), start=1):
+        cell = ws3.cell(row=2, column=col, value=head)
+        cell.font = header_font
+        cell.fill = header_fill
+        ws3.column_dimensions[get_column_letter(col)].width = width
+    search = "https://www.linkedin.com/search/results/people/?keywords="
+    row = 3
+    for e in main:
+        status = classify(e, today)
+        ws3.cell(row=row, column=1, value=e["name"]).font = Font(name="Arial", size=10, bold=True)
+        scell = ws3.cell(row=row, column=2, value=STATUS_LABELS.get(status, status))
+        scell.font = body_font
+        if status in STATUS_FILLS:
+            scell.fill = PatternFill("solid", fgColor=STATUS_FILLS[status])
+        acell = ws3.cell(row=row, column=3, value="alumni search")
+        acell.hyperlink = search + quote(f'"University of Florida" "{e["name"]}"')
+        acell.font = link_font
+        rcell = ws3.cell(row=row, column=4, value="recruiter search")
+        rcell.hyperlink = search + quote(f'"{e["name"]}" "university recruiter"')
+        rcell.font = link_font
+        row += 1
+    ws3.freeze_panes = "A3"
 
     wb.save(path)
 
