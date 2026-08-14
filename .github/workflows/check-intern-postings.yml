@@ -4,9 +4,11 @@ on:
   schedule:
     # UTC times mapped to Eastern (EDT, UTC-4, roughly mid-Mar to
     # early Nov - shift by 1h after DST ends for exact alignment).
-    - cron: "0 4 * * *"    # ~midnight ET
+    # Twice daily: with ~170 companies a run takes ~15-20 min, and two
+    # runs/day keeps the month within GitHub's free 2,000 minutes
+    # alongside the hourly Simplify watch and daily Extern refresh.
     - cron: "0 13 * * *"   # ~9:00 AM ET
-    - cron: "0 21 * * *"   # ~5:00 PM ET
+    - cron: "0 1 * * *"    # ~9:00 PM ET
   workflow_dispatch: {}   # manual "Run workflow" button for testing
 
 # Prevent overlapping runs: if a scheduled run starts while another is
@@ -22,7 +24,7 @@ permissions:
 jobs:
   check:
     runs-on: ubuntu-latest
-    timeout-minutes: 25
+    timeout-minutes: 35
     steps:
       - uses: actions/checkout@v4
 

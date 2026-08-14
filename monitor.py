@@ -440,10 +440,14 @@ def check_browser(browser, url):
     try:
         loaded = False
         last_error = None
+        # Timeouts sized so a full ~170-company run fits GitHub's free
+        # minutes at 2 runs/day: slow sites get one 15s+10s shot, not
+        # 30s+30s - a career page that can't paint in 15s rarely
+        # succeeds at 30.
         for wait_until, timeout in [
-            ("domcontentloaded", 30000),
-            ("load", 30000),
-            ("commit", 20000),  # last resort: just wait for a response to start
+            ("domcontentloaded", 15000),
+            ("load", 10000),
+            ("commit", 8000),  # last resort: just wait for a response to start
         ]:
             try:
                 page.goto(url, wait_until=wait_until, timeout=timeout)
@@ -467,7 +471,7 @@ def check_browser(browser, url):
             except Exception:
                 continue
 
-        page.wait_for_timeout(5000)  # let client-side rendering settle
+        page.wait_for_timeout(3000)  # let client-side rendering settle
         text = page.inner_text("body")
         anchors = page.eval_on_selector_all(
             "a[href]",
