@@ -119,18 +119,39 @@ maintains:
 - **`extern_calendar.json`** - the machine-readable state the diff
   runs against.
 
-It runs twice daily (`.github/workflows/extern-calendar.yml`, ~9 AM
-and ~9 PM ET) - cheap enough to be free, and fast enough to catch
-Extern flipping a guide to "OPEN NOW" the same day. You only get an
-email when something actually changed: a window moved, a career link
-changed, a company gained/lost a formal program, or Extern published
-brand-new guides (those are listed for review, never auto-added -
-some are non-tech). Add or remove companies in
+It runs daily (`.github/workflows/extern-calendar.yml`, ~9 AM ET).
+You only get an email when something actually changed: a window
+moved, a career link changed, a company gained/lost a formal program,
+or Extern published brand-new guides (those are listed for review,
+never auto-added - some are non-tech). Add or remove companies in
 `extern_companies.json`.
 
-The division of labor: the Extern calendar tells you *when to expect*
-each opening; the daily monitor above catches postings *actually going
-live* on career sites.
+## The Simplify live watch (fastest signal)
+
+`simplify_watch.py` polls the community-maintained
+[SimplifyJobs/Summer2027-Internships](https://github.com/SimplifyJobs/Summer2027-Internships)
+listings hourly (`.github/workflows/simplify-watch.yml`) and emails
+the moment a new posting appears - the community typically reports
+postings within hours of them going live. One HTTP request per run,
+stdlib only.
+
+Filters (edit `TECH_CATEGORIES` etc. in the script): Summer 2027,
+Software + AI/ML/Data categories, US locations, and postings
+requiring U.S. citizenship are dropped (CPT). "No sponsorship"
+postings are kept with a note - CPT internships don't need
+sponsorship; conversion later would.
+
+## How the three layers fit together
+
+| Layer | Source | Lag | Job |
+|---|---|---|---|
+| Calendar | extern.com guides | days-weeks | when to *expect* each window, tracks, visa stance |
+| Live watch | Simplify community list | hours | "a posting just went up" across hundreds of companies |
+| Direct checks | company career pages | your cron interval | authoritative check on the shortlist in `companies.json` |
+
+Actions budget on the free 2,000 min/month (private repo): hourly
+Simplify ~720, daily Extern ~300, 3x-daily monitor ~540 - roughly
+1,560 total, with headroom.
 
 ## Adjusting things later
 

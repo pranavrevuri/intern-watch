@@ -1,16 +1,15 @@
 name: Extern Calendar Refresh
 
-# Twice daily. Extern refreshes guides on their own schedule (their
-# "OPEN NOW" edits are worth catching same-day), and each run is a few
-# minutes of free compute with zero API/token cost. Live posting
-# detection on career sites themselves is check-intern-postings.yml's
-# job.
+# Once daily. Extern's projections update ~monthly, and the hourly
+# Simplify watcher (simplify-watch.yml) now carries the live-posting
+# signal, so a second daily Extern pass bought nothing - its Actions
+# minutes went to the hourly watcher instead. Live career-site checks
+# are check-intern-postings.yml's job.
 on:
   schedule:
     # UTC mapped to Eastern (EDT, UTC-4): shift by 1h after DST ends
     # for exact alignment, same caveat as check-intern-postings.yml.
     - cron: "0 13 * * *"   # ~9:00 AM ET
-    - cron: "0 1 * * *"    # ~9:00 PM ET
   workflow_dispatch: {}
 
 concurrency:
