@@ -1,0 +1,3248 @@
+{
+  "generated_at": "2026-08-14T19:10:33.763803+00:00",
+  "companies": [
+    {
+      "name": "1Password",
+      "slug": "1password",
+      "guide_url": "https://www.extern.com/post/1password-internship-guide",
+      "career_urls": [
+        "https://1password.com/careers",
+        "https://jobs.ashbyhq.com/1password"
+      ],
+      "rolling": "Partly. Each cohort is posted with set term dates and reviewed as applications arrive, so applying early matters. There is no single hard per-posting deadline; ",
+      "pay": "No official US intern rate is published. Community data (Levels.fyi, Canada-weighted): ~$31.72/hr (~$5,500/mo) average for SWE interns; Glassdoor lists Vancouve",
+      "no_formal_program": false,
+      "faq_open_answer": "Expected ~Fall 2026 through Winter 2026\u201327, projected from prior cycles; nothing was officially posted as of August 2026. Summer roles have historically appeared six to nine months ahead of the term, so watch the Ashby board and LinkedIn from early fall 2026 and apply the week a posting goes live.",
+      "window": [
+        "2026-09",
+        "2026-12"
+      ],
+      "window_text": "Not yet posted. Summer 2027 developer-intern roles are expected to open ~Fall 2026 through Winter 2026\u201327, projected from prior cycles (Summer 2026 roles were posted in late 2025). All 2027 dates are expected, not official"
+    },
+    {
+      "name": "Abnormal Security",
+      "slug": "abnormal-security",
+      "guide_url": "https://www.extern.com/post/abnormal-security-internship-guide",
+      "career_urls": [
+        "https://www.abnormal.ai/careers/open-roles"
+      ],
+      "rolling": "Not confirmed for interns. Full-time roles fill on a rolling basis; overall hiring averages ~31 days (Glassdoor, 149 interviews). Historical intern roles were s",
+      "pay": "No official 2027 figure. Community data (Levels.fyi, 2023 cycle): SWE intern ~$50.95/hr (~$8,831/mo) plus a $1,250 housing data point; Glassdoor blended intern ",
+      "no_formal_program": false,
+      "faq_open_answer": null,
+      "window": [
+        "2026-09",
+        "2026-09"
+      ],
+      "window_text": "Not yet announced. No annual intern program exists. If a SWE/ML intern req returns, applications for summer 2027 are expected to open around fall 2026 (projected from the 2023 technical-intern cycle)"
+    },
+    {
+      "name": "Abridge",
+      "slug": "abridge",
+      "guide_url": "https://www.extern.com/post/abridge-internship-guide",
+      "career_urls": [
+        "https://jobs.ashbyhq.com/abridge"
+      ],
+      "rolling": "Not confirmed for interns. The Summer 2026 intern req was a single San Francisco cohort rather than an explicitly rolling posting. Full-time roles are posted in",
+      "pay": "$40.00/hour (Tier 1), confirmed on the official JD and Levels.fyi, roughly $83K annualized. Relocation flights to and from San Francisco are covered; housing is",
+      "no_formal_program": false,
+      "faq_open_answer": null,
+      "window": [
+        "2026-09",
+        "2026-09"
+      ],
+      "window_text": "Not yet published. Expected to open ~Fall 2026 for the Summer 2027 cohort, projected from the Summer 2026 cycle (that posting appeared in late 2025 / early 2026, roughly 6+ months ahead). No official Summer 2027 date confirmed as of August 2026"
+    },
+    {
+      "name": "Activision Blizzard",
+      "slug": "activision-blizzard",
+      "guide_url": "https://www.extern.com/post/activision-blizzard-internship-guide",
+      "career_urls": [
+        "https://careers.activisionblizzard.com/early-careers",
+        "https://careers.activisionblizzard.com/early-careers-jobs"
+      ],
+      "rolling": "Partially. There is a defined seasonal window (opens ~September), but review inside it is rolling: \"a recruiter will reach out if there is a fit.\" Applicants ar",
+      "pay": "Official base pay range for the engineering intern role: $20 to $50 per hour, plus a living stipend and opt-in relocation reimbursement. Fully paid. Community e",
+      "no_formal_program": false,
+      "faq_open_answer": "Expected around September 2026, closing around November 2026 for most engineering roles, with art internship applications expected to extend into February 2027. These dates are projected from the documented 2026 cycle (\"Applications open Sept.\u2013Nov.\") and are labeled expected because the 2027 dates are not yet published; the 2026 Game Engineering requisition closed December 5, 2025.",
+      "window": [
+        "2026-09",
+        "2026-09"
+      ],
+      "window_text": "Not yet published. Applications for summer 2027 are expected to open ~September 2026 and close ~November 2026 for most engineering roles (art internship applications expected to extend into February 2027). Projected from the documented 2026 cycle (\"open Sept.\u2013Nov.\"; the 2026 Game Engineering req R025908 closed Dec 5, 2025)"
+    },
+    {
+      "name": "Adept AI",
+      "slug": "adept-ai",
+      "guide_url": "https://www.extern.com/post/adept-ai-internship-guide",
+      "career_urls": [
+        "https://www.adept.ai",
+        "https://www.linkedin.com/company/adeptailabs/"
+      ],
+      "rolling": "Not confirmed. When positions existed, applications were reviewed on an ad-hoc basis. Glassdoor data shows 100% of candidates applied online",
+      "pay": "Estimated $9,000 to $12,000 per month ($52 to $69/hr) based on full-time engineer comp of $200K to $530K+ and industry comparables. No verified intern pay data ",
+      "no_formal_program": true,
+      "faq_open_answer": null,
+      "window": [
+        "2026-09",
+        "2026-12"
+      ],
+      "window_text": "No established cycle. If roles appear, expect postings September through December 2026. Historically ad-hoc given the company's small size"
+    },
+    {
+      "name": "Adobe",
+      "slug": "adobe",
+      "guide_url": "https://www.extern.com/post/adobe-internship-guide",
+      "career_urls": [
+        "https://careers.adobe.com/us/en/intern-and-graduate"
+      ],
+      "rolling": "Yes. Applications reviewed as they come in; 70% of interview invites go to candidates who applied in the first 3 weeks (community estimate)",
+      "pay": "Undergrad/Master's $48\u2013$62/hr; PhD $60\u2013$75/hr (community estimate). Plus housing stipend of up to $3,000/month",
+      "no_formal_program": false,
+      "faq_open_answer": "Applications for summer 2027 are expected to open late August to early September 2026, with the priority window closing roughly early October 2026. The Adobe Digital Academy has an even narrower window of about two to three weeks starting around October 1. Those dates are projected from the prior cycle and are not official yet.",
+      "window": [
+        "2026-08",
+        "2026-09"
+      ],
+      "window_text": "Applications for summer 2027 expected to open late Aug to early Sep 2026 for most tracks. Priority window closes roughly early Oct 2026. Projected from prior cycle, not yet posted"
+    },
+    {
+      "name": "AI21 Labs",
+      "slug": "ai21-labs",
+      "guide_url": "https://www.extern.com/post/ai21-labs-internship-guide",
+      "career_urls": [
+        "https://www.linkedin.com/company/ai21-labs/jobs/",
+        "https://www.ai21.com"
+      ],
+      "rolling": "Likely yes. AI21 does not publish a fixed application cycle. The Masa Israel pathway also operates on a rolling basis",
+      "pay": "Estimated ILS 6,000 to 12,000/mo (~$1,600 to $3,300/mo) in Tel Aviv. NYC roles estimated at $4,000 to $7,000/mo. No verified AI21 intern salary data exists",
+      "no_formal_program": false,
+      "faq_open_answer": null,
+      "window": [
+        "2027-02",
+        "2027-04"
+      ],
+      "window_text": "No fixed public cycle. Israeli AI startups typically post 2 to 4 months before start. Estimated window: February to April 2027 for a summer start"
+    },
+    {
+      "name": "Airtable",
+      "slug": "airtable",
+      "guide_url": "https://www.extern.com/post/airtable-internship-guide",
+      "career_urls": [
+        "https://airtable.com/careers",
+        "https://job-boards.greenhouse.io/airtable"
+      ],
+      "rolling": "Partly. The New Grad role has a fixed application deadline, not pure rolling, but screening and the HackerRank OA proceed on a rolling basis within the window (",
+      "pay": "No Airtable intern pay data found. New Grad base is a flat $170,000 (SF/NYC) plus RSUs and benefits. Community full-time SWE total comp (Levels.fyi): ~$239K at ",
+      "no_formal_program": false,
+      "faq_open_answer": "For the 2026 cohort, the New Grad role had an application deadline of March 6, 2026 and a July/August start. The 2027 cycle is expected to follow a similar shape: a posting opening in early 2027, a deadline around early March 2027, and a July/August 2027 cohort start (expected, projected from the 2026 window).",
+      "window": [
+        "2027-02",
+        "2027-02"
+      ],
+      "window_text": "No dedicated summer intern window exists. New Grad 2026 closed March 6, 2026; the 2027 New Grad posting is expected to open ~early 2027 with a deadline expected ~early March 2027 (projected from the 2026 cohort)"
+    },
+    {
+      "name": "Amazon",
+      "slug": "amazon",
+      "guide_url": "https://www.extern.com/post/amazon-internship-guide",
+      "career_urls": [
+        "https://www.amazon.jobs/en/teams/internships-for-students"
+      ],
+      "rolling": "Yes, confirmed. Roles are reviewed and filled rolling; apply within the first 1 to 2 weeks of a posting",
+      "pay": "SDE Seattle $110,500 to $160,000 annualized base, about $53 to $77/hr (official JD). Return-offer TC ~$178k to $185k (community, Blind)",
+      "no_formal_program": false,
+      "faq_open_answer": "Expect most SDE and tech roles for summer 2027 to open August to October 2026, with finance and operations tracks earlier; some 2027 finance roles were already live in July 2026. Unposted dates are projected from the prior cycle and aren't official yet. Set a job alert on amazon.jobs.",
+      "window": [
+        "2026-08",
+        "2026-10"
+      ],
+      "window_text": "Applications for summer 2027 expected to open Aug to Oct 2026 for SDE and tech; finance and operations open earlier (some 2027 finance roles were live by July 2026). Projected from the prior cycle where not yet posted"
+    },
+    {
+      "name": "AMD",
+      "slug": "amd",
+      "guide_url": "https://www.extern.com/post/amd-internship-guide",
+      "career_urls": [
+        "https://careers.amd.com/students/jobs"
+      ],
+      "rolling": "Yes. Positions close individually once filled; top-tier locations fill by late October",
+      "pay": "$38\u2013$42/hr undergrad, $45\u2013$55/hr MS, $52\u2013$60+/hr PhD (technical) + $3K\u2013$4.5K housing stipend",
+      "no_formal_program": false,
+      "faq_open_answer": null,
+      "window": [
+        "2026-08",
+        "2026-11"
+      ],
+      "window_text": "Expected late August to November 2026 for summer 2027 (rolling; projected from prior cycle)"
+    },
+    {
+      "name": "Anthropic",
+      "slug": "anthropic",
+      "guide_url": "https://www.extern.com/post/anthropic-internship-guide",
+      "career_urls": [
+        "https://www.anthropic.com/careers",
+        "https://job-boards.greenhouse.io/anthropic"
+      ],
+      "rolling": "Yes. Anthropic reviews applications on a rolling basis until cohort spots are filled, so new cohort deadlines come fast. Confirm the current opening on the care",
+      "pay": "$3,850/week (~$61,600 total stipend) + ~$60,000 in compute credits over 4 months",
+      "no_formal_program": false,
+      "faq_open_answer": null,
+      "window": [
+        "2026-07",
+        "2026-07"
+      ],
+      "window_text": "Open now (as of July 2026): most recent cohort application closed late July 2026 for a November 2026 start; further cohorts expected January and August 2027. Check the Greenhouse listing for live dates"
+    },
+    {
+      "name": "Anysphere (Cursor)",
+      "slug": "cursor",
+      "guide_url": "https://www.extern.com/post/cursor-internship-guide",
+      "career_urls": [
+        "https://cursor.com/careers"
+      ],
+      "rolling": "Full-time roles are filled on a rolling basis with no fixed application windows. Process duration: 2 to 3 weeks from recruiter screen to offer. Expect a similar",
+      "pay": "No intern pay data exists. Comparable AI startups (Anthropic, OpenAI) pay interns $9,000 to $12,000 per month. Full-time SWE total comp: $808K to $1.8M (heavily",
+      "no_formal_program": true,
+      "faq_open_answer": null,
+      "window": [
+        "2026-07",
+        "2026-09"
+      ],
+      "window_text": "Not yet announced. No formal internship program exists as of July 2026. If SpaceXAI introduces early-career roles, postings could appear as early as fall 2026"
+    },
+    {
+      "name": "Apple",
+      "slug": "apple",
+      "guide_url": "https://www.extern.com/post/apple-internship-guide",
+      "career_urls": [
+        "https://jobs.apple.com/en-us/search?team=internships-STDNT-INTRN"
+      ],
+      "rolling": "Yes. Official JD text: \"Apple accepts applications to this posting on an ongoing basis\"; teams hire as headcount opens",
+      "pay": "$38 to $60/hr by role (Levels.fyi, self-reported); corporate housing or a ~$3,300/mo stipend (community-reported)",
+      "no_formal_program": false,
+      "faq_open_answer": "Apple hasn't announced dates and probably won't. Based on the documented pattern, the umbrella pipelines already refreshed in May 2026; applications for summer 2027 are expected to open with team roles posting from roughly August to October 2026, rolling through February 2027, and recruiter activity peaking September to December 2026.",
+      "window": [
+        "2026-08",
+        "2026-10"
+      ],
+      "window_text": "Pipelines refreshed May 2026; applications for summer 2027 expected to open ~August\u2013October 2026 as team roles post, rolling through February 2027 (pattern-based; not announced)"
+    },
+    {
+      "name": "Arm",
+      "slug": "arm",
+      "guide_url": "https://www.extern.com/post/arm-internship-guide",
+      "career_urls": [
+        "https://careers.arm.com/internships"
+      ],
+      "rolling": "Yes, confirmed. Applications reviewed on a rolling basis, aiming for review no later than two weeks after received. Apply early",
+      "pay": "US SWE interns self-report $39 to $50/hr depending on location and education level, plus corporate housing and free meals (Levels.fyi). UK rates are significant",
+      "no_formal_program": false,
+      "faq_open_answer": "Applications for summer 2027 are expected to open September to October 2026 for UK/global roles, with US roles on a similar cadence. Those dates are projected from the prior cycle and are not official yet. Register for job alerts on careers.arm.com.",
+      "window": [
+        "2026-09",
+        "2026-10"
+      ],
+      "window_text": "Applications for summer 2027 expected to open Sep to Oct 2026 for UK/global program; US roles post on a rolling basis through spring 2027. Projected from the prior cycle, not yet posted"
+    },
+    {
+      "name": "Asana",
+      "slug": "asana",
+      "guide_url": "https://www.extern.com/post/asana-internship-guide",
+      "career_urls": [
+        "https://asana.com/jobs/university-recruiting"
+      ],
+      "rolling": "Yes. Rolling admissions confirmed. Interview slots fill by Oct/Nov for engineering, so early applicants get the most open seats",
+      "pay": "SWE intern SF: $54\u2013$81/hr ($9,352\u2013$13,989/mo). Plus $1,500 relocation, free daily meals, $500 WFH stipend, $70/mo gym stipend",
+      "no_formal_program": false,
+      "faq_open_answer": "Expect postings to go live late August to early September 2026, based on prior-cycle timing. Peak recruiting runs September through November, with interview slots filling by October or November for engineering. Set a job alert on asana.com/jobs.",
+      "window": [
+        "2026-08",
+        "2026-09"
+      ],
+      "window_text": "Expected late Aug to early Sep 2026 for summer 2027; peak recruiting Sep to Nov. Projected from prior cycles, not yet posted"
+    },
+    {
+      "name": "AT&T",
+      "slug": "at-and-t",
+      "guide_url": "https://www.extern.com/post/at-and-t-internship-guide",
+      "career_urls": [
+        "https://www.att.jobs/early-careers"
+      ],
+      "rolling": "Semi-rolling within a defined window. Applications open August to September, interviews run September through February, and offers are extended October through ",
+      "pay": "TDP Software Engineer Intern: approximately $39 per hour plus a $2,500 sign-on bonus (Levels.fyi and community reports). General intern roles: $25 to $44 per ho",
+      "no_formal_program": false,
+      "faq_open_answer": "AT&T's official technology program timeline shows applications typically post in August to September. For the summer 2027 cycle, expect postings to open in August 2026. AT&T notes postings are only available for a short period, so use the \"Get Alerted\" feature on att.jobs to be notified as soon as applications go live.",
+      "window": [
+        "2026-08",
+        "2026-09"
+      ],
+      "window_text": "Expected August to September 2026 for summer 2027 technology roles. Some positions reopen January through April 2027. Projected from AT&T's published technology program timeline"
+    },
+    {
+      "name": "Atlassian",
+      "slug": "atlassian",
+      "guide_url": "https://www.extern.com/post/atlassian-internship-guide",
+      "career_urls": [
+        "https://www.atlassian.com/company/careers/earlycareers",
+        "https://join.atlassian.com/atlassian-talent-community/"
+      ],
+      "rolling": "Yes, explicitly confirmed. Atlassian recruits on a rolling basis and strongly encourages early applications within the first 2 to 3 weeks",
+      "pay": "Zone A (SF/NYC) $59 to $75/hr, Zone B (Seattle/Austin) $53 to $68/hr, Zone C (other US) $49 to $62/hr. Plus housing stipend of $1,000 to $3,000/month",
+      "no_formal_program": false,
+      "faq_open_answer": null,
+      "window": [
+        "2026-08",
+        "2026-09"
+      ],
+      "window_text": "Applications for summer 2027 expected to open late Aug to early Sep 2026 for SWE and tech (US). Projected from prior cycles, not yet posted"
+    },
+    {
+      "name": "Aurora",
+      "slug": "aurora",
+      "guide_url": "https://www.extern.com/post/aurora-internship-guide",
+      "career_urls": [
+        "https://aurora.tech/careers"
+      ],
+      "rolling": "Likely rolling within each cycle. Aurora reviews applications on an ongoing basis once postings go live, with no single published hard deadline, so apply early ",
+      "pay": "Official 2025 intern JD rates: $47/hr (undergrad), $52/hr (master's), $58/hr (PhD), roughly $8,100/month for undergrads at 40 hrs/week. One JD variant lists $51",
+      "no_formal_program": false,
+      "faq_open_answer": "Not yet published as of August 2026. Based on the prior cycle (the summer 2025 posting went live October 31, 2024), applications for summer 2027 are expected to open around October\u2013November 2026 with rolling review through winter and early 2027. Exact 2027 dates were not found because they are unpublished.",
+      "window": [
+        "2026-10",
+        "2027-02"
+      ],
+      "window_text": "Not yet published. Based on the prior cycle (the summer 2025 posting went live Oct 31, 2024), applications for summer 2027 are expected to open ~October\u2013November 2026 and run through winter/early 2027"
+    },
+    {
+      "name": "Booking Holdings",
+      "slug": "booking-holdings",
+      "guide_url": "https://www.extern.com/post/booking-holdings-internship-guide",
+      "career_urls": [
+        "https://careers.priceline.com/",
+        "https://www.opentable.com/c/careers/"
+      ],
+      "rolling": "Partially. Priceline intern and full-time engineering roles are posted and filled on a rolling basis through Workday with no single national deadline, so apply ",
+      "pay": "Priceline Software Engineer Intern is reported at ~$35/hr (~$6,067/mo) on Levels.fyi (community-submitted, NYC), with a prior $40/hr Summer 2020 data point. The",
+      "no_formal_program": false,
+      "faq_open_answer": "No US 2027 req was open as of August 2026. Priceline roles have historically opened in the fall (Sept\u2013Nov) and fill on a rolling basis, so applications for summer 2027 are expected to open around fall 2026 (not confirmed). The one confirmed future date in the family is Booking.com Compass (Amsterdam): applications open October 12, 2026 for a July 2027 start.",
+      "window": [
+        "2026-09",
+        "2026-09"
+      ],
+      "window_text": "No US 2027 posting was open as of August 2026. Priceline reqs have historically opened in the fall (Sept\u2013Nov) for the following summer, so applications for summer 2027 are expected to open ~fall 2026 (not confirmed). The one confirmed future date in the family is Booking.com Compass (Amsterdam): applications open October 12, 2026 for a July 2027 start"
+    },
+    {
+      "name": "Broadcom",
+      "slug": "broadcom",
+      "guide_url": "https://www.extern.com/post/broadcom-internship-guide",
+      "career_urls": [
+        "https://broadcom.wd1.myworkdayjobs.com/External_Career",
+        "https://www.broadcom.com/company/careers"
+      ],
+      "rolling": "Likely yes. Summer 2026 postings stated Broadcom contacts candidates between November and January, implying window-based rolling review",
+      "pay": "Self-reported $24 to $42/hr on Glassdoor, average about $31/hr. Housing and relocation not confirmed; verify with recruiter",
+      "no_formal_program": false,
+      "faq_open_answer": null,
+      "window": [
+        "2026-09",
+        "2026-10"
+      ],
+      "window_text": "Applications for summer 2027 expected to open Sep to Oct 2026; recruiter contact Nov 2026 to Jan 2027. Projected from the Summer 2026 cycle, not yet posted"
+    },
+    {
+      "name": "Bungie",
+      "slug": "bungie",
+      "guide_url": "https://www.extern.com/post/bungie-internship-guide",
+      "career_urls": [
+        "https://careers.bungie.com/jobs"
+      ],
+      "rolling": "Unknown. The 2022 announcement suggests a fixed window, not rolling",
+      "pay": "$75,000 to $110,000 annualized depending on role; engineering interns at the high end",
+      "no_formal_program": true,
+      "faq_open_answer": null,
+      "window": [
+        "2026-11",
+        "2027-02"
+      ],
+      "window_text": "Expected November 2026 to February 2027 for summer 2027, based on December 2022 pattern"
+    },
+    {
+      "name": "Canva",
+      "slug": "canva",
+      "guide_url": "https://www.extern.com/post/canva-internship-guide",
+      "career_urls": [
+        "https://www.lifeatcanva.com/en/early-careers/"
+      ],
+      "rolling": "Partially. ANZ has a defined ~30-day window; US roles recruit on a rolling basis. Both close when filled",
+      "pay": "AU: ~A$28\u201338/hr + meals. US: ~$46\u201360/hr (SWE), ~$52\u201360/hr (ML/AI), with relocation assistance",
+      "no_formal_program": false,
+      "faq_open_answer": "For the ANZ summer program (December 2027 start), applications typically open in April and stay live for about 30 days, closing in late May. For US summer roles (May\u2013August 2028), postings appear September through November. Canva has not posted 2027\u20132028 dates yet, so register your interest at lifeatcanva.com/en/early-careers/ and check back early 2027.",
+      "window": [
+        "2027-04",
+        "2027-05"
+      ],
+      "window_text": "ANZ: expected April\u2013May 2027 for Dec 2027 start (~30-day window). US: expected Sep\u2013Nov 2027 for May\u2013Aug 2028 (rolling)"
+    },
+    {
+      "name": "Cedar",
+      "slug": "cedar",
+      "guide_url": "https://www.extern.com/post/cedar-internship-guide",
+      "career_urls": [
+        "https://www.cedar.com/careers/open-roles"
+      ],
+      "rolling": "Yes, inferred. Cedar posts individual roles continuously on Greenhouse with no batch class cadence. Full-time time-to-hire averages ~20 days for SWE; expect a s",
+      "pay": "No intern pay data exists. Full-time reference (Levels.fyi, community): Software Engineer I ~$130K total comp, SWE II ~$166K, SWE III ~$224K. Official SWE III b",
+      "no_formal_program": true,
+      "faq_open_answer": null,
+      "window": [
+        "2026-09",
+        "2027-06"
+      ],
+      "window_text": "Not published, expected N/A. Cedar runs no formal intern cycle, so there is no documented window. Monitor the careers page from Fall 2026 for any early-career SWE, data, or ML posting targeting summer 2027"
+    },
+    {
+      "name": "Character AI",
+      "slug": "character-ai",
+      "guide_url": "https://www.extern.com/post/character-ai-internship-guide",
+      "career_urls": [
+        "https://jobs.ashbyhq.com/character/",
+        "https://character.ai/careers"
+      ],
+      "rolling": "Not confirmed. Any intern role would likely be ad hoc and filled on a rolling basis given the startup's small team size. Referrals can compress the process from",
+      "pay": "No intern-specific data available. Full-time SWE Applied ML roles pay $200K to $300K. Comparable AI startup interns earn $8,000 to $12,000 per month",
+      "no_formal_program": true,
+      "faq_open_answer": null,
+      "window": [
+        "2026-09",
+        "2026-09"
+      ],
+      "window_text": "Not confirmed. No historical intern postings exist to establish a cycle. If ad hoc intern roles appear, expect them on the Ashby board starting fall 2026"
+    },
+    {
+      "name": "Checkr",
+      "slug": "checkr",
+      "guide_url": "https://www.extern.com/post/checkr-internship-guide",
+      "career_urls": [
+        "https://checkr.com/company/careers/open-careers"
+      ],
+      "rolling": "Not confirmed for interns. Full-time roles are posted and filled on a rolling basis via Greenhouse with no fixed batch deadline. Historical intern interviews cl",
+      "pay": "Intern pay not found (Levels.fyi's Checkr intern entry has no salary). Benchmark roughly $7K\u2013$9K per month, extrapolated from full-time entry base. Full-time SW",
+      "no_formal_program": false,
+      "faq_open_answer": null,
+      "window": [
+        "2026-09",
+        "2026-11"
+      ],
+      "window_text": "Not confirmed. No intern posting exists as of August 2026. Based on prior intern interviews dated Oct 2021 and Feb 2022, applications for summer 2027 are expected to open around Fall 2026 (Sept\u2013Nov 2026) if the program returns"
+    },
+    {
+      "name": "Chewy",
+      "slug": "chewy",
+      "guide_url": "https://www.extern.com/post/chewy-internship-guide",
+      "career_urls": [
+        "https://careers.chewy.com/us/en/student-programs-jobs"
+      ],
+      "rolling": "Yes. Chewy posts individual requisitions per team and location and fills them as candidates clear the loop; reqs can even be pulled mid-cycle. Apply early and t",
+      "pay": "Official postings: SWE Intern $34.52\u201346.00/hr (Summer 2027), Data Scientist Intern ~$36/hr, AI Innovator Intern $32\u201340/hr. Unbound Fellowship: $135k annualized ",
+      "no_formal_program": false,
+      "faq_open_answer": "The Summer 2027 SWE internship is already open as of August 2026. Based on the 2026 cycle (June 8 \u2013 August 14 internship), expect the remaining tracks to open through fall 2026 and fill on a rolling basis. Apply early.",
+      "window": [
+        "2026-09",
+        "2026-09"
+      ],
+      "window_text": "OPEN NOW / rolling. The Summer 2027 SWE internship is already posted; other tracks open through fall 2026 and fill as candidates clear the pipeline. Exact deadlines not published) apply early"
+    },
+    {
+      "name": "Cisco",
+      "slug": "cisco",
+      "guide_url": "https://www.extern.com/post/cisco-internship-guide",
+      "career_urls": [
+        "https://careers.cisco.com/global/en/internships-and-co-ops"
+      ],
+      "rolling": "Yes. Positions filled continuously; most closed by mid-November",
+      "pay": "$38\u2013$55/hr; Meraki division at the top of range. Housing stipends in select markets",
+      "no_formal_program": false,
+      "faq_open_answer": null,
+      "window": [
+        "2026-08",
+        "2026-09"
+      ],
+      "window_text": "Expected August\u2013September 2026 for summer 2027 (rolling; projected from prior cycle)"
+    },
+    {
+      "name": "Cloudflare",
+      "slug": "cloudflare",
+      "guide_url": "https://www.extern.com/post/cloudflare-internship-guide",
+      "career_urls": [
+        "https://www.cloudflare.com/careers/jobs/"
+      ],
+      "rolling": "Yes, reviewed in batches. Early applicants have an advantage as positions fill on a rolling basis",
+      "pay": "US engineering interns: $45\u201353/hr ($7,800\u20139,200/mo) plus housing and relocation stipends",
+      "no_formal_program": false,
+      "faq_open_answer": "Based on the prior cycle, expect postings mid-October 2026. The priority window runs October through early November, with a practical deadline of late January to early February 2027. Those dates are projected, not official yet.",
+      "window": [
+        "2026-10",
+        "2026-10"
+      ],
+      "window_text": "Expected mid-October 2026 for summer 2027. Priority window: October through early November. Practical deadline: late January to early February 2027"
+    },
+    {
+      "name": "Cockroach Labs",
+      "slug": "cockroach-labs",
+      "guide_url": "https://www.extern.com/post/cockroach-labs-internship-guide",
+      "career_urls": [
+        "https://www.cockroachlabs.com/careers/internships/",
+        "https://www.cockroachlabs.com/careers/open-positions/"
+      ],
+      "rolling": "Likely rolling / cohort-batched with an early close. The 2026 posting closed well before the summer start and Levels.fyi shows recurring summer cohorts. Treat i",
+      "pay": "Official 2026 range: $8,250 to $8,750 per month (US). Community data (Levels.fyi) shows ~$47.60/hr plus a $5,000 sign-on bonus for Summer 2025, and \"some equity",
+      "no_formal_program": false,
+      "faq_open_answer": "Expected around fall 2026, projected from the prior cycle (the 2026 posting is now closed, consistent with a fall-open, rolling-close pattern). Exact Summer 2027 dates are not found as of August 2026, so monitor cockroachlabs.com/careers/open-positions and the internships page starting in the fall and apply early.",
+      "window": [
+        "2026-09",
+        "2026-09"
+      ],
+      "window_text": "Not yet published. Applications for summer 2027 are expected to open ~fall 2026, projected from the prior cycle. The Engineering Internships 2026 posting is now closed. Exact Summer 2027 dates: not found as of August 2026"
+    },
+    {
+      "name": "Cognition (Devin)",
+      "slug": "cognition",
+      "guide_url": "https://www.extern.com/post/cognition-internship-guide",
+      "career_urls": [
+        "https://cognition.com/careers"
+      ],
+      "rolling": "Full-time roles appear to fill on a rolling basis. If an intern program launches, expect the same pattern",
+      "pay": "No intern data. Full-time SWE base: $260K to $300K. Comparable AI lab interns earn $60 to $75/hr ($10K to $13K/month)",
+      "no_formal_program": true,
+      "faq_open_answer": null,
+      "window": [
+        "2026-09",
+        "2026-09"
+      ],
+      "window_text": "Not confirmed. Monitor the careers page starting fall 2026 as the company scales to 78+ open roles"
+    },
+    {
+      "name": "Cohere",
+      "slug": "cohere",
+      "guide_url": "https://www.extern.com/post/cohere-internship-guide",
+      "career_urls": [
+        "https://jobs.ashbyhq.com/cohere",
+        "https://cohere.com/research/scholars-program"
+      ],
+      "rolling": "Yes. Cohere reviews applications as they arrive with no published cutoff dates. Postings have remained live for months in past cycles",
+      "pay": "$56 to $64 per hour for US-based interns ($9,700 to $11,100/month). Canadian interns earn $24 to $50/hr reflecting geographic pay bands. Lunch allowance at some",
+      "no_formal_program": false,
+      "faq_open_answer": "Summer intern postings are expected between December 2026 and February 2027 based on prior-cycle patterns. Cohere does not publish fixed deadlines; all tracks use rolling admissions. Set a job alert on the Ashby board.",
+      "window": [
+        "2026-08",
+        "2026-08"
+      ],
+      "window_text": "Summer 2027 postings expected December 2026 through February 2027. Scholars Program applications typically open around August. All rolling, no fixed deadlines"
+    },
+    {
+      "name": "Confluent",
+      "slug": "confluent",
+      "guide_url": "https://www.extern.com/post/confluent-internship-guide",
+      "career_urls": [
+        "https://careers.confluent.io/jobs/early_talent"
+      ],
+      "rolling": "Partially. Confluent posts a fixed set of early-talent reqs each cycle but reviews applications and sends HackerRank invites on a rolling basis and closes roles",
+      "pay": "About $54/hour (~$9,360/month) for the Austin SWE Intern role (Levels.fyi, Summer 2026), plus a $4,000 pre-tax housing-stipend lump sum at the start (official J",
+      "no_formal_program": false,
+      "faq_open_answer": null,
+      "window": [
+        "2026-09",
+        "2026-11"
+      ],
+      "window_text": "Not yet announced (expected). No Summer 2027 reqs are live as of August 2026. Applications for summer 2027 are expected to open ~Fall 2026 (roughly Sept\u2013Nov 2026), projected from the documented Summer 2026 cycle"
+    },
+    {
+      "name": "Contextual AI",
+      "slug": "contextual-ai",
+      "guide_url": "https://www.extern.com/post/contextual-ai-internship-guide",
+      "career_urls": [
+        "https://contextual.ai/careers",
+        "https://job-boards.greenhouse.io/contextualai"
+      ],
+      "rolling": "Not confirmed explicitly. Average hiring timeline is 22 days (Glassdoor, n=4), suggesting a fast, rolling process for small cohorts",
+      "pay": "$110,000 to $120,000 annualized ($9,167 to $10,000/month, approximately $53 to $58/hr). Housing and relocation stipends not confirmed",
+      "no_formal_program": false,
+      "faq_open_answer": null,
+      "window": [
+        "2026-09",
+        "2026-09"
+      ],
+      "window_text": "Projected fall 2026 through winter 2027 for summer 2027 roles. Based on the Summer 2025 PhD Research Intern listing cycle"
+    },
+    {
+      "name": "CrowdStrike",
+      "slug": "crowdstrike",
+      "guide_url": "https://www.extern.com/post/crowdstrike-internship-guide",
+      "career_urls": [
+        "https://www.crowdstrike.com/en-us/careers/university-interns/"
+      ],
+      "rolling": "Yes. CrowdStrike reviews applications on a rolling basis and fills seats as strong candidates clear the pipeline. Apply early for priority consideration",
+      "pay": "$28\u2013$55/hr depending on role. SWE interns ~$43/hr (~$7,450/month). Intelligence interns $28\u2013$35/hr. Housing stipend up to $4,500/month for eligible participants",
+      "no_formal_program": false,
+      "faq_open_answer": "Expect most roles to open in early August 2026, with a peak application window through September 2026 and bulk offers extended by December 2026. Those dates are projected from prior-cycle patterns and are not official yet. Set a job alert on CrowdStrike's careers page.",
+      "window": [
+        "2026-08",
+        "2026-09"
+      ],
+      "window_text": "Expected early August to late September 2026 for summer 2027 roles. Bulk offers extended by December 2026. Projected from prior-cycle patterns"
+    },
+    {
+      "name": "Cruise",
+      "slug": "cruise",
+      "guide_url": "https://www.extern.com/post/cruise-internship-guide",
+      "career_urls": [
+        "https://search-careers.gm.com/en/jobs/"
+      ],
+      "rolling": "Yes, effectively rolling. GM postings state \"this job may close before the stated closing date... apply as soon as possible.\" The SWE intern path is GM's fastes",
+      "pay": "Officially $7,800 to $9,200 per month (one Bachelor's posting cites ~$8,600/mo) plus a one-time taxable stipend, paid GM holidays, and the GM vehicle discount. ",
+      "no_formal_program": false,
+      "faq_open_answer": null,
+      "window": [
+        "2026-09",
+        "2027-03"
+      ],
+      "window_text": "No published GM 2027 dates yet. Projected from the 2026 cycle (which listed \"apply by ~1 Jun 2026\"), applications for summer 2027 are expected to open ~fall 2026 (Sept\u2013Nov 2026) and fill on a rolling basis into spring 2027"
+    },
+    {
+      "name": "Databricks",
+      "slug": "databricks",
+      "guide_url": "https://www.extern.com/post/databricks-internship-guide",
+      "career_urls": [
+        "https://www.databricks.com/company/careers/university-recruiting"
+      ],
+      "rolling": "Yes. Roles post progressively from mid-July 2026; apply as soon as your track appears for the highest acceptance rates; late applicants (Nov\u2013Jan) fill remaining",
+      "pay": "$54\u201360/hr ($9,300\u2013$10,400/mo) + $2,500/mo housing + $700 relocation + $250/mo gym",
+      "no_formal_program": false,
+      "faq_open_answer": null,
+      "window": [
+        "2026-07",
+        "2026-07"
+      ],
+      "window_text": "OPEN NOW (as of July 2026): first summer 2027 roles went live mid-July 2026; more tracks rolling out through October 2026 on the careers portal. Apply immediately"
+    },
+    {
+      "name": "Datadog",
+      "slug": "datadog",
+      "guide_url": "https://www.extern.com/post/datadog-internship-guide",
+      "career_urls": [
+        "https://careers.datadoghq.com/early-careers/"
+      ],
+      "rolling": "Yes. Datadog reviews applications on a rolling basis and interviews September through March. Apply within the first week for the highest callback rates",
+      "pay": "$48 to $57 per hour for SWE interns ($8,300 to $9,931 per month) depending on location. Housing stipend of $6,000 to $7,500 for NYC and Boston. PM interns at $5",
+      "no_formal_program": false,
+      "faq_open_answer": "Expect most technical roles to open in early September 2026, with a priority deadline around late October and rolling review continuing through March 2027. Those dates are projected from the Summer 2026 cycle and are not official yet. Join the Talent Community at careers.datadoghq.com.",
+      "window": [
+        "2026-09",
+        "2026-09"
+      ],
+      "window_text": "Expected early September 2026 for summer 2027 roles. Priority deadline around late October 2026, rolling until positions are filled (typically late March 2027). Projected from prior cycle"
+    },
+    {
+      "name": "Decagon",
+      "slug": "decagon",
+      "guide_url": "https://www.extern.com/post/decagon-internship-guide",
+      "career_urls": [
+        "https://jobs.ashbyhq.com/decagon",
+        "https://jobs.a16z.com/jobs/decagon"
+      ],
+      "rolling": "Likely yes. The Summer 2026 listing remained open for several months. Glassdoor reports a 13-day average hiring process, suggesting quick turnaround consistent ",
+      "pay": "$2,400/week (~$60/hr) plus a $10,000 housing stipend for the internship. Free daily meals, medical/dental/vision, commuter benefits",
+      "no_formal_program": false,
+      "faq_open_answer": null,
+      "window": [
+        "2026-10",
+        "2026-11"
+      ],
+      "window_text": "Expected October to November 2026 for Summer 2027, based on Summer 2026 posting cadence. Likely rolling"
+    },
+    {
+      "name": "DeepL",
+      "slug": "deepl",
+      "guide_url": "https://www.extern.com/post/deepl-internship-guide",
+      "career_urls": [
+        "https://jobs.ashbyhq.com/DeepL"
+      ],
+      "rolling": "Yes (likely). DeepL does not publish fixed deadlines. Positions are filled as suitable candidates are found",
+      "pay": "Not published. German tech intern benchmarks: EUR 1,500 to 2,500 per month for paid Praktikum at well-funded startups. Working Students typically earn EUR 15 to",
+      "no_formal_program": true,
+      "faq_open_answer": null,
+      "window": null,
+      "window_text": "No fixed window. Roles appear ad-hoc, typically 2 to 4 months before the start date. Monitor the Ashby board from Q1 2027 onward"
+    },
+    {
+      "name": "Dell Technologies",
+      "slug": "dell-technologies",
+      "guide_url": "https://www.extern.com/post/dell-technologies-internship-guide",
+      "career_urls": [
+        "https://jobs.dell.com/en/internships"
+      ],
+      "rolling": "Not explicitly confirmed as rolling, but early submission is strongly encouraged. Employee referrals bypass initial ATS screening",
+      "pay": "SWE undergrad $31\u2013$38/hr ($64k\u2013$79k annualized); SWE Masters $42\u2013$52/hr; Business $25\u2013$32/hr. Housing stipend $2,500\u2013$4,000",
+      "no_formal_program": false,
+      "faq_open_answer": "Applications are expected to open in September 2026, with a priority deadline in late October to mid-November. Some roles close by December 31. These dates are projected from the prior cycle and aren\u2019t confirmed yet. Set a job alert on jobs.dell.com.",
+      "window": [
+        "2026-09",
+        "2026-09"
+      ],
+      "window_text": "Expected September 2026 open, priority deadline late October to mid-November, final deadline varies by role (some close December 31)"
+    },
+    {
+      "name": "Discord",
+      "slug": "discord",
+      "guide_url": "https://www.extern.com/post/discord-internship-guide",
+      "career_urls": [
+        "https://discord.com/careers"
+      ],
+      "rolling": "Likely yes. No hard deadline language in any JD; postings stay open until filled. Discord states they respond within two weeks of applying",
+      "pay": "SWE intern (Bachelor's) $63/hr (~$10,920/mo); Master's $73/hr; PhD $83/hr. Creative intern $59/hr. Housing and transportation benefits included",
+      "no_formal_program": false,
+      "faq_open_answer": "Based on the past two cycles, expect postings October to December 2026 for summer 2027. Discord posted Summer 2024 roles in November 2023 and Summer 2025 roles in late 2024. No official timeline is published, so monitor discord.com/careers starting October.",
+      "window": [
+        "2026-10",
+        "2026-12"
+      ],
+      "window_text": "Expected October to December 2026 for summer 2027. Projected from the past two cycles (Nov 2023 for Summer 2024, late 2024 for Summer 2025); not yet posted"
+    },
+    {
+      "name": "Docker",
+      "slug": "docker",
+      "guide_url": "https://www.extern.com/post/docker-internship-guide",
+      "career_urls": [
+        "https://www.docker.com/career-openings/",
+        "https://jobs.ashbyhq.com/docker/form/docker-sourcing-form"
+      ],
+      "rolling": "Not confirmed for interns (no program). Full-time roles are posted and filled on a rolling, as-needed basis with no fixed cohort windows. Glassdoor reports an a",
+      "pay": "No Docker intern pay data exists (none on Levels.fyi). Aggregator \"Docker intern\" listings at ~$14\u2013$59/hr are jobs at OTHER companies that require Docker the to",
+      "no_formal_program": true,
+      "faq_open_answer": null,
+      "window": [
+        "2026-09",
+        "2026-09"
+      ],
+      "window_text": "Not published. No formal internship program exists as of August 2026, so there is no documented cycle to anchor to. If Docker introduces interns, container/dev-tools postings at comparable companies typically open in fall 2026 for a summer 2027 start; applications for summer 2027 would be expected to open around fall 2026. Monitor the careers page and Talent Community from Fall 2026"
+    },
+    {
+      "name": "DocuSign",
+      "slug": "docusign",
+      "guide_url": "https://www.extern.com/post/docusign-internship-guide",
+      "career_urls": [
+        "https://careers.docusign.com/students"
+      ],
+      "rolling": "Yes, implicitly. DocuSign opens applications during specific windows and fills positions rolling until headcount is met",
+      "pay": "SWE San Francisco ~$47/hr ($8,147/month). Range across roles: $31 to $51/hr depending on track and location",
+      "no_formal_program": false,
+      "faq_open_answer": "Expect most engineering and tech roles to open September to October 2026, based on prior posting patterns. DocuSign opens applications during specific windows and fills them rolling. Set a job alert on careers.docusign.com/students.",
+      "window": [
+        "2026-09",
+        "2026-10"
+      ],
+      "window_text": "Expected Sep to Oct 2026 for engineering and tech; rolling through Jan to Feb 2027. Projected pattern, not yet posted"
+    },
+    {
+      "name": "Drata",
+      "slug": "drata",
+      "guide_url": "https://www.extern.com/post/drata-internship-guide",
+      "career_urls": [
+        "https://drata.com/about/careers"
+      ],
+      "rolling": "Not confirmed for interns (no program). Full-time roles are posted and filled on a rolling basis with no fixed cohort windows; the full-time process runs roughl",
+      "pay": "No intern pay data exists. For full-time SWE, one official JD lists a $131,000 to $178,500 base plus RSUs and benefits; Levels.fyi reports a community median ar",
+      "no_formal_program": true,
+      "faq_open_answer": null,
+      "window": [
+        "2026-09",
+        "2026-09"
+      ],
+      "window_text": "Not published. No formal internship program exists as of August 2026, and there is no prior intern cycle to anchor against. If Drata launches an early-career track, postings for summer 2027 would typically open around fall 2026 (expected)"
+    },
+    {
+      "name": "Dropbox",
+      "slug": "dropbox",
+      "guide_url": "https://www.extern.com/post/dropbox-internship-guide",
+      "career_urls": [
+        "https://www.dropbox.jobs/en/emerging-talent/"
+      ],
+      "rolling": "Likely semi-rolling or batch-based. Dropbox says 'apply as early as possible' and the average process runs about 11 days",
+      "pay": "SWE $8,000 to $9,500 per month; Data Science Engineer $7,500 per month; Research $7,000 to $8,000 per month (official 2026 JD rates). Benefits include medical, ",
+      "no_formal_program": false,
+      "faq_open_answer": "The SWE track is expected to open September to December 2026, based on prior cycles. Data Science and Research tracks typically follow in January to March 2027. The Emerging Talent page says December, but observed postings have appeared as early as September. Set a job alert on dropbox.jobs.",
+      "window": [
+        "2026-09",
+        "2026-12"
+      ],
+      "window_text": "Expected Sep to Dec 2026 for SWE; Data Science and Research tracks likely Jan to Mar 2027. Projected from prior cycles, not yet posted"
+    },
+    {
+      "name": "Duolingo",
+      "slug": "duolingo",
+      "guide_url": "https://www.extern.com/post/duolingo-internship-guide",
+      "career_urls": [
+        "https://careers.duolingo.com/?type=Intern"
+      ],
+      "rolling": "No. Duolingo uses hard deadlines. Missing the window means waiting until the next annual cycle",
+      "pay": "Standard: $50\u2013$52/hr. Thrive: $43\u2013$45/hr. Both include a $1,000/month housing stipend, daily catered meals, and relocation support (Levels.fyi, Summer 2025 data",
+      "no_formal_program": false,
+      "faq_open_answer": "Expect Standard and Thrive postings to open in September 2026, with Thrive SWE closing late September, APM and Data Science closing early October, and Design roles closing early November. Those dates are projected from the Summer 2026 cycle and are not official yet. Bookmark careers.duolingo.com.",
+      "window": [
+        "2026-09",
+        "2026-11"
+      ],
+      "window_text": "Expected September to November 2026 for summer 2027 roles. Thrive SWE deadline projected late September; APM and Data Science projected early October; Product Design and Studio Art projected early November. Projected from Summer 2026 cycle"
+    },
+    {
+      "name": "Electronic Arts",
+      "slug": "electronic-arts",
+      "guide_url": "https://www.extern.com/post/electronic-arts-internship-guide",
+      "career_urls": [
+        "https://www.ea.com/careers/early-careers",
+        "https://jobs.ea.com/"
+      ],
+      "rolling": "Not confirmed. EA uses a single umbrella application with a hard deadline for US Campus summer roles",
+      "pay": "$19\u2013$29/hr official California range; SWE interns report up to $50/hr at Redwood City (Levels.fyi)",
+      "no_formal_program": false,
+      "faq_open_answer": "Based on the Summer 2026 cycle, EA\u2019s US Campus umbrella application should open around September\u2013October 2026, with a deadline near November 2026. Individual role postings may appear earlier on jobs.ea.com. EA has not posted 2027 dates yet, so bookmark ea.com/careers/early-careers and check regularly starting September 2026.",
+      "window": [
+        "2026-09",
+        "2026-10"
+      ],
+      "window_text": "Expected September\u2013October 2026 open, deadline near November 2026 (documented pattern; not yet posted)"
+    },
+    {
+      "name": "ElevenLabs",
+      "slug": "elevenlabs",
+      "guide_url": "https://www.extern.com/post/elevenlabs-internship-guide",
+      "career_urls": [
+        "https://elevenlabs.io/careers"
+      ],
+      "rolling": "Not applicable (no program). Full-time hiring is continuous and rolling via the Ashby ATS",
+      "pay": "Not published for interns. Full-time ML/Research Engineers earn $170K to $240K base ($220K to $400K+ total comp including equity). Equity is 20 to 40% of total ",
+      "no_formal_program": true,
+      "faq_open_answer": null,
+      "window": [
+        "2026-11",
+        "2027-02"
+      ],
+      "window_text": "Not announced. No formal internship program exists as of July 2026. If launched, expect announcements late 2026 or early 2027"
+    },
+    {
+      "name": "Epic Games",
+      "slug": "epic-games",
+      "guide_url": "https://www.extern.com/post/epic-games-internship-guide",
+      "career_urls": [
+        "https://www.epicgames.com/site/en-US/careers/jobs?type=Intern"
+      ],
+      "rolling": "Yes. Official statement: roles are filled \"as soon as they find the best match\"",
+      "pay": "$38\u201350/hr projected for engineering (Levels.fyi reported $40\u201357/hr in 2022\u201323); housing stipend included",
+      "no_formal_program": false,
+      "faq_open_answer": "Expected around September 2026, based on Epic's consistent multi-year pattern (projected from the summer 2026 cycle, which opened in fall 2025). There's no hard deadline; roles stay posted until filled, with most closing by March 2027. Apply in week one for the widest selection of open seats.",
+      "window": [
+        "2026-09",
+        "2026-09"
+      ],
+      "window_text": "For summer 2027: expected to open September 2026, rolling through March 2027, no hard deadline (projected from prior cycle)"
+    },
+    {
+      "name": "Expedia",
+      "slug": "expedia",
+      "guide_url": "https://www.extern.com/post/expedia-internship-guide",
+      "career_urls": [
+        "https://careers.expediagroup.com/emerging-talent-and-careers/"
+      ],
+      "rolling": "Yes. Most interview slots fill by mid-October; positions close once enough qualified candidates are received",
+      "pay": "$45/hr for SWE ($7,800/month) + $2,000/mo housing or $6,000 lump sum; PM ~$35/hr + corporate housing",
+      "no_formal_program": false,
+      "faq_open_answer": null,
+      "window": [
+        "2026-08",
+        "2026-10"
+      ],
+      "window_text": "Expected August\u2013October 2026 for summer 2027 (documented pattern; not yet posted)"
+    },
+    {
+      "name": "Figma",
+      "slug": "figma",
+      "guide_url": "https://www.extern.com/post/figma-internship-guide",
+      "career_urls": [
+        "https://www.figma.com/careers/"
+      ],
+      "rolling": "Likely rolling with batch review. The SWE Intern (2026) listing was live Aug 29, 2025 to Jan 29, 2026, closing once filled",
+      "pay": "SWE intern NYC $60/hr ($10,400/mo), SF $51.06/hr ($8,850/mo). Plus $2,000/mo housing stipend, meals, travel reimbursement",
+      "no_formal_program": false,
+      "faq_open_answer": null,
+      "window": [
+        "2026-08",
+        "2026-09"
+      ],
+      "window_text": "Expected Aug to Sep 2026 for SWE and tech; rolling review through early 2027. Projected from 2025\u201326 cycle, not yet posted"
+    },
+    {
+      "name": "Figure AI",
+      "slug": "figure-ai",
+      "guide_url": "https://www.extern.com/post/figure-ai-internship-guide",
+      "career_urls": [
+        "https://www.figure.ai/careers",
+        "https://job-boards.greenhouse.io/figureai"
+      ],
+      "rolling": "Yes. Figure AI does not publish fixed deadlines. Postings remain open until filled, and the company reportedly moves fast on prioritized roles",
+      "pay": "$35 to $45 per hour ($40 to $45/hr for Special Projects). No confirmed housing stipend; San Jose cost-of-living is high, so budget independently",
+      "no_formal_program": false,
+      "faq_open_answer": "Based on prior cycles, Summer 2027 postings are expected between September and November 2026 on the Greenhouse job board. Figure does not publish fixed deadlines; positions are filled on a rolling basis. Set an alert at job-boards.greenhouse.io/figureai.",
+      "window": [
+        "2026-09",
+        "2026-11"
+      ],
+      "window_text": "Expected September to November 2026 for Summer 2027 roles. No fixed deadline; positions are filled on a rolling basis. Projected from prior cycles"
+    },
+    {
+      "name": "Fivetran",
+      "slug": "fivetran",
+      "guide_url": "https://www.extern.com/post/fivetran-internship-guide",
+      "career_urls": [
+        "https://www.fivetran.com/careers"
+      ],
+      "rolling": "Likely yes (inferred). Fivetran posts and fills roles on a rolling basis through Greenhouse rather than in fixed batch windows. No single hard intern deadline i",
+      "pay": "Posted base range $79,000\u2013$94,800 USD (~$38\u2013$46/hr), plus RSU stock grants, 100% employer-paid medical, PTO, and a monthly phone stipend. Housing/relocation not",
+      "no_formal_program": false,
+      "faq_open_answer": null,
+      "window": [
+        "2026-09",
+        "2027-02"
+      ],
+      "window_text": "Not published. No fixed university-recruiting calendar; a Summer 2027 SWE intern posting is expected to surface ~Fall 2026 through early 2027 (estimate, not confirmed)"
+    },
+    {
+      "name": "Flatiron Health",
+      "slug": "flatiron-health",
+      "guide_url": "https://www.extern.com/post/flatiron-health-internship-guide",
+      "career_urls": [
+        "https://flatiron.com/careers/open-positions",
+        "https://flatiron.com/careers/teams"
+      ],
+      "rolling": "Not officially confirmed for interns. Community reports describe a ~3 to 5 week application-to-offer process, consistent with rolling review. Treat as rolling a",
+      "pay": "Latest documented Software Engineer Intern pay was $52.08/hour (~$9,028/month) plus a $1,500/month housing stipend and company-provided transportation (Levels.f",
+      "no_formal_program": false,
+      "faq_open_answer": null,
+      "window": [
+        "2026-09",
+        "2027-01"
+      ],
+      "window_text": "Not published yet. Zero intern postings were live as of August 2026. Based on documented prior summer cohorts, Summer 2027 postings are expected to open in Fall 2026 (approximately September\u2013January). Confirm exact dates when postings go live"
+    },
+    {
+      "name": "GitLab",
+      "slug": "gitlab",
+      "guide_url": "https://www.extern.com/post/gitlab-internship-guide",
+      "career_urls": [
+        "https://job-boards.greenhouse.io/gitlab/",
+        "https://about.gitlab.com/jobs/all-jobs/"
+      ],
+      "rolling": "Effectively yes. GitLab posts and fills roles continuously on Greenhouse rather than in fixed batch windows, and the intern pilot is framed as ongoing. Treat it",
+      "pay": "Not published. There is no official GitLab intern pay figure and Levels.fyi's intern page has no data points. Community-labeled full-time US SWE total comp runs",
+      "no_formal_program": false,
+      "faq_open_answer": null,
+      "window": [
+        "2026-09",
+        "2027-02"
+      ],
+      "window_text": "Not published. GitLab hires interns as an ongoing pilot with no fixed annual calendar. Applications for a summer 2027 cohort are expected to open around fall 2026 through early 2027 (expected, not confirmed)"
+    },
+    {
+      "name": "Glean",
+      "slug": "glean",
+      "guide_url": "https://www.extern.com/post/glean-internship-guide",
+      "career_urls": [
+        "https://www.glean.com/careers",
+        "https://job-boards.greenhouse.io/gleanwork"
+      ],
+      "rolling": "Yes (effectively). Glean does not publish a hard deadline. Postings remain open until filled or the cohort is complete. Applying by October to November gives th",
+      "pay": "$57 to $69 per hour ($10,000+/month) for SWE interns. Levels.fyi verified $57.69/hr for Summer 2025 with ~5% year-over-year increases. Housing stipend of $1,000",
+      "no_formal_program": false,
+      "faq_open_answer": "Based on the prior two cycles (Summer 2026 postings appeared September 2025, Summer 2025 postings appeared Fall 2024), expect SWE intern listings on Greenhouse and glean.com/careers in August to September 2026. No Summer 2027 posting is live as of July 2026.",
+      "window": [
+        "2026-08",
+        "2026-09"
+      ],
+      "window_text": "Expected August to September 2026 opening based on prior cycles (Summer 2026 postings appeared September 2025). Rolling review, likely closing by December 2026"
+    },
+    {
+      "name": "Google",
+      "slug": "google",
+      "guide_url": "https://www.extern.com/post/google-internship-guide",
+      "career_urls": [
+        "https://www.google.com/about/careers/applications/students/",
+        "https://buildyourfuture.withgoogle.com/programs/step/"
+      ],
+      "rolling": "Yes. Official JD: reviewed \"on a rolling basis,\" and a posting \"may close earlier if all available projects are full\"",
+      "pay": "SWE intern median $62.98/hr plus ~$3,000/mo housing stipend (Levels.fyi, crowdsourced)",
+      "no_formal_program": false,
+      "faq_open_answer": "The main software windows are open now: SWE Intern (BS) and SWE Intern (MS) for Summer 2027 posted in July 2026. STEP and remaining tracks are expected through August to October 2026. Research and PhD deadlines tend to cluster earlier in the calendar year. Google reviews on a rolling basis, so apply the week your target role opens.",
+      "window": [
+        "2026-08",
+        "2026-10"
+      ],
+      "window_text": "Expected August to October 2026, rolling, for summer 2027 (projected from prior cycles; not yet posted)"
+    },
+    {
+      "name": "Google DeepMind",
+      "slug": "google-deepmind",
+      "guide_url": "https://www.extern.com/post/google-deepmind-internship-guide",
+      "career_urls": [
+        "https://deepmind.google/student-researcher-program/",
+        "https://www.google.com/about/careers/applications/jobs/results/?q=student%20researcher%20program"
+      ],
+      "rolling": "Yes. Official: \"reviewed on a rolling basis\" and the window \"may close earlier if all available projects are full\"",
+      "pay": "Research interns: ~$72/hr ($12,500/mo) + $9,000 housing at Mountain View (Levels.fyi, 2025 data)",
+      "no_formal_program": false,
+      "faq_open_answer": "Based on the 2026 cycle, expect Student Researcher postings to open in late 2027 or early 2028, with rolling review closing when projects fill. The Google SWE intern window typically opens August to October the year before. DeepMind has not posted 2028 dates yet, so watch careers.google.com and deepmind.google starting fall 2027.",
+      "window": [
+        "2026-11",
+        "2027-02"
+      ],
+      "window_text": "Expected late 2026 to early 2027 for Summer 2027 Student Researcher; SWE Intern Summer 2027 has already closed (documented pattern; not yet posted for 2028)"
+    },
+    {
+      "name": "Grafana Labs",
+      "slug": "grafana-labs",
+      "guide_url": "https://www.extern.com/post/grafana-labs-internship-guide",
+      "career_urls": [
+        "https://grafana.com/careers/",
+        "https://job-boards.greenhouse.io/grafanalabs"
+      ],
+      "rolling": "Partially. Full-time roles fill on a rolling basis year-round; the internship is seasonal (summer cohort) tied to a fall-opening window, not always-on. Overall ",
+      "pay": "No official Grafana intern figure is published. The only public data point: $42/hr (~$7,280/mo) for a Summer 2023 SWE intern (Levels.fyi, community-reported, si",
+      "no_formal_program": false,
+      "faq_open_answer": null,
+      "window": [
+        "2026-09",
+        "2026-12"
+      ],
+      "window_text": "Not published for Summer 2027 (expected). Grafana runs a seasonal summer program; the prior 2023 cohort posting was live by November 2022, so Summer 2027 applications are expected to open ~fall 2026 (Sep\u2013Dec)"
+    },
+    {
+      "name": "Grammarly",
+      "slug": "grammarly",
+      "guide_url": "https://www.extern.com/post/grammarly-internship-guide",
+      "career_urls": [
+        "https://www.grammarly.com/careers"
+      ],
+      "rolling": "Not confirmed. Grammarly uses a fixed window (fall open, winter close) but likely reviews applications as they arrive, so earlier is better",
+      "pay": "SWE SF $47/hr (~$7,520/month). ML SF $54/hr (~$8,640/month). Housing stipend of $2,667/month for SF-based ML interns",
+      "no_formal_program": false,
+      "faq_open_answer": "Expect SWE and ML intern postings to go live between September and November 2026, based on patterns from summer 2025 and 2026 cycles. Those dates are projected, not official. Set a job alert on grammarly.com/careers.",
+      "window": [
+        "2026-09",
+        "2026-11"
+      ],
+      "window_text": "Expected September to November 2026 for Summer 2027 SWE and ML tracks. Projected from prior cycles, not yet posted"
+    },
+    {
+      "name": "Harvey",
+      "slug": "harvey",
+      "guide_url": "https://www.extern.com/post/harvey-internship-guide",
+      "career_urls": [
+        "https://www.harvey.ai/careers",
+        "https://jobs.ashbyhq.com/harvey"
+      ],
+      "rolling": "Yes. No fixed deadline. The Summer 2026 SWE intern listing was removed within roughly 3 months of posting. Apply in the first weeks for the best odds",
+      "pay": "$60 to $65/hr ($10,400 to $11,267/month). Housing stipend of $1,666/month. Relocation assistance, $100/month transportation stipend, free lunch, dinner, and sna",
+      "no_formal_program": false,
+      "faq_open_answer": "Expect SWE and legal intern listings in September to October 2026 on harvey.ai/careers. Projected from the Summer 2025 and 2026 cycles, where postings appeared in late fall and filled within roughly three months. No official dates have been announced.",
+      "window": [
+        "2026-09",
+        "2026-10"
+      ],
+      "window_text": "Expected September to October 2026 for summer 2027 roles. Rolling admissions, likely closes by December 2026. Projected from the Summer 2025 and 2026 cycles"
+    },
+    {
+      "name": "HashiCorp",
+      "slug": "hashicorp",
+      "guide_url": "https://www.extern.com/post/hashicorp-internship-guide",
+      "career_urls": [
+        "https://www.hashicorp.com/en/careers",
+        "https://www.ibm.com/careers/search?q=hashicorp"
+      ],
+      "rolling": "Partly. IBM works through applications on a rolling basis and reaches out after you apply; HashiCorp loops have run from ~1 week to ~2 months. Apply early in th",
+      "pay": "~$46/hour (about $7,973/month) plus up to $7,000 relocation for recent US cycles (community levels.fyi, not official). IBM guarantees all internships are paid",
+      "no_formal_program": false,
+      "faq_open_answer": null,
+      "window": [
+        "2026-08",
+        "2026-11"
+      ],
+      "window_text": "Expected ~August\u2013November 2026 for a Summer 2027 start. IBM runs US intern hiring August to November each year; no firm 2027 date is published yet"
+    },
+    {
+      "name": "Hebbia",
+      "slug": "hebbia",
+      "guide_url": "https://www.extern.com/post/hebbia-internship-guide",
+      "career_urls": [
+        "https://www.hebbia.com/careers",
+        "https://jobs.ashbyhq.com/hebbia-ai"
+      ],
+      "rolling": "Likely rolling admissions. Not confirmed. Hebbia's startup hiring style and average 17-day process (Glassdoor, n=27) suggest applications are reviewed as they a",
+      "pay": "Estimated $50 to $65 per hour ($8,700 to $11,300/month) based on comparable AI startups like Harvey ($60 to $65/hr for SWE interns). No confirmed Hebbia intern ",
+      "no_formal_program": true,
+      "faq_open_answer": null,
+      "window": [
+        "2026-10",
+        "2026-11"
+      ],
+      "window_text": "Projected October to November 2026 for summer 2027 roles. No official dates confirmed. Based on industry patterns for comparable AI startups"
+    },
+    {
+      "name": "Hims & Hers",
+      "slug": "hims-and-hers",
+      "guide_url": "https://www.extern.com/post/hims-and-hers-internship-guide",
+      "career_urls": [
+        "https://www.hims.com/careers-professionals",
+        "https://jobs.ashbyhq.com/hims-and-hers"
+      ],
+      "rolling": "Not confirmed for interns (no program). Full-time roles are posted and filled on a rolling, as-needed basis with no fixed seasonal window. Glassdoor puts the ov",
+      "pay": "No intern rate posted (Levels.fyi has no Hims intern entries). National context: US software-engineer interns average roughly $83K/yr annualized (Adzuna, July 2",
+      "no_formal_program": true,
+      "faq_open_answer": null,
+      "window": [
+        "2026-09",
+        "2026-09"
+      ],
+      "window_text": "Not published. No formal intern program exists, so there is no prior cycle to anchor to. If an intern or new-grad role is introduced, applications for summer 2027 would be expected to open around fall 2026 (industry norm, not a Hims & Hers commitment)"
+    },
+    {
+      "name": "HubSpot",
+      "slug": "hubspot",
+      "guide_url": "https://www.extern.com/post/hubspot-internship-guide",
+      "career_urls": [
+        "https://app.ripplematch.com/v2/public/company/hubspot",
+        "https://www.hubspot.com/careers/students/intern-coop"
+      ],
+      "rolling": "Not confirmed. The 2024 SWE window was a fixed 3-week deadline. Apply the day it opens",
+      "pay": "SWE: $50\u2013$54/hr (official JD + Levels.fyi); some cycles include a $2,000 bonus. Non-SWE: ~$34/hr average (Glassdoor)",
+      "no_formal_program": false,
+      "faq_open_answer": "Based on past cycles, expect applications to open in early fall 2026, likely around September. HubSpot's official page says internship applications open \"early each fall for the following year,\" and the SWE program has historically used a tight 3-to-4-week window. Follow StudentSpot on LinkedIn and check RippleMatch starting August 2026.",
+      "window": [
+        "2026-09",
+        "2026-10"
+      ],
+      "window_text": "Expected September to October 2026 for summer 2027 (documented pattern; not yet posted). SWE window historically just 3 weeks"
+    },
+    {
+      "name": "Hugging Face",
+      "slug": "hugging-face",
+      "guide_url": "https://www.extern.com/post/hugging-face-internship-guide",
+      "career_urls": [
+        "https://apply.workable.com/huggingface"
+      ],
+      "rolling": "Yes. Individual team internships open and close at different times. No single batch deadline exists",
+      "pay": "Roughly $18/hr in Paris (35,000 EUR/year) or roughly $24/hr in New York ($50,000/year). Housing allowance and transportation stipend included. Pay is below Big ",
+      "no_formal_program": false,
+      "faq_open_answer": "Based on prior cycles, expect postings around late November to December 2026 on the Workable portal. No fixed deadline exists; individual teams post and close their own openings on a rolling basis. Check weekly starting in November.",
+      "window": [
+        "2026-11",
+        "2026-12"
+      ],
+      "window_text": "Expected late November to December 2026 for Summer 2027 roles. No fixed deadline announced; positions fill on a rolling, team-by-team basis. Projected from prior cycles"
+    },
+    {
+      "name": "IBM",
+      "slug": "ibm",
+      "guide_url": "https://www.extern.com/post/ibm-internship-guide",
+      "career_urls": [
+        "https://www.ibm.com/careers/internships"
+      ],
+      "rolling": "Yes. Positions filled as qualified candidates are identified; early applicants face less competition",
+      "pay": "$32\u2013$88/hr depending on track (SWE ~$75, Research ~$88, PM ~$66); relocation stipend $2\u20134K",
+      "no_formal_program": false,
+      "faq_open_answer": null,
+      "window": [
+        "2026-08",
+        "2026-09"
+      ],
+      "window_text": "Partly open. Entry Level Sales Program 2027 intern roles (Brand Sales Specialist, Technical Sales Engineer, Technology Seller) live on careers.ibm.com as of Aug 14, 2026, plus some federal consulting intern reqs. The rest of the summer 2027 wave still expected late Aug/early Sep 2026, rolling through January 2027"
+    },
+    {
+      "name": "Ideogram",
+      "slug": "ideogram",
+      "guide_url": "https://www.extern.com/post/ideogram-internship-guide",
+      "career_urls": [
+        "https://jobs.ashbyhq.com/ideogram",
+        "https://ideogram.ai/careers"
+      ],
+      "rolling": "Yes, ad hoc. The Summer 2026 ML Research Intern listing was open approximately 268 days (October 2025 to July 2026). Postings appear based on team needs rather ",
+      "pay": "Not publicly disclosed. Estimated $6,000 to $10,000 CAD/month (Toronto) or $8,000 to $12,000 USD/month (NYC) based on comparable AI startups. Equity component n",
+      "no_formal_program": false,
+      "faq_open_answer": "Expect postings in Q4 2026 (October to December), based on the Summer 2026 cycle where the listing appeared around October 2025. There is no fixed application deadline; Ideogram reviews on a rolling basis. Monitor the Ashby board at jobs.ashbyhq.com/ideogram.",
+      "window": [
+        "2026-10",
+        "2026-12"
+      ],
+      "window_text": "Expected Q4 2026 (October to December 2026) for summer 2027 roles. Projected from the Summer 2026 cycle, where the listing appeared in October 2025"
+    },
+    {
+      "name": "Included Health",
+      "slug": "included-health",
+      "guide_url": "https://www.extern.com/post/included-health-internship-guide",
+      "career_urls": [
+        "https://includedhealth.com/careers/tech-jobs/",
+        "https://jobs.lever.co/includedhealth"
+      ],
+      "rolling": "Not confirmed for interns (no program). Full-time roles are posted and filled on a rolling basis with no fixed windows. Glassdoor reports an average hiring proc",
+      "pay": "No official intern pay exists. A single community Glassdoor sample lists $18 to $29/hr (median $23/hr), directional only. Full-time SWE base ranges by geographi",
+      "no_formal_program": true,
+      "faq_open_answer": null,
+      "window": [
+        "2026-09",
+        "2026-12"
+      ],
+      "window_text": "Not confirmed. No formal internship program exists, so there is no posted window. If a Summer 2027 role or ad hoc intern posting appears, health-tech peers typically open summer postings between September and December, so monitor starting Fall 2026"
+    },
+    {
+      "name": "Inflection AI",
+      "slug": "inflection-ai",
+      "guide_url": "https://www.extern.com/post/inflection-ai-internship-guide",
+      "career_urls": [
+        "https://inflection.ai/about",
+        "https://builtin.com/company/inflection-ai/jobs"
+      ],
+      "rolling": "Not officially confirmed, but positions fill quickly, suggesting first-come review. Apply as soon as listings appear",
+      "pay": "Technical: $50 to $65/hr ($8,700 to $11,300/month). Nontechnical: $25 to $40/hr. Rate scales with education level and experience. Housing stipend not confirmed",
+      "no_formal_program": false,
+      "faq_open_answer": "Based on the Summer 2026 cycle, listings are expected to appear between October and December 2026 on Built In, LinkedIn, and the Inflection AI careers page. Positions close once filled, so submit the week a listing goes live.",
+      "window": [
+        "2026-10",
+        "2026-12"
+      ],
+      "window_text": "Expected October to December 2026 for summer 2027 roles, based on the Summer 2026 cycle pattern. Listings close once positions are filled"
+    },
+    {
+      "name": "Intel",
+      "slug": "intel",
+      "guide_url": "https://www.extern.com/post/intel-internship-guide",
+      "career_urls": [
+        "https://jobs.intel.com/"
+      ],
+      "rolling": "Yes. Positions fill individually; no single hard deadline. Apply by October 2026 for priority consideration",
+      "pay": "$30 to $77/hr depending on degree and location, plus $3,000\u2013$8,000 housing stipend",
+      "no_formal_program": false,
+      "faq_open_answer": null,
+      "window": [
+        "2026-08",
+        "2026-10"
+      ],
+      "window_text": "Applications for summer 2027 expected to open ~August\u2013October 2026, projected from prior cycle (rolling; high-demand roles close by November 2026)"
+    },
+    {
+      "name": "Intuit",
+      "slug": "intuit",
+      "guide_url": "https://www.extern.com/post/intuit-internship-guide",
+      "career_urls": [
+        "https://jobs.intuit.com/category/internship-jobs/27595/9205024/1"
+      ],
+      "rolling": "Yes. Intuit hires interns on a rolling basis throughout the year. Apply within the first two weeks of a posting for the best response rates",
+      "pay": "$48 to $57 per hour for SWE interns ($8,320 to $9,880/month) depending on location. Corporate housing or $2,500 to $2,667/month housing stipend plus relocation ",
+      "no_formal_program": false,
+      "faq_open_answer": "Expect most roles to open around September 2026. Intuit typically begins hiring about 6 months before each program start date, and they hire on a rolling basis. Those dates are projected from the Summer 2026 cycle and are not official yet. Set a job alert on jobs.intuit.com.",
+      "window": [
+        "2026-09",
+        "2026-09"
+      ],
+      "window_text": "Expected September 2026 for summer 2027 roles. Intuit typically begins hiring about 6 months before each program start date. Projected from prior cycle"
+    },
+    {
+      "name": "Komodo Health",
+      "slug": "komodo-health",
+      "guide_url": "https://www.extern.com/post/komodo-health-internship-guide",
+      "career_urls": [
+        "https://job-boards.greenhouse.io/komodohealth"
+      ],
+      "rolling": "Not confirmed for interns (no program). Full-time roles are posted and filled on a rolling basis with no fixed windows; a firsthand account describes a fast pro",
+      "pay": "No intern pay data exists (no program). Full-time SWE total comp runs about $148K to $207.5K (Levels.fyi median ~$185K); the official Senior Data Scientist JD p",
+      "no_formal_program": true,
+      "faq_open_answer": null,
+      "window": [
+        "2026-08",
+        "2026-09"
+      ],
+      "window_text": "Not published. No formal internship program exists as of August 2026. If an early-career req for summer 2027 appears, comparable tech timing would put postings around fall 2026 (expected). Monitor the Greenhouse board directly"
+    },
+    {
+      "name": "Life360",
+      "slug": "life360",
+      "guide_url": "https://www.extern.com/post/life360-internship-guide",
+      "career_urls": [
+        "https://www.life360.com/careers",
+        "https://job-boards.greenhouse.io/life360"
+      ],
+      "rolling": "Not confirmed for interns (no program). Life360 fills full-time roles on a rolling basis with no fixed windows: roles post continuously on Greenhouse and close ",
+      "pay": "No official intern pay is published and Levels.fyi has no Life360 internship data. The SWE-intern market benchmark is about $83K per year annualized (roughly $6",
+      "no_formal_program": true,
+      "faq_open_answer": null,
+      "window": [
+        "2026-09",
+        "2026-09"
+      ],
+      "window_text": "Not confirmed. No formal internship program exists. If a summer 2027 early-career role were to open, comparable tech postings surface around fall 2026, so applications for summer 2027 would be expected to appear from roughly September 2026 onward"
+    },
+    {
+      "name": "Linear",
+      "slug": "linear",
+      "guide_url": "https://www.extern.com/post/linear-internship-guide",
+      "career_urls": [
+        "https://linear.app/careers",
+        "https://jobs.sequoiacap.com/jobs/linear"
+      ],
+      "rolling": "Yes for full-time roles \u2014 no fixed windows. Linear reviews every application and also sources candidates proactively. Most processes run 4 to 6 weeks from first",
+      "pay": "No intern pay data exists. The paid work trial is compensated at a daily rate shared in advance. Community-reported full-time SWE total comp (Levels.fyi, US, no",
+      "no_formal_program": true,
+      "faq_open_answer": null,
+      "window": [
+        "2026-09",
+        "2026-09"
+      ],
+      "window_text": "No formal internship program exists as of August 2026, so there is no published intern window. Full-time roles post and fill on a rolling basis. If Linear ever adds an early-career role, applications for summer 2027 would be expected to surface starting around fall 2026 \u2014 monitor linear.app/careers"
+    },
+    {
+      "name": "Luma AI",
+      "slug": "luma-ai",
+      "guide_url": "https://www.extern.com/post/luma-ai-internship-guide",
+      "career_urls": [
+        "https://lumalabs.ai/careers",
+        "https://jobs.gem.com/lumalabs-ai"
+      ],
+      "rolling": "Not officially confirmed. The Summer 2024 posting used a Google Form with no stated deadline, suggesting rolling review. Apply as soon as postings appear",
+      "pay": "Estimated $24 to $42 per hour ($46K to $78K annualized, pro-rated) per Glassdoor. Intern compensation rated 5.0 out of 5.0 stars, 34% above peer average. Full-t",
+      "no_formal_program": false,
+      "faq_open_answer": null,
+      "window": [
+        "2026-09",
+        "2026-12"
+      ],
+      "window_text": "Expected late fall 2026 (October to December) for summer 2027 roles. Timing inferred from industry norms; Luma has not published a formal recruitment calendar"
+    },
+    {
+      "name": "Mercor",
+      "slug": "mercor",
+      "guide_url": "https://www.extern.com/post/mercor-internship-guide",
+      "career_urls": [
+        "https://www.mercor.com/careers/"
+      ],
+      "rolling": "Not confirmed. The AI interview round appears to be administered on a rolling basis upon application. Whether reviews happen rolling or in batches is not public",
+      "pay": "SWE intern: $61K to $156K per year annualized ($32 to $57/hr estimated). Most recent Glassdoor submission (June 2026, San Francisco): $134K to $156K per year",
+      "no_formal_program": false,
+      "faq_open_answer": "Not yet announced. Based on the Summer 2026 cycle, applications are estimated to open in late fall 2026 or early winter 2027. Monitor the Mercor careers page and jobs platform for updates.",
+      "window": [
+        "2026-09",
+        "2026-09"
+      ],
+      "window_text": "Not yet announced. Based on the Summer 2026 cycle, applications are estimated to open late fall 2026 or early winter 2027"
+    },
+    {
+      "name": "Meta",
+      "slug": "meta",
+      "guide_url": "https://www.extern.com/post/meta-internship-guide",
+      "career_urls": [
+        "https://www.metacareers.com/careerprograms/students/"
+      ],
+      "rolling": "Yes. AI-research JDs state \"various start dates throughout the year\"; quotas fill by roughly December",
+      "pay": "$7,188 to $12,134/month official JD bands, plus housing assistance (~$2,600/mo commonly cited); SWE community figure ~$51.35/hr",
+      "no_formal_program": false,
+      "faq_open_answer": "Applications for summer 2027 are expected to open around August to October 2026, on a rolling basis, projected from Meta's documented prior cycle. That is roughly 9 to 10 months before the summer start. Have a strong resume ready by August 2026 and apply within the first week or two a req appears.",
+      "window": [
+        "2026-08",
+        "2026-10"
+      ],
+      "window_text": "Applications for summer 2027 expected to open August to October 2026, rolling (projected from prior cycle; summer 2027 reqs not yet posted)"
+    },
+    {
+      "name": "Micron",
+      "slug": "micron",
+      "guide_url": "https://www.extern.com/post/micron-internship-guide",
+      "career_urls": [
+        "https://careers.micron.com/careers?query=Intern&domain=micron.com"
+      ],
+      "rolling": "Yes. Micron reviews applications on a rolling basis using Eightfold AI screening. Apply by September or October 2026 for the best odds",
+      "pay": "$28 to $50 per hour depending on role and education level. SSD firmware interns in CA and CO earn $43 to $50/hr. Corporate housing provided for all interns, plu",
+      "no_formal_program": false,
+      "faq_open_answer": "Expect most engineering roles to open in August 2026, with positions filled on a rolling basis through January 2027. Some additional openings may appear in January. Those dates are projected from the prior cycle and are not official yet. Set a job alert on careers.micron.com.",
+      "window": [
+        "2026-08",
+        "2027-03"
+      ],
+      "window_text": "Expected August 2026 through March 2027 for summer 2027 roles, with most positions filled by end of January. Projected from prior cycle"
+    },
+    {
+      "name": "Microsoft",
+      "slug": "microsoft",
+      "guide_url": "https://www.extern.com/post/microsoft-internship-guide",
+      "career_urls": [
+        "https://careers.microsoft.com/students/"
+      ],
+      "rolling": "Yes. Offers go out in waves Oct\u2013Dec; first-come advantage is well documented",
+      "pay": "SWE ~$52.50/hr + $7K\u2013$10K housing; Research PhD up to $76.56/hr; official monthly $5,460\u2013$13,270",
+      "no_formal_program": false,
+      "faq_open_answer": null,
+      "window": [
+        "2026-08",
+        "2026-10"
+      ],
+      "window_text": "Applications for summer 2027 expected mid-August through October 2026; rolling admissions (not yet posted)"
+    },
+    {
+      "name": "Midjourney",
+      "slug": "midjourney",
+      "guide_url": "https://www.extern.com/post/midjourney-internship-guide",
+      "career_urls": [
+        "https://www.midjourney.com/careers",
+        "https://jobs.ashbyhq.com/midjourney"
+      ],
+      "rolling": "Effectively yes. There is no structured cycle. Most hires enter through professional networks, open-source communities, or the Midjourney Discord server rather ",
+      "pay": "Not publicly disclosed. Estimated $50 to $70 per hour ($8,000 to $11,200/month) based on full-time backend engineer salaries ($175K to $200K) and typical AI lab",
+      "no_formal_program": true,
+      "faq_open_answer": null,
+      "window": null,
+      "window_text": "No fixed window. Internship opportunities arise ad hoc. Monitor the careers page and Ashby board continuously. No recurring application cycle has ever been documented"
+    },
+    {
+      "name": "Miro",
+      "slug": "miro",
+      "guide_url": "https://www.extern.com/post/miro-internship-guide",
+      "career_urls": [
+        "https://miro.com/careers/open-positions/"
+      ],
+      "rolling": "No. The Graduate program opens on a fixed annual cadence (postings each January, a single August cohort start). APM recruits in an annual Fall/Winter window. On",
+      "pay": "Not published for the graduate program. For market context only (community/aggregator, not official): Netherlands Miro SWE comp runs roughly \u20ac93K\u2013\u20ac159K per Leve",
+      "no_formal_program": false,
+      "faq_open_answer": "Graduate postings open \"each January,\" so expect January 2027 openings for an August 2027 start (expected, based on the repeating pattern; Miro has not yet published the 2027 dates). The APM program recruits in Fall/Winter.",
+      "window": [
+        "2027-01",
+        "2027-08"
+      ],
+      "window_text": "Graduate Software Engineer postings expected to open ~January 2027 for an August 2027 cohort (repeating January-open / August-start pattern; labeled expected, not yet published). APM recruits each Fall/Winter."
+    },
+    {
+      "name": "Mistral AI",
+      "slug": "mistral-ai",
+      "guide_url": "https://www.extern.com/post/mistral-ai-internship-guide",
+      "career_urls": [
+        "https://mistral.ai/careers/"
+      ],
+      "rolling": "Yes. Mistral posts internships as individual requisitions throughout the year. There is no centralized application deadline or cohort start date",
+      "pay": "Paris: EUR 1,200 to 2,500/month (third-party estimates). US (Palo Alto): $8,000 to $11,000/month. Mistral does not publish salary ranges officially",
+      "no_formal_program": false,
+      "faq_open_answer": "Expect relevant postings to appear between January and April 2027, though Mistral posts roles year-round. There is no single application deadline. Monitor mistral.ai/careers and Lever/Ashby job boards weekly starting in late 2026.",
+      "window": [
+        "2027-01",
+        "2027-04"
+      ],
+      "window_text": "Expected January to April 2027 for summer 2027 start. Roles posted on a rolling basis year-round; no single cohort deadline"
+    },
+    {
+      "name": "MongoDB",
+      "slug": "mongodb",
+      "guide_url": "https://www.extern.com/post/mongodb-internship-guide",
+      "career_urls": [
+        "https://www.mongodb.com/company/careers/students-and-graduates"
+      ],
+      "rolling": "Effectively yes. Most positions fill by mid-October, well before the mid-November close. Apply early September for priority consideration",
+      "pay": "SF $59.40/hr ($10,296/mo) plus $4,950/mo housing stipend. NYC $56.33/hr ($9,765/mo) plus $4,500/mo housing. Annualized range $108,160 to $112,320",
+      "no_formal_program": false,
+      "faq_open_answer": "Expect applications to open in early September 2026, based on prior-cycle patterns. The priority deadline is typically October, and most positions fill by mid-October. The formal close is mid-November. Set a job alert on mongodb.com/careers/students-and-graduates.",
+      "window": [
+        "2026-09",
+        "2026-09"
+      ],
+      "window_text": "Expected early September 2026; priority deadline October 2026, most positions fill by mid-October. Projected from prior cycle, not yet posted"
+    },
+    {
+      "name": "Naughty Dog",
+      "slug": "naughty-dog",
+      "guide_url": "https://www.extern.com/post/naughty-dog-internship-guide",
+      "career_urls": [
+        "https://www.naughtydog.com/openings",
+        "https://job-boards.greenhouse.io/naughtydog"
+      ],
+      "rolling": null,
+      "pay": null,
+      "no_formal_program": true,
+      "faq_open_answer": null,
+      "window": null,
+      "window_text": null
+    },
+    {
+      "name": "Netflix",
+      "slug": "netflix",
+      "guide_url": "https://www.extern.com/post/netflix-internship-guide",
+      "career_urls": [
+        "https://jobs.netflix.com/careers/internships",
+        "https://explore.jobs.netflix.net/careers?query=intern"
+      ],
+      "rolling": "Yes. Postings stay open \"no less than 7 days\" and come down when filled; specialist and PhD roles roll December into spring",
+      "pay": "$40 to $110/hr official JD ranges; SWE median $63/hr plus $10,000 housing (Levels.fyi, self-reported)",
+      "no_formal_program": false,
+      "faq_open_answer": "Applications for summer 2027 are expected to open between August and October 2026. Netflix says roles post on a rolling basis from mid-August to early September, but the summer 2026 SWE role actually opened around October 1, 2025 with a hard October 31 deadline, about 8 months before the May or June start.",
+      "window": [
+        "2026-08",
+        "2026-10"
+      ],
+      "window_text": "Applications for summer 2027 expected to open ~mid-August to October 2026, rolling to March 2027; the flagship SWE role opened ~Oct 1 and closed Oct 31, 2025 last cycle (documented pattern; summer 2027 roles not yet posted)"
+    },
+    {
+      "name": "Nextdoor",
+      "slug": "nextdoor",
+      "guide_url": "https://www.extern.com/post/nextdoor-internship-guide",
+      "career_urls": [
+        "https://job-boards.greenhouse.io/nextdoorcampus",
+        "https://about.nextdoor.com/careers/"
+      ],
+      "rolling": "Yes. Intern postings list a hard cutoff date but are reviewed on a rolling basis before then (the Summer 2026 Product Design listing stated applications are 're",
+      "pay": "SWE intern ~$48.75/hr (~$8,450/mo per Levels.fyi; the Summer 2025 JD listed $3,900 semi-monthly base) plus a ~$2,000/mo housing stipend and $700 relocation. Fig",
+      "no_formal_program": false,
+      "faq_open_answer": "Not yet published (expected). Based on prior cycles (Summer 2025 closed September 30, 2024; Summer 2026 closed October 10, 2025), applications for summer 2027 are expected to open around Fall 2026 with a late-September to early-October 2026 deadline. Applications are reviewed on a rolling basis, so apply early.",
+      "window": [
+        "2026-09",
+        "2026-09"
+      ],
+      "window_text": "Not published for Summer 2027 (expected). Projected from prior cycles: postings open ~Fall 2026 (Aug\u2013Sept 2026), applications for summer 2027 expected to close ~late September to early October 2026"
+    },
+    {
+      "name": "Nintendo",
+      "slug": "nintendo",
+      "guide_url": "https://www.extern.com/post/nintendo-internship-guide",
+      "career_urls": [
+        "https://careers.nintendo.com/"
+      ],
+      "rolling": "No. Hard December 1 deadline with batch review. Offers in January, all candidates notified by February",
+      "pay": "$25/hr (marketing, UX, CSR) to $40/hr (NTD software engineering) + housing/travel support",
+      "no_formal_program": false,
+      "faq_open_answer": null,
+      "window": [
+        "2026-10",
+        "2026-10"
+      ],
+      "window_text": "Applications for summer 2027 expected to open ~October 2026, closing December 1, 2026 (documented pattern; not yet posted)"
+    },
+    {
+      "name": "Notion",
+      "slug": "notion",
+      "guide_url": "https://www.extern.com/post/notion-internship-guide",
+      "career_urls": [
+        "https://www.notion.com/careers"
+      ],
+      "rolling": "Yes. Notion reviews applications on a rolling basis and pulls postings once seats fill. There is no priority or final deadline. Apply the week a listing goes li",
+      "pay": "$57/hr for Bachelor's, $61/hr for Master's (SWE track). Data Science: $55/hr Bachelor's, $59/hr Master's. Housing stipend of $3,333/month. Equity included (Noti",
+      "no_formal_program": false,
+      "faq_open_answer": "Notion does not publish fixed dates or send announcements. Based on the 2025\u201326 cycle, summer SWE postings appeared by mid-2025. Expect summer 2027 roles to appear late summer to early fall 2026. Check notion.com/careers weekly, because listings are pulled once seats fill.",
+      "window": [
+        "2026-09",
+        "2026-09"
+      ],
+      "window_text": "No fixed public deadlines. Summer 2026 SWE roles posted by mid-2025 and the AI Intern listing was pulled by September 2025. Expect summer 2027 postings to appear late summer to early fall 2026. Projected from prior-cycle pattern"
+    },
+    {
+      "name": "Nvidia",
+      "slug": "nvidia",
+      "guide_url": "https://www.extern.com/post/nvidia-internship-guide",
+      "career_urls": [
+        "https://www.nvidia.com/en-us/about-nvidia/careers/university-recruiting/"
+      ],
+      "rolling": "Yes. JDs say NVIDIA \"accepts applications on an ongoing basis\"; ~60% of offers out by end of November",
+      "pay": "$20 to $94/hr NVIDIA-stated JD range, roughly $6.7k to $10k/mo, plus housing stipend and relocation",
+      "no_formal_program": false,
+      "faq_open_answer": "They aren't announced yet. Based on NVIDIA's documented pattern, expect the main software and AI reqs for summer 2027 around August to October 2026, best submitted by mid-October, roughly 8 to 12 months before a summer 2027 start. PhD research roles tend to roll year-round.",
+      "window": [
+        "2026-08",
+        "2026-10"
+      ],
+      "window_text": "Applications for summer 2027 expected to open ~August to October 2026 (documented pattern; not yet posted)"
+    },
+    {
+      "name": "Okta",
+      "slug": "okta",
+      "guide_url": "https://www.extern.com/post/okta-internship-guide",
+      "career_urls": [
+        "https://app.ripplematch.com/v2/public/company/okta",
+        "https://www.okta.com/company/careers/intern-program/"
+      ],
+      "rolling": "Yes, implied. Average application-to-hire is 13 days (Glassdoor), and roles close once filled. Apply within the first two weeks of a posting",
+      "pay": "SWE intern SF: $55/hr in 2025, roughly $9,500/mo. Plus $5,650 housing stipend, $200/mo phone/internet, $500 WFH stipend",
+      "no_formal_program": false,
+      "faq_open_answer": "Tech roles (SWE, AI, SRE) are expected to open late August to September 2026, based on prior-cycle patterns. Sales, marketing, and operations roles typically follow in November to December. Those dates are projected and not yet official. Join the Okta Talent Community or set a RippleMatch alert.",
+      "window": [
+        "2026-08",
+        "2026-09"
+      ],
+      "window_text": "Expected late Aug to Sep 2026 for tech; sales, marketing, and ops roles post Nov to Dec 2026. Projected from prior cycles, not yet posted"
+    },
+    {
+      "name": "OpenAI",
+      "slug": "openai",
+      "guide_url": "https://www.extern.com/post/openai-internship-guide",
+      "career_urls": [
+        "https://openai.com/careers/emerging-talent/"
+      ],
+      "rolling": "Yes. Positions are reviewed as applications arrive and can fill before later applicants submit",
+      "pay": "$60/hr SWE Applied, $67/hr Systems Research PhD, $36/hr Global Affairs; Residency $18,333/mo. Housing and relocation included",
+      "no_formal_program": false,
+      "faq_open_answer": null,
+      "window": [
+        "2026-09",
+        "2026-11"
+      ],
+      "window_text": "Applications for summer 2027 expected to open September to November 2026 (rolling; documented pattern from prior cycles)"
+    },
+    {
+      "name": "Oracle",
+      "slug": "oracle",
+      "guide_url": "https://www.extern.com/post/oracle-internship-guide",
+      "career_urls": [
+        "https://www.oracle.com/careers/students-grads/internships/"
+      ],
+      "rolling": "Yes, rolling. Early applicants get faster screening and wider team-placement options. Competition intensifies and available roles narrow after October",
+      "pay": "Standard SWE Austin ~$41/hr (~$7,100/mo). OCI roles $53 to $55/hr. AI/ML premium roles $55 to $65/hr. Housing stipend $2,166 to $8,000/mo depending on location",
+      "no_formal_program": false,
+      "faq_open_answer": "Applications are expected to open late August to early September 2026, based on prior-cycle patterns. The optimal window is the first 4 to 6 weeks after opening; roles stay open rolling through February but available positions narrow significantly after October. Set a job alert on oracle.com/careers.",
+      "window": [
+        "2026-08",
+        "2026-09"
+      ],
+      "window_text": "Expected late August to early September 2026. Optimal window is the first 4 to 6 weeks; roles stay open rolling through February but narrow fast"
+    },
+    {
+      "name": "Oura",
+      "slug": "oura",
+      "guide_url": "https://www.extern.com/post/oura-internship-guide",
+      "career_urls": [
+        "https://ouraring.com/careers",
+        "https://job-boards.greenhouse.io/oura"
+      ],
+      "rolling": "No for internships. US roles are seasonal summer cohorts (10\u201312 weeks, June\u2013August) recruited in a defined Nov\u2013April window; the Finland trainee track used a fi",
+      "pay": "Paid, and every intern keeps an Oura Ring. Documented US rates: Hardware R&D Research Intern $33\u2013$36/hr (SF); Strategy & Operations Intern $76,500\u2013$103,500 annu",
+      "no_formal_program": false,
+      "faq_open_answer": "Expected around November 2026 through April 2027 for US roles, based on documented prior cycles (applications for summer 2027 are expected to open ~Nov 2026), with a ~mid-March 2027 deadline for the Finland Embedded SW trainee track. As of August 2026, 2027 postings were not yet live, which is consistent with Oura's fall/winter opening pattern. An exact published 2027 open date is NOT FOUND yet.",
+      "window": [
+        "2026-11",
+        "2026-11"
+      ],
+      "window_text": "Expected ~November 2026 through April 2027 for US roles (applications for summer 2027 expected to open ~Nov 2026), based on documented prior cycles. Finland Summer Trainee deadline expected ~mid-March 2027. As of August 2026, no 2027 postings were live yet"
+    },
+    {
+      "name": "Palantir",
+      "slug": "palantir",
+      "guide_url": "https://www.extern.com/post/palantir-internship-guide",
+      "career_urls": [
+        "https://www.palantir.com/careers/open-positions/",
+        "https://jobs.lever.co/palantir?commitment=Internship"
+      ],
+      "rolling": "Yes. 70\u201380% of interview invitations go to applicants who submit by mid-October",
+      "pay": "$60.58/hr + $2,500\u2013$3,500/mo housing stipend + relocation",
+      "no_formal_program": false,
+      "faq_open_answer": null,
+      "window": [
+        "2026-08",
+        "2026-10"
+      ],
+      "window_text": "Applications for summer 2027 expected to open August to October 2026 (rolling; documented pattern)"
+    },
+    {
+      "name": "Palo Alto Networks",
+      "slug": "palo-alto-networks",
+      "guide_url": "https://www.extern.com/post/palo-alto-networks-internship-guide",
+      "career_urls": [
+        "https://jobs.paloaltonetworks.com/en/early-in-career"
+      ],
+      "rolling": "Yes, confirmed. Approximately 70% of positions are filled in the first 6 to 8 weeks. Apply within the first 2 to 3 weeks of a posting",
+      "pay": "SWE intern $35 to $45/hr ($43/hr verified on Levels.fyi); Security Research $52 to $55/hr. Housing/relocation stipend $8,000 lump sum",
+      "no_formal_program": false,
+      "faq_open_answer": "Expect most roles to post in early August 2026, with the priority window running August to September 2026. About 70% of positions fill in the first 6 to 8 weeks. Those dates are projected from the prior cycle and aren't official yet. Set a job alert on jobs.paloaltonetworks.com.",
+      "window": [
+        "2026-08",
+        "2026-08"
+      ],
+      "window_text": "Expected early August 2026 for most roles. Priority window August to September 2026; many close by mid-November. Projected from prior cycle, not yet posted"
+    },
+    {
+      "name": "Perplexity",
+      "slug": "perplexity",
+      "guide_url": "https://www.extern.com/post/perplexity-internship-guide",
+      "career_urls": [
+        "https://www.perplexity.ai/hub/careers",
+        "https://job-boards.greenhouse.io/perplexityai"
+      ],
+      "rolling": "Yes. Research Residency and APM both accept on a rolling basis. UK internships follow seasonal posting but review applications as received. Average time from ap",
+      "pay": "Research Residency: $220,000 annualized (~$55K for 3 months) + benefits + computing resources. APM: $210,000/year cash + equity + benefits. UK internships: not ",
+      "no_formal_program": false,
+      "faq_open_answer": null,
+      "window": [
+        "2026-09",
+        "2027-02"
+      ],
+      "window_text": "Expected fall 2026 through early 2027 for summer 2027 roles. APM Cohort 1 deadline was August 22, 2025; future cohorts may follow a similar late-summer cadence"
+    },
+    {
+      "name": "Physical Intelligence",
+      "slug": "physical-intelligence",
+      "guide_url": "https://www.extern.com/post/physical-intelligence-internship-guide",
+      "career_urls": [
+        "https://jobs.ashbyhq.com/physicalintelligence",
+        "https://www.pi.website/join-us"
+      ],
+      "rolling": "Yes (DEFAULT tier). No publicly documented rigid cycle. Positions are posted when research teams identify needs. Apply as soon as you see a listing",
+      "pay": "Estimated $8,000 to $12,000/month for PhD research interns; $5,000 to $7,000/month for MS. Robot Operator roles approximately $25/hr. Based on comparable SF rob",
+      "no_formal_program": false,
+      "faq_open_answer": "Postings are expected between October and December 2026, with rolling review through January to February 2027. PI does not publish fixed deadlines. Set alerts on the Ashby ATS and pi.website/join-us and apply the day a relevant role appears.",
+      "window": [
+        "2026-10",
+        "2026-12"
+      ],
+      "window_text": "Expected October to December 2026 for summer 2027 roles. Rolling review; likely closes January to February 2027. Projected from company growth trajectory and industry norms"
+    },
+    {
+      "name": "Pika",
+      "slug": "pika",
+      "guide_url": "https://www.extern.com/post/pika-internship-guide",
+      "career_urls": [
+        "https://jobs.ashbyhq.com/pika",
+        "https://pika.art/careers"
+      ],
+      "rolling": "Yes. The current Research Intern listing offers flexible part-time and full-time terms with no fixed deadline, suggesting continuous hiring. Apply as soon as th",
+      "pay": "$10,000/month (from prior BuiltInSF listing). Catered lunch and dinner in office. Weekly team events. Housing and transportation not included",
+      "no_formal_program": false,
+      "faq_open_answer": "Postings are expected between October and December 2026, based on the prior cycle where the summer listing was removed in September 2025. Pika uses rolling intake with no fixed deadline. Set alerts on jobs.ashbyhq.com/pika and pika.art/careers and apply the day a relevant posting appears. Pika typically lists one intern slot at a time, but that slot goes to someone who showed up with real Videogen",
+      "window": [
+        "2026-10",
+        "2026-12"
+      ],
+      "window_text": "Expected October to December 2026 for summer 2027 roles. Rolling intake; the previous summer listing was removed September 2025, suggesting a similar rhythm"
+    },
+    {
+      "name": "Pinterest",
+      "slug": "pinterest",
+      "guide_url": "https://www.extern.com/post/pinterest-internship-guide",
+      "career_urls": [
+        "https://www.pinterestcareers.com/early-career/university-recruiting/"
+      ],
+      "rolling": "Yes. Reqs open in August or September and fill rolling through the August-to-April peak season",
+      "pay": "SWE $8,250 to $11,000/mo official; Data Science $10k to $11k; PhD ML $12,100",
+      "no_formal_program": false,
+      "faq_open_answer": "Applications for summer 2027 are expected to open around August to October 2026. Pinterest's FAQ says it typically opens roles in August or September, and the summer 2026 SWE posting went live on September 22, 2025, so this is projected from the prior cycle. That is roughly nine months before the May-or-June start, and the class fills rolling through the August-to-April peak season.",
+      "window": [
+        "2026-08",
+        "2026-09"
+      ],
+      "window_text": "Applications for summer 2027 expected to open around August to September 2026 (documented pattern; not yet posted)"
+    },
+    {
+      "name": "Postman",
+      "slug": "postman",
+      "guide_url": "https://www.extern.com/post/postman-internship-guide",
+      "career_urls": [
+        "https://www.postman.com/company/careers/open-positions/",
+        "https://job-boards.greenhouse.io/postman/"
+      ],
+      "rolling": "Likely yes for US roles: Postman publishes no fixed intern window and the live AI Engineer Intern req appeared mid-cycle (Aug 2026). India campus hiring is cale",
+      "pay": "US intern pay is NOT published (the live posting says \"No salary listed\"). Community full-time US SWE base runs ~$120K\u2013$191K on Glassdoor (not official). A sing",
+      "no_formal_program": false,
+      "faq_open_answer": null,
+      "window": [
+        "2026-09",
+        "2026-09"
+      ],
+      "window_text": "Not yet published (expected). US intern reqs post rolling, so applications for summer 2027 are expected to appear from fall 2026 onward. India (Bangalore) campus SWE-intern deadline expected ~late January 2027, mirroring the prior 28 Jan 2024 cycle"
+    },
+    {
+      "name": "Qualcomm",
+      "slug": "qualcomm",
+      "guide_url": "https://www.extern.com/post/qualcomm-internship-guide",
+      "career_urls": [
+        "https://www.qualcomm.com/company/careers/internships-and-early-in-career-opportunities",
+        "https://careers.qualcomm.com/careers"
+      ],
+      "rolling": "Yes. Every posting says resumes are \"reviewed on an ongoing basis\" and a role \"may close before the stated closing date\"",
+      "pay": "Official bands run up to $98/hr; SWE interns self-report ~$51\u2013$54/hr on Levels.fyi, plus furnished housing or relocation",
+      "no_formal_program": false,
+      "faq_open_answer": "Expected around September 2026, based on the documented prior cycle. Most engineering reqs then close around February 2027, while RF and analog roles can linger into April or May. That is roughly 9 months before the May-to-June 2027 start, and the review runs on a rolling basis throughout.",
+      "window": [
+        "2026-09",
+        "2026-09"
+      ],
+      "window_text": "Expected to open ~September 2026 for summer 2027; most engineering reqs close ~February 2027 (projected from the documented summer 2026 cycle, not yet posted)"
+    },
+    {
+      "name": "Recursion",
+      "slug": "recursion",
+      "guide_url": "https://www.extern.com/post/recursion-internship-guide",
+      "career_urls": [
+        "https://www.recursion.com/open-positions",
+        "https://job-boards.greenhouse.io/recursionpharmaceuticals"
+      ],
+      "rolling": "Partially. Prior Data Science intern JD said the program \"lasts 3 months and can start any time, depending on your availability,\" with summer as the primary coh",
+      "pay": "Recursion does not publish intern pay. Community estimates (Glassdoor, tiny samples) suggest ~$65\u201367/hr for SWE/DS interns; Indeed estimates ~$29/hr, a wide and",
+      "no_formal_program": false,
+      "faq_open_answer": null,
+      "window": [
+        "2026-09",
+        "2026-09"
+      ],
+      "window_text": "Not confirmed. Applications for summer 2027 are expected to open around fall 2026 IF the program restarts; prior Summer 2024 intern roles posted ~Oct\u2013Nov 2023. The Summer 2026 program was explicitly paused, so 2027 timing is uncertain (CEO transition + layoffs)"
+    },
+    {
+      "name": "Reddit",
+      "slug": "reddit",
+      "guide_url": "https://www.extern.com/post/reddit-internship-guide",
+      "career_urls": [
+        "https://job-boards.greenhouse.io/reddit",
+        "https://app.ripplematch.com/v2/public/company/reddit"
+      ],
+      "rolling": "Likely rolling with a soft close. The PM intern 2025 posting was removed January 6, 2025, suggesting roles close once filled. Apply immediately when postings go",
+      "pay": "Official JD range $50 to $60/hr (SWE, PM). Community-reported: $68/hr SWE SF 2026. Housing stipend $2,000 to $6,000",
+      "no_formal_program": false,
+      "faq_open_answer": "Expect most SWE, ML, PM, and security intern roles to post September to October 2026, based on the pattern from the last two cycles. Those dates are projected and not official yet. Monitor Greenhouse (job-boards.greenhouse.io/reddit) and RippleMatch starting August 2026.",
+      "window": [
+        "2026-09",
+        "2026-10"
+      ],
+      "window_text": "Expected September to October 2026 for summer 2027. Projected from prior cycles, not yet posted"
+    },
+    {
+      "name": "Reka AI",
+      "slug": "reka-ai",
+      "guide_url": "https://www.extern.com/post/reka-ai-internship-guide",
+      "career_urls": [
+        "https://reka.ai/careers",
+        "https://jobs.ashbyhq.com/reka"
+      ],
+      "rolling": "Likely yes. Reka does not run a formalized intern program; any openings are sourced through direct outreach, academic connections, or ad hoc postings, which imp",
+      "pay": "No verified intern data. Estimated $8,000 to $12,000 per month based on comparable Bay Area AI startups at the unicorn stage. Full-time software engineers earn ",
+      "no_formal_program": true,
+      "faq_open_answer": null,
+      "window": [
+        "2026-11",
+        "2027-02"
+      ],
+      "window_text": "No official timeline. Estimated November 2026 through February 2027 for summer 2027 roles, based on AI startup hiring patterns. Rolling review expected"
+    },
+    {
+      "name": "Replit",
+      "slug": "replit",
+      "guide_url": "https://www.extern.com/post/replit-internship-guide",
+      "career_urls": [
+        "https://jobs.ashbyhq.com/replit",
+        "https://replit.com/careers"
+      ],
+      "rolling": "Likely yes. The Summer 2026 role was a single rolling listing, and recruiting content describes Replit posting internships \"on an early rolling\" basis. No offic",
+      "pay": "Replit's JD lists \"salary not specified\" plus equity and stipends. A LinkedIn aggregator snippet showed ~$10,000 (most consistent with a monthly figure); Glassd",
+      "no_formal_program": false,
+      "faq_open_answer": "Expected roughly late summer to fall 2026 (about Aug\u2013Nov), on an early, rolling basis, based on the prior cycle and August 2026 recruiting signals. Replit has not published official 2027 dates, so watch jobs.ashbyhq.com/replit and replit.com/careers.",
+      "window": [
+        "2026-08",
+        "2026-11"
+      ],
+      "window_text": "Not officially published. Based on the Summer 2026 cycle (posted ~mid-July 2026) and August 2026 recruiting signals, applications for summer 2027 are expected to open ~Aug\u2013Nov 2026 on an early, rolling basis"
+    },
+    {
+      "name": "Retool",
+      "slug": "retool",
+      "guide_url": "https://www.extern.com/post/retool-internship-guide",
+      "career_urls": [
+        "https://retool.com/careers"
+      ],
+      "rolling": "Not confirmed for interns. Full-time roles are posted and filled on a rolling, as-needed basis via retool.com/careers rather than in fixed cohort windows. Marke",
+      "pay": "No official Retool intern rate exists. Comparable non-quant tech startups pay interns roughly $7,000 to $9,000 per month (community, levels.fyi). Full-time SWE ",
+      "no_formal_program": true,
+      "faq_open_answer": null,
+      "window": [
+        "2026-09",
+        "2027-03"
+      ],
+      "window_text": "Not published. Retool runs no documented U.S. SWE intern cycle, so no window can be projected. If a summer 2027 early-career role launches, applications for summer 2027 would be expected to open around Sep\u2013Oct 2026 based on general market timing, not a Retool-confirmed date"
+    },
+    {
+      "name": "Riot Games",
+      "slug": "riot-games",
+      "guide_url": "https://www.extern.com/post/riot-games-internship-guide",
+      "career_urls": [
+        "https://www.riotgames.com/en/work-with-us/jobs"
+      ],
+      "rolling": "Partially. Review is rolling within each deadline window; applying early is recommended",
+      "pay": "$56.59/hr SWE; $35\u2013$43/hr non-engineering; ~$2K/mo housing stipend",
+      "no_formal_program": false,
+      "faq_open_answer": "Applications for summer 2027 are expected to open around September 2026, based on Riot's consistent multi-year pattern. Software engineering posts first and closes by late October 2026. Art, design, production, and analytics tracks stay open through January 2027. That's roughly 9 months before the May or June 2027 start.",
+      "window": [
+        "2026-09",
+        "2026-09"
+      ],
+      "window_text": "Applications for summer 2027 expected to open September 2026 (projected from prior cycle); SWE closes late October 2026, other tracks through January 2027"
+    },
+    {
+      "name": "Ro",
+      "slug": "ro",
+      "guide_url": "https://www.extern.com/post/ro-internship-guide",
+      "career_urls": [
+        "https://ro.co/tech/",
+        "https://jobs.lever.co/ro"
+      ],
+      "rolling": "Not confirmed for interns (no program). Full-time roles are posted and filled on a rolling basis via Lever with no fixed cohort windows; Ro says it \"operates wi",
+      "pay": "No intern pay data exists (no program). Full-time Senior SWE base is $182,300 to $220,000 plus equity (official Ro JD); Staff SWE ranges to roughly $245,000 to ",
+      "no_formal_program": true,
+      "faq_open_answer": null,
+      "window": [
+        "2026-09",
+        "2026-09"
+      ],
+      "window_text": "Not published. No formal internship program exists as of August 2026. If Ro introduces early-career hiring, tech-intern roles at NYC startups typically open around fall 2026 for summer 2027 (expected). Monitor ro.co/tech and jobs.lever.co/ro from Fall 2026"
+    },
+    {
+      "name": "Roblox",
+      "slug": "roblox",
+      "guide_url": "https://www.extern.com/post/roblox-internship-guide",
+      "career_urls": [
+        "https://careers.roblox.com/early-career"
+      ],
+      "rolling": "Yes. Positions fill continuously until closed; no fixed deadline published",
+      "pay": "SWE/PM $62/hr, Research $72/hr, Design $58/hr + $10,000 housing stipend + free meals",
+      "no_formal_program": false,
+      "faq_open_answer": null,
+      "window": [
+        "2026-08",
+        "2026-10"
+      ],
+      "window_text": "Applications for summer 2027 expected to open August\u2013October 2026 (documented pattern; not yet posted)"
+    },
+    {
+      "name": "Rockstar Games",
+      "slug": "rockstar-games",
+      "guide_url": "https://www.extern.com/post/rockstar-games-internship-guide",
+      "career_urls": [
+        "https://job-boards.greenhouse.io/rsgur"
+      ],
+      "rolling": "Not confirmed. Some roles close within weeks of posting; others stay open until spring. Early application is strongly recommended",
+      "pay": "$34/hr confirmed for NYC Data Science (Greenhouse listing); Glassdoor range $26\u2013$47/hr across roles",
+      "no_formal_program": false,
+      "faq_open_answer": null,
+      "window": [
+        "2026-10",
+        "2026-11"
+      ],
+      "window_text": "Expected October\u2013November 2026 for summer 2027 (based on documented Summer 2026 cycle; not yet posted)"
+    },
+    {
+      "name": "Runway",
+      "slug": "runway",
+      "guide_url": "https://www.extern.com/post/runway-internship-guide",
+      "career_urls": [
+        "https://runway.com/careers",
+        "https://research.runwayml.com/acceleration-program"
+      ],
+      "rolling": "Likely yes. No fixed deadline exists. Glassdoor data (80 interviews) shows an average of 20 days from application to decision. Apply as soon as a posting appear",
+      "pay": "Indeed estimates approximately $4,015/month ($3,734 to $4,497 range), though this is based on limited data. Full-time research roles pay $320K+ median, suggesti",
+      "no_formal_program": false,
+      "faq_open_answer": "Expect intern postings to appear between October and December 2026, based on general AI startup hiring patterns. No fixed deadline exists; roles fill on a rolling basis. Check runway.com/careers weekly starting September 2026 and apply the day a posting appears.",
+      "window": [
+        "2026-10",
+        "2026-12"
+      ],
+      "window_text": "Expected October to December 2026 for summer 2027 roles. No fixed public deadline; roles fill on a rolling basis. Projected from general AI startup hiring patterns"
+    },
+    {
+      "name": "Safe Superintelligence (SSI)",
+      "slug": "safe-superintelligence",
+      "guide_url": "https://www.extern.com/post/safe-superintelligence-internship-guide",
+      "career_urls": [
+        "https://jobs.ashbyhq.com/ssi"
+      ],
+      "rolling": "Likely yes, when positions exist. SSI relies on direct outreach to world-class researchers. There are no published deadlines for any role",
+      "pay": "No intern data exists. Senior researchers reportedly earn compensation exceeding $1M annually. The MTS listing showed a base salary range of $100K to $500K. Com",
+      "no_formal_program": false,
+      "faq_open_answer": null,
+      "window": null,
+      "window_text": "No official timeline exists. SSI uses a single Ashby job board and positions appear sporadically. If internships are ever created, the process would likely be rolling"
+    },
+    {
+      "name": "Sakana AI",
+      "slug": "sakana-ai",
+      "guide_url": "https://www.extern.com/post/sakana-ai-internship-guide",
+      "career_urls": [
+        "https://sakana.ai/careers/"
+      ],
+      "rolling": "Yes. No single deadline or cohort start. Applications are processed as they arrive; decisions typically within 4 to 6 weeks of submission",
+      "pay": "Not publicly disclosed. Full-time benchmarks: engineers 18M\u201328M JPY ($120K\u2013$185K), senior researchers 28M\u201370M+ JPY ($185K\u2013$465K+). Intern stipend not confirmed",
+      "no_formal_program": false,
+      "faq_open_answer": null,
+      "window": null,
+      "window_text": "Year-round on a rolling basis. For a summer 2027 start, apply by late 2026 or early 2027"
+    },
+    {
+      "name": "Salesforce",
+      "slug": "salesforce",
+      "guide_url": "https://www.extern.com/post/salesforce-internship-guide",
+      "career_urls": [
+        "https://salesforce.wd12.myworkdayjobs.com/en-US/Futureforce_Internships/"
+      ],
+      "rolling": "Yes, explicitly. Most spots fill by December; week-one applicants interview at 40\u201360% higher rates",
+      "pay": "$46\u2013$68/hr depending on track and location, plus $5,250\u2013$9,000 housing/relocation stipend",
+      "no_formal_program": false,
+      "faq_open_answer": null,
+      "window": [
+        "2026-08",
+        "2026-09"
+      ],
+      "window_text": "Applications for summer 2027 expected to open late August to early September 2026 (documented multi-year pattern; not yet posted)"
+    },
+    {
+      "name": "Samsara",
+      "slug": "samsara",
+      "guide_url": "https://www.extern.com/post/samsara-internship-guide",
+      "career_urls": [
+        "https://www.samsara.com/company/careers/emerging-talent"
+      ],
+      "rolling": "Yes. Samsara hires on a rolling basis until positions are filled, with a firm November 26 backstop. Apply early (strong candidates interview before the deadline",
+      "pay": "$61.90/hr (official current SF SWE intern posting), with relocation assistance. Community data (Levels.fyi) shows prior SF cohorts around $52/hr (~$9,000/mo) pl",
+      "no_formal_program": false,
+      "faq_open_answer": null,
+      "window": [
+        "2026-08",
+        "2026-08"
+      ],
+      "window_text": "Open now and accepting applications (as of August 2026). Applications officially close November 26 at 11:59pm ET (year inferred 2026); cohort finalized late November / early December."
+    },
+    {
+      "name": "Samsung",
+      "slug": "samsung",
+      "guide_url": "https://www.extern.com/post/samsung-internship-guide",
+      "career_urls": [
+        "https://www.samsung.com/us/careers/internships/",
+        "https://sra.samsung.com/internships/"
+      ],
+      "rolling": "Semi-rolling. Samsung encourages checking year-round, but most positions fill during defined windows. SAS has a firm deadline (~late March). SRA posts with spec",
+      "pay": "$27 to $63/hr depending on division and role. SWE ~$62/hr (Levels.fyi); SRA research $48 to $63/hr (official JD); SAS engineering ~$30/hr. Housing stipend and r",
+      "no_formal_program": false,
+      "faq_open_answer": "Expected: Samsung Austin Semiconductor around August 2026 with a deadline around late March 2027; Samsung Research America research roles around October 2026; Samsung Electronics America summer postings around January 2027. These dates are projected from the 2026 cycle and are not yet official.",
+      "window": [
+        "2026-08",
+        "2026-08"
+      ],
+      "window_text": "Expected: SAS and some SRA roles open ~Aug 2026; SEA summer postings ~Jan 2027; SRA research reqs ~Oct 2026. Projected from the 2026 cycle, not yet posted"
+    },
+    {
+      "name": "SAP",
+      "slug": "sap",
+      "guide_url": "https://www.extern.com/post/sap-internship-guide",
+      "career_urls": [
+        "https://jobs.sap.com/go/Intern-Jobs-in-the-United-States/872801/"
+      ],
+      "rolling": "Yes, confirmed. Applications reviewed rolling; submissions in the first 2 weeks get higher visibility. Employee referrals advance at 3 to 5x the cold-applicatio",
+      "pay": "SWE US $32 to $56/hr (~$5,500 to $8,500/month). Master's-level candidates earn 15 to 20% premiums. Full posted range $15 to $62/hr across all roles",
+      "no_formal_program": false,
+      "faq_open_answer": null,
+      "window": [
+        "2027-08",
+        "2027-09"
+      ],
+      "window_text": "Expected late Aug to Sep 2027 for iXp summer roles; priority deadline ~Nov 30 2027, secondary wave closes ~Jan 31 2028. Projected pattern, not yet posted"
+    },
+    {
+      "name": "Scale AI",
+      "slug": "scale-ai",
+      "guide_url": "https://www.extern.com/post/scale-ai-internship-guide",
+      "career_urls": [
+        "https://scale.com/careers/university",
+        "https://job-boards.greenhouse.io/scaleai"
+      ],
+      "rolling": "Yes. Scale AI reviews applications as they arrive; the Summer 2026 rolling deadline was September 30",
+      "pay": "$60/hr (~$10,400/month) + $7,000 housing stipend + free meals (SF office)",
+      "no_formal_program": false,
+      "faq_open_answer": null,
+      "window": [
+        "2026-08",
+        "2026-10"
+      ],
+      "window_text": "Applications for summer 2027 expected to open August to October 2026 (rolling; not yet posted)"
+    },
+    {
+      "name": "ServiceNow",
+      "slug": "servicenow",
+      "guide_url": "https://www.extern.com/post/servicenow-internship-guide",
+      "career_urls": [
+        "https://careers.servicenow.com/early-careers/",
+        "https://careers.smartrecruiters.com/ServiceNow/early-career"
+      ],
+      "rolling": "Yes, confirmed. Applications reviewed rolling; priority given to the first 2 to 3 weeks after opening. Popular locations fill within 4 to 8 weeks",
+      "pay": "SWE Bay Area $55.14 to $55.58/hr (~$9,558/month). San Diego $47 to $50/hr. Marketing $33.51/hr. Plus ~$5,000 housing stipend and up to $5,000 sign-on bonus",
+      "no_formal_program": false,
+      "faq_open_answer": "Expect most technical roles to open in early August 2026. Those dates are projected from the prior cycle (Summer 2026 apps opened August 2025) and aren't official yet. Set a job alert on careers.servicenow.com.",
+      "window": [
+        "2026-08",
+        "2026-10"
+      ],
+      "window_text": "Expected early August 2026 for technical roles, filling through October 2026. Projected from prior-cycle pattern, not yet posted"
+    },
+    {
+      "name": "Sierra",
+      "slug": "sierra",
+      "guide_url": "https://www.extern.com/post/sierra-internship-guide",
+      "career_urls": [
+        "https://sierra.ai/early-career-program",
+        "https://jobs.ashbyhq.com/Sierra"
+      ],
+      "rolling": "Yes. Sierra reviews applications on a rolling basis. From their FAQ: 'We encourage you to apply early to avoid missing out.' No fixed deadline; positions may cl",
+      "pay": "Estimated $55 to $75 per hour ($11,000 to $15,000/month) based on comparable AI startup benchmarks. Not confirmed by Sierra. Full-time SWE median total comp is ",
+      "no_formal_program": false,
+      "faq_open_answer": "Expect postings in August or September 2026 on the Ashby ATS and Sierra careers page. Applications are reviewed on a rolling basis, with interviews wrapping by December. Apply early; Sierra explicitly encourages it.",
+      "window": [
+        "2026-08",
+        "2026-09"
+      ],
+      "window_text": "Expected August to September 2026 for summer 2027 roles. Rolling review with interviews wrapping by December 2026. Projected from the Fall 2026 cycle"
+    },
+    {
+      "name": "Skild AI",
+      "slug": "skild-ai",
+      "guide_url": "https://www.extern.com/post/skild-ai-internship-guide",
+      "career_urls": [
+        "https://www.skild.ai/career",
+        "https://jobs.lsvp.com/jobs/skild-ai"
+      ],
+      "rolling": "Likely yes. With roughly 100 employees, hiring is opportunistic rather than cycle-based. Roles appear as team needs arise",
+      "pay": "No confirmed intern salary. Estimated $40 to $55 per hour for research/ML interns based on comparable robotics AI startup rates. Robot Operator roles pay $20 to",
+      "no_formal_program": false,
+      "faq_open_answer": "No official dates have been announced. Based on one confirmed intern datapoint and startup hiring norms, applications are estimated to open between January and March 2027. The company does not follow a structured recruiting calendar, so monitor skild.ai/career, Simplify, and the LSVP jobs board starting fall 2026.",
+      "window": [
+        "2027-01",
+        "2027-03"
+      ],
+      "window_text": "Not confirmed. Estimated January to March 2027 for summer 2027 roles, based on one confirmed intern datapoint and startup hiring norms. Low confidence"
+    },
+    {
+      "name": "Snap",
+      "slug": "snap",
+      "guide_url": "https://www.extern.com/post/snap-internship-guide",
+      "career_urls": [
+        "https://careers.snap.com/emerging-talent"
+      ],
+      "rolling": "Yes. Snap reviews applications on a rolling basis. Apply by mid-October for priority consideration; after mid-November, most seats are filled",
+      "pay": "$50 to $68 per hour depending on role and location. SWE median around $52/hr; Research interns around $58/hr. Housing stipend of $1,200 to $2,500/month (Levels.",
+      "no_formal_program": false,
+      "faq_open_answer": "Expect most technical roles to open late August to early September 2026, with priority consideration through mid-October and positions filling by mid-November 2026. Those dates are projected from the Summer 2026 cycle and are not official yet. Set a job alert on careers.snap.com.",
+      "window": [
+        "2026-08",
+        "2026-09"
+      ],
+      "window_text": "Expected late August to early September 2026 for summer 2027 technical roles. Priority deadline around mid-October 2026, positions fill through mid-November 2026. Projected from prior cycle"
+    },
+    {
+      "name": "Snowflake",
+      "slug": "snowflake",
+      "guide_url": "https://www.extern.com/post/snowflake-internship-guide",
+      "career_urls": [
+        "https://careers.snowflake.com/us/en/university"
+      ],
+      "rolling": "Yes. Snowflake reviews applications on a rolling basis and extends offers as seats fill. Apply in September for the best response rates",
+      "pay": "$55 per hour ($9,533 per month) for SWE interns per Levels.fyi. Housing stipend of $2,000 to $2,500 per month. Some offers include a relocation bonus of $500 to",
+      "no_formal_program": false,
+      "faq_open_answer": "Expect most engineering roles to open in early September 2026, with priority screening in the first two to three weeks and many positions filling by late October 2026. Those dates are projected from prior cycles and are not official yet. Sign up for the Talent Community at careers.snowflake.com.",
+      "window": [
+        "2026-09",
+        "2026-09"
+      ],
+      "window_text": "Expected early September 2026 for summer 2027 roles. Priority screening within the first two to three weeks; many positions fill by late October. Projected from prior cycle"
+    },
+    {
+      "name": "Snyk",
+      "slug": "snyk",
+      "guide_url": "https://www.extern.com/post/snyk-internship-guide",
+      "career_urls": [
+        "https://snyk.io/careers/all-jobs/"
+      ],
+      "rolling": "Partially. Snyk posts discrete intern and co-op requisitions on Workday and removes them when filled, so treat it as cohort-based with rolling review and apply ",
+      "pay": "No official Snyk intern rate is published (Levels.fyi's Snyk intern page has zero data points). Glassdoor estimates the Boston Co-op at about $43K to $73K per y",
+      "no_formal_program": false,
+      "faq_open_answer": null,
+      "window": [
+        "2026-09",
+        "2027-03"
+      ],
+      "window_text": "Expected fall 2026 through winter/early spring 2027 for summer 2027 roles. The summer 2026 Software Engineer Intern posting (JR100489) was removed around May 8, 2026, so this mirrors the documented prior cycle. Snyk has not published a 2027 window (expected)"
+    },
+    {
+      "name": "Sourcegraph",
+      "slug": "sourcegraph",
+      "guide_url": "https://www.extern.com/post/sourcegraph-internship-guide",
+      "career_urls": [
+        "https://sourcegraph.com/jobs"
+      ],
+      "rolling": "Yes for full-time roles: Sourcegraph hires year-round through Greenhouse with no fixed windows, and the loop \"moves quickly.\" Interns: not applicable right now ",
+      "pay": "No intern pay data exists (no program). Full-time engineering base is published openly by location zone: IC3 starts at $148,000 (Zone 2), $111,000 (Zone 3), $74",
+      "no_formal_program": true,
+      "faq_open_answer": null,
+      "window": [
+        "2026-09",
+        "2027-02"
+      ],
+      "window_text": "No formal program is running as of August 2026. If Sourcegraph Inc. revives its internship, applications for summer 2027 would be expected to open ~Fall 2026 through early 2027 (projected from the documented Summer 2023 cycle, not a confirmed posting). Monitor sourcegraph.com/jobs from Fall 2026."
+    },
+    {
+      "name": "Splunk",
+      "slug": "splunk",
+      "guide_url": "https://www.extern.com/post/splunk-internship-guide",
+      "career_urls": [
+        "https://careers.cisco.com/global/en/splunk"
+      ],
+      "rolling": "Yes, confirmed. Splunk posts roles in early September and fills them progressively through February. Apply in the first weeks",
+      "pay": "SWE intern $42 to $60/hr ($7,280 to $10,400/mo) depending on location. Housing stipends $2,000 to $6,000 for select offices",
+      "no_formal_program": false,
+      "faq_open_answer": null,
+      "window": [
+        "2026-09",
+        "2026-09"
+      ],
+      "window_text": "Applications for summer 2027 expected to open early September 2026, rolling through February 2027. Projected from prior cycles, not yet posted"
+    },
+    {
+      "name": "Stability AI",
+      "slug": "stability-ai",
+      "guide_url": "https://www.extern.com/post/stability-ai-internship-guide",
+      "career_urls": [
+        "https://stability.ai/careers"
+      ],
+      "rolling": "Yes (estimated). Stability AI does not run fixed application cycles. Roles are filled as headcount needs arise, so early applicants have the clearest advantage",
+      "pay": "Not confirmed for interns. Estimated $7,000 to $10,000 per month for US-based ML Research Interns, based on full-time prorating (median total comp $261,300 on L",
+      "no_formal_program": true,
+      "faq_open_answer": "No confirmed timeline exists. Based on startup hiring norms and past ad-hoc postings, expect listings to appear between October 2026 and February 2027. There is no fixed deadline; roles close when filled. Monitor stability.ai/careers and LinkedIn weekly starting in fall 2026.",
+      "window": [
+        "2026-10",
+        "2027-02"
+      ],
+      "window_text": "No confirmed timeline. Postings expected ad-hoc between October 2026 and February 2027 based on startup hiring norms. Apply immediately when a relevant role appears"
+    },
+    {
+      "name": "Strava",
+      "slug": "strava",
+      "guide_url": "https://www.extern.com/post/strava-internship-guide",
+      "career_urls": [
+        "https://www.strava.com/careers",
+        "https://jobs.ashbyhq.com/Strava"
+      ],
+      "rolling": "Partially. Strava posts discipline-specific intern reqs (Web, Server, iOS, Android, ML) on separate timelines, each with its own \"Deadline to Apply,\" and fills ",
+      "pay": "$40.00/hour (stated directly on Strava intern JDs), plus a housing stipend to live in SF for the three-month summer (~$2,500/month per Levels.fyi). That works o",
+      "no_formal_program": false,
+      "faq_open_answer": "The 2027 dates are not published yet (expected). Based on the two most recent cycles, expect postings to open in fall/winter 2026 with deadlines in late winter to spring 2027: the Summer 2025 Web role closed April 14, 2025, and the Summer 2026 Server/Data Platform role closed March 7, 2026. Confirm on jobs.ashbyhq.com/Strava starting fall 2026.",
+      "window": [
+        "2026-12",
+        "2026-12"
+      ],
+      "window_text": "Not yet published (expected). Applications for summer 2027 are expected to open in fall/winter 2026 with deadlines in late winter to spring 2027. Documented prior cycles: Summer 2025 (Web, SF) closed April 14, 2025; Summer 2026 (Server/Data Platform, SF) closed March 7, 2026"
+    },
+    {
+      "name": "Suno",
+      "slug": "suno",
+      "guide_url": "https://www.extern.com/post/suno-internship-guide",
+      "career_urls": [
+        "https://jobs.ashbyhq.com/suno",
+        "https://jobs.lsvp.com/jobs/suno"
+      ],
+      "rolling": "Likely yes. Suno uses Ashby as its ATS and postings stay open until filled. Glassdoor shows an average of 17 days from application to decision. Apply early (Sep",
+      "pay": "$73.56/hr (~$12,750/month, ~$153K annualized) per Levels.fyi user-reported data for Summer 2026 in Cambridge, MA. One of the highest-paying AI startup internshi",
+      "no_formal_program": false,
+      "faq_open_answer": "Expect postings to appear between September and November 2026, based on the confirmed Summer 2026 intern cycle. No fixed deadline exists; roles fill on a rolling basis. Check the Ashby job board (jobs.ashbyhq.com/suno) and the LSVP portfolio board weekly starting September 2026.",
+      "window": [
+        "2026-09",
+        "2026-11"
+      ],
+      "window_text": "Expected September to November 2026 for summer 2027 roles. No fixed public deadline; roles appear to fill on a rolling basis. Projected from the Summer 2026 intern cycle"
+    },
+    {
+      "name": "Supabase",
+      "slug": "supabase",
+      "guide_url": "https://www.extern.com/post/supabase-internship-guide",
+      "career_urls": [
+        "https://jobs.ashbyhq.com/supabase",
+        "https://supabase.com/careers"
+      ],
+      "rolling": "Full-time roles are posted and filled on a rolling, as-needed basis with no fixed seasonal windows. Candidate reports describe a standard apply-online \u2192 recruit",
+      "pay": "No intern pay data exists. Community estimate (techinterview.org, 2025, not official): full-time Software Engineer total comp ~$260K to $410K, Senior ~$360K to ",
+      "no_formal_program": true,
+      "faq_open_answer": null,
+      "window": [
+        "2026-09",
+        "2026-09"
+      ],
+      "window_text": "Not confirmed. Supabase does not run a formal, cohort-based internship program, so no intern window is published for the Summer 2027 cycle and none is expected to open in fall 2026 unless the company changes strategy"
+    },
+    {
+      "name": "Synthesia",
+      "slug": "synthesia",
+      "guide_url": "https://www.extern.com/post/synthesia-internship-guide",
+      "career_urls": [
+        "https://jobs.ashbyhq.com/synthesia"
+      ],
+      "rolling": "Yes. No structured cycle exists. Positions are created based on team needs. Average time from application to offer is 26 days across all roles (Glassdoor, 280 i",
+      "pay": "No public intern salary data. Estimated GBP 2,500 to 4,000 per month for ML interns in London based on comparable AI startups at $2B to $5B valuation. Full-time",
+      "no_formal_program": true,
+      "faq_open_answer": null,
+      "window": [
+        "2027-01",
+        "2027-01"
+      ],
+      "window_text": "No formal window. Begin networking in Q4 2026. Monitor the Ashby job board starting January 2027. Any intern openings are ad-hoc and filled on a rolling basis"
+    },
+    {
+      "name": "T-Mobile",
+      "slug": "t-mobile",
+      "guide_url": "https://www.extern.com/post/t-mobile-internship-guide",
+      "career_urls": [
+        "https://careers.t-mobile.com/internship"
+      ],
+      "rolling": "Yes, effectively. Roles are posted on a 1:1 basis and close once the position is filled, so apply the week a req opens",
+      "pay": "Official JD ranges: $26\u2013$47/hr for Software Engineering (higher with a STEM designation), $20\u2013$40/hr for Finance. Community sites report a ~$39\u2013$47/hr median fo",
+      "no_formal_program": false,
+      "faq_open_answer": null,
+      "window": [
+        "2026-09",
+        "2026-09"
+      ],
+      "window_text": "Not yet published. Projected from the 2026 cycle: postings open ~late summer / early fall 2026 (expected), deadlines land on a rolling basis around April 2027 (expected)"
+    },
+    {
+      "name": "Take-Two Interactive",
+      "slug": "take-two-interactive",
+      "guide_url": "https://www.extern.com/post/take-two-interactive-internship-guide",
+      "career_urls": [
+        "https://careers.take2games.com/jobs",
+        "https://2k.com/careers/engineering-grad/"
+      ],
+      "rolling": "2K Engineering Graduate Program: yes, applications are processed as they are received (apply early). Take-Two Summer Internship: not explicitly stated, but post",
+      "pay": "Take-Two Summer Internship, NYC: $30/hour (Data Science and IT Support intern JDs). 2K Engineering Graduate Program: \"highly competitive salary\" plus benefits (",
+      "no_formal_program": false,
+      "faq_open_answer": "The 2K Engineering Graduate Program re-opens applications in September 2026 for the Summer 2027 intake (official), and it is reviewed on a rolling basis, so apply early. Take-Two's corporate intern postings are expected to open around fall 2026 and close in early 2027, based on the Summer 2026 reqs being removed in early January 2026.",
+      "window": [
+        "2026-09",
+        "2026-12"
+      ],
+      "window_text": "2K Engineering Graduate Program: applications re-open September 2026 for the Summer 2027 intake (official). Take-Two Summer Internship reqs are expected to open ~fall 2026 (roughly Oct\u2013Dec) and close early 2027, based on the prior cycle being removed in early January 2026"
+    },
+    {
+      "name": "Tempus AI",
+      "slug": "tempus-ai",
+      "guide_url": "https://www.extern.com/post/tempus-ai-internship-guide",
+      "career_urls": [
+        "https://tempus.wd5.myworkdayjobs.com/Tempus_Careers",
+        "https://www.tempus.com/about-us/why-tempus/"
+      ],
+      "rolling": "Partially. Tempus runs a structured summer program with defined start waves, but individual reqs are reviewed on a rolling basis until filled. Levels.fyi notes ",
+      "pay": "Official JD pay ranges (Illinois): $25/hr for undergraduate summer analysts, $35/hr for advanced-degree (Master's/PhD) ML summer associates, plus a relocation b",
+      "no_formal_program": false,
+      "faq_open_answer": null,
+      "window": [
+        "2026-09",
+        "2027-03"
+      ],
+      "window_text": "Expected to open ~Fall 2026 (roughly Sept\u2013Nov) and run through spring 2027, projected from the Summer 2026 cycle whose AI Data Science role stayed live until May 21, 2026. As of August 2026 no Summer 2027 intern reqs are live yet (160 open roles on Workday, none intern)"
+    },
+    {
+      "name": "Texas Instruments",
+      "slug": "texas-instruments",
+      "guide_url": "https://www.extern.com/post/texas-instruments-internship-guide",
+      "career_urls": [
+        "https://careers.ti.com/en/sites/CX/jobs?keyword=intern"
+      ],
+      "rolling": "Yes. Applications reviewed on a rolling basis. First-come advantage is real; positions may fill before the soft November close",
+      "pay": "$28 to $47/hr depending on degree, role, and location, plus $2,300\u2013$8,000 housing stipend",
+      "no_formal_program": false,
+      "faq_open_answer": null,
+      "window": [
+        "2026-08",
+        "2026-11"
+      ],
+      "window_text": "Expected mid-August to mid-November 2026 for summer 2027 (rolling; first 3 weeks of fall semester get priority)"
+    },
+    {
+      "name": "Thinking Machines Lab",
+      "slug": "thinking-machines-lab",
+      "guide_url": "https://www.extern.com/post/thinking-machines-lab-internship-guide",
+      "career_urls": [
+        "https://job-boards.greenhouse.io/thinkingmachines"
+      ],
+      "rolling": "NOT CONFIRMED. Peer AI labs typically use deadline-based windows rather than rolling admissions",
+      "pay": "No intern pay data. Based on peer labs (Anthropic, OpenAI), estimated at $9,000 to $12,000/month plus a housing stipend. Full-time technical base: $450,000 to $",
+      "no_formal_program": false,
+      "faq_open_answer": null,
+      "window": [
+        "2026-09",
+        "2026-09"
+      ],
+      "window_text": "NOT CONFIRMED. If a program launches, expect applications to open Fall 2026 to Winter 2027, based on peer AI lab patterns (Anthropic, OpenAI, DeepMind)"
+    },
+    {
+      "name": "Toast",
+      "slug": "toast",
+      "guide_url": "https://www.extern.com/post/toast-internship-guide",
+      "career_urls": [
+        "https://careers.toasttab.com/early-career",
+        "https://toast.career-pages.com/jobs/search/search-page-campus"
+      ],
+      "rolling": "Partly. Each cycle opens in a defined window rather than year-round, but resumes are reviewed on an ongoing basis within the window. Toast advises checking the ",
+      "pay": "Set by role, non-negotiable, disclosed at the recruiter screen. SWE interns near $38/hr median (~$34\u201341/hr) on Levels.fyi (community); Toast's official Fall 202",
+      "no_formal_program": false,
+      "faq_open_answer": null,
+      "window": [
+        "2027-02",
+        "2027-03"
+      ],
+      "window_text": "Summer internship applications typically open February\u2013March; expected Feb\u2013March 2027 for a June 2027 start. Fall co-op opens ~June\u2013July, Spring co-op ~October (all 2027 dates expected, projected from Toast's documented recurring windows)"
+    },
+    {
+      "name": "TSMC",
+      "slug": "tsmc",
+      "guide_url": "https://www.extern.com/post/tsmc-internship-guide",
+      "career_urls": [
+        "https://careers.tsmc.com/en_US/"
+      ],
+      "rolling": "Partially. Window is defined but review within it is rolling; apply early",
+      "pay": "$23 to $48/hr depending on location, role, and degree (Camas WA entry to San Jose PhD research)",
+      "no_formal_program": false,
+      "faq_open_answer": "Applications for summer 2027 are expected to open around October to December 2026, based on the documented pattern from prior cycles (the Summer 2026 window opened November 2025 with a March 2026 close), and the first Summer 2027 Arizona posting appeared as early as July 2026. Apply within the first few weeks for maximum advantage under rolling review.",
+      "window": [
+        "2026-10",
+        "2026-12"
+      ],
+      "window_text": "Applications for summer 2027 expected to open October to December 2026 and close by March 2027 (earliest AZ postings live as of July 2026; projected from prior cycles)"
+    },
+    {
+      "name": "Twilio",
+      "slug": "twilio",
+      "guide_url": "https://www.extern.com/post/twilio-internship-guide",
+      "career_urls": [
+        "https://www.twilio.com/en-us/company/jobs",
+        "https://job-boards.greenhouse.io/twiliostudents"
+      ],
+      "rolling": "Likely yes (expected). Twilio publishes no fixed hard deadline; the Social Impact posting notes applications \"may close earlier depending on business needs,\" an",
+      "pay": "Community-reported (Levels.fyi, 10 data points): ~$47/hour (~$8,147/month) for Summer 2026 remote US, historical range $35\u2013$53/hour. Not an official Twilio figu",
+      "no_formal_program": false,
+      "faq_open_answer": "Expected around Fall 2026, running rolling into winter/early 2027, projected from the Summer 2026 cycle. No official 2027 date is published yet, and a Twilio recruiter previously noted the team finalizes headcount before launching. Apply as soon as the SWE Intern posting appears on the University Programs board.",
+      "window": [
+        "2026-09",
+        "2027-02"
+      ],
+      "window_text": "Not yet posted. Applications for summer 2027 are expected to open ~Fall 2026 and run rolling into winter/early 2027, projected from the Summer 2026 cycle. No official 2027 date is published yet."
+    },
+    {
+      "name": "Ubisoft",
+      "slug": "ubisoft",
+      "guide_url": "https://www.extern.com/post/ubisoft-internship-guide",
+      "career_urls": [
+        "https://www.ubisoft.com/en-us/company/careers/search",
+        "https://careers.smartrecruiters.com/ubisoft2"
+      ],
+      "rolling": "Effectively yes. Each studio reviews applications as they come in; positions close once filled. Structured programs (Develop at Ubisoft, Graduate Program, NEXT)",
+      "pay": "$23 to $33/hr for US interns (Indeed and Glassdoor ranges); ~$18 to $22 CAD/hr for Montreal co-ops",
+      "no_formal_program": false,
+      "faq_open_answer": "Unlike companies with a single annual window, Ubisoft posts internships studio by studio throughout the year. Summer internship postings typically appear 3 to 6 months before the start date, meaning fall through early spring. The Develop at Ubisoft mentorship program opens applications each October, and the Graduate Program opens each January. Set up alerts on the Ubisoft careers page and check re",
+      "window": [
+        "2026-10",
+        "2026-10"
+      ],
+      "window_text": "Studio postings expected December 2026 through March 2027; Develop at Ubisoft mentorship opens October 2026"
+    },
+    {
+      "name": "Unity",
+      "slug": "unity",
+      "guide_url": "https://www.extern.com/post/unity-internship-guide",
+      "career_urls": [
+        "https://unity.com/careers/positions"
+      ],
+      "rolling": "Yes, likely. Roles are posted individually and remain open until filled. No single unified deadline. Apply as soon as a role appears",
+      "pay": "SWE intern $40 to $50/hr depending on location (SF highest at $47 to $50/hr). Housing stipend of roughly $5,400 total or $1,500 to $1,800 per month",
+      "no_formal_program": false,
+      "faq_open_answer": "Unity typically posts internship roles in late summer to early fall for the following summer. For summer 2027, expect postings to appear around August to October 2026. Those dates are projected from historical patterns and are not official. Monitor unity.com/careers/positions with the Students & Early Career filter.",
+      "window": [
+        "2026-08",
+        "2026-10"
+      ],
+      "window_text": "Expected late summer to early fall for the following summer. Monitor starting Aug to Oct 2026 for summer 2027 roles. Projected pattern, not yet posted"
+    },
+    {
+      "name": "Valve",
+      "slug": "valve",
+      "guide_url": "https://www.extern.com/post/valve-internship-guide",
+      "career_urls": [
+        "https://www.valvesoftware.com/en/jobs"
+      ],
+      "rolling": "N/A for internships. Full-time openings are accepted on a rolling basis with no deadline",
+      "pay": "Software Engineer median: $375K total comp (Levels.fyi); company-wide median: $217K",
+      "no_formal_program": true,
+      "faq_open_answer": null,
+      "window": null,
+      "window_text": "N/A, no internship cycle. Full-time roles are posted year-round at valvesoftware.com/en/jobs"
+    },
+    {
+      "name": "Vanta",
+      "slug": "vanta",
+      "guide_url": "https://www.extern.com/post/vanta-internship-guide",
+      "career_urls": [
+        "https://jobs.ashbyhq.com/vanta",
+        "https://www.vanta.com/company/careers"
+      ],
+      "rolling": "Likely rolling and continuous, not a fixed cohort deadline. Vanta posts individual roles on Ashby and fills them as strong candidates appear. Apply the week a p",
+      "pay": "No official intern rate is published (NOT FOUND on Levels.fyi's single Summer 2023 data point). For context only, entry-level SWE base is about $140K to $180K (",
+      "no_formal_program": false,
+      "faq_open_answer": null,
+      "window": [
+        "2026-09",
+        "2027-02"
+      ],
+      "window_text": "No formal intern posting is live as of August 2026. Based on the early-career calendar and Vanta's new-grad hiring, applications for summer 2027 are expected to open on Ashby around Fall 2026 (roughly Sept\u2013Nov 2026), reviewed on a rolling basis into early 2027 (expected, not officially confirmed)"
+    },
+    {
+      "name": "Vercel",
+      "slug": "vercel",
+      "guide_url": "https://www.extern.com/post/vercel-internship-guide",
+      "career_urls": [
+        "https://vercel.com/careers",
+        "https://job-boards.greenhouse.io/vercel"
+      ],
+      "rolling": "Not explicitly stated. Vercel posts a single intern req per summer cycle and the summer 2026 listing came down in late September 2025. Treat it as early-close /",
+      "pay": "$9,500 to $11,000 per month (official JD). Levels.fyi community data lists $70.00/hr. Benefits: mentorship and events, Flexible Time Off plus paid holidays, rem",
+      "no_formal_program": false,
+      "faq_open_answer": null,
+      "window": [
+        "2026-09",
+        "2026-09"
+      ],
+      "window_text": "Not yet open as of August 2026. For the summer 2027 cycle, expect the intern req to appear ~summer to fall 2026 and to close by early fall. The summer 2026 listing was removed Sep 26, 2025 (expected timing)"
+    },
+    {
+      "name": "Verizon",
+      "slug": "verizon",
+      "guide_url": "https://www.extern.com/post/verizon-internship-guide",
+      "career_urls": [
+        "https://mycareer.verizon.com/life-at-verizon/students-internships/"
+      ],
+      "rolling": "Effectively yes. Postings \"may close before the stated closing date\"; applicants encouraged to apply as soon as possible",
+      "pay": "$23\u2013$36/hr depending on role; 401(k) match on first 6%, full benefits from day one",
+      "no_formal_program": false,
+      "faq_open_answer": "Based on the 2026 cycle, expect Verizon internship postings to appear on mycareer.verizon.com starting around September to November 2026, with some specialized tracks like Public Policy posting as early as September and technology and engineering roles following in October through November. Verizon has not posted 2027 dates yet, so join their Talent Network early.",
+      "window": [
+        "2026-09",
+        "2026-11"
+      ],
+      "window_text": "Expected September\u2013November 2026 for summer 2027 (documented pattern; not yet posted)"
+    },
+    {
+      "name": "VMware",
+      "slug": "vmware",
+      "guide_url": "https://www.extern.com/post/vmware-internship-guide",
+      "career_urls": [
+        "https://broadcom.wd1.myworkdayjobs.com/External_Career"
+      ],
+      "rolling": "Likely yes. Broadcom contacts candidates November to January, implying window-based rolling review",
+      "pay": "$40\u2013$55/hr estimated for SWE interns (Levels.fyi historical average ~$42/hr); $1,500\u2013$8,500 housing stipend",
+      "no_formal_program": false,
+      "faq_open_answer": "VMware internships are now posted under Broadcom on its Workday portal. Based on the summer 2026 cycle, expect applications to open around September to October 2026, with recruiter outreach from November 2026 to January 2027. Review is likely rolling, so applying the first week a posting goes live significantly improves your odds.",
+      "window": [
+        "2026-09",
+        "2026-10"
+      ],
+      "window_text": "Expected September\u2013October 2026 for summer 2027 (documented pattern from the 2026 cycle; not yet posted)"
+    },
+    {
+      "name": "Wayfair",
+      "slug": "wayfair",
+      "guide_url": "https://www.extern.com/post/wayfair-internship-guide",
+      "career_urls": [
+        "https://www.wayfair.com/careers/jobs",
+        "https://www.aboutwayfair.com/careers/early-talent"
+      ],
+      "rolling": "Partly. Early-talent applications are reviewed on a rolling basis with an \"initial update within 3 weeks,\" but the flagship summer internship is a fixed, dated ",
+      "pay": "SWE Intern: $40/hour (~$6,933/month in Boston, Summer 2025, with a $600/month housing stipend on some offers). Data Science Intern: $35/hour. Full-time SWE tota",
+      "no_formal_program": false,
+      "faq_open_answer": null,
+      "window": [
+        "2026-09",
+        "2027-02"
+      ],
+      "window_text": "Not yet published. Based on the Summer 2026 cycle (posted ~Sep 17, 2025), applications for summer 2027 are expected to open ~Sep\u2013Oct 2026 and run through late 2026 / early 2027. Exact 2027 open/close dates NOT FOUND as of August 2026. Monitor wayfair.com/careers starting Fall 2026"
+    },
+    {
+      "name": "Whoop",
+      "slug": "whoop",
+      "guide_url": "https://www.extern.com/post/whoop-internship-guide",
+      "career_urls": [
+        "https://www.whoop.com/us/en/careers/",
+        "https://jobs.lever.co/whoop"
+      ],
+      "rolling": "Yes, implicitly. No published deadlines; positions close when filled. Apply within the first 2 to 4 weeks of a posting",
+      "pay": "SWE Intern ~$35/hr ($72K annualized median) plus free WHOOP membership and device",
+      "no_formal_program": false,
+      "faq_open_answer": null,
+      "window": [
+        "2027-01",
+        "2027-03"
+      ],
+      "window_text": "Expected January to March 2027 for summer starts, based on prior posting patterns. Projected, not yet posted"
+    },
+    {
+      "name": "Windsurf (Codeium)",
+      "slug": "windsurf",
+      "guide_url": "https://www.extern.com/post/windsurf-internship-guide",
+      "career_urls": [
+        "https://jobs.ashbyhq.com/cognition"
+      ],
+      "rolling": "Not confirmed. As a startup with fewer than 300 employees pre-acquisition, the program was likely informal and rolling. Monitor the Cognition Ashby board for po",
+      "pay": "$54.81/hr (~$9,500/month) in Summer 2025, per Levels.fyi. Housing and transportation tags appeared on Levels.fyi but specific stipend amounts are unconfirmed",
+      "no_formal_program": false,
+      "faq_open_answer": null,
+      "window": [
+        "2026-09",
+        "2026-09"
+      ],
+      "window_text": "Not confirmed. Historically, Windsurf (as Codeium) posted intern listings in fall for spring/summer terms. Expect Cognition to follow a similar pattern starting fall 2026 for summer 2027"
+    },
+    {
+      "name": "Wiz",
+      "slug": "wiz",
+      "guide_url": "https://www.extern.com/post/wiz-internship-guide",
+      "career_urls": [
+        "https://www.wiz.io/careers"
+      ],
+      "rolling": "Yes for full-time roles. Wiz posts and fills roles on a rolling basis through Greenhouse with no fixed seasonal windows. Full-time process averages about 23 day",
+      "pay": "No official Wiz intern pay exists. US SWE-intern market benchmark: about $83K/yr annualized (~$40/hr). Community-labeled full-time SWE data: Glassdoor avg ~$150",
+      "no_formal_program": true,
+      "faq_open_answer": null,
+      "window": [
+        "2026-09",
+        "2026-09"
+      ],
+      "window_text": "Not published. No formal internship program exists as of August 2026, so there is no prior cycle to anchor to. If early-career roles open, applications for summer 2027 would most likely be expected to appear on a rolling basis from fall 2026 onward"
+    },
+    {
+      "name": "Workday",
+      "slug": "workday",
+      "guide_url": "https://www.extern.com/post/workday-internship-guide",
+      "career_urls": [
+        "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career"
+      ],
+      "rolling": "Yes, confirmed. Recruiters begin reviewing applications immediately upon opening and interview rolling; apply within the first 2 weeks for maximum visibility",
+      "pay": "$48 to $75/hr depending on role, level, and location. Undergrads $48 to $58/hr; graduates $58 to $68/hr; ML and AI tracks up to $75/hr. Plus $2,000 to $2,500/mo",
+      "no_formal_program": false,
+      "faq_open_answer": null,
+      "window": [
+        "2026-08",
+        "2026-08"
+      ],
+      "window_text": "Expected early to mid-August 2026 for engineering and tech; rolling closures begin late November 2026, final deadline around December 15, 2026. Projected pattern, not yet posted"
+    },
+    {
+      "name": "World Labs",
+      "slug": "world-labs",
+      "guide_url": "https://www.extern.com/post/world-labs-internship-guide",
+      "career_urls": [
+        "https://job-boards.greenhouse.io/worldlabs"
+      ],
+      "rolling": "Not confirmed. Small AI research startups typically hire interns in focused batches tied to specific research projects rather than true rolling admissions",
+      "pay": "Estimated $55 to $80 per hour ($9,500 to $13,900/month) based on comparable AI startup benchmarks. Not confirmed by World Labs. Full-time research scientist sal",
+      "no_formal_program": true,
+      "faq_open_answer": null,
+      "window": [
+        "2026-10",
+        "2026-12"
+      ],
+      "window_text": "Not confirmed. Based on AI startup patterns: October to December 2026 for summer 2027 roles. Monitor the Greenhouse board starting in the fall"
+    },
+    {
+      "name": "Writer",
+      "slug": "writer",
+      "guide_url": "https://www.extern.com/post/writer-internship-guide",
+      "career_urls": [
+        "https://jobs.ashbyhq.com/writer"
+      ],
+      "rolling": "Unknown. Most AI startups of similar size use a hybrid approach with a fixed window and rolling review",
+      "pay": "Not confirmed. Full-time SWE base ranges from $111.7K\u2013$304.1K; intern pay would differ substantially",
+      "no_formal_program": false,
+      "faq_open_answer": null,
+      "window": [
+        "2026-09",
+        "2026-11"
+      ],
+      "window_text": "Not confirmed. If launched, expect postings September\u2013November 2026 for Summer 2027 (based on comparable AI startups)"
+    },
+    {
+      "name": "xAI",
+      "slug": "xai",
+      "guide_url": "https://www.extern.com/post/xai-internship-guide",
+      "career_urls": [
+        "https://job-boards.greenhouse.io/xai",
+        "https://x.ai/careers"
+      ],
+      "rolling": "Yes. Positions posted on Greenhouse and reviewed on a rolling basis until filled",
+      "pay": "$10,000\u2013$14,000/month (estimated; no first-party confirmation)",
+      "no_formal_program": false,
+      "faq_open_answer": null,
+      "window": [
+        "2026-11",
+        "2027-02"
+      ],
+      "window_text": "Expected late 2026 through early 2027 for Summer 2027; no fixed deadlines published"
+    },
+    {
+      "name": "Zapier",
+      "slug": "zapier",
+      "guide_url": "https://www.extern.com/post/zapier-internship-guide",
+      "career_urls": [
+        "https://jobs.ashbyhq.com/zapier",
+        "https://zapier.com/jobs"
+      ],
+      "rolling": "Yes. Each posting opens a ~30-day window that can close early if volume is high or the role is filled (quoted from Zapier JDs). Community consensus: apply in we",
+      "pay": "No intern pay on record (zero Levels.fyi intern submissions). Full-time US ranges from live JDs: Applied AI Engineer $191.5K\u2013$287.3K; Staff Backend $210.7K\u2013$316",
+      "no_formal_program": true,
+      "faq_open_answer": null,
+      "window": null,
+      "window_text": "No cohort intern cycle exists. Full-time roles post year-round on rolling ~30-day windows, so for a summer 2027 target you monitor continuously (there is no fall-2026 \"season.\" A circulating \"Zapier Graduate Program 2027\" page is a third-party aggregator (opportunitiesfeed.com), not an official Zapier posting"
+    },
+    {
+      "name": "Zoom",
+      "slug": "zoom",
+      "guide_url": "https://www.extern.com/post/zoom-internship-guide",
+      "career_urls": [
+        "https://careers.zoom.us/jobs/search"
+      ],
+      "rolling": "Yes. Zoom reviews applications and extends offers on a rolling basis. Apply within the first two weeks for the best response rates",
+      "pay": "$7,000 to $9,500 per month ($45 to $60/hr). Housing stipend of $2,800 to $5,000/month plus a $2,000 relocation bonus",
+      "no_formal_program": false,
+      "faq_open_answer": "Expect most engineering roles to open late July to early August 2026, with a priority deadline around late September and a final deadline in mid-November 2026. Those dates are projected from the Summer 2026 cycle and are not official yet. Set a job alert on careers.zoom.us.",
+      "window": [
+        "2026-07",
+        "2026-08"
+      ],
+      "window_text": "Expected late July to early August 2026 for summer 2027 engineering roles. Priority deadline around late September 2026, final deadline around mid-November 2026. Projected from prior cycle"
+    },
+    {
+      "name": "Zscaler",
+      "slug": "zscaler",
+      "guide_url": "https://www.extern.com/post/zscaler-internship-guide",
+      "career_urls": [
+        "https://www.zscaler.com/careers",
+        "https://job-boards.greenhouse.io/zscaler"
+      ],
+      "rolling": "Partly. The US cohort is recruited seasonally (fall postings) but individual reqs fill on a rolling, first-qualified basis. India Skybound runs as a structured ",
+      "pay": "Official US base: $45\u201365/hour (bonus/equity excluded). Levels.fyi (community) shows US SWE interns ~$45\u201350/hr ($7,800\u20138,667/mo), with a $3,000 relocation report",
+      "no_formal_program": false,
+      "faq_open_answer": null,
+      "window": [
+        "2026-09",
+        "2026-10"
+      ],
+      "window_text": "Unpublished for 2027. Expected to open ~September\u2013October 2026 and primarily close ~December 2026 (the Summer 2026 posting was removed Dec 20, 2025), with some reqs lingering into early 2027. Apply early) the posting flags \"Be an Early Applicant\""
+    }
+  ],
+  "known_guide_slugs": [
+    "1password",
+    "3m",
+    "a24",
+    "abbott",
+    "abbvie",
+    "abnormal-security",
+    "abridge",
+    "accel",
+    "accenture",
+    "activision-blizzard",
+    "addepar",
+    "adept-ai",
+    "adidas",
+    "adobe",
+    "advent-international",
+    "affirm",
+    "ai21-labs",
+    "airbnb",
+    "airbus",
+    "airtable",
+    "akuna-capital",
+    "alvarez-and-marsal",
+    "amazon",
+    "amc-networks",
+    "amd",
+    "american-airlines",
+    "american-express",
+    "amgen",
+    "analysis-group",
+    "andreessen-horowitz",
+    "anduril",
+    "anheuser-busch-inbev",
+    "anthropic",
+    "anyscale",
+    "apollo-global",
+    "apple",
+    "applovin",
+    "aptiv",
+    "aqr-capital",
+    "ares-management",
+    "arm",
+    "asana",
+    "astrazeneca",
+    "at-and-t",
+    "atlassian",
+    "attentive",
+    "aurora",
+    "bae-systems",
+    "bain",
+    "bain-capital",
+    "baker-hughes",
+    "baker-tilly",
+    "balyasny",
+    "bank-of-america",
+    "barclays",
+    "bbdo",
+    "bcg",
+    "bdo",
+    "berkshire-hathaway",
+    "best-buy",
+    "bill-com",
+    "biogen",
+    "blackrock",
+    "blackstone",
+    "block-square",
+    "blue-origin",
+    "bmw",
+    "bnp-paribas",
+    "bny-mellon",
+    "boeing",
+    "booking-holdings",
+    "booz-allen",
+    "bosch",
+    "boston-scientific",
+    "bp",
+    "braze",
+    "brex",
+    "bridgewater",
+    "bristol-myers-squibb",
+    "broadcom",
+    "bungie",
+    "canva",
+    "capital-group",
+    "caterpillar",
+    "cedar",
+    "centerview",
+    "cerebras",
+    "character-ai",
+    "charles-river-associates",
+    "checkr",
+    "chevron",
+    "chewy",
+    "chime",
+    "chipotle",
+    "cigna",
+    "cisco",
+    "citadel",
+    "citi",
+    "clorox",
+    "cloudflare",
+    "co-op-vs",
+    "coca-cola",
+    "cockroach-labs",
+    "cognition",
+    "cohere",
+    "coinbase",
+    "colgate-palmolive",
+    "collins-aerospace",
+    "comcast",
+    "conagra-brands",
+    "confluent",
+    "conocophillips",
+    "contextual-ai",
+    "coreweave",
+    "cornerstone-research",
+    "costco",
+    "crowdstrike",
+    "crowe",
+    "cruise",
+    "cursor",
+    "cvs-health",
+    "data-analyst",
+    "databricks",
+    "datadog",
+    "de-shaw",
+    "decagon",
+    "deel",
+    "deepl",
+    "deere",
+    "dell-technologies",
+    "deloitte",
+    "delta-air-lines",
+    "deutsche-bank",
+    "diageo",
+    "discord",
+    "disney",
+    "do-you-get-paid-in-an",
+    "docker",
+    "docusign",
+    "dominion-energy",
+    "doordash",
+    "dow",
+    "drata",
+    "droga5",
+    "dropbox",
+    "drw",
+    "duke-energy",
+    "duolingo",
+    "dupont",
+    "eaton",
+    "ebay",
+    "edelman",
+    "electronic-arts",
+    "elevance-health",
+    "elevenlabs",
+    "eli-lilly",
+    "emerson-electric",
+    "enphase-energy",
+    "epic-games",
+    "epic-systems",
+    "estee-lauder",
+    "etsy",
+    "evercore",
+    "expedia",
+    "externship-vs",
+    "exxonmobil",
+    "ey",
+    "ferrari",
+    "fidelity",
+    "figma",
+    "figure-ai",
+    "fireworks-ai",
+    "first-solar",
+    "fis",
+    "fiserv",
+    "five-rings",
+    "fivetran",
+    "flatiron-health",
+    "flow-traders",
+    "ford",
+    "fox-corporation",
+    "fti-consulting",
+    "gartner",
+    "ge-vernova",
+    "genentech",
+    "general-atlantic",
+    "general-dynamics",
+    "general-electric",
+    "general-mills",
+    "general-motors",
+    "gilead-sciences",
+    "gitlab",
+    "glean",
+    "global-payments",
+    "goldman-sachs",
+    "google",
+    "google-deepmind",
+    "grafana-labs",
+    "grammarly",
+    "grant-thornton",
+    "greenhill",
+    "groq",
+    "gsk",
+    "guggenheim-partners",
+    "gusto",
+    "halliburton",
+    "harris-williams",
+    "harvey",
+    "hashicorp",
+    "havas",
+    "hebbia",
+    "hershey",
+    "hilton",
+    "hims-and-hers",
+    "home-depot",
+    "honda",
+    "honeywell",
+    "honeywell-aerospace",
+    "houlihan-lokey",
+    "hsbc",
+    "hubspot",
+    "hudson-river-trading-hrt",
+    "hugging-face",
+    "humana",
+    "hyatt",
+    "hyundai",
+    "ibm",
+    "ideogram",
+    "iheartmedia",
+    "illinois-tool-works",
+    "illumina",
+    "imc",
+    "included-health",
+    "inflection-ai",
+    "instacart",
+    "intel",
+    "intuit",
+    "intuitive-surgical",
+    "invesco",
+    "iqvia",
+    "jane-street",
+    "jefferies",
+    "john-deere",
+    "johnson-and-johnson",
+    "jpmorgan",
+    "jump-trading",
+    "kaiser-permanente",
+    "kearney",
+    "kellanova",
+    "keurig-dr-pepper",
+    "kimberly-clark",
+    "kkr",
+    "klarna",
+    "klaviyo",
+    "komodo-health",
+    "kpmg",
+    "kraft-heinz",
+    "kroger",
+    "l-e-k-consulting",
+    "l3harris",
+    "lambda",
+    "langchain",
+    "lazard",
+    "leo-burnett",
+    "life360",
+    "linear",
+    "lionsgate",
+    "live-nation",
+    "lockheed-martin",
+    "loreal",
+    "lowes",
+    "lucid-motors",
+    "luma-ai",
+    "lyft",
+    "macys",
+    "magna",
+    "marathon-petroleum",
+    "marqeta",
+    "marriott",
+    "mars",
+    "mastercard",
+    "mccann",
+    "mcdonalds",
+    "mckinsey",
+    "medtronic",
+    "mercedes-benz",
+    "merck",
+    "mercor",
+    "mercury",
+    "meta",
+    "micron",
+    "microsoft",
+    "midjourney",
+    "millennium",
+    "miro",
+    "mistral-ai",
+    "mizuho",
+    "modal",
+    "moderna",
+    "moelis",
+    "mondelez",
+    "mongodb",
+    "morgan-stanley",
+    "moss-adams",
+    "nasa",
+    "naughty-dog",
+    "navan",
+    "nestle",
+    "netflix",
+    "nextdoor",
+    "nextera-energy",
+    "nickelodeon",
+    "nike",
+    "nintendo",
+    "nissan",
+    "nomura",
+    "nordstrom",
+    "northrop-grumman",
+    "notion",
+    "novartis",
+    "nubank",
+    "nvidia",
+    "occidental-petroleum",
+    "ogilvy",
+    "okta",
+    "old-mission",
+    "oliver-wyman",
+    "openai",
+    "optiver",
+    "oracle",
+    "oura",
+    "p-and-g",
+    "palantir",
+    "palo-alto-networks",
+    "paramount",
+    "parker-hannifin",
+    "paypal",
+    "pepsico",
+    "perella-weinberg",
+    "perplexity",
+    "pfizer",
+    "phillips-66",
+    "physical-intelligence",
+    "pika",
+    "pimco",
+    "pinecone",
+    "pinterest",
+    "piper-sandler",
+    "pjt-partners",
+    "plaid",
+    "point72",
+    "porsche",
+    "postman",
+    "pratt-and-whitney",
+    "pwc",
+    "qatalyst-partners",
+    "qualcomm",
+    "ramp",
+    "raymond-james",
+    "raytheon",
+    "rbc-capital-markets",
+    "recursion",
+    "red-bull",
+    "reddit",
+    "regeneron",
+    "reka-ai",
+    "relativity-space",
+    "replicate",
+    "replit",
+    "retool",
+    "riot-games",
+    "rippling",
+    "rivian",
+    "ro",
+    "robert-w-baird",
+    "robinhood",
+    "roblox",
+    "roche",
+    "rocket-lab",
+    "rockstar-games",
+    "rockwell-automation",
+    "roland-berger",
+    "rothschild-and-co",
+    "royal-caribbean",
+    "rsm",
+    "rtx",
+    "runway",
+    "safe-superintelligence",
+    "sakana-ai",
+    "salesforce",
+    "sambanova",
+    "samsara",
+    "samsung",
+    "sanofi",
+    "sap",
+    "scale-ai",
+    "schlumberger",
+    "sephora",
+    "sequoia-capital",
+    "servicenow",
+    "shell",
+    "shopify",
+    "siemens",
+    "sierra",
+    "sierra-space",
+    "silver-lake",
+    "skild-ai",
+    "snap",
+    "snowflake",
+    "snyk",
+    "sofi",
+    "sony",
+    "sourcegraph",
+    "southern-company",
+    "southwest-airlines",
+    "spacex",
+    "splunk",
+    "spotify",
+    "sprout-social",
+    "stability-ai",
+    "starbucks",
+    "state-street",
+    "stellantis",
+    "strategy",
+    "strava",
+    "stripe",
+    "stryker",
+    "suno",
+    "supabase",
+    "susquehanna-sig",
+    "synthesia",
+    "t-mobile",
+    "t-rowe-price",
+    "take-two-interactive",
+    "target",
+    "tbwa",
+    "td-securities",
+    "tempus-ai",
+    "tesla",
+    "texas-instruments",
+    "textron",
+    "the-carlyle-group",
+    "the-trade-desk",
+    "thermo-fisher",
+    "thinking-machines-lab",
+    "tjx-companies",
+    "toast",
+    "together-ai",
+    "totalenergies",
+    "tower-research-capital",
+    "toyota",
+    "tpg",
+    "tsmc",
+    "twilio",
+    "two-sigma",
+    "uber",
+    "ubisoft",
+    "ubs",
+    "ulta-beauty",
+    "unilever",
+    "united-airlines",
+    "unitedhealth-group",
+    "unity",
+    "valero-energy",
+    "valve",
+    "vanguard",
+    "vanta",
+    "vaynermedia",
+    "vercel",
+    "verizon",
+    "vertex-pharmaceuticals",
+    "virtu-financial",
+    "visa",
+    "vista-equity-partners",
+    "vmware",
+    "volkswagen",
+    "walgreens",
+    "walmart",
+    "warburg-pincus",
+    "warner-bros-discovery",
+    "warner-music-group",
+    "wayfair",
+    "waymo",
+    "weaviate",
+    "weights-and-biases",
+    "wellington-management",
+    "wells-fargo",
+    "whoop",
+    "wieden-kennedy",
+    "william-blair",
+    "windsurf",
+    "wise",
+    "wiz",
+    "wolverine-trading",
+    "workday",
+    "world-labs",
+    "wpp",
+    "writer",
+    "xai",
+    "zapier",
+    "zoom",
+    "zoox",
+    "zs-associates",
+    "zscaler"
+  ]
+}

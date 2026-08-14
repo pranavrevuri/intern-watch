@@ -101,6 +101,33 @@ turns out to be the case for a given company, flag it and I'll add
 site-specific handling (Playwright can click and type, it just needs a
 few extra lines per site).
 
+## The Extern calendar (summer 2027 release dates)
+
+A second, separate watcher: `extern_watch.py` scrapes extern.com's
+per-company internship guides (the "Quick Facts" table each one
+carries) for ~158 tech companies and maintains:
+
+- **`InternWatch.xlsx`** - the human-readable watchlist. Sheet 1 is
+  sorted so whatever Extern expects to open soonest sits at the top
+  (green = window open now, yellow = opening within ~2 months), with
+  each company's career page link, Extern guide link, rolling policy,
+  and pay. Sheet 2 holds companies with no formal intern program.
+  Regenerated every run - don't edit it by hand.
+- **`extern_calendar.json`** - the machine-readable state the diff
+  runs against.
+
+It runs weekly (`.github/workflows/extern-calendar.yml`, Mondays ~9 AM
+ET) because Extern's dates are projections refreshed roughly monthly -
+scraping faster buys nothing. You only get an email when something
+actually changed: a window moved, a career link changed, a company
+gained/lost a formal program, or Extern published brand-new guides
+(those are listed for review, never auto-added - some are non-tech).
+Add or remove companies in `extern_companies.json`.
+
+The division of labor: the Extern calendar tells you *when to expect*
+each opening; the daily monitor above catches postings *actually going
+live* on career sites.
+
 ## Adjusting things later
 
 - **Schedule**: edit the `cron:` line in

@@ -1,0 +1,54 @@
+name: Extern Calendar Refresh
+
+# Weekly, not daily: Extern's guides carry PROJECTED windows refreshed
+# roughly monthly, so re-scraping faster buys nothing. Live posting
+# detection is check-intern-postings.yml's job.
+on:
+  schedule:
+    - cron: "0 13 * * 1"   # Mondays ~9:00 AM ET
+  workflow_dispatch: {}
+
+concurrency:
+  group: extern-calendar
+  cancel-in-progress: false
+
+permissions:
+  contents: write   # commits the refreshed calendar + spreadsheet
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # Only openpyxl is needed - no playwright/browsers, keeps the run fast.
+      - name: Install dependencies
+        run: pip install openpyxl
+
+      - name: Run tests
+        run: python -m unittest tests.test_extern_watch
+
+      - name: Refresh calendar
+        env:
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          NOTIFY_EMAIL: ${{ secrets.NOTIFY_EMAIL }}
+        run: python extern_watch.py
+
+      - name: Commit updated calendar
+        run: |
+          git config user.name "intern-watch-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add extern_calendar.json InternWatch.xlsx
+          if ! git diff --staged --quiet; then
+            git pull --rebase origin main || true
+            git commit -m "Refresh Extern calendar [skip ci]"
+            git push
+          fi
