@@ -47,7 +47,11 @@ jobs:
           git config user.email "actions@users.noreply.github.com"
           git add simplify_state.json
           if ! git diff --staged --quiet; then
-            git pull --rebase origin main || true
             git commit -m "Update Simplify seen postings [skip ci]"
-            git push
+            # Concurrent workflows push to main too (they touch different
+            # files, so rebase is always clean) - retry the race.
+            for i in 1 2 3; do
+              git push && break
+              git pull --rebase origin main
+            done
           fi
