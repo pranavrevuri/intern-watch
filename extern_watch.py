@@ -632,6 +632,48 @@ def build_xlsx(entries, today, path=XLSX_FILE):
         row += 1
     ws3.freeze_panes = "A3"
 
+    # Underclassman programs sheet - data maintained by
+    # underclass_watch.py (community repos + Extern's verified
+    # directory); rendered here so everything lives in one workbook.
+    uc = None
+    if os.path.exists("underclass_state.json"):
+        with open("underclass_state.json") as fh:
+            uc = json.load(fh).get("rows")
+    if uc:
+        ws4 = wb.create_sheet("Underclassman programs")
+        ws4["A1"] = ("Freshman/sophomore programs and postings (STEP/Explore/Ignite-style). "
+                     "Apply to these with the Class of 2029 graduation date. Sources: "
+                     "underclassmen-opportunities + summer-2027-internships GitHub repos, "
+                     "Extern's verified directory.")
+        ws4["A1"].font = Font(name="Arial", size=9, italic=True, color="595959")
+        ws4.merge_cells("A1:F1")
+        for col, (head, width) in enumerate(zip(
+                ["Program / role", "Company", "Details", "Window / location / posted", "Link", "Source section"],
+                [42, 22, 40, 26, 12, 30]), start=1):
+            cell = ws4.cell(row=2, column=col, value=head)
+            cell.font = header_font
+            cell.fill = header_fill
+            ws4.column_dimensions[get_column_letter(col)].width = width
+        row = 3
+        order = {"Verified directory (Extern)": 0, "Underclassmen Internships": 1,
+                 "Postings (community list)": 2}
+        for r in sorted(uc, key=lambda x: (order.get(x["section"], 9), x["section"], x["org"].lower())):
+            ws4.cell(row=row, column=1, value=r["name"]).font = Font(name="Arial", size=10, bold=True)
+            ws4.cell(row=row, column=2, value=r["org"]).font = body_font
+            dcell = ws4.cell(row=row, column=3, value=r.get("detail") or "")
+            dcell.font = body_font
+            dcell.alignment = wrap
+            ws4.cell(row=row, column=4,
+                     value=" ".join(filter(None, [r.get("location"), r.get("posted")]))).font = body_font
+            if r.get("link"):
+                lcell = ws4.cell(row=row, column=5, value="apply")
+                lcell.hyperlink = r["link"]
+                lcell.font = link_font
+            ws4.cell(row=row, column=6, value=r["section"]).font = body_font
+            row += 1
+        ws4.freeze_panes = "A3"
+        ws4.auto_filter.ref = f"A2:F{row - 1}"
+
     wb.save(path)
 
 

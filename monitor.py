@@ -66,7 +66,9 @@ ROLE_PATTERN = re.compile("|".join(ROLE_KEYWORDS), re.IGNORECASE)
 # "Technology Analyst" - only data/analytics-flavored analyst roles are.
 TITLE_VETO_PATTERN = re.compile(
     r"consult|geoscien|analytics|data\s+scien|business\s+intelligence|"
-    r"\bdata\b.{0,40}\banalyst\b|\banalyst\b.{0,40}\bdata\b",
+    r"\bdata\b.{0,40}\banalyst\b|\banalyst\b.{0,40}\bdata\b|"
+    # Titles that name a tech term only to negate it ("Ops, Not SWE").
+    r"\bnot\s+(?:swe|software|tech)\b",
     re.IGNORECASE,
 )
 # Word-bounded so "internal", "international", "internet" don't count as

@@ -151,7 +151,17 @@ requiring U.S. citizenship are dropped (CPT). "No sponsorship"
 postings are kept with a note - CPT internships don't need
 sponsorship; conversion later would.
 
-## How the three layers fit together
+## The underclassman watch
+
+`underclass_watch.py` (runs with the Simplify watch, every 30 min)
+watches freshman/sophomore-specific sources - the
+underclassmen-opportunities and summer-2027-internships GitHub repos
+plus Extern's verified underclassmen program directory (STEP, Explore,
+Ignite, Propel, TEIP, ...) - and alerts on new rows. The full dataset
+renders as the "Underclassman programs" sheet in InternWatch.xlsx.
+Apply to these with the Class of 2029 graduation date.
+
+## How the layers fit together
 
 | Layer | Source | Lag | Job |
 |---|---|---|---|
