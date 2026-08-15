@@ -3140,6 +3140,65 @@
         }
       },
       "legacy": []
+    },
+    "KnowBe4": {
+      "entries": {},
+      "legacy": []
+    },
+    "Jabil": {
+      "entries": {},
+      "legacy": []
+    },
+    "Point72": {
+      "entries": {
+        "https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002::machine learning researcher - intern": {
+          "title": "Machine Learning Researcher - Intern",
+          "url": "https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002",
+          "first_seen": "2026-08-15T19:29:44.655443+00:00",
+          "last_seen": "2026-08-15T19:29:44.655443+00:00",
+          "active": true
+        },
+        "https://boards.greenhouse.io/point72/jobs/7609197002?gh_jid=7609197002::quantitative developer intern": {
+          "title": "Quantitative Developer Intern",
+          "url": "https://boards.greenhouse.io/point72/jobs/7609197002?gh_jid=7609197002",
+          "first_seen": "2026-08-15T19:29:44.655443+00:00",
+          "last_seen": "2026-08-15T19:29:44.655443+00:00",
+          "active": true
+        }
+      },
+      "legacy": []
+    },
+    "Millennium": {
+      "entries": {},
+      "legacy": []
+    },
+    "RBC Capital Markets": {
+      "entries": {},
+      "legacy": []
+    },
+    "Deutsche Bank": {
+      "entries": {
+        "https://careers.db.com/students-graduates/::and are designed for students in their first (freshmen/pre-penultimate) or second (sophomore/penultimate) year of study. more hear from our interns & graduates": {
+          "title": "and are designed for students in their first (freshmen/pre-penultimate) or second (sophomore/penultimate) year of study. more Hear from our Interns & Graduates ",
+          "url": "https://careers.db.com/students-graduates/",
+          "first_seen": "2026-08-15T19:29:44.655443+00:00",
+          "last_seen": "2026-08-15T19:29:44.655443+00:00",
+          "active": true
+        }
+      },
+      "legacy": []
+    },
+    "HSBC": {
+      "entries": {},
+      "legacy": []
+    },
+    "Jefferies": {
+      "entries": {},
+      "legacy": []
+    },
+    "Truist": {
+      "entries": {},
+      "legacy": []
     }
   }
 }

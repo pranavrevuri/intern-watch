@@ -1,11 +1,11 @@
 name: Simplify Live Watch
 
-# Hourly: this is the fast tripwire. One HTTP fetch of the community
-# listings JSON per run, ~1 billable minute. Offset from :00 because
-# GitHub delays top-of-hour scheduled runs the most.
+# Every 2 hours, offset from the monitor fast lane so between the two
+# something checks for new postings roughly hourly. One HTTP fetch per
+# run, ~1 billable minute; :17 dodges top-of-hour scheduler congestion.
 on:
   schedule:
-    - cron: "17 * * * *"
+    - cron: "17 */2 * * *"
   workflow_dispatch: {}
 
 concurrency:

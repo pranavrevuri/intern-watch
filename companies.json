@@ -688,7 +688,8 @@
     "sources": [
       {
         "type": "browser",
-        "url": "https://higher.gs.com/roles?SEARCH_TERMS=intern"
+        "url": "https://higher.gs.com/campus",
+        "slow": true
       }
     ]
   },
@@ -1604,6 +1605,87 @@
       {
         "type": "greenhouse",
         "token": "scaleai"
+      }
+    ]
+  },
+  {
+    "name": "KnowBe4",
+    "sources": [
+      {
+        "type": "greenhouse",
+        "token": "knowbe4"
+      }
+    ]
+  },
+  {
+    "name": "Jabil",
+    "sources": [
+      {
+        "type": "workday",
+        "url": "https://jabil.wd5.myworkdayjobs.com/en-US/Jabil_Careers"
+      }
+    ]
+  },
+  {
+    "name": "Point72",
+    "sources": [
+      {
+        "type": "greenhouse",
+        "token": "point72"
+      }
+    ]
+  },
+  {
+    "name": "Millennium",
+    "sources": [
+      {
+        "type": "browser",
+        "url": "https://www.mlp.com/campus-programs/"
+      }
+    ]
+  },
+  {
+    "name": "RBC Capital Markets",
+    "sources": [
+      {
+        "type": "workday",
+        "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1"
+      }
+    ]
+  },
+  {
+    "name": "Deutsche Bank",
+    "sources": [
+      {
+        "type": "browser",
+        "url": "https://careers.db.com/students-graduates/"
+      }
+    ]
+  },
+  {
+    "name": "HSBC",
+    "sources": [
+      {
+        "type": "browser",
+        "url": "https://www.hsbc.com/careers/students-and-graduates"
+      }
+    ]
+  },
+  {
+    "name": "Jefferies",
+    "sources": [
+      {
+        "type": "browser",
+        "url": "https://www.jefferies.com/careers/internships/"
+      }
+    ]
+  },
+  {
+    "name": "Truist",
+    "sources": [
+      {
+        "type": "browser",
+        "url": "https://careers.truist.com/"
       }
     ]
   }

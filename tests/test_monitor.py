@@ -171,6 +171,29 @@ class TestTitleVeto(unittest.TestCase):
         ]:
             self.assertTrue(monitor.title_ok(title), f"should keep: {title}")
 
+    def test_bank_summer_analyst_counts_as_intern(self):
+        # Goldman/MS/Citi title internships "Summer Analyst" with no
+        # "intern" anywhere.
+        self.assertTrue(monitor.title_ok(
+            "2027 | Americas | Bellevue | Engineering | Summer Analyst"))
+        # Full-time new-grad and MBA programs stay excluded.
+        self.assertFalse(monitor.title_ok(
+            "2027 | Americas | Salt Lake City | Engineering | New Analyst"))
+
+    def test_non_us_bank_roles_dropped_via_anchor_location(self):
+        anchors = [
+            {"text": "2027 | EMEA | London | The Core Quantitative Strats | Summer Analyst London·United Kingdom",
+             "href": "https://higher.gs.com/roles/1"},
+            {"text": "2027 | Americas | Bellevue | Engineering | Summer Analyst Seattle·United States",
+             "href": "https://higher.gs.com/roles/2"},
+        ]
+        hits = monitor.anchor_hits(anchors, "https://higher.gs.com/campus")
+        self.assertEqual([h["url"] for h in hits], ["https://higher.gs.com/roles/2"])
+
+    def test_offcycle_pattern(self):
+        self.assertTrue(monitor.OFFCYCLE_PATTERN.search("Software Engineer Co-op Fall 2026"))
+        self.assertFalse(monitor.OFFCYCLE_PATTERN.search("Software Engineer Intern Summer 2027"))
+
     def test_unwanted_flavors_vetoed(self):
         for title in [
             "Geoscience Intern - Geoscientist",

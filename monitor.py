@@ -72,8 +72,16 @@ TITLE_VETO_PATTERN = re.compile(
 # Word-bounded so "internal", "international", "internet" don't count as
 # intern mentions, while intern / interns / internship(s) all do. Without
 # the boundary, matching any job description that says "internal tools" or
-# "international" produced hundreds of false hits.
-INTERN_PATTERN = re.compile(r"\binterns?(?:hips?)?\b", re.IGNORECASE)
+# "international" produced hundreds of false hits. Banks title their
+# internships "Summer Analyst" with no "intern" anywhere (Goldman,
+# Morgan Stanley, Citi), so that counts too. "New Analyst"/"Summer
+# Associate" stay excluded - full-time new-grad and MBA programs.
+INTERN_PATTERN = re.compile(r"\binterns?(?:hips?)?\b|\bsummer\s+analyst\b", re.IGNORECASE)
+
+# Fall/spring co-op and off-cycle postings are kept (they're an early
+# signal the company's summer req is coming) but tagged and sorted last
+# in the email - the user can only do summer full-time.
+OFFCYCLE_PATTERN = re.compile(r"\bfall\b|\bspring\b|\bco-?op\b|off.?cycle|\bwinter\b", re.IGNORECASE)
 
 # Only US roles are wanted. Postings that show a location clearly outside
 # the US (a foreign country or well-known foreign tech-hub city) are
@@ -428,7 +436,7 @@ def check_workday(url):
     return hits
 
 
-def check_browser(browser, url):
+def check_browser(browser, url, slow=False):
     """Default for everything else: load the page in a real headless
     browser (in its own fresh, isolated context) so client-side-rendered
     job listings actually appear, then keyword-match against the
@@ -444,12 +452,11 @@ def check_browser(browser, url):
     or blocks obviously-automated browsers, so this also patches the
     most common automation tell (navigator.webdriver) and tries three
     increasingly lenient load conditions before giving up."""
-    context = browser.new_context(
-        user_agent=(
-            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
-            "(KHTML, like Gecko) Chrome/124.0 Safari/537.36"
-        )
-    )
+    # No user-agent override: with the real-Chrome channel the browser's
+    # own UA is correct, and a spoofed version that mismatches the
+    # binary's TLS/JS fingerprint is exactly what bot walls look for
+    # (Goldman stalled on it).
+    context = browser.new_context()
     context.add_init_script(
         "Object.defineProperty(navigator, 'webdriver', {get: () => undefined})"
     )
@@ -457,15 +464,14 @@ def check_browser(browser, url):
     try:
         loaded = False
         last_error = None
-        # Timeouts sized so a full ~170-company run fits GitHub's free
-        # minutes at 2 runs/day: slow sites get one 15s+10s shot, not
-        # 30s+30s - a career page that can't paint in 15s rarely
-        # succeeds at 30.
-        for wait_until, timeout in [
-            ("domcontentloaded", 15000),
-            ("load", 10000),
-            ("commit", 8000),  # last resort: just wait for a response to start
-        ]:
+        # Timeouts sized so a full ~180-company run fits GitHub's free
+        # minutes: a career page that can't paint in 15s rarely succeeds
+        # at 30. Exception: sites whose bot-check interstitial needs
+        # patience (Goldman's Akamai takes ~10s+) are marked slow: true
+        # in companies.json and get one generous attempt.
+        attempts = ([("domcontentloaded", 45000)] if slow else
+                    [("domcontentloaded", 15000), ("load", 10000), ("commit", 8000)])
+        for wait_until, timeout in attempts:
             try:
                 page.goto(url, wait_until=wait_until, timeout=timeout)
                 loaded = True
@@ -488,7 +494,7 @@ def check_browser(browser, url):
             except Exception:
                 continue
 
-        page.wait_for_timeout(3000)  # let client-side rendering settle
+        page.wait_for_timeout(6000 if slow else 3000)  # let rendering settle
         text = page.inner_text("body")
         anchors = page.eval_on_selector_all(
             "a[href]",
@@ -535,7 +541,7 @@ def check_source(source, browser):
         return check_workday(source["url"])
     if stype == "static":
         return check_static(source["url"])
-    return check_browser(browser, source["url"])
+    return check_browser(browser, source["url"], slow=bool(source.get("slow")))
 
 
 def check_company(company, browser):
@@ -682,18 +688,24 @@ def main():
         print(f"No companies found in {CONFIG_FILE}. Add some and re-run.")
         return
 
+    # Fast lane (MONITOR_FAST=1): HTTP-only sources, no browser, done in
+    # a couple of minutes - scheduled between full sweeps so ATS-hosted
+    # postings alert within hours of going live, not the next morning.
+    fast = os.environ.get("MONITOR_FAST") == "1"
+    if fast:
+        companies = [
+            {**c, "sources": [s for s in c["sources"] if s.get("type", "browser") != "browser"]}
+            for c in companies
+        ]
+        companies = [c for c in companies if c["sources"]]
+        print(f"Fast lane: {len(companies)} companies with HTTP-checkable sources.")
+
     state = load_state()
     state.setdefault("companies", {})
     now = datetime.now(timezone.utc).isoformat()
     new_hits = []
 
-    from playwright.sync_api import sync_playwright
-
-    with sync_playwright() as p:
-        browser = p.chromium.launch(
-            args=["--disable-http2", "--disable-blink-features=AutomationControlled"]
-        )
-
+    def run_checks(browser):
         for company in companies:
             name = company["name"]
             print(f"Checking {name}...")
@@ -704,16 +716,43 @@ def main():
             for hit in fresh:
                 new_hits.append((name, hit))
 
-        browser.close()
+    if fast:
+        run_checks(None)
+    else:
+        from playwright.sync_api import sync_playwright
+
+        with sync_playwright() as p:
+            # Real Chrome (channel) has a normal TLS/JS fingerprint, so
+            # bot-walled sites (Goldman, banks) that stonewall the
+            # bundled chromium-headless-shell actually load. No
+            # --disable-http2 here: real Chrome always speaks h2, and
+            # an http/1.1-only "Chrome" is a bot tell (Goldman stalled
+            # on it). GitHub's runners ship Chrome; the bundled-chromium
+            # fallback keeps the old flags that some sites needed.
+            try:
+                browser = p.chromium.launch(
+                    channel="chrome",
+                    args=["--disable-blink-features=AutomationControlled"])
+            except Exception:
+                browser = p.chromium.launch(
+                    args=["--disable-http2", "--disable-blink-features=AutomationControlled"])
+            run_checks(browser)
+            browser.close()
 
     save_json(STATE_FILE, state)
 
     if new_hits:
-        # 2027-tagged hits first, as a soft priority signal.
-        new_hits.sort(key=lambda nh: (0 if has_2027(nh[1]) else 1))
+        # 2027-tagged hits first; fall/spring/co-op postings last.
+        def is_offcycle(hit):
+            return bool(OFFCYCLE_PATTERN.search(hit.get("title", "")))
+
+        new_hits.sort(key=lambda nh: (1 if is_offcycle(nh[1]) else 0,
+                                      0 if has_2027(nh[1]) else 1))
         lines = []
         for name, hit in new_hits:
             tag = "[2027] " if has_2027(hit) else ""
+            if is_offcycle(hit):
+                tag = "[FALL/SPRING - early signal, not summer] " + tag
             lines.append(f"- {tag}{name}: {hit['title']} ({hit['url']})")
         body = "New intern postings found:\n\n" + "\n".join(lines)
         print(body)
