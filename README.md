@@ -159,9 +159,14 @@ sponsorship; conversion later would.
 | Live watch | Simplify community list | hours | "a posting just went up" across hundreds of companies |
 | Direct checks | company career pages | your cron interval | authoritative check on the shortlist in `companies.json` |
 
-Actions budget on the free 2,000 min/month (private repo): hourly
-Simplify ~720, daily Extern ~300, 3x-daily monitor ~540 - roughly
-1,560 total, with headroom.
+Schedules run in two tiers. The BASE tier fits a private repo's free
+2,000 Actions minutes/month: daily full sweep + fast lane every 2h +
+Simplify every 2h + daily Extern (~1,850 total). The MAX tier -
+fast lane every 20 minutes 24/7, Simplify every 30 minutes, three
+full sweeps a day - is scheduled too but its jobs only run when the
+repository is PUBLIC (unlimited free minutes); on a private repo
+GitHub skips them at zero cost. Making the repo public upgrades the
+cadence automatically, no config change needed.
 
 ## Adjusting things later
 

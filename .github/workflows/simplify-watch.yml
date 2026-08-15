@@ -5,7 +5,8 @@ name: Simplify Live Watch
 # run, ~1 billable minute; :17 dodges top-of-hour scheduler congestion.
 on:
   schedule:
-    - cron: "17 */2 * * *"
+    - cron: "17 */2 * * *"   # BASE: every 2h (fits private-repo minutes)
+    - cron: "47 * * * *"     # MAX: the in-between half-hours, public repo only
   workflow_dispatch: {}
 
 concurrency:
@@ -17,6 +18,10 @@ permissions:
 
 jobs:
   check:
+    if: >-
+      github.event_name != 'schedule' ||
+      github.event.schedule != '47 * * * *' ||
+      github.event.repository.private == false
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:

@@ -4,15 +4,21 @@ on:
   schedule:
     # UTC times mapped to Eastern (EDT, UTC-4, roughly mid-Mar to
     # early Nov - shift by 1h after DST ends for exact alignment).
-    # One FULL sweep a day (browser + ATS, ~20 min), then a FAST lane
-    # (HTTP-only ATS sources, ~3 min, no browser) every 2 hours through
-    # the day so ATS-hosted postings alert within hours of going live.
-    - cron: "0 13 * * *"                # full sweep ~9:00 AM ET
-    - cron: "0 15,17,19,21,23,1 * * *"  # fast lane, ~11AM-9PM ET
+    # Two tiers: the BASE tier always runs and fits the private-repo
+    # free minutes; the MAX tier only runs when the repo is PUBLIC
+    # (unlimited Actions minutes) - the job-level `if` skips it on a
+    # private repo at zero cost, so going public upgrades the cadence
+    # automatically with no other change.
+    #   full sweep = browser + ATS (~20 min); fast lane = HTTP-only
+    #   ATS sources (~3 min, no browser).
+    - cron: "0 13 * * *"                # BASE: full sweep ~9:00 AM ET
+    - cron: "0 15,17,19,21,23,1 * * *"  # BASE: fast lane every 2h
+    - cron: "0 19,3 * * *"              # MAX: extra full sweeps ~3PM/11PM ET
+    - cron: "20,40 * * * *"             # MAX: fast lane every 20 min, 24/7
   workflow_dispatch: {}   # manual runs are always a full sweep
 
 env:
-  MONITOR_FAST: ${{ github.event_name == 'schedule' && github.event.schedule != '0 13 * * *' && '1' || '' }}
+  MONITOR_FAST: ${{ github.event_name == 'schedule' && github.event.schedule != '0 13 * * *' && github.event.schedule != '0 19,3 * * *' && '1' || '' }}
 
 concurrency:
   group: intern-watch
@@ -23,6 +29,12 @@ permissions:
 
 jobs:
   check:
+    # MAX-tier schedules only run on a public repo (free unlimited
+    # minutes); skipped jobs cost nothing on private.
+    if: >-
+      github.event_name != 'schedule' ||
+      (github.event.schedule != '0 19,3 * * *' && github.event.schedule != '20,40 * * * *') ||
+      github.event.repository.private == false
     runs-on: ubuntu-latest
     timeout-minutes: 35
     steps:
