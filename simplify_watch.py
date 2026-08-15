@@ -33,7 +33,7 @@ import sys
 import urllib.request
 from datetime import datetime, timezone
 
-from monitor import is_non_us_location, send_email, title_ok
+from monitor import is_non_us_location, push_notify, send_email, title_ok
 
 LISTINGS_URL = ("https://raw.githubusercontent.com/SimplifyJobs/"
                 "Summer2027-Internships/dev/.github/scripts/listings.json")
@@ -154,11 +154,12 @@ def main():
 
     body = format_email(fresh)
     print(f"{len(fresh)} new posting(s):\n{body}")
+    companies = sorted({l.get("company_name") or "?" for l in fresh})
+    preview = ", ".join(companies[:4]) + ("..." if len(companies) > 4 else "")
     if os.environ.get("SMTP_HOST"):
-        companies = sorted({l.get("company_name") or "?" for l in fresh})
-        preview = ", ".join(companies[:4]) + ("..." if len(companies) > 4 else "")
         send_email(f"[intern-watch] {len(fresh)} new Summer 2027 posting(s): {preview}", body)
         print("Alert email sent.")
+    push_notify(f"New Summer 2027 posting(s): {preview}", body)
 
 
 if __name__ == "__main__":

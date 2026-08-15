@@ -654,6 +654,27 @@ def reconcile(cstate, hits, timestamp):
     return new_hits, cstate
 
 
+def push_notify(title, body):
+    """Optional instant phone push via ntfy.sh: set the NTFY_TOPIC
+    secret to any hard-to-guess string and subscribe to that topic in
+    the ntfy app. No-op when unset. Email is the paper trail; this is
+    the 'grab your phone now' channel - the difference between reading
+    an alert at lunch and applying within the hour."""
+    topic = os.environ.get("NTFY_TOPIC")
+    if not topic:
+        return
+    req = urllib.request.Request(
+        f"https://ntfy.sh/{topic}",
+        data=body.encode("utf-8")[:4000],
+        headers={"Title": title[:200], "Priority": "high", "Tags": "rotating_light"},
+    )
+    try:
+        urllib.request.urlopen(req, timeout=10).read()
+        print("Phone push sent.")
+    except Exception as exc:  # noqa: BLE001 - push failure must not kill the run
+        print(f"ntfy push failed: {exc}", file=sys.stderr)
+
+
 def send_email(subject, body):
     import smtplib
     from email.mime.text import MIMEText
@@ -758,6 +779,7 @@ def main():
         print(body)
         if os.environ.get("SMTP_HOST"):
             send_email("New Intern Postings", body)
+        push_notify(f"{len(new_hits)} new intern posting(s)", body)
     else:
         print("No new postings found.")
 
