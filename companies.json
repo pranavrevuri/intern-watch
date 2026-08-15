@@ -201,6 +201,10 @@
     "name": "Snap",
     "sources": [
       {
+        "type": "workday",
+        "url": "https://snapchat.wd1.myworkdayjobs.com/snap"
+      },
+      {
         "type": "browser",
         "url": "https://careers.snap.com/jobs"
       }
@@ -604,6 +608,10 @@
   {
     "name": "Fidelity",
     "sources": [
+      {
+        "type": "workday",
+        "url": "https://fmr.wd1.myworkdayjobs.com/FidelityCareers"
+      },
       {
         "type": "browser",
         "url": "https://jobs.fidelity.com/search-jobs/intern"
@@ -1288,6 +1296,10 @@
     "name": "T-Mobile",
     "sources": [
       {
+        "type": "workday",
+        "url": "https://tmobile.wd1.myworkdayjobs.com/External"
+      },
+      {
         "type": "browser",
         "url": "https://careers.t-mobile.com/search-jobs/intern"
       }
@@ -1694,6 +1706,15 @@
       {
         "type": "browser",
         "url": "https://careers.truist.com/"
+      }
+    ]
+  },
+  {
+    "name": "Toast",
+    "sources": [
+      {
+        "type": "greenhouse",
+        "token": "toast"
       }
     ]
   }
