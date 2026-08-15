@@ -205,20 +205,104 @@
           "first_seen": "2026-08-13T14:15:09.934109+00:00",
           "last_seen": "2026-08-14T21:17:33.833107+00:00",
           "active": false
+        },
+        "https://www.amazon.jobs/en/jobs/10412530/software-development-engineer-intern-aws-data-services-fall-2026-us::software development engineer intern, aws data services - fall 2026 (us)": {
+          "title": "Software Development Engineer Intern, AWS Data Services - Fall 2026 (US)",
+          "url": "https://www.amazon.jobs/en/jobs/10412530/software-development-engineer-intern-aws-data-services-fall-2026-us",
+          "first_seen": "2026-08-15T19:55:21.092561+00:00",
+          "last_seen": "2026-08-15T19:55:21.092561+00:00",
+          "active": true
+        },
+        "https://www.amazon.jobs/en/jobs/10394934/2026-fall-applied-science-internship-gen-ai-large-language-models-united-states-phd-student-science-recruiting::2026 fall applied science internship - gen ai & large language models - united states, phd student science recruiting": {
+          "title": "2026 Fall Applied Science Internship - Gen AI & Large Language Models - United States, PhD Student Science Recruiting",
+          "url": "https://www.amazon.jobs/en/jobs/10394934/2026-fall-applied-science-internship-gen-ai-large-language-models-united-states-phd-student-science-recruiting",
+          "first_seen": "2026-08-15T19:55:21.092561+00:00",
+          "last_seen": "2026-08-15T19:55:21.092561+00:00",
+          "active": true
+        },
+        "https://www.amazon.jobs/en/jobs/10394230/2026-fall-applied-science-internship-information-knowledge-management-machine-learning-united-states-phd-student-science-recruiting::2026 fall applied science internship - information & knowledge management (machine learning) - united states, phd student science recruiting": {
+          "title": "2026 Fall Applied Science Internship - Information & Knowledge Management (Machine Learning) - United States, PhD Student Science Recruiting",
+          "url": "https://www.amazon.jobs/en/jobs/10394230/2026-fall-applied-science-internship-information-knowledge-management-machine-learning-united-states-phd-student-science-recruiting",
+          "first_seen": "2026-08-15T19:55:21.092561+00:00",
+          "last_seen": "2026-08-15T19:55:21.092561+00:00",
+          "active": true
+        },
+        "https://www.amazon.jobs/en/jobs/10391774/2026-fall-applied-science-internship-recommender-systems-information-retrieval-machine-learning-united-states-phd-student-science-recruiting::2026 fall applied science internship - recommender systems/ information retrieval (machine learning) - united states, phd student science recruiting": {
+          "title": "2026  Fall Applied Science Internship - Recommender Systems/ Information Retrieval (Machine Learning) - United States, PhD Student Science Recruiting",
+          "url": "https://www.amazon.jobs/en/jobs/10391774/2026-fall-applied-science-internship-recommender-systems-information-retrieval-machine-learning-united-states-phd-student-science-recruiting",
+          "first_seen": "2026-08-15T19:55:21.092561+00:00",
+          "last_seen": "2026-08-15T19:55:21.092561+00:00",
+          "active": true
+        },
+        "https://www.amazon.jobs/en/jobs/3179209/software-development-engineer-fall-intern-military-veteran::software development engineer fall intern - military veteran": {
+          "title": "Software Development Engineer Fall Intern - Military Veteran",
+          "url": "https://www.amazon.jobs/en/jobs/3179209/software-development-engineer-fall-intern-military-veteran",
+          "first_seen": "2026-08-15T19:55:21.092561+00:00",
+          "last_seen": "2026-08-15T19:55:21.092561+00:00",
+          "active": true
+        },
+        "https://www.amazon.jobs/en/jobs/3136266/robotics-software-development-engineer-intern-co-op-2026::robotics - software development engineer intern/co-op - 2026": {
+          "title": "Robotics - Software Development Engineer Intern/Co-op - 2026",
+          "url": "https://www.amazon.jobs/en/jobs/3136266/robotics-software-development-engineer-intern-co-op-2026",
+          "first_seen": "2026-08-15T19:55:21.092561+00:00",
+          "last_seen": "2026-08-15T19:55:21.092561+00:00",
+          "active": true
+        },
+        "https://www.amazon.jobs/en/jobs/3131315/2026-applied-science-internship-united-states-phd-student-science-recruiting-frontier-ai-robotics::2026 applied science internship - united states, phd student science recruiting, frontier ai & robotics": {
+          "title": "2026 Applied Science Internship - United States, PhD Student Science Recruiting, Frontier AI & Robotics",
+          "url": "https://www.amazon.jobs/en/jobs/3131315/2026-applied-science-internship-united-states-phd-student-science-recruiting-frontier-ai-robotics",
+          "first_seen": "2026-08-15T19:55:21.092561+00:00",
+          "last_seen": "2026-08-15T19:55:21.092561+00:00",
+          "active": true
+        },
+        "https://www.amazon.jobs/en/jobs/3131316/2026-applied-science-internship-united-states-undergrad-student-science-recruiting-frontier-ai-robotics::2026 applied science internship - united states, undergrad student science recruiting, frontier ai & robotics": {
+          "title": "2026 Applied Science Internship - United States, Undergrad Student Science Recruiting, Frontier AI & Robotics",
+          "url": "https://www.amazon.jobs/en/jobs/3131316/2026-applied-science-internship-united-states-undergrad-student-science-recruiting-frontier-ai-robotics",
+          "first_seen": "2026-08-15T19:55:21.092561+00:00",
+          "last_seen": "2026-08-15T19:55:21.092561+00:00",
+          "active": true
+        },
+        "https://www.amazon.jobs/en/jobs/3127861/2026-applied-science-internship-united-states-phd-student-science-recruiting-frontier-ai-robotics::2026 applied science internship - united states, phd student science recruiting, frontier ai & robotics": {
+          "title": "2026 Applied Science Internship - United States, PhD Student Science Recruiting, Frontier AI & Robotics",
+          "url": "https://www.amazon.jobs/en/jobs/3127861/2026-applied-science-internship-united-states-phd-student-science-recruiting-frontier-ai-robotics",
+          "first_seen": "2026-08-15T19:55:21.092561+00:00",
+          "last_seen": "2026-08-15T19:55:21.092561+00:00",
+          "active": true
+        },
+        "https://www.amazon.jobs/en/jobs/3116030/software-development-engineer-internship-fall-2026-us::software development engineer internship - fall 2026 (us)": {
+          "title": "Software Development Engineer Internship - Fall 2026 (US)",
+          "url": "https://www.amazon.jobs/en/jobs/3116030/software-development-engineer-internship-fall-2026-us",
+          "first_seen": "2026-08-15T19:55:21.092561+00:00",
+          "last_seen": "2026-08-15T19:55:21.092561+00:00",
+          "active": true
+        },
+        "https://www.amazon.jobs/en/jobs/3104589/robotics-applied-scientist-ii-intern-co-op-2026-robotics-manipulation-perception-motion-planning-autonomous-mobile-robots-computer-vision-machine-learning-controls-and-more::robotics - applied scientist ii intern / co-op - 2026 (robotics, manipulation, perception, motion planning, autonomous mobile robots, computer vision, machine learning, controls, and more)": {
+          "title": "Robotics - Applied Scientist II Intern / Co-op - 2026 (Robotics, Manipulation, Perception, Motion Planning, Autonomous Mobile Robots, Computer Vision, Machine Learning, Controls, and more)",
+          "url": "https://www.amazon.jobs/en/jobs/3104589/robotics-applied-scientist-ii-intern-co-op-2026-robotics-manipulation-perception-motion-planning-autonomous-mobile-robots-computer-vision-machine-learning-controls-and-more",
+          "first_seen": "2026-08-15T19:55:21.092561+00:00",
+          "last_seen": "2026-08-15T19:55:21.092561+00:00",
+          "active": true
+        },
+        "https://www.amazon.jobs/en/jobs/3071340/2026-applied-science-internship-united-states-undergrad-student-science-recruiting-frontier-ai-robotics::2026 applied science internship - united states, undergrad student science recruiting, frontier ai & robotics": {
+          "title": "2026 Applied Science Internship - United States, Undergrad Student Science Recruiting, Frontier AI & Robotics",
+          "url": "https://www.amazon.jobs/en/jobs/3071340/2026-applied-science-internship-united-states-undergrad-student-science-recruiting-frontier-ai-robotics",
+          "first_seen": "2026-08-15T19:55:21.092561+00:00",
+          "last_seen": "2026-08-15T19:55:21.092561+00:00",
+          "active": true
         }
       },
       "legacy": [
         "https://www.amazon.jobs/content/en/career-programs/university/internships-for-students::(1) Tijuana (1) Toronto (1) T\u00fcbingen (1) Turin (1) Umatilla (1) Vercelli (1) Zapopan (1) Zaragoza (1) Employment type Employment type Full time (103) Intern (86",
-        "https://www.amazon.jobs/content/en/career-programs/university/internships-for-students::on scalable services in a collaborative team environment? Do you want to see your code directly impact millions Read more 2026 Software Dev Engineer Intern - Te",
+        "https://www.amazon.jobs/content/en/career-programs/university/internships-for-students::oth. *Please note that the January\u2013June 2026 internship program Read more 2027 Applied Science Intern (Machine Learning, Recommender Systems), Amazon Internatio",
         "https://www.amazon.jobs/content/en/career-programs/university/internships-for-students::ortunities Explore different roles across Amazon while building your career foundation. Strong performance can lead to full-time opportunities. AWS Internships ",
-        "https://www.amazon.jobs/content/en/career-programs/university/internships-for-students::welcome candidates expected to graduate in 2027, 2028 both. *Please note that the January\u2013June 2026 internship program Read more 2027 Applied Science Intern (Ma",
         "https://www.amazon.jobs/content/en/career-programs/university/internships-for-students::nship opportunity from July to December 2026. *We welcome candidates expected to graduate in 2027, 2028 both. *Please note that the January\u2013June 2026 internship",
+        "https://www.amazon.jobs/content/en/career-programs/university/internships-for-students::rking on scalable services in a collaborative team environment? Do you want to see your code directly impact millions Read more Software Dev Engineer Intern Mac",
+        "https://www.amazon.jobs/content/en/career-programs/university/internships-for-students::on scalable services in a collaborative team environment? Do you want to see your code directly impact millions Read more 2026 Software Dev Engineer Intern - Te",
         "https://www.amazon.jobs/content/en/career-programs/university/internships-for-students::find belonging, explore opportunities worldwide, and be part of innovation at scale. Build the future with Amazon Rhondu Grew His Career from Amazon Intern to S",
-        "https://www.amazon.jobs/content/en/career-programs/university/internships-for-students::fillment (9) Role type Role type Individual contributor (111) People manager (0) Job results Sort by: most recent most relevant Software Dev Engineer Intern Mac",
         "https://www.amazon.jobs/content/en/career-programs/university/internships-for-students::ent (9) Role type Role type Individual contributor (111) People manager (0) Job results Sort by: most recent most relevant 2026 Software Dev Engineer Intern - T",
         "https://www.amazon.jobs/content/en/career-programs/university/internships-for-students::on Retrieval, Natural Language Processing, Computer Vision algorithms to solve customer problems at the scale of Read more 2027 Software Dev Engineer Intern Dub",
-        "https://www.amazon.jobs/content/en/career-programs/university/internships-for-students::rking on scalable services in a collaborative team environment? Do you want to see your code directly impact millions Read more Software Dev Engineer Intern Mac",
-        "https://www.amazon.jobs/content/en/career-programs/university/internships-for-students::oth. *Please note that the January\u2013June 2026 internship program Read more 2027 Applied Science Intern (Machine Learning, Recommender Systems), Amazon Internatio"
+        "https://www.amazon.jobs/content/en/career-programs/university/internships-for-students::welcome candidates expected to graduate in 2027, 2028 both. *Please note that the January\u2013June 2026 internship program Read more 2027 Applied Science Intern (Ma",
+        "https://www.amazon.jobs/content/en/career-programs/university/internships-for-students::fillment (9) Role type Role type Individual contributor (111) People manager (0) Job results Sort by: most recent most relevant Software Dev Engineer Intern Mac"
       ]
     },
     "Microsoft": {
@@ -957,12 +1041,19 @@
           "first_seen": "2026-07-06T23:30:55.901177+00:00",
           "last_seen": "2026-08-14T21:17:33.833107+00:00",
           "active": false
+        },
+        "https://explore.jobs.netflix.net/careers/job/790313241540::software engineer phd intern, streaming algorithms (summer 2026)": {
+          "title": "Software Engineer PhD Intern, Streaming Algorithms (Summer 2026)",
+          "url": "https://explore.jobs.netflix.net/careers/job/790313241540",
+          "first_seen": "2026-08-15T19:55:21.092561+00:00",
+          "last_seen": "2026-08-15T19:55:21.092561+00:00",
+          "active": true
         }
       },
       "legacy": [
-        "https://jobs.netflix.com/careers/internships::our teams, you will be given the trust and tools to make a global impact, whether your passion is engineering or entertainment, or equally both! OUR INTERNSHIP ",
         "https://jobs.netflix.com/careers/internships::world by hiring the best minds in the world, and that begins with our summer internship program in the United States, India, Poland, and Japan. As an intern at ",
-        "https://jobs.netflix.com/careers/internships::w interns with unique opportunities for collaboration and mentorship that will empower you to do the best work in your early careers. Throughout your internship"
+        "https://jobs.netflix.com/careers/internships::w interns with unique opportunities for collaboration and mentorship that will empower you to do the best work in your early careers. Throughout your internship",
+        "https://jobs.netflix.com/careers/internships::our teams, you will be given the trust and tools to make a global impact, whether your passion is engineering or entertainment, or equally both! OUR INTERNSHIP "
       ]
     },
     "Oracle": {

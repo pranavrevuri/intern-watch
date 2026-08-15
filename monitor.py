@@ -436,6 +436,46 @@ def check_workday(url):
     return hits
 
 
+def check_amazon():
+    """Amazon's own search JSON that backs amazon.jobs - the direct
+    source for the company that historically posts first. title_ok
+    filters the non-tech intern noise (loss prevention, HR, ...)."""
+    url = ("https://www.amazon.jobs/en/search.json?base_query=intern"
+           "&result_limit=100&offset=0&normalized_country_code%5B%5D=USA&sort=recent")
+    data = json.loads(fetch(url, headers={"User-Agent": "Mozilla/5.0", "Accept": "application/json"}))
+    jobs = data.get("jobs", [])
+    print(f"    -> {data.get('hits', 0)} postings match 'intern' on amazon.jobs (US)")
+    hits = []
+    for job in jobs:
+        title = job.get("title") or ""
+        if not title_ok(title):
+            continue
+        if is_non_us_location(f"{title} {job.get('normalized_location') or ''}"):
+            continue
+        hits.append({"title": title, "url": "https://www.amazon.jobs" + (job.get("job_path") or "")})
+    return hits
+
+
+def check_eightfold(base, domain):
+    """Any Eightfold-hosted board (Netflix's explore.jobs.netflix.net
+    and others): public jobs JSON with real titles and canonical
+    posting URLs."""
+    url = f"{base}/api/apply/v2/jobs?domain={domain}&query=intern&num=100&start=0"
+    data = json.loads(fetch(url, headers={"User-Agent": "Mozilla/5.0", "Accept": "application/json"}))
+    positions = data.get("positions", [])
+    print(f"    -> {data.get('count', len(positions))} postings match 'intern' on the board")
+    hits = []
+    for p in positions:
+        title = p.get("name") or ""
+        if not title_ok(title):
+            continue
+        if is_non_us_location(f"{title} {p.get('location') or ''}"):
+            continue
+        hits.append({"title": title,
+                     "url": p.get("canonicalPositionUrl") or f"{base}/careers/job/{p.get('id')}"})
+    return hits
+
+
 def check_browser(browser, url, slow=False):
     """Default for everything else: load the page in a real headless
     browser (in its own fresh, isolated context) so client-side-rendered
@@ -539,6 +579,10 @@ def check_source(source, browser):
         return check_ashby(source["token"])
     if stype == "workday":
         return check_workday(source["url"])
+    if stype == "amazon":
+        return check_amazon()
+    if stype == "eightfold":
+        return check_eightfold(source["url"], source["domain"])
     if stype == "static":
         return check_static(source["url"])
     return check_browser(browser, source["url"], slow=bool(source.get("slow")))

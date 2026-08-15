@@ -3,6 +3,9 @@
     "name": "Amazon",
     "sources": [
       {
+        "type": "amazon"
+      },
+      {
         "type": "browser",
         "url": "https://www.amazon.jobs/content/en/career-programs/university/internships-for-students"
       }
@@ -126,6 +129,11 @@
   {
     "name": "Netflix",
     "sources": [
+      {
+        "type": "eightfold",
+        "url": "https://explore.jobs.netflix.net",
+        "domain": "netflix.com"
+      },
       {
         "type": "browser",
         "url": "https://jobs.netflix.com/careers/internships"

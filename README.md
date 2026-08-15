@@ -5,12 +5,14 @@ Checks ~170 companies' job boards daily and emails you only when a new
 server, no computer that has to stay on.
 
 Most companies are checked through their ATS's public JSON API
-(Greenhouse, Lever, Ashby, Workday, SmartRecruiters - real titles,
-direct application links, ~1s each). Custom career sites fall back to
-a headless browser, where hits come from actual job *links* on the
-page ("link mode") rather than fuzzy text windows - window matching
-used to turn pagination controls and filter sidebars into "postings"
-and let a tech posting's keywords justify a non-tech neighbor.
+(Greenhouse, Lever, Ashby, Workday, SmartRecruiters, plus Amazon's own
+search JSON and Eightfold boards like Netflix's - real titles, direct
+application links, ~1s each). Custom career sites fall back to a
+headless real-Chrome browser, where hits come from actual job *links*
+on the page ("link mode") rather than fuzzy text windows - window
+matching used to turn pagination controls and filter sidebars into
+"postings" and let a tech posting's keywords justify a non-tech
+neighbor.
 
 **Note:** your doc had 21 companies, not 25 - Amazon, Microsoft, Meta,
 Apple, Google, Nvidia, Databricks, Stripe, Palantir, Uber, Airbnb,
