@@ -1,5 +1,5 @@
 {
-"checked_at": "2026-08-16T13:59:55.888938+00:00",
+"checked_at": "2026-08-16T14:39:00.170107+00:00",
 "seen_keys": [
 "adobe::\u2705 open]",
 "akuna capital::software engineer intern (summer 2027, python / c++ / full stack / c# .net)",
@@ -92,6 +92,7 @@
 "naive::software engineer intern \ud83c\uddfa\ud83c\uddf8 \u23f3",
 "nash::full stack engineering intern \ud83c\uddfa\ud83c\uddf8 \u23f3",
 "national geographic society \u00d7 the nature conservancy::\u2705 open]",
+"national geographic society \u00d7 the nature conservancy::\ud83d\udd25 closing soon]",
 "national merit scholarship corporation::\u2705 open]",
 "neo::neo scholars",
 "netic::software engineer intern, agent platform / full stack (2026-2027)",
@@ -367,7 +368,7 @@
 },
 {
 "section": "Underclassmen Programs (Fellowships, Externships, etc.)",
-"name": "\u2705 OPEN]",
+"name": "\ud83d\udd25 CLOSING SOON]",
 "org": "National Geographic Society \u00d7 The Nature Conservancy",
 "detail": "Community Conservation: Data Visualization & Mapping Externship \u2014 Deadline: Aug 30, 2026",
 "location": "",
