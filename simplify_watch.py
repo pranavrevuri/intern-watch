@@ -30,6 +30,7 @@ Run manually with:  python simplify_watch.py
 import json
 import os
 import sys
+import time
 import urllib.request
 from datetime import datetime, timezone
 
@@ -64,10 +65,21 @@ COMPANY_SKIP = {
 }
 
 
-def fetch_listings(url=LISTINGS_URL):
-    req = urllib.request.Request(url, headers={"User-Agent": "intern-watch"})
-    with urllib.request.urlopen(req, timeout=60) as resp:
-        return json.load(resp)
+def fetch_listings(url=LISTINGS_URL, attempts=3):
+    """The listings file is ~10MB from raw.githubusercontent - at a
+    30-minute cadence, transient 429s/timeouts are routine, so retry
+    with backoff rather than failing the run."""
+    last = None
+    for i in range(attempts):
+        try:
+            req = urllib.request.Request(url, headers={"User-Agent": "intern-watch"})
+            with urllib.request.urlopen(req, timeout=120) as resp:
+                return json.load(resp)
+        except Exception as exc:  # noqa: BLE001 - retried, re-raised below
+            last = exc
+            print(f"fetch attempt {i + 1} failed: {exc}", file=sys.stderr)
+            time.sleep(5 * (i + 1))
+    raise last
 
 
 def relevant(listing):
@@ -130,7 +142,14 @@ def main():
     seen = set(state.get("seen_ids", []))
     first_run = not state
 
-    listings = fetch_listings()
+    try:
+        listings = fetch_listings()
+    except Exception as exc:  # noqa: BLE001
+        # Transient network failure: skip this cycle cleanly (state
+        # untouched, next run in 30 min catches up) instead of failing
+        # the workflow and emailing a red X for nothing.
+        print(f"Skipping cycle - listings fetch failed after retries: {exc}")
+        return
     fresh = new_listings(listings, seen)
 
     # Every relevant id gets remembered - including ones seen while

@@ -159,19 +159,23 @@ def main():
     seen = set(state.get("seen_keys", []))
     first_run = not state
 
-    rows, errors = [], []
+    prev_by_source = state.get("rows_by_source", {})
+    rows_by_source = {}
     for label, getter in [
         ("underclassmen-opportunities", lambda: parse_underclass_repo(fetch(UNDERCLASS_README))),
         ("summer-2027-internships", lambda: parse_sndsh_repo(fetch(SNDSH_README))),
         ("extern guide", lambda: parse_extern_guide(fetch(EXTERN_GUIDE))),
     ]:
         try:
-            got = getter()
-            print(f"{label}: {len(got)} rows")
-            rows.extend(got)
+            rows_by_source[label] = getter()
+            print(f"{label}: {len(rows_by_source[label])} rows")
         except Exception as exc:  # noqa: BLE001 - one dead source must not kill the rest
-            errors.append(f"{label}: {exc}")
-            print(f"  ! {label} failed: {exc}", file=sys.stderr)
+            # Keep the last-known rows so a transient fetch failure
+            # doesn't shrink the workbook sheet or re-alert on recovery.
+            rows_by_source[label] = prev_by_source.get(label, [])
+            print(f"  ! {label} failed (keeping {len(rows_by_source[label])} previous rows): {exc}",
+                  file=sys.stderr)
+    rows = [r for rs in rows_by_source.values() for r in rs]
 
     fresh = [r for r in rows
              if row_key(r) not in seen
@@ -182,6 +186,7 @@ def main():
         "checked_at": datetime.now(timezone.utc).isoformat(),
         "seen_keys": sorted(seen),
         "rows": rows,
+        "rows_by_source": rows_by_source,
     }
     with open(STATE_FILE, "w") as fh:
         json.dump(state, fh, indent=0)
