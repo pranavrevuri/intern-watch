@@ -274,3 +274,18 @@ class TestWorkdayUrlParsing(unittest.TestCase):
     def test_non_workday_rejected(self):
         with self.assertRaises(ValueError):
             monitor.parse_workday_url("https://jobs.lever.co/palantir")
+
+
+class TestShareLinkNoise(unittest.TestCase):
+    def test_share_buttons_and_social_hrefs_skipped(self):
+        anchors = [
+            {"text": "Intern, IT Software Engineering (Summer 2027)",
+             "href": "https://delta.avature.net/en_US/careers/JobDetail/x/1"},
+            {"text": "Share Intern, IT Software Engineering (Summer 2027) with LinkedIn",
+             "href": "https://delta.avature.net/_linkedinApiv2?x=1"},
+            {"text": "Intern, IT Software Engineering (Summer 2027) tweet",
+             "href": "http://twitter.com/intent/tweet?url=x"},
+        ]
+        hits = monitor.anchor_hits(anchors, "https://delta.avature.net")
+        self.assertEqual(len(hits), 1)
+        self.assertIn("JobDetail", hits[0]["url"])

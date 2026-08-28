@@ -3710,6 +3710,29 @@
     "Toast": {
       "entries": {},
       "legacy": []
+    },
+    "Delta": {
+      "entries": {
+        "https://delta.avature.net/en_US/careers/JobDetail/Graduate-Intern-Innovation-Ventures-and-Technology-Spring-2027/33696?jobId=33696::graduate intern, innovation ventures and technology (spring 2027)": {
+          "title": "Graduate Intern, Innovation Ventures and Technology (Spring 2027)",
+          "url": "https://delta.avature.net/en_US/careers/JobDetail/Graduate-Intern-Innovation-Ventures-and-Technology-Spring-2027/33696?jobId=33696",
+          "first_seen": "2026-08-28T15:14:04.541619+00:00",
+          "last_seen": "2026-08-28T15:14:04.541619+00:00",
+          "active": true
+        },
+        "https://delta.avature.net/en_US/careers/JobDetail/Intern-Innovation-AI-Engineering-Spring-2027/33707?jobId=33707::intern, innovation - ai engineering (spring 2027)": {
+          "title": "Intern, Innovation - AI Engineering (Spring 2027)",
+          "url": "https://delta.avature.net/en_US/careers/JobDetail/Intern-Innovation-AI-Engineering-Spring-2027/33707?jobId=33707",
+          "first_seen": "2026-08-28T15:14:04.541619+00:00",
+          "last_seen": "2026-08-28T15:14:04.541619+00:00",
+          "active": true
+        }
+      },
+      "legacy": []
+    },
+    "Tesla": {
+      "entries": {},
+      "legacy": []
     }
   }
 }

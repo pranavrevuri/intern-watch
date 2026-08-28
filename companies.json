@@ -1717,5 +1717,24 @@
         "token": "toast"
       }
     ]
+  },
+  {
+    "name": "Delta",
+    "sources": [
+      {
+        "type": "browser",
+        "url": "https://delta.avature.net/en_US/careers/SearchJobs/intern"
+      }
+    ]
+  },
+  {
+    "name": "Tesla",
+    "sources": [
+      {
+        "type": "browser",
+        "url": "https://www.tesla.com/careers/search/?query=intern&site=US",
+        "slow": true
+      }
+    ]
   }
 ]

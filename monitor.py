@@ -210,9 +210,14 @@ def anchor_hits(anchors, page_url):
     some sites render titles as plain divs - meaning the caller should
     fall back to window matching. An empty list is authoritative: the
     page lists intern links and none are relevant."""
+    SOCIAL_HREF = re.compile(r"mailto:|twitter\.com|facebook\.com|linkedin|sharer|_linkedinApi", re.I)
     candidates = [
         a for a in anchors
         if a.get("text") and len(a["text"]) < 250 and INTERN_PATTERN.search(a["text"])
+        # Share buttons repeat the job title with a social-network href
+        # (seen on Delta's Avature board) - real postings only.
+        and not a["text"].startswith("Share ")
+        and not SOCIAL_HREF.search(a.get("href") or "")
     ]
     if not candidates:
         return None
