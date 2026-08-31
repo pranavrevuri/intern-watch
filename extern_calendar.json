@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T17:18:20.778774+00:00",
+  "generated_at": "2026-08-31T19:29:01.848743+00:00",
   "companies": [
     {
       "name": "1Password",
@@ -432,18 +432,18 @@
       ],
       "rolling": "Yes, confirmed. Roles are reviewed and filled rolling; apply within the first 1 to 2 weeks of a posting",
       "pay": "SDE Seattle $110,500 to $160,000 annualized base, about $53 to $77/hr (official JD). Return-offer TC ~$178k to $185k (community, Blind)",
-      "tech_tracks": "SDE Intern; Applied Scientist Intern; Data Scientist Intern; Business Intelligence Engineer Intern; Data Engineer Intern",
-      "tracks_total": 6,
+      "tech_tracks": null,
+      "tracks_total": 0,
       "programs": "10+ tracks: SDE, Applied Scientist, Data Scientist, Finance Rotational, BIE, Data Engineer, and more",
       "no_formal_program": false,
       "faq_open_answer": "Expect most SDE and tech roles for summer 2027 to open August to October 2026, with finance and operations tracks earlier; some 2027 finance roles were already live in July 2026. Unposted dates are projected from the prior cycle and aren't official yet. Set a job alert on amazon.jobs.",
       "interview": "You apply, take a two-hour online assessment (two coding problems, a debugging section, a Work Simulation, and a Work Styles questionnaire), then one to five virtual rounds blending behavioral questions with live coding. Then offers come within five business days.",
       "visa": "Varies by role. Engineering and science commonly sponsor; the 2027 Finance and Operations JDs state they cannot",
       "window": [
-        "2026-08",
-        "2026-10"
+        "2027-06",
+        "2027-06"
       ],
-      "window_text": "Applications for summer 2027 expected to open Aug to Oct 2026 for SDE and tech; finance and operations open earlier (some 2027 finance roles were live by July 2026). Projected from the prior cycle where not yet posted"
+      "window_text": "OPEN NOW. 29 US intern roles live at amazon.jobs, including SDE, Finance Rotation 2027, PMT Summer 2027, Area Manager Summer 2027, and WHS Specialist. Rolling review. Projected from the prior cycle where not yet posted"
     },
     {
       "name": "AMC Networks",
@@ -701,18 +701,18 @@
       ],
       "rolling": "Yes. Official JD text: \"Apple accepts applications to this posting on an ongoing basis\"; teams hire as headcount opens",
       "pay": "$38 to $60/hr by role (Levels.fyi, self-reported); corporate housing or a ~$3,300/mo stipend (community-reported)",
-      "tech_tracks": "Software Engineering; Machine Learning & AI; Hardware Engineering; Hardware Technologies (Silicon); Engineering Program Management",
-      "tracks_total": 6,
+      "tech_tracks": null,
+      "tracks_total": 0,
       "programs": "7 umbrella tracks across 16 US pipeline postings, plus co-ops and team-specific roles",
       "no_formal_program": false,
       "faq_open_answer": "Apple hasn't announced dates and probably won't. Based on the documented pattern, the umbrella pipelines already refreshed in May 2026; applications for summer 2027 are expected to open with team roles posting from roughly August to October 2026, rolling through February 2027, and recruiter activity peaking September to December 2026.",
       "interview": "Team-run and variable. You apply per posting at jobs.apple.com, take a recruiter phone screen if a team pulls your resume, then do roughly 2 to 4 interviews mixing behavioral and live technical questions. There's no standardized online assessment, and offers commonly arrive within 1 to 2 weeks.",
       "visa": null,
       "window": [
-        "2026-08",
-        "2026-10"
+        "2027-02",
+        "2027-02"
       ],
-      "window_text": "Pipelines refreshed May 2026; applications for summer 2027 expected to open ~August\u2013October 2026 as team roles post, rolling through February 2027 (pattern-based; not announced)"
+      "window_text": "OPEN NOW. Summer 2027 intern roles are live at jobs.apple.com, including Applied Data Solutions 2027, IST 2027, and hardware/software engineering tracks. Rolling review through February 2027"
     },
     {
       "name": "AppLovin",
@@ -1059,18 +1059,15 @@
       ],
       "rolling": "Yes. Barclays fills on a first-come basis; competitive desks close within 4\u20136 weeks of posting",
       "pay": "$110,000 annualized (approx. $21,150 pro-rated for 10 weeks)",
-      "tech_tracks": "Technology; Markets Quantitative Analytics",
-      "tracks_total": 6,
+      "tech_tracks": null,
+      "tracks_total": 0,
       "programs": "15 across IB, Markets, Research, Technology, Operations, and more",
       "no_formal_program": false,
       "faq_open_answer": null,
-      "interview": "Barclays runs a four-stage funnel, and the rolling timeline means each stage can start within days of the previous one: 1. Apply through search.jobs.barclays or the Workday portal with your resume, transcript, and short application questions. Barclays posts separate listings per track, so choose you",
+      "interview": null,
       "visa": "No. Barclays explicitly states it will not sponsor applicants for work visas or provide any employment-based immigration sponsorship for internships, post-graduation programs, or permanent employment. This includes no as",
-      "window": [
-        "2026-11",
-        "2027-02"
-      ],
-      "window_text": "Expected late 2026 through early 2027 (~Dec 2026\u2013Feb 2027) for summer 2028 (rolling; not yet posted). Confirm on the official careers portal"
+      "window": null,
+      "window_text": "OPEN NOW. Quantitative Finance Associate Summer Internship Program 2027 (New York) is live on Workday. Most other Summer 2027 postings are international or off-cycle. Rolling review. Confirm on the official careers portal"
     },
     {
       "name": "BCG",
@@ -1327,18 +1324,18 @@
       ],
       "rolling": "Not officially stated, but individual postings have varied closing dates and positions appear to fill within the window",
       "pay": "Tech: ~$38\u2013$48/hr + $3K sign-on; all-role avg: ~$29/hr (community data, not official)",
-      "tech_tracks": "Engineering / Developer",
-      "tracks_total": 6,
+      "tech_tracks": null,
+      "tracks_total": 0,
       "programs": "10+ across Engineering, Operations, Asset Servicing, Finance, Investment Management, and more",
       "no_formal_program": false,
       "faq_open_answer": "Based on prior cycles, expect applications to open in early August 2027. The 2026-cycle applications opened August 5, 2025, and BNY has consistently used an early-August window. All tracks open simultaneously. Sign up for career alerts on the BNY student careers page to get notified when listings go live.",
       "interview": "The tech process has three stages after the application: a HackerRank coding assessment with 4 questions (1 easy, 2 medium, 1 hard) covering graphs, greedy algorithms, and data structures; a first-round technical interview focused on DSA and OOP concepts; and a second-round interview mixing technica",
       "visa": "No. BNY explicitly states that candidates must not require visa sponsorship now or in the future. This applies to all internship tracks and the full-time Analyst Program. STEM degree holders who will have OPT authorizati",
       "window": [
-        "2027-08",
-        "2027-08"
+        "2027-03",
+        "2027-03"
       ],
-      "window_text": "Expected early August 2027 for summer 2028 (all tracks open simultaneously; not yet posted)"
+      "window_text": "OPEN NOW. 2027 BNY Summer Internship Program is live across Engineering, Data Science, and Finance tracks (Lake Mary, Pittsburgh, New York). Rolling review"
     },
     {
       "name": "Boeing",
@@ -1932,7 +1929,7 @@
       "rolling": "No official policy, but postings carry no deadlines and third-party trackers report ~70% of offers signed by mid-October. Treat it as rolling and apply week 1",
       "pay": "$4,500\u2013$5,800/week base for SWE and quant trading interns (current JDs); $3,500\u2013$4,000/week for FI&M trading; plus sign-on bonus and ~$15,000 housing stipend or",
       "tech_tracks": "Quantitative Trader \u2013 Intern; Quantitative Research Analyst \u2013 Intern (BS/MS); Quantitative Researcher \u2013 PhD Intern; Software Engineer \u2013 Intern",
-      "tracks_total": 12,
+      "tracks_total": 6,
       "programs": "19 live intern postings at Citadel Securities (July 2026); roughly a dozen US intern tracks across both firms in QR, QT, trading, and SWE",
       "no_formal_program": false,
       "faq_open_answer": "Citadel posts internships extraordinarily early: summer 2027 roles were live by July 2026. Expect summer 2028 postings around June to August 2027, roughly 11 months before the internship starts, with most quant and trading offers signed by October or November 2027. Sophomores should target Discover events and Datathons in spring 2027 instead.",
@@ -2522,7 +2519,7 @@
         "2026-08",
         "2026-09"
       ],
-      "window_text": "Tax, summer 2028: CLOSED. One requisition (code 361830) covering 30+ US offices, posted Aug 6, 2026, stated cutoff Aug 12, 2026, no longer listed as of Aug 13. Audit & Assurance, summer 2028: not posted yet , still expected Aug\u2013Sep 2026, and that is the live one to watch. Discovery recruiting for summer 2028 runs to ~May 1, 2027; consulting/advisory/GPS for summer 2028 expected Aug\u2013Sep 2027"
+      "window_text": "OPEN NOW. 8 intern postings live: Summer 2027 Audit (2) + Tax Transfer Pricing (1), Winter 2027 Tax Accounting (1) + Audit (2), Summer/Winter 2028 Audit (2). Previously closed Tax 2028 requisition (code 361830) is separate from these live postings. One requisition (code 361830) covering 30+ US offices, posted Aug 6, 2026, stated cutoff Aug 12, 2026, no longer listed as of Aug 13. Audit & Assurance"
     },
     {
       "name": "Delta",
@@ -3256,10 +3253,10 @@
       "interview": "Figma's interview process spans 3 to 5 weeks with 4 to 6 rounds: a recruiter screen, a Byteboard technical assessment, a hiring manager interview, and a multi-session virtual onsite covering applied coding, system design, behavioral questions, and project deep-dives. For Product Design interns, a Ja",
       "visa": "Not explicitly stated in job descriptions. Figma is an equal opportunity employer with global offices in 12+ cities",
       "window": [
-        "2026-08",
-        "2026-09"
+        "2027-12",
+        "2027-12"
       ],
-      "window_text": "Expected Aug to Sep 2026 for SWE and tech; rolling review through early 2027. Projected from 2025\u201326 cycle, not yet posted"
+      "window_text": "OPEN NOW. Software Engineer Intern (Winter 2027) is live at figma.com/careers. Rolling; rolling review through early 2027. Projected from 2025\u201326 cycle, not yet posted"
     },
     {
       "name": "Figure AI",
@@ -3765,8 +3762,8 @@
       ],
       "rolling": "Yes. Official JD: reviewed \"on a rolling basis,\" and a posting \"may close earlier if all available projects are full\"",
       "pay": "SWE intern median $62.98/hr plus ~$3,000/mo housing stipend (Levels.fyi, crowdsourced)",
-      "tech_tracks": "STEP; Software Engineering Intern; Student Researcher; Research Scientist Intern (PhD); Silicon / Hardware Engineering Intern",
-      "tracks_total": 6,
+      "tech_tracks": null,
+      "tracks_total": 0,
       "programs": "8+ intern and apprentice tracks (STEP, SWE, Student Researcher, Research, Silicon, UX and more)",
       "no_formal_program": false,
       "faq_open_answer": "The main software windows are open now: SWE Intern (BS) and SWE Intern (MS) for Summer 2027 posted in July 2026. STEP and remaining tracks are expected through August to October 2026. Research and PhD deadlines tend to cluster earlier in the calendar year. Google reviews on a rolling basis, so apply the week your target role opens.",
@@ -3776,7 +3773,7 @@
         "2026-08",
         "2026-10"
       ],
-      "window_text": "Expected August to October 2026, rolling, for summer 2027 (projected from prior cycles; not yet posted)"
+      "window_text": "OPEN NOW. August to October 2026, rolling, for summer 2027. SWE PhD and Research PhD Summer 2027 roles are live now"
     },
     {
       "name": "Google DeepMind",
@@ -6088,16 +6085,16 @@
       "pay": "$57/hr for Bachelor's, $61/hr for Master's (SWE track). Data Science: $55/hr Bachelor's, $59/hr Master's. Housing stipend of $3,333/month. Equity included (Noti",
       "tech_tracks": "Software Engineer Intern; Software Engineer, AI Intern; Data Science Intern; Mobile Engineer Intern",
       "tracks_total": 5,
-      "programs": "5+ tracks: Software Engineering, Software Engineering (AI), Data Science, Governance/Risk/Compliance (GRC), plus occasional Mobile and Product roles",
+      "programs": "3 roles open now: Software Engineer Intern (Summer 2027, SF + NYC), Software Engineer Intern (Winter 2027, SF + NYC), Data Science Intern (Winter 2027, SF). Additional tracks (AI, GRC, Mobile) may open later",
       "no_formal_program": false,
-      "faq_open_answer": "Notion does not publish fixed dates or send announcements. Based on the 2025\u201326 cycle, summer SWE postings appeared by mid-2025. Expect summer 2027 roles to appear late summer to early fall 2026. Check notion.com/careers weekly, because listings are pulled once seats fill.",
+      "faq_open_answer": "They are open now. As of August 2026, three intern roles are live: Software Engineer Intern (Summer 2027), Software Engineer Intern (Winter 2027), and Data Science Intern (Winter 2027). Notion does not publish deadlines and pulls listings once seats fill, so apply immediately at notion.com/careers.",
       "interview": "Four rounds: a 30- to 60-minute recruiter screen, a 60-minute CoderPad assessment where you build a basic text editor, a 4-hour team interview block with coding, system design, and an AI-enabled round, and a 45-minute leadership conversation. The process averages 29 days.",
       "visa": "Not available. Notion states this position is not eligible for work visa sponsorship. Applicants must be authorized to work in the US without sponsorship",
       "window": [
-        "2026-09",
-        "2026-09"
+        "2026-08",
+        "2027-06"
       ],
-      "window_text": "No fixed public deadlines. Summer 2026 SWE roles posted by mid-2025 and the AI Intern listing was pulled by September 2025. Expect summer 2027 postings to appear late summer to early fall 2026. Projected from prior-cycle pattern"
+      "window_text": "OPEN NOW. Three intern roles are live as of August 2026: Software Engineer Intern (Summer 2027), Software Engineer Intern (Winter 2027), and Data Science Intern (Winter 2027). No fixed deadlines \u2014 Notion reviews rolling and pulls listings once seats fill"
     },
     {
       "name": "Novartis",
@@ -6520,10 +6517,10 @@
       "interview": "PepsiCo's funnel has more steps than a typical CPG firm but moves fast, averaging about 15 days from application to decision according to Glassdoor: 1. Find your track at pepsicojobs.com using the career-area filter. PepsiCo's recruiting chatbot (Chester Cheetah) can help match roles. Upload your re",
       "visa": null,
       "window": [
-        "2026-08",
-        "2026-10"
+        "2027-12",
+        "2027-12"
       ],
-      "window_text": "Expected late August to late October 2026 for summer 2027 (documented pattern from 2026 cycle: Aug 25\u2013Oct 31, 2025)"
+      "window_text": "OPEN NOW. 10+ Summer 2027 intern roles live at pepsicojobs.com, including R&D, HR, and Winter 2027 Co-op tracks. Rolling review (documented pattern from 2026 cycle: Aug 25\u2013Oct 31, 2025)"
     },
     {
       "name": "Perplexity",
@@ -7276,18 +7273,18 @@
       ],
       "rolling": "Yes. Positions fill continuously until closed; no fixed deadline published",
       "pay": "SWE/PM $62/hr, Research $72/hr, Design $58/hr + $10,000 housing stipend + free meals",
-      "tech_tracks": "Software Engineer Intern; Community Apprenticeship (SWE); Data Scientist PhD Intern; Applied Scientist PhD Intern",
-      "tracks_total": 6,
+      "tech_tracks": null,
+      "tracks_total": 0,
       "programs": "20+ distinct intern tracks across engineering, data, product, design, partnerships, and marketing",
       "no_formal_program": false,
       "faq_open_answer": null,
       "interview": "Expect 2 to 4 months total. The typical flow: resume screen (1-2 weeks), OA invitation (1-3 weeks after), technical screen scheduling (1-3 weeks), virtual onsite (1-2 weeks after screen), and offer (1-2 weeks after onsite). Community reports indicate some candidates experience significant delays and",
       "visa": "No. Roblox does not sponsor H-1B or other visas for intern positions. However, international students with existing US work authorization (F-1 CPT, OPT, or STEM OPT) are eligible. Roblox does sponsor H-1B for full-time r",
       "window": [
-        "2026-08",
-        "2026-10"
+        "2027-06",
+        "2027-06"
       ],
-      "window_text": "Applications for summer 2027 expected to open August\u2013October 2026 (documented pattern; not yet posted)"
+      "window_text": "Applications for summer 2027 OPEN NOW. Software Engineer Intern (Summer 2027) is live on careers.roblox.com as of August 2026. Rolling review, no fixed deadline"
     },
     {
       "name": "Roche",
