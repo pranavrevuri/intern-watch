@@ -1,5 +1,5 @@
 {
-"checked_at": "2026-09-01T16:56:15.521795+00:00",
+"checked_at": "2026-09-01T20:09:19.692665+00:00",
 "seen_keys": [
 "adobe::\u2705 open]",
 "akuna capital::software engineer intern (summer 2027, python / c++ / full stack / c# .net)",
@@ -55,6 +55,7 @@
 "five rings::link",
 "five rings::software developer intern (summer 2027)",
 "gates foundation::\u2705 open]",
+"gates foundation::\ud83d\udd25 closing soon]",
 "ge appliances::digital technology intern (spring 2027)",
 "girlswhoml::\u2705 open]",
 "github::\u23f3 opens soon]",
@@ -446,6 +447,15 @@
 },
 {
 "section": "Rising Freshmen & Class of 2030 Opportunities",
+"name": "\ud83d\udd25 CLOSING SOON]",
+"org": "Gates Foundation",
+"detail": "The Gates Scholarship (Low-Income Minority HS Seniors)",
+"location": "",
+"link": "https://www.thegatesscholarship.org/scholarship/",
+"posted": ""
+},
+{
+"section": "Rising Freshmen & Class of 2030 Opportunities",
 "name": "\u2705 OPEN]",
 "org": "Posse Foundation",
 "detail": "Posse Scholarship (Nomination-Based; Partner Cities)",
@@ -487,15 +497,6 @@
 "detail": "Regeneron Science Talent Search (HS Senior STEM Research)",
 "location": "",
 "link": "https://www.societyforscience.org/regeneron-sts/",
-"posted": ""
-},
-{
-"section": "Rising Freshmen & Class of 2030 Opportunities",
-"name": "\u2705 OPEN]",
-"org": "Gates Foundation",
-"detail": "The Gates Scholarship (Low-Income Minority HS Seniors)",
-"location": "",
-"link": "https://www.thegatesscholarship.org/scholarship/",
 "posted": ""
 },
 {
@@ -1772,6 +1773,15 @@
 },
 {
 "section": "Rising Freshmen & Class of 2030 Opportunities",
+"name": "\ud83d\udd25 CLOSING SOON]",
+"org": "Gates Foundation",
+"detail": "The Gates Scholarship (Low-Income Minority HS Seniors)",
+"location": "",
+"link": "https://www.thegatesscholarship.org/scholarship/",
+"posted": ""
+},
+{
+"section": "Rising Freshmen & Class of 2030 Opportunities",
 "name": "\u2705 OPEN]",
 "org": "Posse Foundation",
 "detail": "Posse Scholarship (Nomination-Based; Partner Cities)",
@@ -1813,15 +1823,6 @@
 "detail": "Regeneron Science Talent Search (HS Senior STEM Research)",
 "location": "",
 "link": "https://www.societyforscience.org/regeneron-sts/",
-"posted": ""
-},
-{
-"section": "Rising Freshmen & Class of 2030 Opportunities",
-"name": "\u2705 OPEN]",
-"org": "Gates Foundation",
-"detail": "The Gates Scholarship (Low-Income Minority HS Seniors)",
-"location": "",
-"link": "https://www.thegatesscholarship.org/scholarship/",
 "posted": ""
 },
 {
