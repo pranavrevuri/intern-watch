@@ -1,5 +1,5 @@
 {
-"checked_at": "2026-09-06T01:20:30.046086+00:00",
+"checked_at": "2026-09-06T04:38:55.871339+00:00",
 "seen_keys": [
 "adobe::\u2705 open]",
 "akuna capital::software engineer intern (summer 2027, python / c++ / full stack / c# .net)",
@@ -64,6 +64,7 @@
 "google::summer of code",
 "google::\u2705 open]",
 "hagan scholarship foundation::\u23f3 opens soon]",
+"hagan scholarship foundation::\u2705 open]",
 "handshake::\u2705 open]",
 "headstart fellowship::\ud83d\udd25 closing soon]",
 "hrt::witti",
@@ -166,15 +167,6 @@
 "y combinator::\ud83d\udd25 closing soon]"
 ],
 "rows": [
-{
-"section": "Underclassmen Programs (Fellowships, Externships, etc.)",
-"name": "\ud83d\udd25 CLOSING SOON]",
-"org": "MLH (Major League Hacking)",
-"detail": "MLH Fellowship \u2014 Deadline: Aug 31, 2026 (Fall Batch: Starts Sep 14, 2026)",
-"location": "",
-"link": "https://fellowship.mlh.com/",
-"posted": ""
-},
 {
 "section": "Underclassmen Programs (Fellowships, Externships, etc.)",
 "name": "\ud83d\udd25 CLOSING SOON]",
@@ -326,15 +318,6 @@
 "detail": "Lime Connect Network Membership \u2014 Deadline: Rolling",
 "location": "",
 "link": "https://limeconnect.com/join-us/",
-"posted": ""
-},
-{
-"section": "Ambassador Programs",
-"name": "\ud83d\udd25 CLOSING SOON]",
-"org": "OpenAI",
-"detail": "OpenAI Student Collective (Campus Lead) \u2014 Deadline: Aug 31, 2026 (Japan, Korea, UK, Germany, France; US/Canada/India Cohort Closed)",
-"location": "",
-"link": "https://openai.com/student-collective/",
 "posted": ""
 },
 {
@@ -519,7 +502,7 @@
 },
 {
 "section": "Rising Freshmen & Class of 2030 Opportunities",
-"name": "\u23f3 OPENS SOON]",
+"name": "\u2705 OPEN]",
 "org": "Hagan Scholarship Foundation",
 "detail": "Hagan Scholarship (HS Senior; 3.5+ GPA; Household Income \u2264 $125K; 4-Yr Non-Profit College \u2014 No CC/Online)",
 "location": "",
@@ -1495,15 +1478,6 @@
 {
 "section": "Underclassmen Programs (Fellowships, Externships, etc.)",
 "name": "\ud83d\udd25 CLOSING SOON]",
-"org": "MLH (Major League Hacking)",
-"detail": "MLH Fellowship \u2014 Deadline: Aug 31, 2026 (Fall Batch: Starts Sep 14, 2026)",
-"location": "",
-"link": "https://fellowship.mlh.com/",
-"posted": ""
-},
-{
-"section": "Underclassmen Programs (Fellowships, Externships, etc.)",
-"name": "\ud83d\udd25 CLOSING SOON]",
 "org": "NSN (National Sales Network)",
 "detail": "2026 NSN Student Sales & Marketing Conference \u2014 Deadline: Rolling (Event: Sep 12\u201314, 2026)",
 "location": "",
@@ -1652,15 +1626,6 @@
 "detail": "Lime Connect Network Membership \u2014 Deadline: Rolling",
 "location": "",
 "link": "https://limeconnect.com/join-us/",
-"posted": ""
-},
-{
-"section": "Ambassador Programs",
-"name": "\ud83d\udd25 CLOSING SOON]",
-"org": "OpenAI",
-"detail": "OpenAI Student Collective (Campus Lead) \u2014 Deadline: Aug 31, 2026 (Japan, Korea, UK, Germany, France; US/Canada/India Cohort Closed)",
-"location": "",
-"link": "https://openai.com/student-collective/",
 "posted": ""
 },
 {
@@ -1845,7 +1810,7 @@
 },
 {
 "section": "Rising Freshmen & Class of 2030 Opportunities",
-"name": "\u23f3 OPENS SOON]",
+"name": "\u2705 OPEN]",
 "org": "Hagan Scholarship Foundation",
 "detail": "Hagan Scholarship (HS Senior; 3.5+ GPA; Household Income \u2264 $125K; 4-Yr Non-Profit College \u2014 No CC/Online)",
 "location": "",
