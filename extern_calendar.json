@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T16:07:23.480284+00:00",
+  "generated_at": "2026-09-13T16:55:33.779458+00:00",
   "companies": [
     {
       "name": "1Password",
@@ -950,14 +950,14 @@
       "tracks_total": 6,
       "programs": "10+ tracks through LEAP: Systems Engineering, Software Engineering, Electrical Engineering, Cybersecurity, Manufacturing, Finance, IT, Business Development, Supply Chain, Quality Assurance, and the BIRST space-mission intern team",
       "no_formal_program": false,
-      "faq_open_answer": "They are already open. Summer 2027 LEAP postings started going live in the first week of August 2026, and we counted software engineering roles at three levels plus supply chain by August 10. More are expected through October, with rolling review filling seats into the spring. Set a job alert on jobs.baesystems.com and apply now.",
+      "faq_open_answer": "They are already open. BAE's careers board dates the Summer 2027 LEAP wave to September 3, 2026, when 44 US internship-level requisitions went live at once, covering software engineering at four levels, systems, electrical, mechanical, RF and microelectronics engineering, with one more added September 10. No deadline is printed on the requisitions, and seats fill as applications arrive. Set a job ",
       "interview": "You apply online, may complete a gamified online assessment, then a 30-minute recruiter phone screen, a non-technical behavioral interview with a hiring manager using STAR+R format, and for engineering roles a technical or in-person interview. Average time to hire is about 17 days (Glassdoor).",
       "visa": "Very rare. The vast majority of positions require U.S. citizenship or U.S. Person status (citizen, permanent resident, refugee, or asylee). Security-clearance roles require U.S. citizenship specifically",
       "window": [
-        "2026-08",
-        "2026-08"
+        "2027-06",
+        "2027-09"
       ],
-      "window_text": "OPEN NOW for summer 2027. LEAP reqs are live on jobs.baesystems.com across software engineering (levels I through IV) and mechanical engineering, in New Hampshire and San Diego, verified on the BAE careers board on August 15, 2026. Rolling review continues through fall and spring semesters, with no published cutoff"
+      "window_text": "OPEN NOW for summer 2027. 44 US internship-level Summer 2027 reqs posted on jobs.baesystems.com on September 3, 2026 (one more September 10), across software, systems, electrical, mechanical, RF and microelectronics engineering in New Hampshire, Iowa, New York and San Diego. No deadline is printed on the requisitions"
     },
     {
       "name": "Baker Hughes",
@@ -1418,14 +1418,14 @@
       "tracks_total": 6,
       "programs": "Internships posted by division: Engineering, Software/IT, Data, Product, Supply Chain, Finance, Quality, HR, Manufacturing; plus co-ops with select universities",
       "no_formal_program": false,
-      "faq_open_answer": "Based on the 2026 cycle, expect postings to start appearing around October\u2013November 2026 on jobs.bosch.com and university career boards. Bosch reviews applications on a rolling basis, and some positions closed as early as January 2026 in the previous cycle. Apply within the first two weeks of a posting going live for the best odds.",
+      "faq_open_answer": "Some already have. As of mid-September 2026, six Spring 2027 co-ops at the Charleston, SC plant and six Summer 2027 internships at HydraForce (Bosch Rexroth) in Lincolnshire, IL are live on jobs.bosch.com, with no deadline printed. The main Bosch North America summer 2027 engineering wave is expected around October\u2013November 2026, based on the 2026 cycle. Bosch reviews on a rolling basis, and some ",
       "interview": "The process typically involves two to three rounds: an initial HR phone screen confirming your background and motivation, followed by a technical or behavioral interview with the hiring manager discussing your projects and problem-solving approach. Glassdoor rates the difficulty at 2.6 out of 5, and",
       "visa": "Bosch US internship postings require \"indefinite U.S. work authorized individuals only\" and state that future sponsorship for work authorization is unavailable. International students may qualify if they have independent",
       "window": [
         "2026-10",
         "2026-11"
       ],
-      "window_text": "Expected October\u2013November 2026 for summer 2027; rolling review, positions close as filled (documented pattern; not yet posted)"
+      "window_text": "In progress: 6 Spring 2027 co-ops (Charleston SC, posted August 2026) and 6 Summer 2027 interns (HydraForce/Bosch Rexroth, Lincolnshire IL, posted September 9, 2026) live now; main Bosch NA summer 2027 engineering wave expected October\u2013November 2026; rolling review, positions close as filled"
     },
     {
       "name": "Boston Scientific",
@@ -2336,14 +2336,14 @@
       "tracks_total": 6,
       "programs": "10+ tracks: InnoTech (Software Engineering, Data Science, Digital Products, Security), Actuarial, Finance, Human Resources, Supply Chain, General Management, Retail, Pharmacy, and more",
       "no_formal_program": false,
-      "faq_open_answer": "Expect most roles to open in September 2026, with rolling review through March 2027 or until roles are filled. Apply in September or October for priority consideration. Those dates are projected from the Summer 2026 cycle and are not official yet.",
+      "faq_open_answer": "They are open now. CVS Health posted 37 Summer 2027 requisitions on its Workday careers board between September 2 and 9, 2026, covering corporate Finance, Supply Chain & Logistics, General Management and Retail Store Management. The requisitions say there is no application deadline and applications are accepted on an ongoing basis, so apply in September or October while every track is open; prior ",
       "interview": "You apply through Workday, complete a HireVue on-demand video assessment with behavioral questions, then have one or two live virtual interviews with hiring managers. Some tracks include a Superday with four to five 30-minute interviews. Decisions come within one to two weeks.",
       "visa": "Limited. Select post-graduation Analytics, Data Science, and MBA roles may offer sponsorship. PharmD and niche cybersecurity roles may also qualify. Most internship tracks do not sponsor",
       "window": [
-        "2026-09",
-        "2027-03"
+        "2027-06",
+        "2027-09"
       ],
-      "window_text": "Expected September 2026 through March 2027 (or until roles are filled). Priority consideration for applications submitted by October 2026. Projected from prior cycles"
+      "window_text": "Open now for summer 2027: 37 Summer 2027 reqs posted September 2 to 9, 2026 (corporate Finance, Supply Chain & Logistics, General Management, plus Retail Store Management in ~30 metros). No deadline: CVS accepts applications \"on an ongoing basis\" (one Finance req shows an October 31, 2026 end date). Prior cycles ran to March or until filled"
     },
     {
       "name": "D.E. Shaw",
@@ -2605,9 +2605,9 @@
       "visa": "Disney requires unrestricted US work authorization. International students on F-1 visas can qualify by obtaining CPT from their school for the internship\u2019s duration. OPT also works. Disney does not directly sponsor inter",
       "window": [
         "2026-09",
-        "2026-10"
+        "2026-09"
       ],
-      "window_text": "For summer 2027: expected September\u2013October 2026 for tech; December 2026\u2013January 2027 for non-tech (documented pattern; not yet posted)"
+      "window_text": "Spring 2027 cohort open now: 34 reqs live mid-September 2026, each closing ~1 week after posting. Summer 2027: 3 US reqs live (Accounting & Finance Rotation Program posted Sep 1, closes Oct 5, 2026; two Disneyland industrial engineering); main tech wave expected September\u2013October 2026, non-tech December 2026\u2013January 2027 (projected)"
     },
     {
       "name": "Docker",
@@ -3538,14 +3538,14 @@
       "tracks_total": 6,
       "programs": "6+ internship tracks across Gas Power, Wind, Nuclear, Digital Technology, Commercial, Finance, and Grid",
       "no_formal_program": false,
-      "faq_open_answer": "Based on the Summer 2027 cycle, expect engineering internships (Gas Power, Wind) to post between January and March 2027, with Digital Technology, Commercial, Nuclear, and Finance postings following through spring 2027. GE Vernova has not posted Summer 2028 dates yet, so monitor careers.gevernova.com/early-careers starting in late 2026 and set up job alerts on the Workday portal.",
+      "faq_open_answer": "Summer 2028 dates are not posted yet; the live wave is Summer 2027, with 44 US requisitions posted September 4 to 11, 2026 and end dates, where printed, running September 30 to November 13, 2026. If that wave repeats, expect Summer 2028 engineering internships (Gas Power, Nuclear, Grid, Wind) to post around September 2027, so monitor careers.gevernova.com/early-careers and set up job alerts on the",
       "interview": "Expect 2 rounds over about 26 days total. The interview is a mix of behavioral and technical questions, though Glassdoor rates the difficulty at only 2.4 out of 5. You will likely meet with an HR representative and a team member on Zoom or Teams. Behavioral questions focus on leadership, teamwork, a",
       "visa": "No. All US internship postings state applicants must have \"the ability to work in the United States for an unlimited amount of time without sponsorship.\" This language is stricter than many other companies and likely exc",
       "window": [
-        "2027-01",
-        "2027-03"
+        "2027-06",
+        "2027-09"
       ],
-      "window_text": "Engineering roles posted January\u2013March 2026; Digital Technology, Commercial, Nuclear, and Finance followed through spring 2026. Some may still be open"
+      "window_text": "Open now: 44 US 2027-titled reqs (29 Summer 2027, plus Spring and Fall 2027 co-ops) posted September 4 to 11, 2026. No closing language; where an end date is printed it runs September 30 to November 13, 2026, so check each req"
     },
     {
       "name": "Genentech",
@@ -4107,10 +4107,10 @@
       "interview": "Home Depot's funnel runs 2\u20134 weeks from first interview to offer, faster than most Fortune 50 programs: 1. Create a profile at careers.homedepot.com and upload your resume (PDF or Word, under 5MB). A cover letter is optional but recommended for business tracks. Complete the 3\u20135 role-specific screeni",
       "visa": "F-1 students on CPT are explicitly accepted. OPT is also eligible. H-1B sponsorship for interns is described as \"case-by-case\" and isn't guaranteed. Full-time H-1B sponsorship is more common after conversion.",
       "window": [
-        "2026-09",
-        "2026-10"
+        "2026-08",
+        "2026-08"
       ],
-      "window_text": "Applications for summer 2027 expected to open September 15 to October 31, 2026 (documented pattern; not yet posted)"
+      "window_text": "Open now for summer 2027: 11 requisitions live since August 31, 2026; \"Applications are accepted on an ongoing basis\" (employer header); program May 17 to July 30, 2027"
     },
     {
       "name": "Honda",
@@ -4152,10 +4152,10 @@
       "interview": "Two to three stages: an online coding assessment on HackerRank or HackerEarth with 3 medium-to-hard questions and a 90-minute time limit (for technical roles), followed by a combined technical and HR interview lasting 20\u201345 minutes. Some roles add a panel interview with the hiring manager and future",
       "visa": "No. Honeywell doesn't sponsor employment visas for interns. You must be authorized to work in the United States without current or future sponsorship. International students on valid CPT or OPT authorization are generall",
       "window": [
-        "2026-09",
-        "2027-03"
+        "2026-08",
+        "2026-08"
       ],
-      "window_text": "Expected September\u2013October 2026 through March 2027 (rolling; documented pattern, not yet posted)"
+      "window_text": "Open now for summer 2027: 26 US intern requisitions posted August 25 to 27, 2026. Apply Before March 31, 2027 (printed on each requisition; Honeywell says the period may be shortened)"
     },
     {
       "name": "Honeywell Aerospace",
@@ -4171,14 +4171,14 @@
       "tracks_total": 6,
       "programs": "11+ internship tracks across engineering, supply chain, IT/cyber, finance, and HR, plus an Aerospace Development Program and Neurodiversity Program",
       "no_formal_program": false,
-      "faq_open_answer": "Based on the summer 2026 cycle, expect postings to appear between August and October 2026 on the Honeywell Aerospace careers portal and LinkedIn. Honeywell Aerospace recruits heavily at university career fairs in September and October. Applications typically close by March or when positions fill, so apply early and join the Talent Network at honeywellaerospace.com for alerts.",
+      "faq_open_answer": "They are open now. Honeywell Aerospace posted 36 US Summer 2027 intern requisitions on its careers portal between August 27 and September 8, 2026, covering 18 tracks from software and embedded engineering to supply chain, finance and marketing. The requisitions say applications are estimated to stay open through the end of March 2027 but may close earlier as positions fill, so apply early and join",
       "interview": "After applying online, candidates complete aptitude assessments, then move to a phone screen with HR covering behavioral questions. Finalists interview with the hiring team, often including both behavioral and technical questions. Some roles include an assessment center with individual and group exe",
       "visa": "Most Honeywell Aerospace internships require applicants to be a U.S. Person (U.S. citizen, permanent resident, or asylee/refugee) due to ITAR and EAR export control regulations. Honeywell states it can't consider applica",
       "window": [
         "2026-08",
-        "2026-10"
+        "2026-09"
       ],
-      "window_text": "Expected August to October 2026 for summer 2027; rolling until positions fill or ~March 2027 (documented pattern; not yet posted)"
+      "window_text": "Open now for summer 2027: 36 US intern requisitions posted August 27 to September 8, 2026. Employer's estimate: applications accepted through the end of March 2027, which it says may be shortened as positions fill"
     },
     {
       "name": "HRT",
@@ -4489,10 +4489,10 @@
       "interview": "Intel's hiring funnel is multi-stage but moves quickly once it starts, averaging about 23 days from application to offer according to Glassdoor data: 1. Apply at jobs.intel.com via the Workday portal. Submit a single-column resume (Workday ATS compatibility), apply to 5 to 8 positions across multipl",
       "visa": "Intel does not sponsor H-1B visas for internships, but F-1 CPT is actively supported and roughly 30 to 40% of the intern population consists of international students using CPT authorization. Check each posting individua",
       "window": [
-        "2026-08",
-        "2026-10"
+        "2027-09",
+        "2027-11"
       ],
-      "window_text": "Applications for summer 2027 expected to open ~August\u2013October 2026, projected from prior cycle (rolling; high-demand roles close by November 2026)"
+      "window_text": "In progress: 9 US PhD/graduate fab-engineering intern reqs live since September 9 to 11, 2026 (one closes October 7, 2026); undergraduate and master's summer 2027 wave expected this fall (rolling; high-demand roles have closed by November in prior cycles)"
     },
     {
       "name": "Intuit",
@@ -5492,14 +5492,14 @@
       "tracks_total": 6,
       "programs": "10+ tracks across R&D, Manufacturing, IT, Data Science, Engineering, Clinical/Regulatory, Marketing, Finance, and more through the Future Talent Program",
       "no_formal_program": false,
-      "faq_open_answer": "Expect most Future Talent Program roles to open in early September 2026, with priority consideration by mid-October and most postings closing by mid-November 2026. Those dates are projected from the Summer 2026 cycle and are not official yet. Set a job alert on jobs.merck.com.",
+      "faq_open_answer": "They are open now. Merck posted roughly 195 requisitions titled 2027 Future Talent Program on its Workday careers board between September 9 and 11, 2026, for a 12-week summer 2027 program starting late May or early June. Each requisition prints its own end date, mostly between October 9 and October 30, 2026, and Merck says to apply no later than the day before that date.",
       "interview": "You apply online, pass an application screening (3.0+ GPA required), complete a recruiter phone screen, then a panel behavioral interview with 2 to 3 interviewers using STAR methodology. R&D roles may include a research presentation. Average time from application to hire is 36 days.",
       "visa": "Not available. Merck does not sponsor visas for internship or co-op roles. International students must have independent U.S. work authorization (e.g., CPT) and should consult their DSO",
       "window": [
         "2026-09",
         "2026-09"
       ],
-      "window_text": "Expected early September 2026 for summer 2027 roles. Priority consideration by mid-October 2026, with most postings closing by mid-November 2026. Projected from prior cycle"
+      "window_text": "Open now for summer 2027: ~195 requisitions titled 2027 Future Talent Program posted September 9 to 11, 2026 (US and Puerto Rico residents only). Each requisition prints its own end date, sampled October 9 to 30, 2026; apply no later than the day before that date"
     },
     {
       "name": "Mercor",
@@ -5607,9 +5607,9 @@
       "visa": "Yes. Most international students at US universities use CPT (Curricular Practical Training) under their F-1 visa, which does not require employer sponsorship. Microsoft is also one of the largest H-1B sponsors for full-t",
       "window": [
         "2026-08",
-        "2026-10"
+        "2026-08"
       ],
-      "window_text": "Applications for summer 2027 expected mid-August through October 2026; rolling admissions (not yet posted)"
+      "window_text": "Open now, in waves: US intern requisitions posting continuously since August 10, 2026 on apply.careers.microsoft.com (20 live in mid-September across hardware, cleared software, PM, supply chain, finance); the university SWE intern postings appeared around September 3 and closed within nine days. No year or deadline is printed; rolling"
     },
     {
       "name": "Midjourney",
@@ -6830,10 +6830,10 @@
       "interview": "The whole process runs through PwC's recruiting page playbook : 1. Pick one track. You can interview for only one opportunity at a time, so match your major to a career area first. 2. Apply at pwc.to/entryleveljobs . Search \"summer 2028\" by keyword, select a preferred office, and upload your resume ",
       "visa": null,
       "window": [
-        "2026-08",
-        "2026-10"
+        "2026-09",
+        "2026-09"
       ],
-      "window_text": "Summer 2028: Audit/Tax/DAT expected Aug\u2013Oct 2026 (~22 months before the internship starts), not yet observed as posted; Advisory/Consulting fall 2026\u2013spring 2027. Summer 2027, still live: Deals (FDD & CMAAS) and Business Process Consulting, fresh reqs posted Aug 13, 2026 with no published cutoff, opening and closing per office. Summer 2027, closed: Tax JD/LLM, whose Jul 17, 2026 deadline is the on"
+      "window_text": "Summer 2028, open now: 88 Audit/Tax/DAT (Destination CPA) reqs posted Sep 10, 2026, all closing Oct 3, 2026 (~22 months before the internship starts); 77 Winter 2028 Audit/Tax reqs live alongside; Advisory/Consulting for 2028 expected fall 2026\u2013spring 2027. Summer 2027, still live: 137 reqs (Tax 30, Audit 26, DAT 18, Tax JD 15, Advisory/Consulting wave posted ~Sep 1\u201310) with per-req end dates (e.g"
     },
     {
       "name": "Qatalyst Partners",
@@ -7413,10 +7413,10 @@
       "interview": "A recruiter screen, often a HireVue recorded video, then a behavioral hiring-manager or Zoom interview (sometimes a panel or a single director), a possible in-person step, and an offer. It is behavioral-heavy (conflict, leadership, teamwork, datasets) with no documented timed coding assessment. Turn",
       "visa": "No) US citizenship is required for nearly all US roles (ITAR-controlled defense work); software reqs are tagged \"No H1B Sponsorship.\" A minority of roles require an active SECRET clearance on day one",
       "window": [
-        "2026-08",
-        "2026-08"
+        "2027-06",
+        "2027-09"
       ],
-      "window_text": "OPEN NOW / rolling. Reqs post team-by-team (mostly Aug 2026 through winter) and each closes ~40 days after posting (there is no single company-wide deadline. Apply the moment a matching role appears"
+      "window_text": "OPEN NOW, short windows. 148 US 2027-cycle intern and co-op reqs live (39 titled Summer 2027), the bulk posted September 2 to 11, 2026; half of a 30-req sample carried a Workday end date only 5 to 6 days after posting, the rest 3 to 7 weeks. There is no company-wide deadline. Apply the day a matching role appears"
     },
     {
       "name": "Runway",
@@ -8210,9 +8210,9 @@
       "visa": "None. Every intern JD states Stellantis \"does not provide immigration-related sponsorship for this role.\" Eligible work rights: US Citizen, US Permanent Resident, or US Student Visa (e.g., F-1 with valid authorization)",
       "window": [
         "2026-09",
-        "2026-10"
+        "2026-09"
       ],
-      "window_text": "Not yet published. Applications for summer 2027 are expected to open ~Sept\u2013Oct 2026 with deadlines ~Nov 2026 (expected), mirroring the 2026 cycle (Technical Software closed Nov 8, Vehicle Engineering Nov 22, 2025). Stellantis says to \"check back Fall 2026\" for 2027 roles"
+      "window_text": "Open now for summer 2027: postings went live September 3, 2026 (50+ US roles across Purchasing, Manufacturing, HR, Engineering, Communications, Planning); no close dates published yet. The 2026 cycle closed in November (Technical Software Nov 8, Vehicle Engineering Nov 22, 2025), so treat that as the outer limit"
     },
     {
       "name": "Strava",
@@ -8272,14 +8272,14 @@
       "tracks_total": 6,
       "programs": "8+ tracks: R&D Engineering, Software Engineering, Quality Engineering, Sales, Marketing, Finance, Supply Chain / Operations, Regulatory Affairs",
       "no_formal_program": false,
-      "faq_open_answer": "Expect most postings to open in September 2026, with rolling recruitment running through early March 2027. Those dates are projected from the Summer 2026 cycle and are not official yet. Set a job alert on careers.stryker.com.",
+      "faq_open_answer": "They are open now. Stryker posted 38 Summer 2027 intern requisitions on its Workday careers board between August 31 and September 9, 2026, covering finance, marketing, industrial design, R&D, sales operations and revenue operations. No deadline is printed on the requisitions; prior cycles kept remaining seats open into early March, but apply now while all 38 are live.",
       "interview": "You apply online, complete a recruiter phone screen (15 to 30 minutes), take the Gallup StrengthsFinder assessment (30 to 90 minutes with a trained analyst), then 2 to 3 follow-up interviews with the hiring manager and department heads. Average time from first interview to offer is about 31 days.",
       "visa": "Not available. Candidates must be legally authorized to work in the U.S. without sponsorship now or in the future. F-1 students with CPT may still be eligible",
       "window": [
-        "2026-09",
+        "2026-08",
         "2026-09"
       ],
-      "window_text": "Expected September 2026 for summer 2027 roles. Rolling basis through early March 2027 depending on which seats remain. Projected from prior cycle"
+      "window_text": "Open now for summer 2027: 38 Summer 2027 intern requisitions posted August 31 to September 9, 2026. No deadline is printed on the requisitions (one carries a November 20, 2026 end date); prior cycles ran into early March 2027 for remaining seats"
     },
     {
       "name": "Suno",
@@ -8523,10 +8523,10 @@
       "interview": "TI's interview funnel is shorter than most tech companies, averaging 22 days from application to offer. But the technical content is domain-specific rather than algorithm-focused, so generic LeetCode prep will not help you here: 1. Apply at careers.ti.com with a resume. No cover letter is required. ",
       "visa": "Yes. For internships: CPT authorization from your school is sufficient (no employer petition needed). For full-time: TI actively sponsors H-1B visas and filed 122 petitions with 122 approved in FY2025. TN visas are also ",
       "window": [
-        "2026-08",
-        "2026-11"
+        "2026-11",
+        "2027-06"
       ],
-      "window_text": "Expected mid-August to mid-November 2026 for summer 2027 (rolling; first 3 weeks of fall semester get priority)"
+      "window_text": "Rolling, in progress: ~60 US intern reqs live with no year in the title (posting continuously since January 2026); the two 2027-titled reqs are Manufacturing Technician (AAS/certificate) roles with Apply Before November 30, 2026. Degree-track summer 2027 engineering reqs expected to be year-titled this fall"
     },
     {
       "name": "Textron",
