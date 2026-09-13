@@ -1,5 +1,5 @@
 {
-"checked_at": "2026-09-13T16:38:16.251114+00:00",
+"checked_at": "2026-09-13T18:49:41.507342+00:00",
 "seen_keys": [
 "adobe::\u2705 open]",
 "akuna capital::software engineer intern (summer 2027, python / c++ / full stack / c# .net)",
@@ -75,6 +75,7 @@
 "jane street::fttp",
 "jane street::jsip",
 "jane street::\u2705 open]",
+"jane street::\ud83d\udd25 closing soon]",
 "jpmorgan::fellowship",
 "kudu dynamics::software engineer intern (1) \ud83c\uddfa\ud83c\uddf8",
 "kudu dynamics::software engineer intern (2) \ud83c\uddfa\ud83c\uddf8",
@@ -170,10 +171,10 @@
 {
 "section": "Underclassmen Programs (Fellowships, Externships, etc.)",
 "name": "\ud83d\udd25 CLOSING SOON]",
-"org": "NSN (National Sales Network)",
-"detail": "2026 NSN Student Sales & Marketing Conference \u2014 Deadline: Rolling (Event: Sep 12\u201314, 2026)",
+"org": "Jane Street",
+"detail": "Bridge \u2014 Deadline: Sep 27, 2026 (New York) / Jan 3, 2027 (London)",
 "location": "",
-"link": "https://plus.mcievents.com/event/82045c6a-f96b-43af-9944-670ab6957417/register",
+"link": "https://www.janestreet.com/join-jane-street/programs-and-events/bridge/",
 "posted": ""
 },
 {
@@ -324,15 +325,6 @@
 "section": "Underclassmen Programs (Fellowships, Externships, etc.)",
 "name": "\u2705 OPEN]",
 "org": "Jane Street",
-"detail": "Bridge \u2014 Deadline: Rolling (Sign Up to Be Notified)",
-"location": "",
-"link": "https://www.janestreet.com/join-jane-street/programs-and-events/bridge/",
-"posted": ""
-},
-{
-"section": "Underclassmen Programs (Fellowships, Externships, etc.)",
-"name": "\u2705 OPEN]",
-"org": "Jane Street",
 "detail": "FOCUS \u2014 Deadline: Rolling (Sign Up to Be Notified)",
 "location": "",
 "link": "https://www.janestreet.com/join-jane-street/programs-and-events/focus/",
@@ -420,24 +412,6 @@
 "posted": ""
 },
 {
-"section": "Ambassador Programs",
-"name": "\u2705 OPEN]",
-"org": "Canva",
-"detail": "Campus Canvassadors (Founding Cohort, Aug\u2013Dec 2026) \u2014 Deadline: Rolling",
-"location": "",
-"link": "https://public.canva.site/campus-canvassadors",
-"posted": ""
-},
-{
-"section": "Ambassador Programs",
-"name": "\u2705 OPEN]",
-"org": "Base44",
-"detail": "Campus Impact Leaders (Founding Class) \u2014 Deadline: Rolling",
-"location": "",
-"link": "https://campusimpactleaders.base44.app/",
-"posted": ""
-},
-{
 "section": "Underclassmen Research Programs",
 "name": "\u2705 OPEN]",
 "org": "Google",
@@ -480,15 +454,6 @@
 "detail": "WiSE - Women in Science & Engineering (Class of 2030)",
 "location": "",
 "link": "https://www.janestreet.com/join-jane-street/programs-and-events/wise/",
-"posted": ""
-},
-{
-"section": "Rising Freshmen & Class of 2030 Opportunities",
-"name": "\u23f3 OPENS SOON]",
-"org": "Ayn Rand Institute",
-"detail": "Fountainhead Essay Contest (Grades 11\u201312) \u2014 Deadline: Sep 13, 2026 (Anthem contest closed May 31, 2026)",
-"location": "",
-"link": "https://aynrand.org/students/essay-contests",
 "posted": ""
 },
 {
@@ -1496,10 +1461,10 @@
 {
 "section": "Underclassmen Programs (Fellowships, Externships, etc.)",
 "name": "\ud83d\udd25 CLOSING SOON]",
-"org": "NSN (National Sales Network)",
-"detail": "2026 NSN Student Sales & Marketing Conference \u2014 Deadline: Rolling (Event: Sep 12\u201314, 2026)",
+"org": "Jane Street",
+"detail": "Bridge \u2014 Deadline: Sep 27, 2026 (New York) / Jan 3, 2027 (London)",
 "location": "",
-"link": "https://plus.mcievents.com/event/82045c6a-f96b-43af-9944-670ab6957417/register",
+"link": "https://www.janestreet.com/join-jane-street/programs-and-events/bridge/",
 "posted": ""
 },
 {
@@ -1650,15 +1615,6 @@
 "section": "Underclassmen Programs (Fellowships, Externships, etc.)",
 "name": "\u2705 OPEN]",
 "org": "Jane Street",
-"detail": "Bridge \u2014 Deadline: Rolling (Sign Up to Be Notified)",
-"location": "",
-"link": "https://www.janestreet.com/join-jane-street/programs-and-events/bridge/",
-"posted": ""
-},
-{
-"section": "Underclassmen Programs (Fellowships, Externships, etc.)",
-"name": "\u2705 OPEN]",
-"org": "Jane Street",
 "detail": "FOCUS \u2014 Deadline: Rolling (Sign Up to Be Notified)",
 "location": "",
 "link": "https://www.janestreet.com/join-jane-street/programs-and-events/focus/",
@@ -1746,24 +1702,6 @@
 "posted": ""
 },
 {
-"section": "Ambassador Programs",
-"name": "\u2705 OPEN]",
-"org": "Canva",
-"detail": "Campus Canvassadors (Founding Cohort, Aug\u2013Dec 2026) \u2014 Deadline: Rolling",
-"location": "",
-"link": "https://public.canva.site/campus-canvassadors",
-"posted": ""
-},
-{
-"section": "Ambassador Programs",
-"name": "\u2705 OPEN]",
-"org": "Base44",
-"detail": "Campus Impact Leaders (Founding Class) \u2014 Deadline: Rolling",
-"location": "",
-"link": "https://campusimpactleaders.base44.app/",
-"posted": ""
-},
-{
 "section": "Underclassmen Research Programs",
 "name": "\u2705 OPEN]",
 "org": "Google",
@@ -1806,15 +1744,6 @@
 "detail": "WiSE - Women in Science & Engineering (Class of 2030)",
 "location": "",
 "link": "https://www.janestreet.com/join-jane-street/programs-and-events/wise/",
-"posted": ""
-},
-{
-"section": "Rising Freshmen & Class of 2030 Opportunities",
-"name": "\u23f3 OPENS SOON]",
-"org": "Ayn Rand Institute",
-"detail": "Fountainhead Essay Contest (Grades 11\u201312) \u2014 Deadline: Sep 13, 2026 (Anthem contest closed May 31, 2026)",
-"location": "",
-"link": "https://aynrand.org/students/essay-contests",
 "posted": ""
 },
 {
