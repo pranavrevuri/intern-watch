@@ -1,5 +1,5 @@
 {
-"checked_at": "2026-09-16T17:44:53.139746+00:00",
+"checked_at": "2026-09-16T18:11:39.612583+00:00",
 "seen_keys": [
 "adobe::\u2705 open]",
 "akuna capital::software engineer intern (summer 2027, python / c++ / full stack / c# .net)",
@@ -35,6 +35,7 @@
 "citadel::launch",
 "cloudfit software::future intern, early interest (summer 2027, software / ai/ml / cyber) \ud83c\uddfa\ud83c\uddf8",
 "coca-cola scholars foundation::\u2705 open]",
+"coca-cola scholars foundation::\ud83d\udd25 closing soon]",
 "coinbase::\ud83d\udd25 closing soon]",
 "ctgt::software engineering intern / research intern, interpretability (summer 2027)",
 "cubist systematic strategies::quantitative developer intern",
@@ -431,6 +432,15 @@
 },
 {
 "section": "Rising Freshmen & Class of 2030 Opportunities",
+"name": "\ud83d\udd25 CLOSING SOON]",
+"org": "Coca-Cola Scholars Foundation",
+"detail": "Coca-Cola Scholars Program (HS Senior; 3.0+ GPA)",
+"location": "",
+"link": "https://www.coca-colascholarsfoundation.org/apply/",
+"posted": ""
+},
+{
+"section": "Rising Freshmen & Class of 2030 Opportunities",
 "name": "\u2705 OPEN]",
 "org": "Posse Foundation",
 "detail": "Posse Scholarship (Nomination-Based; Partner Cities)",
@@ -472,15 +482,6 @@
 "detail": "National College Match (HS Senior; Low-Income)",
 "location": "",
 "link": "https://www.questbridge.org/apply-to-college/programs/national-college-match",
-"posted": ""
-},
-{
-"section": "Rising Freshmen & Class of 2030 Opportunities",
-"name": "\u2705 OPEN]",
-"org": "Coca-Cola Scholars Foundation",
-"detail": "Coca-Cola Scholars Program (HS Senior; 3.0+ GPA)",
-"location": "",
-"link": "https://www.coca-colascholarsfoundation.org/apply/",
 "posted": ""
 },
 {
@@ -1721,6 +1722,15 @@
 },
 {
 "section": "Rising Freshmen & Class of 2030 Opportunities",
+"name": "\ud83d\udd25 CLOSING SOON]",
+"org": "Coca-Cola Scholars Foundation",
+"detail": "Coca-Cola Scholars Program (HS Senior; 3.0+ GPA)",
+"location": "",
+"link": "https://www.coca-colascholarsfoundation.org/apply/",
+"posted": ""
+},
+{
+"section": "Rising Freshmen & Class of 2030 Opportunities",
 "name": "\u2705 OPEN]",
 "org": "Posse Foundation",
 "detail": "Posse Scholarship (Nomination-Based; Partner Cities)",
@@ -1762,15 +1772,6 @@
 "detail": "National College Match (HS Senior; Low-Income)",
 "location": "",
 "link": "https://www.questbridge.org/apply-to-college/programs/national-college-match",
-"posted": ""
-},
-{
-"section": "Rising Freshmen & Class of 2030 Opportunities",
-"name": "\u2705 OPEN]",
-"org": "Coca-Cola Scholars Foundation",
-"detail": "Coca-Cola Scholars Program (HS Senior; 3.0+ GPA)",
-"location": "",
-"link": "https://www.coca-colascholarsfoundation.org/apply/",
 "posted": ""
 },
 {
