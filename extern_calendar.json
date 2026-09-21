@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T16:48:34.478753+00:00",
+  "generated_at": "2026-09-21T18:36:25.093577+00:00",
   "companies": [
     {
       "name": "1Password",
@@ -440,10 +440,10 @@
       "interview": "You apply, take a two-hour online assessment (two coding problems, a debugging section, a Work Simulation, and a Work Styles questionnaire), then one to five virtual rounds blending behavioral questions with live coding. Then offers come within five business days.",
       "visa": "Varies by role. Engineering and science commonly sponsor; the 2027 Finance and Operations JDs state they cannot",
       "window": [
-        "2027-06",
+        "2026-09",
         "2027-06"
       ],
-      "window_text": "OPEN NOW. 29 US intern roles live at amazon.jobs, including SDE, Finance Rotation 2027, PMT Summer 2027, Area Manager Summer 2027, and WHS Specialist. Rolling review. Projected from the prior cycle where not yet posted"
+      "window_text": "OPEN NOW. 37 US intern roles titled 2027 live at amazon.jobs as of Sep 21, 2026, led by the flagship Software Development Engineer Intern, Summer 2027 (USA) posted Sep 17, plus AWS Solutions Architect, Annapurna Labs, Robotics, PMT, Finance Rotation, Area Manager and WHS Specialist. Rolling review"
     },
     {
       "name": "AMC Networks",
@@ -486,9 +486,9 @@
       "visa": "AMD does not sponsor H-1B visas for internship positions. International students must have valid CPT (Curricular Practical Training) authorization through their university. Apply at least 10 to 12 weeks before your start",
       "window": [
         "2026-08",
-        "2026-11"
+        "2026-09"
       ],
-      "window_text": "Expected late August to November 2026 for summer 2027 (rolling; projected from prior cycle)"
+      "window_text": "Open now for summer 2027: 57 US 2027-titled intern/co-op reqs live on careers.amd.com, first wave August 20, 2026, latest wave September 16; no close dates listed"
     },
     {
       "name": "American Airlines",
@@ -620,10 +620,10 @@
       "interview": "The Anthropic Fellows Program runs a five-stage funnel, and the rolling timeline means each stage starts within days of the previous one: 1. Submit your application on Greenhouse with your resume, optional code samples or publications, and three required references. Write substantive responses on mo",
       "visa": "You must have existing work authorization in the US, UK, or Canada. Anthropic doesn't sponsor visas for the Fellows Program. If you need employment sponsorship of any kind, this fellowship is effectively unavailable unle",
       "window": [
-        "2026-07",
-        "2026-07"
+        "2026-09",
+        "2026-09"
       ],
-      "window_text": "Open now (as of July 2026): most recent cohort application closed late July 2026 for a November 2026 start; further cohorts expected January and August 2027. Check the Greenhouse listing for live dates"
+      "window_text": "Open now (as of September 2026): the January 2027 cohort is accepting applications on Greenhouse across three workstreams (AI Safety and Security, ML Systems and RL, Economics and Policy), reviewed on a rolling basis; a further cohort is expected around August 2027. Check the Greenhouse listing for live dates"
     },
     {
       "name": "Anyscale",
@@ -1223,7 +1223,7 @@
         "2026-07",
         "2026-12"
       ],
-      "window_text": "Summer 2027: Operations & Technology open now (July 2026), review Sep\u2013Dec 2026. Summer 2028 (expected): posting ~Jan 2027, Investments first; Client & Product / Corporate & Strategic ~Mar 2027; Operations & Technology ~Jul 2027"
+      "window_text": "Summer 2027: Operations & Technology open since July 2026 (posting confirmed live Sep 21, 2026), review Sep\u2013Dec 2026. Summer 2028 (expected): posting ~Jan 2027, Investments first; Client & Product / Corporate & Strategic ~Mar 2027; Operations & Technology ~Jul 2027"
     },
     {
       "name": "Block",
@@ -1962,7 +1962,7 @@
         "2026-12",
         "2027-01"
       ],
-      "window_text": "IB expected December 2026 to January 2027; Tech/Markets/Services expected August to December 2027 for summer 2028 (rolling; not yet posted as of July 2026 \u2014 check jobs.citi.com )"
+      "window_text": "Summer 2027 (juniors graduating December 2027 to June 2028): 18 US Summer Analyst requisitions live now on Citi's Workday board, confirmed September 21, 2026: Corporate Banking (Atlanta, Houston, San Francisco), Commercial Banking (Houston), Markets Sales and Trading and Quantitative Analysis (New York), Services (New York), Wealth (New York, Miami, Dallas, Los Angeles) and Risk, Internal Audit an"
     },
     {
       "name": "Clorox",
@@ -2292,14 +2292,14 @@
       "tracks_total": 6,
       "programs": "6+ tracks: Software Engineering, Threat Intelligence (OverWatch), Cloud Security, Information Security, AI/ML, and the Launch Program (sophomores)",
       "no_formal_program": false,
-      "faq_open_answer": "Expect most roles to open in early August 2026, with a peak application window through September 2026 and bulk offers extended by December 2026. Those dates are projected from prior-cycle patterns and are not official yet. Set a job alert on CrowdStrike's careers page.",
+      "faq_open_answer": "They have started. The first Summer 2027 requisitions, two Sales Excellence Elite Intern roles in Austin, went live on September 16, 2026. Engineering and security intern postings had not appeared as of September 21, 2026; based on the 2026 cycle expect them through the fall with bulk offers by December. Set a job alert on CrowdStrike's careers page.",
       "interview": "You apply online, complete a recruiter phone screen (15 to 30 minutes), take a 60- to 90-minute technical assessment (HackerRank for engineering, take-home for intelligence), then a virtual onsite with 2 to 3 technical sessions plus a behavioral round. Decisions come within 1 to 2 weeks. Total proce",
       "visa": "CPT supported for F-1 students. STEM OPT extension eligible. Selective H-1B sponsorship for early-career roles. Security-clearance roles require U.S. citizenship",
       "window": [
-        "2026-08",
-        "2026-09"
+        "2027-06",
+        "2027-06"
       ],
-      "window_text": "Expected early August to late September 2026 for summer 2027 roles. Bulk offers extended by December 2026. Projected from prior-cycle patterns"
+      "window_text": "FIRST POSTINGS LIVE: Sales Excellence Elite Intern (Summer 2027) reqs posted Sep 16, 2026 on CrowdStrike's Workday board (Austin). Engineering and security intern reqs not yet posted as of Sep 21, 2026; expect them through fall. Bulk offers projected by December 2026"
     },
     {
       "name": "Cruise",
@@ -2821,14 +2821,14 @@
       "tracks_total": 6,
       "programs": "6+ tracks across two tiers: SWE, Data Science, APM (Standard); SWE, Product Design, Studio Art (Thrive). Product Management Thrive added in recent cycles",
       "no_formal_program": false,
-      "faq_open_answer": "Expect Standard and Thrive postings to open in September 2026, with Thrive SWE closing late September, APM and Data Science closing early October, and Design roles closing early November. Those dates are projected from the Summer 2026 cycle and are not official yet. Bookmark careers.duolingo.com.",
+      "faq_open_answer": "They already did. Standard SWE, Thrive SWE and APM postings for summer 2027 went live on careers.duolingo.com on September 15\u201316, 2026. The two SWE reqs close September 30, 2026 and APM closes October 7, 2026 (deadlines printed in the postings). Design and Data Science roles are still projected for early October to early November and are not official yet.",
       "interview": "For engineering: a 60-minute CodeSignal OA, a 60-minute live technical interview, then a virtual onsite with pair programming (75 min), code review (60 min), whiteboard (60 min), and a coffee chat. APM replaces coding with a take-home feature proposal and two 45-minute product interviews.",
       "visa": "CPT and OPT supported for F-1 students. H-1B and TN visa sponsorship available for full-time conversion. Duolingo sponsored 59 visas in a recent year",
       "window": [
         "2026-09",
-        "2026-11"
+        "2026-09"
       ],
-      "window_text": "Expected September to November 2026 for summer 2027 roles. Thrive SWE deadline projected late September; APM and Data Science projected early October; Product Design and Studio Art projected early November. Projected from Summer 2026 cycle"
+      "window_text": "Open now: SWE and Thrive SWE posted September 15\u201316, 2026 with a September 30, 2026 deadline; APM closes October 7, 2026. Data Science, Product Design and Studio Art projected early October to early November (from the Summer 2026 cycle)"
     },
     {
       "name": "DuPont",
@@ -2847,10 +2847,10 @@
       "interview": "Behavioral and STAR-method heavy, often a panel of about three engineers asking roughly four questions over 30 minutes. It is rated average difficulty (2.7/5), 91% positive, with a decision about 16 days after interviewing. A typical question: \"What's an engineering problem you overcame and how?\" Fi",
       "visa": "No visa sponsorship for US interns: \"must be able to work in the U.S. without restriction.\" International students on eligible CPT/OPT authorization may qualify, but sponsorship is not offered",
       "window": [
-        "2026-08",
-        "2026-10"
+        "2026-09",
+        "2026-09"
       ],
-      "window_text": "Not yet published (expected). Based on the prior cycle (summer 2026 closed Oct 1, 2025), applications for summer 2027 are expected to open ~Aug\u2013Oct 2026 with an apply-by ~Oct 2026. Monitor careers.dupont.com starting Fall 2026"
+      "window_text": "Open now: summer 2027 intern reqs (Engineering across 13 US sites; Supply Chain across 3) and 2027 Spring and Fall co-op reqs posted September 15, 2026 on DuPont's Workday board, no close date printed"
     },
     {
       "name": "Eaton",
@@ -2962,9 +2962,9 @@
       "visa": null,
       "window": [
         "2026-08",
-        "2027-01"
+        "2027-05"
       ],
-      "window_text": "Official Summer 2027 dates not published as of August 2026. Expected: postings open ~August\u2013September 2026, priority applications by October\u2013November 2026, offers November 2026\u2013January 2027 (projected from the 2025 and 2026 cycles)"
+      "window_text": "OPEN NOW for Summer 2027: Actuarial Intern (posted Aug 27), Tax Intern (Sep 2), Finance Intern (Sep 17) and Information Security Co-Op 2027, all on the Workday portal with an anticipated end date of Nov 7, 2026 (may close earlier). Offers expected November 2026 to January 2027"
     },
     {
       "name": "ElevenLabs",
@@ -3229,10 +3229,10 @@
       "interview": "An application with short questions, a recruiter phone screen, then one or two behavioral interviews, with HireVue video for some roles. The average timeline is about 30 days. There's no standardized coding or aptitude test for US internship roles.",
       "visa": null,
       "window": [
-        "2027-09",
-        "2027-10"
+        "2026-09",
+        "2027-06"
       ],
-      "window_text": "Expected mid-September to mid-October 2027 for summer 2028 (documented pattern; not yet posted)"
+      "window_text": "Open now for summer 2027 (as of September 21, 2026): Summer 2027 Undergraduate Internship reqs, 2027 MBA internships and about 30 co-op reqs live on Fidelity's Workday board . Fidelity Consulting Intern Analyst closes October 1, 2026; the documented pattern closes the rest around mid-October"
     },
     {
       "name": "Figma",
@@ -3454,10 +3454,10 @@
       "interview": "Flow Traders runs two distinct interview pipelines, one for trading and one for technology, with a decision timeline averaging 21 days on Glassdoor : 1. Apply on flowtraders.com/careers or Greenhouse . Submit your CV and, for APAC roles, a cover letter. Rolling admissions, so apply the week a postin",
       "visa": "No. Flow Traders does not provide visa sponsorship for interns",
       "window": [
-        "2026-07",
-        "2026-07"
+        "2027-07",
+        "2027-07"
       ],
-      "window_text": "Summer 2027: OPEN NOW (as of July 2026) on the official careers portal; rolling, roles fill fast \u2014 apply immediately."
+      "window_text": "Summer 2027: closed. The New York Quantitative Trading Intern posting went live late July 2026 and was off Greenhouse by mid-September 2026 (re-verified Sep 21, 2026; only the Hong Kong Trading Intern is live). Summer 2028 expected to post ~July 2027; rolling, so apply the week it appears."
     },
     {
       "name": "Ford",
@@ -3583,14 +3583,14 @@
       "tracks_total": 6,
       "programs": "Internships span 10 business units across engineering, software development, cybersecurity, manufacturing, finance, supply chain, and more",
       "no_formal_program": false,
-      "faq_open_answer": "Expect postings between August and October 2026, varying by business unit. GDIT and Mission Systems tend to post earliest. Those dates are projected from the Summer 2026 cycle and are not official yet. Set job alerts on gd.com/careers and each division's career portal.",
+      "faq_open_answer": "They are opening now. As of September 21, 2026, Gulfstream lists 25 Summer 2027 Collegiate Associate Intern reqs and Mission Systems has Summer 2027 engineering intern reqs live, with the other units expected to post through October. Apply on the unit's own portal (careers.gulfstream.com, gdmissionsystems.com/careers) and set job alerts on gd.com/careers for the rest.",
       "interview": "Typically a recruiter phone screen (15 to 30 minutes), then a technical or panel interview (45 to 90 minutes) focused on engineering fundamentals, project experience, and behavioral questions. Glassdoor rates difficulty at 2.5 out of 5 with 71% positive experiences. Decisions usually arrive within 2",
       "visa": "Not generally available. Most positions require U.S. citizenship due to classified defense programs and security clearance eligibility requirements",
       "window": [
-        "2026-08",
-        "2026-10"
+        "2026-09",
+        "2027-06"
       ],
-      "window_text": "Expected August to October 2026 for summer 2027 roles, varying by business unit. GDIT and Mission Systems tend to post earlier (August to September); Electric Boat and Bath Iron Works often post through October. Projected from prior-cycle patterns"
+      "window_text": "Open now (as of September 21, 2026) at Gulfstream (25 Summer 2027 reqs, posted from Sep 9) and Mission Systems (Summer 2027 engineering interns, open until filled). Other units vary: GDIT posts August to September; Electric Boat and Bath Iron Works often post through October"
     },
     {
       "name": "General Electric",
@@ -4507,14 +4507,14 @@
       "tracks_total": 6,
       "programs": "9+ tracks: Software Engineering, Data Science, Product Management, UX/Design, Marketing, Sales, HR, Accounting & Finance, Customer Service",
       "no_formal_program": false,
-      "faq_open_answer": "Expect most roles to open around September 2026. Intuit typically begins hiring about 6 months before each program start date, and they hire on a rolling basis. Those dates are projected from the Summer 2026 cycle and are not official yet. Set a job alert on jobs.intuit.com.",
+      "faq_open_answer": "They already have. As of September 21, 2026, jobs.intuit.com lists 13 Summer 2027 intern roles across software engineering, mobile, cybersecurity, AI science, product management, product design, technical program management, fraud and risk, and MBA tracks. No deadline is posted, so apply now rather than waiting for a broader announcement, and set a job alert for tracks that have not posted yet.",
       "interview": "You apply, complete an online assessment with 4 to 5 coding problems in 90 minutes, then two technical interviews: one on CS fundamentals (OS, DBMS, OOP) and one on DSA, system design, and project deep dive. Glassdoor rates the difficulty at 2.8 out of 5 with 71% positive experiences.",
       "visa": "CPT supported for F-1 students. H-1B sponsorship available for select full-time roles. Check the sponsorship line on each specific posting",
       "window": [
         "2026-09",
         "2026-09"
       ],
-      "window_text": "Expected September 2026 for summer 2027 roles. Intuit typically begins hiring about 6 months before each program start date. Projected from prior cycle"
+      "window_text": "Open now (as of September 21, 2026): 13 Summer 2027 intern reqs live on jobs.intuit.com across software, mobile, cybersecurity, AI, product, design and MBA tracks. No posted deadline; Intuit typically fills seats well before the late-May start"
     },
     {
       "name": "Intuitive Surgical",
@@ -4595,14 +4595,14 @@
       "tracks_total": 6,
       "programs": "10+ tracks: Technology, R&D, Supply Chain, Finance, Marketing, Commercial (CLDP), MedTech Engineering, Global Market Access, Data Science, Enterprise Quality",
       "no_formal_program": false,
-      "faq_open_answer": "Some already have. As of July 2026, early-recruiting tracks (notably the Finance Internship / FLDP pipeline) are live on careers.jnj.com for summer 2027, months ahead of the main wave. Expect most other tracks (Technology, R&D, MedTech) to open September to November 2026, with some leadership programs accepting applications into early January 2027. Join the Global Talent Hub on careers.jnj.com for",
+      "faq_open_answer": "They are open now. The Finance Internship / FLDP pipeline posted in July 2026, and the main wave followed on September 15 to 19, 2026: about 90 US intern and co-op requisitions for Spring and Summer 2027 (MedTech, R&D, Process Engineering, Data Science, Software Engineering, Supply Chain) are live on careers.jnj.com as of September 21, most with an apply-by date between October 1 and October 16, 2",
       "interview": "You apply online, complete a HireVue pre-recorded video with three behavioral questions, then have two to four live video interviews covering technical skills and Credo alignment. Competitive tracks may include a Superday with three to five stakeholder meetings. Average time to offer is about 19 day",
       "visa": "Most undergraduate roles require permanent U.S. work authorization. Advanced-degree roles (PhD, PharmD) may support CPT/OPT on a case-by-case basis. Check each specific posting",
       "window": [
-        "2026-07",
-        "2026-07"
+        "2026-09",
+        "2026-09"
       ],
-      "window_text": "Early-recruiting tracks are open now: as of July 2026, some summer 2027 roles (Finance / FLDP pipeline) are already live on careers.jnj.com. Most tracks open September to November 2026, with the key window for early tracks running July to September 2026. Some programs close as early as late November; leadership development tracks may extend into January. Verify each posting on the official careers"
+      "window_text": "Open now: the main 2027 wave posted September 15 to 19, 2026, with about 90 US intern and co-op requisitions live on careers.jnj.com as of September 21 (Spring 2027 and Summer 2027 co-ops, Summer 2027 interns, Finance Internship). Each requisition prints its own apply-by date, mostly October 1 to October 16, 2026, so treat every listing as a two to four week window. Later tracks and leadership dev"
     },
     {
       "name": "Jane Street",
@@ -5250,9 +5250,9 @@
       "visa": "F-1 students on CPT are accepted, and OPT is also eligible. However, Macy's generally doesn't provide H-1B sponsorship for internship-to-full-time conversion or Executive Development Program roles. International students",
       "window": [
         "2026-09",
-        "2026-11"
+        "2026-09"
       ],
-      "window_text": "Expected September to November 2026 for summer 2027; Digital/Technology tracks may accept through January 2027 (documented pattern; not yet posted)"
+      "window_text": "Open now for summer 2027: 26 reqs posted September 9 and 16, 2026 (Merchandising, Supply Chain, Store Management); no close dates listed on the reqs, and last cycle Store Management closed November 14. Digital/Technology tracks not yet posted"
     },
     {
       "name": "Magna",
@@ -5272,10 +5272,10 @@
       "interview": "Rolling and division-run: a recruiter or HR screen, then a hiring-manager interview (often on-site at the plant), plus a role-specific technical round for engineering, data, and software candidates. Community reports describe it as conversational and project- and fundamentals-focused, not heavy on L",
       "visa": null,
       "window": [
-        "2026-09",
-        "2027-03"
+        "2026-11",
+        "2026-11"
       ],
-      "window_text": "No Summer 2027 reqs are live as of August 2026. Based on the Summer 2026 cycle (reqs live late 2025 to early 2026), Summer 2027 postings are expected to open ~September to November 2026 and fill on a rolling basis into spring 2027. Exact dates are not published"
+      "window_text": "Partly open. 22 US intern and co-op reqs are live on Workday as of September 21, 2026 (Muncie IN Finance, HR, Logistics and Purchasing; Auburn Hills and Southfield engineering and IT; Bowling Green Quality; Highland Park program management), most posted August 19 to September 18. The postings do not name a season, so treat them as the rolling start of the 2027 wave; more Summer 2027-titled reqs ar"
     },
     {
       "name": "Marathon Petroleum",
@@ -5357,14 +5357,14 @@
       "tracks_total": 6,
       "programs": "6+ tracks: Software Engineering, Data Science & Analytics, Product Management, Associate Consultant (Consulting), Cybersecurity, Marketing & Communications",
       "no_formal_program": false,
-      "faq_open_answer": "They are already open. Mastercard posts intern roles on a rolling, as-needed basis, and summer 2027 roles have been going live on the Campus Workday portal since around June 2026, with some already opened and closed. As of August 14, 2026 roles are still live, Associate Consultant Intern for Summer 2027 among them, and more keep appearing through the fall, so there is no single opening date. Set a",
+      "faq_open_answer": "For summer 2027 they opened in June 2026 and have now closed. Mastercard posts intern roles on a rolling, as-needed basis, the US summer 2027 reqs went live on the Workday portal from around June 2026, and the last US one (Sales Analyst Intern, Summer 2027, New York) came down in mid-September 2026. As of September 21, 2026 only Dublin and Lisbon intern reqs remain on the board. Summer 2028 roles ",
       "interview": "You apply, complete a recruiter phone screen (15 to 30 minutes), take a 60- to 90-minute online assessment on HackerRank or Codility with 2 to 3 coding problems, then 1 to 2 technical interviews plus a behavioral round focused on the Decency Quotient. Average time from application to offer is about ",
       "visa": "Most US internship postings require authorization to work in the US for the duration of the program without Mastercard sponsorship. CPT-based F-1 authorization is generally accepted. Check each posting",
       "window": [
-        "2026-08",
+        "2027-06",
         "2027-06"
       ],
-      "window_text": "Live now, re-verified Aug 14, 2026 (Associate Consultant Intern, Summer 2027 open on careers.mastercard.com), for summer 2027 roles, posting rolling since ~June 2026. Mastercard posts and fills on a rolling, as-needed basis, so there is no single deadline. Check the careers portal for current openings"
+      "window_text": "Closed for summer 2027 as of Sep 21, 2026: the US wave posted rolling from ~June 2026 and the last US requisition (Sales Analyst Intern, Summer 2027, New York) came down in the week of Sep 17; the only intern reqs still live on the Workday board are Dublin and Lisbon. Summer 2028 roles expected to start posting ~June 2027. Mastercard posts and fills on a rolling, as-needed basis, so there is no si"
     },
     {
       "name": "McCann",
@@ -6272,7 +6272,7 @@
         "2026-09",
         "2027-03"
       ],
-      "window_text": "Expected fall 2026 to late March 2027 for summer 2028 (not yet posted; prep sites say rolling review within the window)"
+      "window_text": "Flagship US Summer 2028 Intern (sophomores): expected fall 2026 to late March 2027, not yet posted. Live now for Class of 2028 juniors, confirmed on the Marsh McLennan board September 21, 2026: Summer Analyst 2027 Data and Analytics (Raleigh, application deadline October 11, 2026), 2027 Summer Analyst at Veritas (Houston and Dallas), Actuarial Life Internship Summer 2027 (Chicago and two more offi"
     },
     {
       "name": "OpenAI",
@@ -6380,10 +6380,10 @@
       "interview": "P&G's funnel is assessment-heavy and fast. The company estimates 4 to 8 weeks from application to offer, but the real gate is not the interview; it is the two-stage assessment battery that eliminates over 70 percent of applicants before any human reviews their file: 1. Apply at pgcareers.com . Creat",
       "visa": "It varies by role. Some postings (e.g., R&D 2026) explicitly state immigration sponsorship is not available. Others do support it: P&G filed 7 H1B labor condition applications in FY2025. For internships, CPT and OPT auth",
       "window": [
-        "2026-09",
-        "2026-10"
+        "2027-06",
+        "2027-09"
       ],
-      "window_text": "Applications for summer 2027 expected to open September to October 2026 (rolling; projected from prior cycle)"
+      "window_text": "Open now. Summer 2027 US internship reqs live on P&G's Workday board since August 24, 2026 (Cincinnati wave) with R&D PhD reqs added September 11 to 18; no posting end date listed, rolling review (confirmed Sep 21, 2026)"
     },
     {
       "name": "Palantir",
@@ -6953,7 +6953,7 @@
       "slug": "rbc-capital-markets",
       "guide_url": "https://www.extern.com/post/rbc-capital-markets-internship-guide",
       "career_urls": [
-        "https://jobs.rbc.com/ca/en/capital-markets"
+        "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1"
       ],
       "rolling": "Yes. RBC reviews applications on a rolling basis and fills interview slots continuously. Apply in the first one to two weeks for the best odds",
       "pay": "$2,115/week (~$110,000 annualized) for U.S. IB/CM roles. $7,000 housing stipend, dinner stipend after 7 PM, car service after 9 PM, relocation up to $2,000 dome",
@@ -6961,14 +6961,14 @@
       "tracks_total": 6,
       "programs": "8 to 10 tracks across U.S. and Canada: Global Investment Banking, Corporate Banking, Municipal Finance, Global Markets (Sales & Trading), Equity Research, QTS (Quantitative Technology & Strategy), plus pipeline programs (Women's Advisory, Insights)",
       "no_formal_program": false,
-      "faq_open_answer": "Expect U.S. summer analyst postings to go live between August and October 2027, with nominal deadlines running through December 2027 to February 2028. Pipeline programs (Women's Advisory, Insights) may open as early as fall 2026. Those dates are projected from the Summer 2027 cycle and are not official yet. Set a job alert on jobs.rbc.com.",
+      "faq_open_answer": "They are open now. Seven 2027 Capital Markets requisitions were live on RBC's early-talent Workday board on September 21, 2026: the Summer Analyst tracks (COO Operations, Quantitative Technology Services, Global Markets Quantitative Trading) close October 15, 2026, and the Global Investment Banking Summer Associate tracks (New York, Houston, San Francisco) close December 11, 2026. The Investment B",
       "interview": "You apply, complete a HireVue video assessment (four to five questions, zero retakes, 15 to 25% pass rate), then a 60-minute first-round phone or video interview mixing behavioral and technical questions, and finally a 3- to 5-hour in-person Superday with VPs, Directors, and MDs. Offers arrive withi",
       "visa": "Strong track record: 273 H-1B filings with 100% approval rate. CPT supported for F-1 students",
       "window": [
-        "2027-08",
-        "2027-10"
+        "2026-09",
+        "2026-09"
       ],
-      "window_text": "Expected August to October 2027 for Summer 2028 U.S. roles. Nominal deadlines run through December 2027 to February 2028, but interview slots fill before those dates. Projected from Summer 2027 cycle patterns"
+      "window_text": "OPEN NOW. 2027 Capital Markets Summer Analyst reqs (COO Operations, Quantitative Technology Services, Global Markets Quantitative Trading) posted Sep 10 to 16, 2026, deadline Oct 15, 2026; Global Investment Banking Summer Associate reqs (NY, Houston, SF) posted Aug 28, deadline Dec 11, 2026. Confirmed Sep 21, 2026"
     },
     {
       "name": "Recursion",
@@ -7497,9 +7497,9 @@
       "visa": "F-1 CPT students attending US or Canadian universities are fully eligible. J-1 sponsorship from outside the US is rare for the general Futureforce pool. H-1B sponsorship is available for full-time conversion after the in",
       "window": [
         "2026-08",
-        "2026-09"
+        "2026-08"
       ],
-      "window_text": "Applications for summer 2027 expected to open late August to early September 2026 (documented multi-year pattern; not yet posted)"
+      "window_text": "OPEN NOW for summer 2027: Software Engineer Intern posted Aug 31, 2026 (San Francisco, Palo Alto, New York, Seattle, Bellevue, Burlington, Atlanta, Indianapolis); Finance Operations Associate (closes Sep 25), Sales Development Nonprofit and Public Sector (close Oct 9), Recruiting Data Intelligence posted in September"
     },
     {
       "name": "SambaNova",
@@ -7731,7 +7731,7 @@
       "slug": "siemens",
       "guide_url": "https://www.extern.com/post/siemens-internship-guide",
       "career_urls": [
-        "https://jobs.siemens.com/careers?location=USA&level=student+(not+yet+graduated)&domain=siemens.com"
+        "https://jobs.siemens.com/en_US/externaljobs/SearchJobs/intern"
       ],
       "rolling": "Yes. Positions fill continuously; Siemens advises applying within the first two weeks of any posting",
       "pay": "$18\u2013$50/hr overall; SWE roles $36\u2013$40/hr; $4,400 housing stipend reported",
@@ -7743,10 +7743,10 @@
       "interview": "Glassdoor data shows an average of 15 days from application to hire decision. Allow up to 30 days for the initial application review. The full pipeline from application to offer typically runs 3 to 6 weeks, with faster timelines during peak recruiting season in October and November.",
       "visa": "Generally no. Most positions require existing US work authorization without company sponsorship. Smart Infrastructure explicitly excludes students on F1, J1, OPT, and CPT visas. However, SSP Digital Industries postings t",
       "window": [
-        "2026-08",
-        "2026-10"
+        "2026-09",
+        "2027-06"
       ],
-      "window_text": "Applications for summer 2027 expected to open ~August\u2013October 2026 (rolling; projected from the documented summer 2026 cycle)"
+      "window_text": "Open now for summer 2027: about 115 US intern and co-op reqs live on the Siemens Careers Marketplace as of September 21, 2026 (Summer 2027 rail roles posted September 2; Smart Infrastructure summer roles and Spring 2027 SSP co-ops posting through September). Each req is guaranteed live for only five days"
     },
     {
       "name": "Sierra",
@@ -8429,14 +8429,14 @@
       "tracks_total": 6,
       "programs": "9+ tracks: Software Engineering, Associate Buyer (Merchandising), Operations Manager (Supply Chain), Financial Analyst Development, Marketing Associate, Store Executive, Store Assets Protection, UX Design, Inventory Analyst",
       "no_formal_program": false,
-      "faq_open_answer": "Expect most tracks to open in early August 2026, with a priority window through September and rolling review continuing through late October to November 2026. Those dates are projected from the Summer 2026 cycle and are not official yet. Set a job alert on corporate.target.com.",
+      "faq_open_answer": "They are open. Target posted its summer 2027 requisitions between August 21 and September 19, 2026 (Financial Analyst first, then the Store Executive and Distribution Center waves, then Software Engineering, Associate Buyer and Inventory Analyst), and 126 US postings were live on September 21, 2026 with no printed close date. Apply on corporate.target.com now rather than waiting for a deadline the",
       "interview": "You apply online, pass resume screening, complete a HireVue asynchronous video interview with 3 to 5 behavioral questions, then a 45- to 60-minute first-round behavioral interview, then a final-round virtual Super Day with 2 to 3 back-to-back interviews. The average time to hire is about 19 days.",
       "visa": "Target generally does not provide visa sponsorship for the majority of its internship roles. U.S. work authorization typically required without sponsorship",
       "window": [
         "2026-08",
-        "2026-08"
+        "2026-09"
       ],
-      "window_text": "Expected early August 2026 for summer 2027 roles. Priority window August to September 2026, rolling through late October to November 2026. Projected from prior cycle"
+      "window_text": "Open now for summer 2027. The first HQ requisition (Financial Analyst Intern) went live August 21, 2026, the Store Executive and Distribution Center Operations Manager waves followed in late August and early September, and Software Engineering posted September 10. No close date is printed on the requisitions; 126 US postings confirmed live on Target's Workday board September 21, 2026"
     },
     {
       "name": "TD Securities",
