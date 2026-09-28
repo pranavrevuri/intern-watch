@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T17:39:19.171926+00:00",
+  "generated_at": "2026-09-28T20:05:24.953042+00:00",
   "companies": [
     {
       "name": "1Password",
@@ -170,14 +170,14 @@
       "tracks_total": 6,
       "programs": "5 distinct early-careers programs (Activision, Blizzard, King internships; King Business Performance Trainee; MBA internship, plus a 2-year MBA Graduate Rotation). The 2026 Game Engineering req alone documented 9 engineering intern tracks",
       "no_formal_program": false,
-      "faq_open_answer": "Expected around September 2026, closing around November 2026 for most engineering roles, with art internship applications expected to extend into February 2027. These dates are projected from the documented 2026 cycle (\"Applications open Sept.\u2013Nov.\") and are labeled expected because the 2027 dates are not yet published; the 2026 Game Engineering requisition closed December 5, 2025.",
+      "faq_open_answer": "They already have. Activision's US 2027 Summer Internships went live September 10 to 16, 2026 on its Workday board. Close dates are not printed; on the 2026 pattern most engineering roles close around November 2026 and art roles can run into February 2027 (the 2026 Game Engineering requisition closed December 5, 2025).",
       "interview": "Typically about three rounds: a recruiter screen plus two technical rounds with a hiring manager and a senior engineer. Coding is described as easy LeetCode with heavy weight on resume and project depth and on which engineering area you want; some pipelines add an online Java/C++ coding test. Timeli",
       "visa": null,
       "window": [
         "2026-09",
         "2026-09"
       ],
-      "window_text": "Not yet published. Applications for summer 2027 are expected to open ~September 2026 and close ~November 2026 for most engineering roles (art internship applications expected to extend into February 2027). Projected from the documented 2026 cycle (\"open Sept.\u2013Nov.\"; the 2026 Game Engineering req R025908 closed Dec 5, 2025)"
+      "window_text": "Open now : 17 Activision US 2027 Summer Internships posted September 10 to 16, 2026 on the Workday board (Software, Game, Graphics and Analytics Engineering, Game Design, Tech Art, Animation, Environment Art, VFX, Audio, UI/UX, Production, Game Economy, User Research, InfoSec, IT, MBA). No close dates printed; on the 2026 pattern most engineering roles close ~November and art roles run longer. No "
     },
     {
       "name": "Addepar",
@@ -574,10 +574,10 @@
       "interview": "Analysis Group's funnel is interview-focused with no standardized online assessment , and the average time from application to hire is about 23 days : 1. Apply on the Analysis Group careers portal . Upload your resume, cover letter (include geographic preferences for offices), and unofficial transcr",
       "visa": "Yes, for consultant and data science positions. Not available for administrative roles",
       "window": [
-        "2026-09",
-        "2026-10"
+        "2026-12",
+        "2027-03"
       ],
-      "window_text": "Expected September to October 2026 for Summer Analyst; December 2026 to March 2027 for Summer Associate. Projected from prior cycle, not yet posted"
+      "window_text": "OPEN NOW for Summer Analyst (Generalist and Accounting, 2027 start): application deadline September 30, 2026, with rolling review after that date. Summer Associate: expected December 2026 to March 2027"
     },
     {
       "name": "Anduril",
@@ -1395,14 +1395,14 @@
       "tracks_total": 6,
       "programs": "4+ Summer Games tracks (Software Developer, Data Scientist, Systems Engineering, Cybersecurity) plus traditional summer hire roles across consulting, analytics, and engineering",
       "no_formal_program": false,
-      "faq_open_answer": "They are open now. University Summer 2027 requisitions started posting on careers.boozallen.com on August 28, 2026 and kept coming through mid-September, with Workday end dates around December 10, 2026. Most cleared roles require US citizenship. Apply early and set a job alert for the tracks that post later.",
+      "faq_open_answer": "They are open now. University Summer 2027 requisitions started posting on careers.boozallen.com on August 28, 2026 and kept coming through late September (70 or more live on September 28), with Workday end dates from about December 2 to December 14, 2026. Most cleared roles require US citizenship. Apply early and set a job alert for the tracks that post later.",
       "interview": "Two rounds over roughly four to six weeks. First, a 30-minute recruiter phone or video screen focused on your resume and motivation. Then one to two team interviews with client-facing consultants, heavily behavioral with some technical questions. Glassdoor rates difficulty at 2.4 out of 5.",
       "visa": "Almost never. The majority of roles require US citizenship for government security clearance eligibility. Non-US citizens cannot obtain clearance",
       "window": [
         "2027-06",
-        "2027-09"
+        "2027-12"
       ],
-      "window_text": "Open now for summer 2027: University Summer 2027 requisitions posting since August 28, 2026 (17+ live by mid-September across McLean, DC, Fayetteville, Beavercreek, Rome NY, Atlanta), Workday end dates around December 10, 2026; US citizenship required on cleared roles"
+      "window_text": "Open now for summer 2027: University Summer 2027 requisitions posting since August 28, 2026 (70 or more live as of September 28, 2026 across McLean, DC, Fayetteville, Beavercreek, Rome NY, Atlanta, Charleston SC, Huntsville AL, Honolulu, San Diego and El Segundo), Workday end dates from about December 2 to December 14, 2026; US citizenship required on cleared roles"
     },
     {
       "name": "Bosch",
@@ -2489,14 +2489,14 @@
       "tracks_total": 6,
       "programs": "20+ roles across Software Engineering, Hardware Engineering, AI/ML, Cybersecurity, Finance, Supply Chain, Sales, and more",
       "no_formal_program": false,
-      "faq_open_answer": "Applications are expected to open in September 2026, with a priority deadline in late October to mid-November. Some roles close by December 31. These dates are projected from the prior cycle and aren\u2019t confirmed yet. Set a job alert on jobs.dell.com.",
+      "faq_open_answer": "They already have. Dell posted its summer 2027 undergraduate and graduate intern roles on September 9 to 15, 2026, across Finance, IT, HR, Services, Global Operations Supply Chain, Hardware Engineering and Sales. Most postings list October 31, 2026 as their end date, and the IT Undergraduate Intern ends September 30, so apply now rather than waiting for a later wave.",
       "interview": "You apply online, take a 75 to 90 minute HackerRank coding assessment (LeetCode easy-to-medium, 2 to 3 problems) or a behavioral video interview for business roles, then a 20 to 30 minute recruiter phone screen, followed by 2 to 3 rounds of 45 to 60 minute technical and behavioral interviews. Offers",
       "visa": "International students eligible with valid work authorization (F-1 OPT/CPT in the US). Must be authorized to work in the country of internship",
       "window": [
-        "2026-09",
-        "2026-09"
+        "2027-06",
+        "2027-09"
       ],
-      "window_text": "Expected September 2026 open, priority deadline late October to mid-November, final deadline varies by role (some close December 31)"
+      "window_text": "Open now: summer 2027 undergraduate and graduate intern roles posted September 9 to 15, 2026 (Finance, IT, HR, Services Sales, Services Analytics and Engineering, Global Operations Supply Chain, CSG Hardware Engineering, Presales, NextGen Sales Academy). Posting end dates run September 30 (IT) and October 31 (most tracks)"
     },
     {
       "name": "Deloitte",
@@ -2672,9 +2672,9 @@
       "visa": null,
       "window": [
         "2026-09",
-        "2027-03"
+        "2026-09"
       ],
-      "window_text": "Not published for Summer 2027 as of August 2026. Individual postings for summer 2027 are expected to open on a rolling basis from ~fall 2026 through spring 2027 (projected from the Summer 2026 cycle). The Careers in Energy Student Conference is expected ~fall 2026 (Summer 2026's ran Sept 30 \u2013 Oct 2, 2025)"
+      "window_text": "Open now : individual summer 2027 intern postings began going live on careers.dominionenergy.com September 2, 2026 (88 intern postings on the board on September 28 across Virginia and South Carolina), and more will open on a rolling basis through spring 2027. The Careers in Energy Student Conference is expected ~fall 2026 (Summer 2026's ran Sept 30 \u2013 Oct 2, 2025)"
     },
     {
       "name": "DoorDash",
@@ -2935,14 +2935,14 @@
       "tracks_total": 6,
       "programs": "12+ intern tracks across engineering, design, art, data, product, marketing, and more, plus the EA SPORTS Academy",
       "no_formal_program": false,
-      "faq_open_answer": "Based on the Summer 2026 cycle, EA\u2019s US Campus umbrella application should open around September\u2013October 2026, with a deadline near November 2026. Individual role postings may appear earlier on jobs.ea.com. EA has not posted 2027 dates yet, so bookmark ea.com/careers/early-careers and check regularly starting September 2026.",
+      "faq_open_answer": "They are open now. As of September 28, 2026, jobs.ea.com lists Summer 2027 intern roles including Gameplay Engineer, AI Engineer, Analytics and VFX interns, plus a Game Designer intern on Apex Legends. EA has not printed a closing date; in the Summer 2026 cycle the deadline fell near November, so apply now.",
       "interview": "After applying, expect to hear back in 2\u20134 weeks. You start with a Next-Gen Talent recruiter screen, then move to team interviews. For SWE roles, there is an online coding assessment with 2\u20133 medium-hard data structure questions, followed by a technical interview, design round, and HR round. The pro",
       "visa": "No. EA\u2019s FAQ and every reviewed internship posting state that candidates must be legally authorized to work in the US or Canada without sponsorship. No visa sponsorship is available for intern or co-op roles. Internation",
       "window": [
         "2026-09",
-        "2026-10"
+        "2026-09"
       ],
-      "window_text": "Expected September\u2013October 2026 open, deadline near November 2026 (documented pattern; not yet posted)"
+      "window_text": "Open now: Summer 2027 intern roles are live on jobs.ea.com as of September 28, 2026 (Gameplay Engineer, AI Engineer, Analytics, VFX, and an Apex Legends Game Designer intern). The last cycle's deadline fell near November, so apply early."
     },
     {
       "name": "Elevance Health",
@@ -4126,14 +4126,14 @@
       "tracks_total": 6,
       "programs": "6 co-op/intern tracks, plus separate Honda Research Institute and HondaJet programs",
       "no_formal_program": false,
-      "faq_open_answer": "Expected August\u2013September 2026, based on Honda\u2019s documented three-term cycle where summer applications run August through April. Postings will appear on careers.honda.com and Handshake. Spring 2027 postings are already live, following the same pattern.",
+      "faq_open_answer": "They are open now. As of September 28, 2026, careers.honda.com lists Summer 2027 Co-op/Intern postings for Engineering, IT/Data Analytics, Business, Environmental/Safety/Sustainability, Creative Design and Research, and Equipment Service. Honda reviews on a rolling basis through about March or April 2027, so apply early. Spring 2027 postings are also live.",
       "interview": "Honda\u2019s hiring process is straightforward and shorter than many competitors, typically two to three steps: 1. Apply at careers.honda.com or connect via campus career fairs and Handshake. Browse co-op/internship openings and apply to the requisition matching your major and semester of interest. 2. Pr",
       "visa": "No. Honda explicitly states: \u201cApplicants requiring sponsorship for employment visa status now or in the future (e.g., F-1 CPT/OPT, H-1B, TN, etc.) will not be considered.\u201d This is stricter than most automotive competitor",
       "window": [
-        "2026-08",
-        "2027-04"
+        "2027-06",
+        "2027-06"
       ],
-      "window_text": "Expected August\u2013September 2026 through March\u2013April 2027 for summer 2027 (documented pattern; not yet posted)"
+      "window_text": "Open now: Summer 2027 Co-op/Intern postings for Engineering, IT/Data Analytics, Business, Environmental/Safety/Sustainability, Creative Design and Research, and Equipment Service are live on careers.honda.com (as of September 28, 2026); rolling review through about March or April 2027"
     },
     {
       "name": "Honeywell",
@@ -4378,9 +4378,9 @@
       "visa": "Varies by req. Some intern postings (MTS, Innovation Engineer) list eligibility for US Citizen, Permanent Resident, or US Student Visa holders. Long-term sponsorship is not guaranteed and differs by business unit, confir",
       "window": [
         "2026-09",
-        "2027-03"
+        "2027-06"
       ],
-      "window_text": "Not yet published for Summer 2027. Expected to open ~fall 2026 through spring 2027, rolling and unit-by-unit. Structured summer reqs (e.g., MTS) historically had a ~March apply-by for June starts"
+      "window_text": "Open now for some units: MTS (Eden Prairie, MN) posted its 2027 summer internship program in September 2026 (Electrical, Mechanical, Manufacturing, Sales and Software Engineering), plus a Summer 2027 HR internship. Other units keep posting on a rolling basis through spring 2027"
     },
     {
       "name": "IMC Trading",
@@ -4639,37 +4639,20 @@
       "tracks_total": 6,
       "programs": "12+ tracks: Investment Banking, Equities, Fixed Income, ECM, DCM/Leveraged Finance, Research, Wealth Management, Asset Management, Operations, Controllers, Technology, Compliance",
       "no_formal_program": false,
-      "faq_open_answer": "Based on prior cycles, general IB Summer Analyst applications are projected to open around November 2026 to February 2027, with deadlines by about April 2027 (the summer 2027 IB cycle opened roughly December 2025 to January 2026). Diversity programs open in a similar early-year window, around January to February 2027. These dates are projected from the prior cycle and are not official yet. Set an ",
+      "faq_open_answer": "Based on prior cycles, general IB Summer Analyst applications are projected to open around November 2026 to February 2027, with deadlines by about April 2027 (the summer 2027 IB cycle opened roughly December 2025 to January 2026). Diversity programs open in a similar early-year window, around January to February 2027. These dates are projected from the prior cycle and are not official yet. Some 20",
       "interview": "Three to five one-on-one interviews over a half-day to full day, typically in-office in New York. Interviewers are VPs, Directors, and Managing Directors. Expect heavy technical questions (DCF, LBO, comparable analysis, EV/equity bridge) plus behavioral and cultural-fit evaluation. Offers often come",
       "visa": "F-1 sponsorship available; STEM OPT extension eligible; H-1B lottery participation confirmed. Must be authorized to work in the U.S. for the summer period",
       "window": [
         "2026-11",
         "2027-06"
       ],
-      "window_text": "Projected ~November 2026 to February 2027 (rolling) for IB Summer Analyst, with deadlines by ~April 2027; diversity programs in the January to February 2027 window. Projected from the prior cycle (summer 2027 IB opened ~December 2025 to January 2026), not yet posted"
+      "window_text": "Projected ~November 2026 to February 2027 (rolling) for IB Summer Analyst, with deadlines by ~April 2027; diversity programs in the January to February 2027 window. Projected from the prior cycle (summer 2027 IB opened ~December 2025 to January 2026), not yet posted. Already live as of September 28, 2026: 2027 non-IB Summer Analyst programs (Internal Audit, Marketing, Financial Controllers, HR, Je"
     },
     {
       "name": "John Deere",
       "slug": "deere",
       "guide_url": "https://www.extern.com/post/deere-internship-guide",
-      "career_urls": [
-        "https://www.deere.com/en-us/our-company/careers/students-and-recent-graduates",
-        "https://careers.deere.com/careers?seniority=Intern&domain=johndeere.com&sort_by=relevance"
-      ],
-      "rolling": "Partly. Postings carry stated closing dates but Deere adds that a role may close before its deadline, so review is effectively rolling. Apply as soon as fall po",
-      "pay": "Engineering interns ~$4,700\u20136,100/month (about $27\u201336/hr) by function and education level, plus sponsored housing for onsite internships. SWE interns hit ~$33\u20133",
-      "tech_tracks": "Engineering Intern (primary); Software / IT Intern; Data Science & Analytics Intern",
-      "tracks_total": 6,
-      "programs": "7+ functions: Engineering, IT, Data Science & Analytics, Accounting & Finance, Marketing & Product Support, Supply Management, plus Communications/HR/Health & Safety. A separate Part-Time Student route runs during the semester",
-      "no_formal_program": false,
-      "faq_open_answer": "Postings historically open in the fall and close on a rolling basis by winter. The Summer 2026 engineering intern posting closed \"Apply by 27 Jan 2026,\" and a Summer 2025 electrification role was posted October 29, 2024. Apply early: roles may close before the stated closing date.",
-      "interview": "Usually an HR phone screen, then a hiring-manager and team interview (technical plus behavioral STAR). Some software candidates are flown to the Illinois HQ for a later round, and data-analytics interns report no live coding. Glassdoor rates the intern interview mostly positive and easy-to-average. ",
-      "visa": "No) postings state \"US Visa sponsorship is not available.\" You must be a US Citizen, Permanent Resident, or hold a US Student Visa",
-      "window": [
-        "2026-09",
-        "2026-10"
-      ],
-      "window_text": "Not yet posted. Expected to open ~fall 2026 (Aug\u2013Oct) and close on a rolling basis by winter (the Summer 2026 engineering intern closed \"Apply by 27 Jan 2026\"). Apply early (roles \"may close before the stated closing date\""
+      "fetch_error": "HTTP Error 404: Not Found"
     },
     {
       "name": "John Deere",
@@ -4684,14 +4667,14 @@
       "tracks_total": 6,
       "programs": "7 internship tracks: Engineering, IT/SWE, Data Science, Finance, Marketing, Supply Management, and Communications/HR, plus 7 post-internship rotational Development Programs",
       "no_formal_program": false,
-      "faq_open_answer": "Expected September to October 2026, based on previous cycles where postings appeared in fall with deadlines in January to March. Since Deere notes positions \"may close before the stated closing date\" and 61% of interns come through campus recruiting, attending fall career fairs and applying early maximizes your chances.",
+      "faq_open_answer": "They are open now. Twelve US 2027 intern requisitions went live on careers.deere.com between August 31 and September 22, 2026, across finance, IT, data and analytics, marketing and sales, supply management, HR and engineering; on the prior pattern most close by January to February 2027. Since Deere notes positions \"may close before the stated closing date\" and 61% of interns come through campus re",
       "interview": "An online application, then for IT/SWE a HackerRank Fullstack Assessment, followed by a phone screen with HR and a one-on-one behavioral interview with the hiring manager. Average time from application to hire is about 19 days. Glassdoor rates difficulty at 3.1 out of 5, with 87% positive experience",
       "visa": "Generally not available. Most postings state \"US Visa sponsorship isn't available.\" Some IT roles accept F-1/CPT; check each listing",
       "window": [
-        "2026-09",
-        "2026-10"
+        "2026-08",
+        "2027-03"
       ],
-      "window_text": "Expected September to October 2026 for summer 2027, with most postings closing January to February 2027 (documented pattern; not yet posted)"
+      "window_text": "Open now for summer 2027: twelve US 2027 intern requisitions went live August 31 to September 22, 2026 (Accounting and Finance, IT, Data and Analytics, A&T and C&F Marketing and Sales, Supply Management and Logistics, HR and Labor Relations, Product, Manufacturing and Weld Engineering, Environmental Engineering in Ankeny, and Manufacturing and Product Engineering in Coffeyville KS). On the prior p"
     },
     {
       "name": "JPMorgan",
@@ -5929,14 +5912,14 @@
       "tracks_total": 6,
       "programs": "Engineering, Finance, IT, Environmental Science, Nuclear, Power Generation, Energy Trading, and more",
       "no_formal_program": false,
-      "faq_open_answer": "NextEra Energy posts internship positions from September through November for the following summer. For summer 2027, expect postings to go live starting September 2026, with the company aiming to fill all positions by December 2026 and no later than February 2027. Monitor jobs.nexteraenergy.com and apply within the first week postings appear.",
+      "faq_open_answer": "NextEra Energy posts internship positions from September through November for the following summer. For summer 2027, postings went live September 1 to 3, 2026, and the company aims to fill all positions by December 2026 and no later than February 2027. Apply now at jobs.nexteraenergy.com.",
       "interview": "The process has three stages over about four weeks. First, a HireVue on-demand video assessment with behavioral questions and, for technical roles, coding problems. Next, a 45-minute video interview mixing technical and behavioral questions. Finally, a one-hour management interview focused on team d",
       "visa": null,
       "window": [
         "2026-09",
         "2026-11"
       ],
-      "window_text": "September\u2013November 2026 for summer 2027 (documented pattern; not yet posted)"
+      "window_text": "Open now : six Summer Intern postings (Engineering, Finance/Accounting, Development and Origination, Technical, General, Supply Chain) went live September 1 to 3, 2026, matching the documented September to November window"
     },
     {
       "name": "Nike",
@@ -6331,14 +6314,14 @@
       "tracks_total": 6,
       "programs": "6+ tracks: SWE, OCI SWE, NetSuite Consultant, Oracle Health, Finance, Oracle Labs Research",
       "no_formal_program": false,
-      "faq_open_answer": "Applications are expected to open late August to early September 2026, based on prior-cycle patterns. The optimal window is the first 4 to 6 weeks after opening; roles stay open rolling through February but available positions narrow significantly after October. Set a job alert on oracle.com/careers.",
+      "faq_open_answer": "The first ones have. Five Sales Development Rep Intern roles for Summer 2027 went live on September 18, 2026 (Austin, Nashville, Burlington, Denver, Santa Monica; no visa sponsorship), and a Financial Analyst Intern in Nashville on August 31. OCI and software engineering intern roles were not posted as of September 28, 2026. Once a track opens, the optimal window is the first 4 to 6 weeks after op",
       "interview": "You apply, then a recruiter phone-screens you for 20 to 30 minutes. Next come two technical interviews of 45 to 60 minutes each covering data structures, algorithms, SQL, OOP, and a resume deep-dive. A behavioral round follows. For OCI or Labs roles, expect a 3-to-4-hour Super Day with multiple back",
       "visa": "Oracle ranks in the top 15 U.S. H-1B sponsors . CPT and OPT accepted. Some government-facing roles require U.S. citizenship",
       "window": [
-        "2026-08",
-        "2026-09"
+        "2027-06",
+        "2027-06"
       ],
-      "window_text": "Expected late August to early September 2026. Optimal window is the first 4 to 6 weeks; roles stay open rolling through February but narrow fast"
+      "window_text": "Partly open: Sales Development Rep Intern (Summer 2027) live in Austin, Nashville, Burlington, Denver and Santa Monica since September 18, 2026, plus a Nashville Financial Analyst Intern; software engineering roles not posted as of September 28, 2026. Roles stay open rolling but narrow fast"
     },
     {
       "name": "Oura",
@@ -6579,14 +6562,14 @@
       "tracks_total": 6,
       "programs": "11+ internship tracks across refining, midstream, commercial, IT, finance, procurement, HSE, and more",
       "no_formal_program": false,
-      "faq_open_answer": "They are already open. As of August 14, 2026 there are 12 live \u201c2027 University Intern\u201d reqs on careers.phillips66.com, covering business, commercial and engineering tracks. Phillips 66 also recruits heavily through fall career fairs in September and October, but positions fill on a rolling basis, so apply now rather than waiting for the fair.",
+      "faq_open_answer": "They are already open. As of September 28, 2026 there are 16 live 2027 intern reqs on careers.phillips66.com (14 \u201c2027 University Intern\u201d plus 2 technical interns in Oklahoma City), covering business, commercial and engineering tracks. Phillips 66 also recruits heavily through fall career fairs in September and October, but positions fill on a rolling basis, so apply now rather than waiting for th",
       "interview": "After applying online or at a career fair, most candidates complete a HireVue video interview with five to six behavioral questions focused on teamwork, problem-solving, and interest in energy. Finalists then have a live behavioral interview with two to three interviewers using the STAR method. Offe",
       "visa": "No. Every 2026 internship posting carried the same line: Phillips 66 doesn't provide immigration sponsorship for any temporary work visa, including F-1 OPT, CPT, H-1B, J, and TN. You must have permanent US work authoriza",
       "window": [
-        "2026-08",
-        "2026-08"
+        "2026-09",
+        "2026-09"
       ],
-      "window_text": "OPEN NOW. 12 \u201c2027 University Intern\u201d reqs live on careers.phillips66.com as of Aug 14, 2026, across business, commercial and engineering tracks. No published deadline; positions close when filled"
+      "window_text": "OPEN NOW. 16 \u201c2027\u201d intern reqs live on careers.phillips66.com as of Sep 28, 2026 (14 University Intern plus 2 Technical Intern), across business, commercial and engineering tracks. No published deadline; positions close when filled"
     },
     {
       "name": "Physical Intelligence",
@@ -8542,14 +8525,14 @@
       "tracks_total": 6,
       "programs": "9+ functional areas across 6 business units (Aviation, Bell, Systems, eAviation, Kautex, Specialized Vehicles)",
       "no_formal_program": false,
-      "faq_open_answer": "Textron posts internship opportunities from September 1 to October 31 each year. For summer 2027, expect positions to go live on careers.textron.com starting September 1, 2026. Textron Systems recommends applying as early as late August, and the official advice is to apply early since applications are reviewed in order of submission.",
+      "faq_open_answer": "Textron posts internship opportunities from September 1 to October 31 each year. For summer 2027, the window is open now: postings on careers.textron.com include the 2027 Textron Leadership Development Internship Program tracks and Howe & Howe engineering internships. Textron Systems recommends applying as early as late August, and the official advice is to apply early since applications are revie",
       "interview": "A straightforward 2-step process: a recruiter phone screen (15-30 min) covering your background and motivation, followed by a virtual interview with the hiring manager via Microsoft Teams (30-60 min) using STAR behavioral questions. Bell may add an in-person component with a technical competency lea",
       "visa": null,
       "window": [
         "2026-09",
         "2026-10"
       ],
-      "window_text": "September 1 to October 31, 2026 for summer 2027 (documented annual pattern)"
+      "window_text": "Open now: the September 1 to October 31, 2026 window for summer 2027 is running. Live US postings on September 28 include the 2027 Textron Leadership Development Internship Program (Finance and Accounting, Information Technology) and Howe & Howe engineering internships in Waterboro, ME"
     },
     {
       "name": "The Trade Desk",
@@ -8704,9 +8687,9 @@
       "visa": null,
       "window": [
         "2026-09",
-        "2026-11"
+        "2026-09"
       ],
-      "window_text": "Not published for Summer 2027 as of August 2026. US roles are expected to open around September to November 2026 for the following summer, aligned with fall career fairs (dates expected, not confirmed). Monitor from Sept 2026."
+      "window_text": "Open now: as of September 28, 2026, 2027 Engineering Summer Internship postings are live for Houston and the Port Arthur site (electrical), plus a Sales Intern role in Auburn Hills, MI. More site roles may follow through the fall career-fair season."
     },
     {
       "name": "Tower Research",
@@ -8989,14 +8972,14 @@
       "tracks_total": 6,
       "programs": "3 formats (summer, co-op, ongoing) across 9+ engineering and business tracks",
       "no_formal_program": false,
-      "faq_open_answer": "Based on the 2026 cycle, expect engineering internship postings to appear in fall 2026, with heavy campus recruiting at career fairs September through November. Valero has not posted 2027 dates yet, so monitor valero.com/careers starting in September 2026 and attend fall career fairs at their 25+ target universities.",
+      "faq_open_answer": "They already have. Valero posted its Summer 2027 intern roles on September 4 to 8, 2026: Chemical, Mechanical, Electrical, Safety and Project Construction Engineering at U.S. refining locations, Metallurgy, and Information Services and Commercial Supply & Trading in San Antonio. Apply through valero.com/careers now, since positions may be listed for as little as three days, and still work the fall",
       "interview": "Glassdoor rates the interview difficulty at 2.3 out of 5 (easy), with 78% of candidates reporting a positive experience. Expect behavioral questions like \u201ctell me about yourself,\u201d \u201cwhy Valero,\u201d and questions about your coursework and past experiences. Multiple candidates confirm there are typically ",
       "visa": null,
       "window": [
         "2026-09",
-        "2026-11"
+        "2026-09"
       ],
-      "window_text": "Expected fall 2026 (Sep\u2013Nov) for summer 2027; no official 2027 dates posted yet"
+      "window_text": "Open now: Summer 2027 intern postings live since September 4 to 8, 2026 (Chemical, Mechanical, Electrical, Safety and Project Construction engineering at U.S. refineries; Metallurgy; Information Services and Commercial Supply & Trading in San Antonio). No deadline printed"
     },
     {
       "name": "Valve",
