@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T18:18:12.903550+00:00",
+  "generated_at": "2026-10-03T17:10:15.414945+00:00",
   "companies": [
     {
       "name": "1Password",
@@ -2328,7 +2328,7 @@
       "slug": "cvs-health",
       "guide_url": "https://www.extern.com/post/cvs-health-internship-guide",
       "career_urls": [
-        "https://jobs.cvshealth.com/us/en/students-internship-jobs"
+        "https://jobs.cvshealth.com/us/en/students"
       ],
       "rolling": "Yes. CVS Health reviews applications on a rolling basis. Apply in September or October for the best response rates",
       "pay": "$20 to $55 per hour depending on track. Undergraduate corporate roles around $23 to $28/hr; graduate and software engineering roles $45 to $55/hr. Housing stipe",
@@ -6669,20 +6669,20 @@
       "career_urls": [
         "https://www.pinterestcareers.com/early-career/university-recruiting/"
       ],
-      "rolling": "Yes. Reqs open in August or September and fill rolling through the August-to-April peak season",
-      "pay": "SWE $8,250 to $11,000/mo official; Data Science $10k to $11k; PhD ML $12,100",
+      "rolling": "Yes. The summer 2027 reqs opened October 1, 2026 and fill rolling through the August-to-April peak season",
+      "pay": "Official 2027 postings: SWE and UX Engineering $8,250 to $11,000/mo; Master's ML and Data Science $11,000/mo; PhD ML and Data Science $12,100/mo",
       "tech_tracks": "Software Engineering; Master's Machine Learning; PhD Machine Learning (ATG); Data Science; UX Quantitative Research; IT Software Engineering",
       "tracks_total": 6,
-      "programs": "6 intern tracks: SWE, IT SWE, ML (Master's & PhD), Data Science, UX Quantitative Research",
+      "programs": "Summer 2027 US reqs: SWE, Master's and PhD ML, Master's and PhD Data Science, UX Engineering, UX Quantitative Research (IT SWE not posted yet)",
       "no_formal_program": false,
-      "faq_open_answer": "Applications for summer 2027 are expected to open around August to October 2026. Pinterest's FAQ says it typically opens roles in August or September, and the summer 2026 SWE posting went live on September 22, 2025, so this is projected from the prior cycle. That is roughly nine months before the May-or-June start, and the class fills rolling through the August-to-April peak season.",
+      "faq_open_answer": "They already have: Pinterest posted its summer 2027 US intern reqs on October 1, 2026. Its FAQ says it typically opens roles in August or September, and the summer 2026 SWE posting went live on September 22, 2025, so this cycle ran about a week later. That is roughly eight months before the May-or-June start, and the class fills rolling through the August-to-April peak season.",
       "interview": "It is lean. You apply, take the CodeSignal General Coding Assessment (scored out of 600), do a 30-minute recruiter screen, then one 1-hour technical interview before a hiring committee decides. That is a single live technical round, versus the three or four a new grad faces. It is CodeSignal, not Ha",
       "visa": null,
       "window": [
-        "2026-08",
-        "2026-09"
+        "2027-06",
+        "2027-06"
       ],
-      "window_text": "Applications for summer 2027 expected to open around August to September 2026 (documented pattern; not yet posted)"
+      "window_text": "OPEN NOW. Summer 2027 US intern reqs went live on pinterestcareers.com on October 1, 2026 (Software Engineer, Master's and PhD Machine Learning, Master's and PhD Data Science, UX Engineering, UX Quantitative Research). No deadline posted; review is rolling"
     },
     {
       "name": "Plaid",
