@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T17:10:15.414945+00:00",
+  "generated_at": "2026-10-04T17:29:40.942285+00:00",
   "companies": [
     {
       "name": "1Password",
@@ -1127,14 +1127,14 @@
       "tracks_total": 6,
       "programs": "15+ tracks across 6+ subsidiaries: software, actuarial, underwriting, operations, engineering, IT, finance, legal, and more",
       "no_formal_program": false,
-      "faq_open_answer": "They are opening now. BNSF posted 17 Summer 2027 internships on September 4, 2026, and GEICO's summer 2027 Analyst Internship Program, Human Resources and Marketing internships went live from September 14 (GEICO's Human Resources internship runs June 7 to August 13, 2027). BHHC, BHSI, and BH GUARD typically post in spring, and BH Energy IT hires year-round; those dates are projected from the prior",
+      "faq_open_answer": "They are opening now. BNSF posted 17 Summer 2027 internships on September 4, 2026, and GEICO's summer 2027 Analyst Internship Program, Human Resources and Marketing internships went live between September 14 and 29 (Actuarial was last, on September 29; GEICO's Human Resources internship runs June 7 to August 13, 2027). BHHC, BHSI, and BH GUARD typically post in spring, and BH Energy IT hires year-",
       "interview": "Most subsidiaries use 1 to 2 rounds: a recruiter phone screen followed by a hiring-manager interview. GEICO tech adds a technical skills assessment. Behavioral questions focus on integrity, problem-solving, teamwork, and long-term thinking using the STAR method.",
       "visa": "Generally no. GEICO explicitly does not sponsor employment authorization for intern roles. Other subsidiaries typically require existing U.S. work authorization",
       "window": [
         "2027-03",
         "2027-03"
       ],
-      "window_text": "Open now at the first movers: BNSF posted 17 Summer 2027 internships on September 4, 2026, and GEICO's summer 2027 Analyst Internship Program, Human Resources and Marketing internships went live from September 14. BHHC, BHSI, and BH GUARD are expected to post in spring 2027 (projected from the prior cycle)"
+      "window_text": "Open now at the first movers: BNSF posted 17 Summer 2027 internships on September 4, 2026, and GEICO's summer 2027 Analyst Internship Program, Human Resources and Marketing internships went live between September 14 and 29. BHHC, BHSI, and BH GUARD are expected to post in spring 2027 (projected from the prior cycle)"
     },
     {
       "name": "Best Buy",
@@ -4076,7 +4076,7 @@
         "https://jobs.ashbyhq.com/hims-and-hers"
       ],
       "rolling": "Not confirmed for interns (no program). Full-time roles are posted and filled on a rolling, as-needed basis with no fixed seasonal window. Glassdoor puts the ov",
-      "pay": "No intern rate posted (Levels.fyi has no Hims intern entries). National context: US software-engineer interns average roughly $83K/yr annualized (Adzuna, July 2",
+      "pay": "No intern rate posted (Levels.fyi has no Hims intern entries). National context: US software-engineer interns average roughly $83K/yr annualized (July 2026). Fu",
       "tech_tracks": null,
       "tracks_total": 0,
       "programs": "0 formal internship programs as of August 2026. The Ashby board shows only \"Full time\" and \"Contract\" employment types, no \"Intern\" type. Plausible intern-adjacent tracks map to real teams hiring full-time now: Backend/Platform, Web/Mobile, Data/Analytics, Product, Marketing, and",
