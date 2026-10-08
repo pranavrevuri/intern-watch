@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T19:18:11.089971+00:00",
+  "generated_at": "2026-10-08T19:14:46.352001+00:00",
   "companies": [
     {
       "name": "1Password",
@@ -1038,7 +1038,7 @@
       "pay": "Community-labeled: NYC business analyst intern ~$45.50/hr + $3,400 bonus (Levels.fyi); front-office base ~$110k prorated",
       "tech_tracks": "Global Technology (BA / SWE)",
       "tracks_total": 6,
-      "programs": "11+ US summer analyst tracks, plus sophomore and affinity programs",
+      "programs": "11+ US summer analyst tracks, plus affinity programs (sophomore programs in past cycles)",
       "no_formal_program": false,
       "faq_open_answer": "It splits by division. Front-office programs open roughly 15 to 18 months ahead, so expect spring or summer 2027, filling on a rolling basis. Enterprise tracks open later, with deadlines projected around October 2027, and EMEA programs open around September.",
       "interview": "It starts with a HireVue on-demand video interview: a few behavioral questions, about 30 seconds of prep, and up to three minutes per answer. Strong candidates advance to a super day of two to four interviews, behavioral with a technical or case round for front-office desks. No aptitude games.",
@@ -1083,7 +1083,7 @@
       "pay": "~$2,000\u2013$2,500/week for undergraduate Summer Associate interns (~$20,000\u2013$30,000 total summer)",
       "tech_tracks": "BCG X Data Science",
       "tracks_total": 6,
-      "programs": "6+ intern tracks: Summer Associate (UG), Summer Consultant (MBA), BCG X Data Science, Growing Future Leaders (Sophomore), Bridge to BCG (Advanced Degrees), and BCG Advance (MBA Exploration)",
+      "programs": "6+ intern tracks: Summer Associate (UG), Summer Consultant (MBA), BCG X Data Science, BCG Embark (virtual conference for sophomores), Bridge to BCG (Advanced Degrees), and BCG Advance (juniors)",
       "no_formal_program": false,
       "faq_open_answer": null,
       "interview": "BCG's interview funnel has five stages, with the Casey chatbot as the unique gatekeeping step. The total process from application to offer averages 4 to 8 weeks (about 32 days per Glassdoor): 1. Apply at careers.bcg.com with a one-page resume, tailored cover letter, academic information (GPA, test s",
@@ -2505,9 +2505,11 @@
       "name": "Deloitte",
       "slug": "deloitte",
       "guide_url": "https://www.extern.com/post/deloitte-internship-guide",
-      "career_urls": [],
-      "career_note": "apply.deloitte.com job portal; program details on the official internships page . The summer 2028 tax requisition closed Aug 12, 2026. Set job alerts now so the Audit & Assurance posting reaches you t",
-      "rolling": "Hard deadline, and a short one. The summer 2028 tax requisition carried a stated cutoff of Aug 12, 2026, six days after it posted, and it closed on that date. I",
+      "career_urls": [
+        "https://apply.deloitte.com/careers/SearchJobs",
+        "https://www.deloitte.com/us/en/careers/internships.html"
+      ],
+      "rolling": "Hard deadlines. Each posting states the day recruiting ends (Oct 11, 2026 for most audit roles, Oct 25 for summer 2028 tax), and the first summer 2028 tax requi",
       "pay": "The summer 2028 tax requisition published $25\u2013$48/hr, unchanged from the 2027 range. Official 2027 ranges: audit $25.64\u2013$51.44/hr, tax $25\u2013$48/hr, Discovery $28",
       "tech_tracks": "Risk & Financial Advisory Intern (incl. Cyber)",
       "tracks_total": 6,
@@ -2517,10 +2519,10 @@
       "interview": null,
       "visa": null,
       "window": [
-        "2026-08",
-        "2026-09"
+        "2027-08",
+        "2027-09"
       ],
-      "window_text": "OPEN NOW. 8 intern postings live: Summer 2027 Audit (2) + Tax Transfer Pricing (1), Winter 2027 Tax Accounting (1) + Audit (2), Summer/Winter 2028 Audit (2). Previously closed Tax 2028 requisition (code 361830) is separate from these live postings. One requisition (code 361830) covering 30+ US offices, posted Aug 6, 2026, stated cutoff Aug 12, 2026, no longer listed as of Aug 13. Audit & Assurance"
+      "window_text": "Open now for summer 2027 and summer 2028. Audit & Assurance postings for both summers close Oct 11, 2026. That covers several summer 2027 tracks plus the first summer 2028 Financial Statement Audit role; the Japanese Services Group summer 2027 role runs to Nov 29. Tax: summer 2028 Accounting is open until Oct 25, 2026; the earlier summer 2028 requisition (code 361830) closed Aug 12. Discovery recr"
     },
     {
       "name": "Delta",
@@ -3178,10 +3180,10 @@
         "https://www.ey.com/en_us/careers/internships-student-programs"
       ],
       "rolling": "No. Every track has a published cutoff \u2014 EY's deadlines page gives a dated deadline for all five role groups, not just EY-Parthenon. EY does also close roles on",
-      "pay": "$36\u2013$48/hr Assurance and Tax; $37\u2013$43/hr Technology Consulting; $43\u2013$48/hr EY-Parthenon UG; $25\u2013$37/hr Launch",
+      "pay": "$36\u2013$48/hr Assurance and Tax; $37\u2013$43/hr Technology Consulting; $43\u2013$48/hr EY-Parthenon UG",
       "tech_tracks": "Technology Consulting",
-      "tracks_total": 6,
-      "programs": "4 service lines (Assurance, Tax, Consulting, Strategy & Transactions) plus Launch and Expedition EY pathway programs",
+      "tracks_total": 5,
+      "programs": "4 service lines (Assurance, Tax, Consulting, Strategy & Transactions) plus the Expedition EY pathway program",
       "no_formal_program": false,
       "faq_open_answer": "Also September 8, 2026. The Assurance and Tax lines post on the same day as Consulting, with cutoffs of September 30 for Assurance and October 5 for Specialized and JD/LLM Tax, and they run the ~22-month Big Four lead into summer 2028. Do not wait for autumn 2027.",
       "interview": "It's a pre-recorded video format with 3 to 5 behavioral questions. You get 30 seconds to prepare each answer, then 2 minutes to respond with no retakes allowed. Questions map to EY's four competency pillars: Teaming, Communication, Analytical Thinking, and Leadership. Prepare STAR stories for each p",
@@ -3758,16 +3760,15 @@
       "slug": "google",
       "guide_url": "https://www.extern.com/post/google-internship-guide",
       "career_urls": [
-        "https://www.google.com/about/careers/applications/students/",
-        "https://buildyourfuture.withgoogle.com/programs/step/"
+        "https://www.google.com/about/careers/applications/students/"
       ],
       "rolling": "Yes. Official JD: reviewed \"on a rolling basis,\" and a posting \"may close earlier if all available projects are full\"",
       "pay": "SWE intern median $62.98/hr plus ~$3,000/mo housing stipend (Levels.fyi, crowdsourced)",
-      "tech_tracks": "STEP; Software Engineering Intern; Student Researcher; Research Scientist Intern (PhD); Silicon / Hardware Engineering Intern",
+      "tech_tracks": "STEP (not posted for 2027); Software Engineering Intern; Student Researcher; Research Scientist Intern (PhD); Silicon / Hardware Engineering Intern",
       "tracks_total": 6,
-      "programs": "8+ intern and apprentice tracks (STEP, SWE, Student Researcher, Research, Silicon, UX and more)",
+      "programs": "8+ intern and apprentice tracks (SWE, Student Researcher, Research, Silicon, UX and more; STEP was not posted for summer 2027)",
       "no_formal_program": false,
-      "faq_open_answer": "The main software windows are open now: SWE Intern (BS) and SWE Intern (MS) for Summer 2027 posted in July 2026. STEP and remaining tracks are expected through August to October 2026. Research and PhD deadlines tend to cluster earlier in the calendar year. Google reviews on a rolling basis, so apply the week your target role opens.",
+      "faq_open_answer": "The main software windows are open now: SWE Intern (BS) and SWE Intern (MS) for Summer 2027 posted in July 2026. Google had not posted STEP for summer 2027 as of October 8, 2026. Research and PhD deadlines tend to cluster earlier in the calendar year. Google reviews on a rolling basis, so apply the week your target role opens.",
       "interview": "Google's funnel runs about 8 to 10 weeks from resume screen to decision, though recruiter contact alone can take 60-plus days: 1. Apply at careers.google.com with a resume that shows your graduation date in MM/YY plus a transcript or course list. You can submit up to 3 applications every 30 days, an",
       "visa": "It depends on the role. Visa requirements differ across internships and are noted in each job description; your recruiter shares details after the initial screening. Google gives no blanket sponsorship promise on its off",
       "window": [
@@ -6296,7 +6297,7 @@
       "programs": "5: Quantitative Trading, Quantitative Research, Software Engineering, FPGA Engineering, Trading Operations",
       "no_formal_program": false,
       "faq_open_answer": null,
-      "interview": "Expect four to five rounds over three to six weeks. First comes the online assessment with five sections: mental math, probability, sequence puzzles, reaction games, and a behavioral questionnaire. Then a phone interview on probability and market scenarios. Finally, an on-site Super Day with a harde",
+      "interview": "Expect four to five rounds over three to six weeks. First comes the online assessment with five sections: mental math, probability, sequence puzzles, reaction games, and a behavioral questionnaire. Then a phone interview on probability and market scenarios. Finally, a virtual final round with the hi",
       "visa": null,
       "window": [
         "2026-07",
@@ -6717,7 +6718,7 @@
         "https://careers.point72.com/?experience=internships"
       ],
       "rolling": "Yes. No set deadline; candidates reviewed as they apply until the program is at capacity",
-      "pay": "Academy: $120K\u2013$140K annualized + $2,500\u2013$5,000 signing bonus; Cubist QD: $240K\u2013$300K annualized",
+      "pay": "Academy: $120K\u2013$140K annualized + $2,500\u2013$5,000 signing bonus; Cubist Summer 2027 Quantitative Research intern (KEPL, PhD): $240K\u2013$300K annualized base, prorate",
       "tech_tracks": "Cubist Quantitative Researcher; Cubist Quantitative Developer; Technology \u2013 Software Engineer; Data Engineer (Market Intelligence); AI Analyst",
       "tracks_total": 6,
       "programs": "9+ across Academy (investing), Cubist (quant), Technology, Market Intelligence, AI, and Ventures",
@@ -6726,10 +6727,10 @@
       "interview": "The Academy runs a five-stage funnel that's more structured than most hedge fund processes. Each stage is designed to filter for a specific trait: 1. Submit your application at careers.point72.com with your resume, essays, and supplementary materials. Expect a 300-word essay on \"market inefficiency\"",
       "visa": "Yes. Point72 sponsors CPT, OPT, and H-1B visas. The firm had approximately 150 visa approvals in FY2025. That said, the process is selective, and third-party estimates suggest roughly 30 to 40% odds for Academy graduates",
       "window": [
-        "2026-07",
-        "2026-07"
+        "2026-12",
+        "2026-12"
       ],
-      "window_text": "Summer 2027: OPEN NOW (as of July 2026) on the official careers portal; rolling, roles fill fast \u2014 apply immediately."
+      "window_text": "US Academy, summer 2028: expected to open around December 2026 (the summer 2027 posting went live in early December 2025 and closed by early May 2026). Open now for summer 2027: Investment Services Internship (New York/Stamford), Cubist and Point72 quant research intern roles, and the Academy internship in Hong Kong, Singapore and Japan. All rolling."
     },
     {
       "name": "Porsche",
@@ -6947,14 +6948,14 @@
       "tracks_total": 6,
       "programs": "8 to 10 tracks across U.S. and Canada: Global Investment Banking, Corporate Banking, Municipal Finance, Global Markets (Sales & Trading), Equity Research, QTS (Quantitative Technology & Strategy), plus pipeline programs (Women's Advisory, Insights)",
       "no_formal_program": false,
-      "faq_open_answer": "They are open now. Seven 2027 Capital Markets requisitions were live on RBC's early-talent Workday board on September 21, 2026: the Summer Analyst tracks (COO Operations, Quantitative Technology Services, Global Markets Quantitative Trading) close October 15, 2026, and the Global Investment Banking Summer Associate tracks (New York, Houston, San Francisco) close December 11, 2026. The Investment B",
-      "interview": "You apply, complete a HireVue video assessment (four to five questions, zero retakes, 15 to 25% pass rate), then a 60-minute first-round phone or video interview mixing behavioral and technical questions, and finally a 3- to 5-hour in-person Superday with VPs, Directors, and MDs. Offers arrive withi",
+      "faq_open_answer": "The summer 2028 Investment Banking Summer Analyst postings are not up yet (checked October 8, 2026). Applications for summer 2028 are expected to open around October to November 2026 and close around late January to early March 2027, based on the last two cycles (posted September 27, 2024 and November 3, 2025; closed March 3, 2025 and January 30, 2026). The summer 2027 IB Summer Analyst program is",
+      "interview": "You apply, complete a HireVue video assessment (four to five questions, zero retakes, 15 to 25% pass rate), then a 60-minute first-round phone or video interview mixing behavioral and technical questions, and finally a Superday with VPs, Directors, and MDs. Candidates report offers within one to two",
       "visa": "Strong track record: 273 H-1B filings with 100% approval rate. CPT supported for F-1 students",
       "window": [
-        "2026-09",
-        "2026-09"
+        "2026-10",
+        "2026-11"
       ],
-      "window_text": "OPEN NOW. 2027 Capital Markets Summer Analyst reqs (COO Operations, Quantitative Technology Services, Global Markets Quantitative Trading) posted Sep 10 to 16, 2026, deadline Oct 15, 2026; Global Investment Banking Summer Associate reqs (NY, Houston, SF) posted Aug 28, deadline Dec 11, 2026. Confirmed Sep 21, 2026"
+      "window_text": "Summer 2028 IB Summer Analyst: NOT YET OPEN. Applications for summer 2028 expected to open around Oct to Nov 2026 and close around late Jan to early Mar 2027 (last two cycles: posted Sep 27, 2024 and Nov 3, 2025; closed Mar 3, 2025 and Jan 30, 2026). Still open for summer 2027: COO Operations, Quantitative Technology Services (Jersey City, Raleigh) and Global Markets Quantitative Trading Summer An"
     },
     {
       "name": "Recursion",
@@ -7794,7 +7795,7 @@
       "programs": "8 tracks: Quantitative Trader, Quantitative Systematic Trading, Software Engineering, Quantitative Strategy Developer, Operations, Tax, Macro Analyst, Equity Analysis",
       "no_formal_program": false,
       "faq_open_answer": null,
-      "interview": "Four stages: a 20-minute online quantitative assessment (logic puzzles and brain teasers on Mettl), a phone screen (behavioral plus probability), a 60-minute technical video interview (probability math with a senior trader), and a final Super Day (~90 minutes, technical plus fit). Total: roughly 2 t",
+      "interview": "Four stages: a 20-minute online quantitative assessment (logic puzzles and brain teasers on Mettl), a phone screen (behavioral plus probability), a 60-minute technical video interview (probability math with a senior trader), and a final interview (about 90 minutes, technical plus fit, according to c",
       "visa": "Not explicitly stated. US offices (Bala Cynwyd, NYC, Chicago) likely support CPT/OPT. Dublin and London offices serve international applicants",
       "window": [
         "2027-06",
