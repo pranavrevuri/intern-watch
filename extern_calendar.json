@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T17:45:47.555392+00:00",
+  "generated_at": "2026-10-11T18:05:21.884741+00:00",
   "companies": [
     {
       "name": "1Password",
@@ -154,7 +154,7 @@
         "2027-08",
         "2027-09"
       ],
-      "window_text": "Expected ~Aug\u2013Sep 2027 open; Consulting/Strategy soft-close ~Oct 2027; Technology/AI/TDP into Q1\u2013Q2 2028 (projected from documented cycles)"
+      "window_text": "Summer 2028: not posted as of October 11, 2026; expected ~Aug\u2013Sep 2027 open; Consulting/Strategy soft-close ~Oct 2027; Technology/AI/TDP into Q1\u2013Q2 2028 (projected from documented cycles). Summer 2027 (NAELFY27): 8 US internship postings live on Accenture's careers portal on October 11, 2026; five of them carry a posted-until date of October 16, 2026"
     },
     {
       "name": "Activision Blizzard",
@@ -344,20 +344,20 @@
       "career_urls": [
         "https://careers.airbnb.com/internship-programs/"
       ],
-      "rolling": "Yes. Airbnb reviews applications on a rolling basis and most slots are allocated by mid-November. Apply by October for priority consideration",
+      "rolling": "Yes. Airbnb reviews applications on a rolling basis. In the prior cycle most slots were allocated by mid-November, so apply as soon as a posting is listed",
       "pay": "$49 to $68 per hour ($8,500 to $11,500/month) depending on role. Housing stipend of $4,000+/month or corporate accommodations. Levels.fyi reports $49.38/hr for ",
       "tech_tracks": "Software Engineering Intern; Data Science & Analytics Intern; Connect Engineering Apprentice",
       "tracks_total": 6,
       "programs": "5+ tracks: Software Engineering, Data Science & Analytics, Product Management, Product Design (UX/UI), and Business Operations. Plus the Connect Engineering Apprenticeship for non-traditional backgrounds",
       "no_formal_program": false,
-      "faq_open_answer": "Expect engineering and product roles to open in early September 2026, with a priority deadline around mid-October and rolling review through late November 2026. Those dates are projected from the Summer 2026 cycle and are not official yet. Set a job alert on careers.airbnb.com.",
+      "faq_open_answer": "On October 11, 2026, no US internship posting was listed on careers.airbnb.com. The earlier estimate of an early September 2026 opening with a mid-October priority deadline was projected from the Summer 2026 cycle and was never an official date. Airbnb's internship programs page lists a December to February application window for its US Summer Intern Program (functions listed: Communications, Fina",
       "interview": "You apply, complete a CodeSignal GCA (750+ out of 850 to pass), then a recruiter phone screen, a 45- to 60-minute technical phone interview on CoderPad, and a 3- to 4-hour virtual onsite with two coding rounds and a dedicated core-values behavioral round. Offers arrive within 1 to 2 weeks.",
       "visa": "CPT supported for F-1 students, OPT for new graduates, STEM OPT extension eligible. No J-1 sponsorship for most internship postings",
       "window": [
-        "2026-09",
-        "2026-09"
+        "2026-10",
+        "2026-10"
       ],
-      "window_text": "Expected early September 2026 for summer 2027 roles. Priority deadline around mid-October 2026, rolling through late November 2026. Projected from the Summer 2026 cycle"
+      "window_text": "Not posted as of October 11, 2026: no US internship posting was listed on careers.airbnb.com. The earlier estimate (early September 2026 opening, mid-October priority deadline, rolling through late November) was projected from the Summer 2026 cycle. Airbnb's internship programs page lists a December to February application window for its US Summer Intern Program (functions listed: Communications, "
     },
     {
       "name": "Airbus",
@@ -2251,14 +2251,14 @@
       "tracks_total": 6,
       "programs": "7 structured tracks: IT, Corporate Finance, Accounting, Marketing & Merchandising, Supply Chain, HR, and Supervisor in Training (SIT)",
       "no_formal_program": false,
-      "faq_open_answer": "Based on the 2025\u20132026 cycle, IT/CDS internship postings typically appear in late August through September 2026, with very short posting windows (sometimes only 10 days). Accounting and corporate tracks open later, around January\u2013March 2027. Costco hasn't published 2027 dates yet, so monitor the CDS careers site and Costco's main career portal starting in August 2026.",
+      "faq_open_answer": "In the 2025\u20132026 cycle, IT/CDS internship postings appeared in late August through September, with very short posting windows (sometimes only 10 days). On October 11, 2026, no summer 2027 internship was listed on Costco's IT job board, and the Accounting Division board showed no open positions. Accounting and corporate tracks open later, around January\u2013March 2027. Costco hasn't published 2027 date",
       "interview": "For IT roles, expect a phone screen with HR, followed by an online coding assessment on cyberByte (3 coding problems plus 1 theory question), and a final interview with the hiring manager covering both technical and behavioral questions. Non-technical tracks typically involve two interview rounds: o",
       "visa": null,
       "window": [
-        "2026-08",
-        "2026-09"
+        "2026-10",
+        "2027-08"
       ],
-      "window_text": "IT/CDS: expected August\u2013September 2026 for summer 2027 (documented pattern; not yet posted). Accounting: January\u2013March 2027"
+      "window_text": "Not listed on October 11, 2026: no IT/CDS internship for summer 2027 appeared on Costco's IT job board, and the Accounting Division board showed no open positions. The earlier August\u2013September 2026 estimate for IT/CDS came from the prior cycle. Accounting: January\u2013March 2027"
     },
     {
       "name": "CRA",
@@ -2423,7 +2423,7 @@
         "https://jobs.a16z.com/jobs/decagon"
       ],
       "rolling": "Likely yes. The Summer 2026 listing remained open for several months. Glassdoor reports a 13-day average hiring process, suggesting quick turnaround consistent ",
-      "pay": "$2,400/week (~$60/hr) plus a $10,000 housing stipend for the internship. Free daily meals, medical/dental/vision, commuter benefits",
+      "pay": "$3,000/week (~$75/hr at 40 hours a week) plus a $10,000 housing stipend, as printed on the Engineering Intern (Summer 2027) posting listed on October 11, 2026. ",
       "tech_tracks": "Agent Software Engineer Intern; Agent Software Engineer \u2013 New Grad (adjacent pipeline)",
       "tracks_total": 3,
       "programs": "1 confirmed: Agent Software Engineer Intern. Company has 118 open roles across engineering, suggesting potential program expansion",
@@ -2432,10 +2432,10 @@
       "interview": "A recruiter screen, a 45- to 60-minute technical phone screen in TypeScript or Python, then a full-day on-site with coding pair, system design, project deep dive, and behavioral rounds. The entire process averages 13 days. Expect AI-agent-specific system design questions.",
       "visa": "Full-time H-1B confirmed (11 LCAs in FY2026). Intern CPT/OPT not explicitly confirmed; likely supported given the University department classification",
       "window": [
-        "2026-10",
-        "2026-11"
+        "2027-12",
+        "2027-12"
       ],
-      "window_text": "Expected October to November 2026 for Summer 2027, based on Summer 2026 posting cadence. Likely rolling"
+      "window_text": "Open now for summer 2027: Decagon's Engineering Intern (Summer 2027) posting for San Francisco was listed on its Ashby board on October 11, 2026, with no closing date printed. Posted August 20, 2026. Rolling review is likely"
     },
     {
       "name": "Deel",
@@ -2519,10 +2519,10 @@
       "interview": null,
       "visa": null,
       "window": [
-        "2027-08",
-        "2027-09"
+        "2026-10",
+        "2026-10"
       ],
-      "window_text": "Open now for summer 2027 and summer 2028. Audit & Assurance postings for both summers close Oct 11, 2026. That covers several summer 2027 tracks plus the first summer 2028 Financial Statement Audit role; the Japanese Services Group summer 2027 role runs to Nov 29. Tax: summer 2028 Accounting is open until Oct 25, 2026; the earlier summer 2028 requisition (code 361830) closed Aug 12. Discovery recr"
+      "window_text": "Partly open: most Audit & Assurance postings set Oct 11, 2026 as the last day of recruiting, and summer 2028 tax runs to Oct 25, 2026. The Oct 11 date covers seven summer 2027 audit postings plus the first summer 2028 Financial Statement Audit role; the Japanese Services Group summer 2027 audit role runs to Nov 29, 2026. Tax: summer 2028 Accounting and summer 2027 Global Employer Services run to O"
     },
     {
       "name": "Delta",
@@ -2798,7 +2798,7 @@
       "career_urls": [
         "https://dukeenergy.wd1.myworkdayjobs.com/en-US/Search"
       ],
-      "rolling": "No. Each function has its own posting and end date; for summer 2027 the live postings end October 12 to 17, 2026",
+      "rolling": "No. Each function has its own posting and end date; for summer 2027 the apply-by dates still ahead on October 11, 2026 run from October 12 to October 19",
       "pay": "$21\u2013$36/hr depending on role; housing stipend available for interns placed 50+ miles from home",
       "tech_tracks": "Engineering Intern & Co-op",
       "tracks_total": 6,
@@ -2808,10 +2808,10 @@
       "interview": "Expect 2\u20133 rounds: a phone screen with a recruiter, a panel interview with 2\u20134 interviewers using STAR-method behavioral questions, and an optional follow-up. The process takes an average of 54 days from application to offer. Glassdoor rates difficulty at 3.1 out of 5 (medium).",
       "visa": null,
       "window": [
-        "2026-08",
-        "2026-08"
+        "2026-10",
+        "2026-10"
       ],
-      "window_text": "Open now for summer 2027: IT and Telecommunications posted August 31, 2026; Engineering Internship & Co-op Program, UX Design and others posted October 2. Posting end dates on the live reqs: UX Design October 12, IT and Telecommunications October 14, Engineering October 17, 2026"
+      "window_text": "Open now for summer 2027: the Engineering Internship & Co-op Program posting asks for applications by 11:59 PM on October 16, 2026. Other apply-by dates printed on the postings: IT in Hartsville, SC October 12, Aviation October 16, Local IT Support in Huntersville, NC October 18, Construction Management in Ohio October 19. IT in Charlotte and Telecommunications (both posted August 31, 2026) show a"
     },
     {
       "name": "Duolingo",
@@ -2826,14 +2826,14 @@
       "tracks_total": 6,
       "programs": "6+ tracks across two tiers: SWE, Data Science, APM (Standard); SWE, Product Design, Studio Art (Thrive). Product Management Thrive added in recent cycles",
       "no_formal_program": false,
-      "faq_open_answer": "They already did. Standard SWE, Thrive SWE and APM postings for summer 2027 went live on careers.duolingo.com on September 15\u201316, 2026. The two SWE reqs closed on September 30, 2026 and APM closes October 7, 2026 (deadlines printed in the postings). Design and Data Science roles are still projected for early October to early November and are not official yet.",
+      "faq_open_answer": "They already did. Standard SWE, Thrive SWE and APM postings for summer 2027 went live on careers.duolingo.com on September 15\u201316, 2026. The two SWE reqs closed on September 30, 2026 and APM closed on October 7, 2026 (deadlines printed in the postings). On October 11, 2026 the one intern posting listed was Illustrator, Intern (Detroit, MI), posted October 5, 2026 with an application deadline of Nov",
       "interview": "For engineering: a 60-minute CodeSignal OA, a 60-minute live technical interview, then a virtual onsite with pair programming (75 min), code review (60 min), whiteboard (60 min), and a coffee chat. APM replaces coding with a take-home feature proposal and two 45-minute product interviews.",
       "visa": "CPT and OPT supported for F-1 students. H-1B and TN visa sponsorship available for full-time conversion. Duolingo sponsored 59 visas in a recent year",
       "window": [
-        "2026-10",
-        "2026-10"
+        "2026-09",
+        "2026-11"
       ],
-      "window_text": "Partly closed: SWE and Thrive SWE (posted September 15\u201316, 2026) closed on their September 30, 2026 deadline; APM is open until October 7, 2026. Data Science, Product Design and Studio Art projected early October to early November (from the Summer 2026 cycle)"
+      "window_text": "Partly closed: SWE and Thrive SWE (posted September 15\u201316, 2026) closed on their September 30, 2026 deadline, and APM closed on its October 7, 2026 deadline. One intern posting was listed on October 11, 2026: Illustrator, Intern (Detroit, MI), posted October 5, 2026, application deadline November 5, 2026. No Data Science or Product Design intern posting was listed that day; the earlier early Octob"
     },
     {
       "name": "DuPont",
@@ -3119,14 +3119,14 @@
       "tracks_total": 3,
       "programs": "3 tracks: Software Engineering, Product Design, and Data Science/ML (periodic)",
       "no_formal_program": false,
-      "faq_open_answer": "Based on the 2026 cycle, expect Software Engineering and Product Design intern postings to appear around August or September 2026, with most positions filling by November 2026 on a rolling basis. Etsy has not posted summer 2027 dates yet, so watch their Workday careers portal starting late summer 2026.",
+      "faq_open_answer": "On October 11, 2026, no US internship posting for summer 2027 was listed on Etsy's Workday careers portal. The earlier estimate of August or September 2026 came from the prior cycle, when the Summer 2026 Software Engineering intern role was posted in early September 2025 and closed by mid-November 2025. Watch the portal and apply in the first weeks after a posting appears, because Etsy reviews app",
       "interview": "After applying, expect a recruiter phone screen followed by a HackerRank coding assessment (debugging or algorithm problems, 60 to 90 minutes). Finalists advance to a virtual onsite with two rounds: a live technical interview with screen-sharing and a behavioral interview with an engineering manager",
       "visa": null,
       "window": [
-        "2026-08",
-        "2026-09"
+        "2026-10",
+        "2027-08"
       ],
-      "window_text": "Expected August\u2013September 2026 for summer 2027; August\u2013September 2027 for summer 2028 (documented pattern; not yet posted)"
+      "window_text": "Not listed on October 11, 2026: no US internship posting was on Etsy's Workday careers portal that day. The August\u2013September 2026 estimate for summer 2027 came from the prior cycle (posted September 2025). Summer 2028: August\u2013September 2027 on the same pattern (estimate)"
     },
     {
       "name": "Expedia",
@@ -3543,14 +3543,14 @@
       "tracks_total": 6,
       "programs": "6+ internship tracks across Gas Power, Wind, Nuclear, Digital Technology, Commercial, Finance, and Grid",
       "no_formal_program": false,
-      "faq_open_answer": "They are open now: more than 50 requisitions titled 2027 were live on October 6, 2026 (most posted September 4 to 11), with end dates, where printed, running October 9 to November 30, 2026. Summer 2028 is not posted yet; if the Summer 2027 pattern repeats, expect the earliest Summer 2028 engineering postings between January and March 2027 and the main wave around September 2027, so monitor careers",
+      "faq_open_answer": "They are open now: 62 US intern and co-op requisitions titled 2027 were live on October 11, 2026 (most posted in September, the newest on October 9), with end dates, where printed, running October 30 to November 30, 2026. Summer 2028 is not posted yet; if the Summer 2027 pattern repeats, expect the earliest Summer 2028 engineering postings between January and March 2027 and the main wave around Se",
       "interview": "Expect 2 rounds over about 26 days total. The interview is a mix of behavioral and technical questions, though Glassdoor rates the difficulty at only 2.4 out of 5. You will likely meet with an HR representative and a team member on Zoom or Teams. Behavioral questions focus on leadership, teamwork, a",
       "visa": "No. All US internship postings state applicants must have \"the ability to work in the United States for an unlimited amount of time without sponsorship.\" This language is stricter than many other companies and likely exc",
       "window": [
         "2026-10",
         "2026-10"
       ],
-      "window_text": "Open now: more than 50 reqs titled 2027 on October 6, 2026 (38 naming summer, plus Spring and Fall 2027 co-ops), most posted September 4 to 11, 2026, with more added through October 2. No closing language; where an end date is printed it now runs October 9 to November 30, 2026, so check each req"
+      "window_text": "Open now for summer 2027: 62 US intern and co-op reqs titled 2027 were listed on October 11, 2026 (42 naming summer, plus Spring and Fall 2027 terms), most posted in September, the newest on October 9. No single deadline; where an end date is printed it runs October 30 to November 30, 2026, so check each req"
     },
     {
       "name": "Genentech",
@@ -3559,20 +3559,20 @@
       "career_urls": [
         "https://careers.gene.com/us/en/internship-opportunities"
       ],
-      "rolling": "Yes. Genentech posts positions on an ongoing basis from November through March and reviews applications as they arrive. Applying early maximizes your chances",
-      "pay": "$22 to $50 per hour depending on role, degree level, and year in school. Software engineer interns: $45/hr (Levels.fyi). Data science interns: $50/hr (Levels.fy",
+      "rolling": "Yes. Genentech posts positions on an ongoing basis, in prior cycles from November through March, and reviews applications as they arrive. A posting can still ca",
+      "pay": "$25\u2013$52/hr is the expected range printed on the two 2027 Summer Intern postings listed on October 11, 2026 (Quality Control and Hillsboro Technical Operations, ",
       "tech_tracks": "AI / ML Development Intern; Engineering & Manufacturing Intern",
       "tracks_total": 6,
       "programs": "4 major tracks: Life Sciences and Research, Engineering and Manufacturing, Data and Technology (computational biology, AI, bioinformatics), Business and Operations. Plus the Genentech Community College Internship Program",
       "no_formal_program": false,
-      "faq_open_answer": "Expect positions to begin posting in November 2026, with new roles added on an ongoing basis through March 2027. Most hiring decisions are finalized by the end of March. Those dates are projected from prior cycles and are not official yet. Set a job alert on careers.gene.com.",
+      "faq_open_answer": "The first two 2027 Summer Intern postings were listed on careers.gene.com on October 11, 2026, both in Hillsboro, Oregon: Quality Control (end date October 19, 2026) and Hillsboro Technical Operations (end date October 20, 2026). If either fits you, apply before its end date. Expect the main wave to begin posting in November 2026, with new roles added on an ongoing basis through March 2027. Most h",
       "interview": "You apply with a resume, cover letter, and letters of recommendation. Then a phone screen with HR, a call with the hiring manager (sometimes including a short research presentation), a knowledge interview on your field, and a behavioral round using the STAR method. The average time to offer is 37 da",
       "visa": "International students may apply. Visa sponsorship availability varies by position and department. You must be legally authorized to work in the US during the internship",
       "window": [
-        "2026-11",
-        "2027-03"
+        "2026-10",
+        "2026-10"
       ],
-      "window_text": "Expected November 2026 through March 2027 for summer 2027 roles. Most hiring decisions made by end of March. Projected from prior cycles"
+      "window_text": "Partly open: on October 11, 2026, two 2027 Summer Intern postings were listed, both in Hillsboro, Oregon, with end dates of October 19 and October 20, 2026. They are Quality Control and Hillsboro Technical Operations. The main wave of summer 2027 roles is expected November 2026 through March 2027, projected from prior cycles. Most hiring decisions made by end of March"
     },
     {
       "name": "General Dynamics",
@@ -3649,7 +3649,7 @@
       "career_urls": [
         "https://search-careers.gm.com/en/early-careers/internship-program/"
       ],
-      "rolling": "Yes. No fixed deadlines; postings remain open until the applicant pool is sufficient",
+      "rolling": "Per requisition. 32 of the 48 requisitions listed on October 11, 2026 carry a scheduled end date in GM's posting data, which the posting page itself does not di",
       "pay": "$5,300\u2013$10,600/mo by degree level + housing stipend for CA placements",
       "tech_tracks": "Software Engineering (Autonomous Driving); AI/ML Engineering; Manufacturing Engineering",
       "tracks_total": 6,
@@ -3659,10 +3659,10 @@
       "interview": "GM's hiring funnel averages 24 days from application to offer per Indeed data, though the full timeline spans 6\u20138 weeks when you count the rolling wait for assessment invitations: 1. Find and apply at search-careers.gm.com through the Workday portal. Upload your resume, use a permanent address (for ",
       "visa": null,
       "window": [
-        "2026-08",
-        "2026-09"
+        "2026-10",
+        "2026-10"
       ],
-      "window_text": "Open now for summer 2027: about 40 US requisitions posted August 17 to September 14, 2026; each req prints its own close date (Sales Intern closes October 9, 2026); start dates May 24 or June 14, 2027"
+      "window_text": "Open now for summer 2027: 48 US intern requisitions were listed on GM's Workday job board on October 11, 2026, with the nearest scheduled end dates on October 15 and 16, 2026. At least 26 requisitions have closed since postings began August 17, 2026, including Sales Intern (end date October 9, 2026) and the plant manufacturing engineering roles. Start dates May 24 or June 14, 2027"
     },
     {
       "name": "GitLab",
@@ -3753,7 +3753,7 @@
         "2027-08",
         "2027-08"
       ],
-      "window_text": "OPEN. Summer 2027 applications opened Aug 15, 2026 (Americas & EMEA, official); India opened Jul 1, 2026. Roles are live across IB, Global Markets, Engineering, AWM, Risk Management, and more. Rolling review. Summer 2028: expected ~Aug 15, 2027 (projected)"
+      "window_text": "Partly open: 41 US Summer Analyst postings for summer 2027 were listed on higher.gs.com on October 11, 2026, but not the Investment Banking or Sales and Trading ones. Listed divisions included Engineering, Risk, Operations, Compliance, Controllers, Internal Audit and the quantitative strats teams, and 13 US Summer Associate postings were listed too. Summer 2027 applications opened Aug 15, 2026 (Am"
     },
     {
       "name": "Google",
@@ -4467,14 +4467,14 @@
       "tracks_total": 4,
       "programs": "4 tracks: SWE, Data Science, ML PhD, and the APM rotational program",
       "no_formal_program": false,
-      "faq_open_answer": "Based on prior cycles, expect SWE and Data Science internship postings to appear in August\u2013September 2026, closing by mid-November. The APM program follows a separate timeline, typically opening for about 10 days in early March 2027. Instacart has not posted 2027 dates yet, so bookmark instacart.careers and set job alerts starting August 2026.",
+      "faq_open_answer": "No US internship posting for summer 2027 was listed on instacart.careers on October 11, 2026. The earlier estimate on this page of August\u2013September 2026 for SWE and Data Science postings, closing by mid-November, came from the prior cycle. The APM program follows a separate timeline, typically opening for about 10 days in early March 2027. Instacart has not posted 2027 dates yet, so bookmark insta",
       "interview": "SWE candidates go through a five-stage pipeline: resume screening, a 70-minute CodeSignal assessment with 4 tasks scored 300\u2013850, a 30-minute recruiter call, a 45\u201360 minute live coding screen via CoderPad, and a virtual onsite with 3\u20134 rounds covering coding, system design, behavioral, and a hiring ",
       "visa": null,
       "window": [
-        "2026-08",
-        "2027-06"
+        "2026-10",
+        "2027-08"
       ],
-      "window_text": "Expected Aug\u2013Sep 2026 for SWE/DS summer 2027; APM: ~10 days in early March 2027 (documented pattern; not yet posted)"
+      "window_text": "Not posted as of October 11, 2026: no US internship posting for summer 2027 was listed on instacart.careers on that date. The earlier Aug\u2013Sep 2026 estimate for SWE/DS came from the prior cycle; APM: ~10 days in early March 2027 (documented pattern; not yet posted)"
     },
     {
       "name": "Intel",
@@ -4493,10 +4493,10 @@
       "interview": "Intel's hiring funnel is multi-stage but moves quickly once it starts, averaging about 23 days from application to offer according to Glassdoor data: 1. Apply at jobs.intel.com via the Workday portal. Submit a single-column resume (Workday ATS compatibility), apply to 5 to 8 positions across multipl",
       "visa": "Intel does not sponsor H-1B visas for internships, but F-1 CPT is actively supported and roughly 30 to 40% of the intern population consists of international students using CPT authorization. Check each posting individua",
       "window": [
-        "2026-10",
+        "2027-06",
         "2027-06"
       ],
-      "window_text": "In progress: 16 US PhD intern reqs and 1 master's (Operations Research, Phoenix) live on October 2, 2026, posted September 9 to October 1 (the 2027-titled Module Engineering PhD req closes October 7, 2026); undergraduate summer 2027 wave expected this fall (rolling; high-demand roles have closed by November in prior cycles)"
+      "window_text": "Open now for summer 2027: seven Bachelor's and six graduate program requisitions for Spring and Summer 2027 starts were listed on Intel's Workday board on October 11, 2026. Also listed that day: an AI Solution Architect undergraduate intern requisition in Hillsboro (posted October 7, 2026), 22 PhD-specific US intern requisitions and four Master's-specific ones. The program requisitions carry posti"
     },
     {
       "name": "Intuit",
@@ -4599,14 +4599,14 @@
       "tracks_total": 6,
       "programs": "10+ tracks: Technology, R&D, Supply Chain, Finance, Marketing, Commercial (CLDP), MedTech Engineering, Global Market Access, Data Science, Enterprise Quality",
       "no_formal_program": false,
-      "faq_open_answer": "They are open now. The Finance Internship / FLDP pipeline posted in July 2026, and the main wave followed on September 15 to 19, 2026: more than 110 US intern and co-op requisitions for Spring and Summer 2027 (MedTech, R&D, Process Engineering, Data Science, Software Engineering, Supply Chain) are live on careers.jnj.com as of October 6, 2026. The earliest apply-by dates (October 1) have passed; t",
+      "faq_open_answer": "They are already open, and the earliest postings have closed. The Finance Internship / FLDP pipeline posted in July 2026, and the main wave followed on September 15 to 19, 2026: 127 US intern and co-op requisitions for 2027, 46 of them summer internships (MedTech, R&D, Process Engineering, Data Science, Software Engineering, Supply Chain) were listed on careers.jnj.com on October 11, 2026. The ear",
       "interview": "You apply online, complete a HireVue pre-recorded video with three behavioral questions, then have two to four live video interviews covering technical skills and Credo alignment. Competitive tracks may include a Superday with three to five stakeholder meetings. Average time to offer is about 19 day",
       "visa": "Most undergraduate roles require permanent U.S. work authorization. Advanced-degree roles (PhD, PharmD) may support CPT/OPT on a case-by-case basis. Check each specific posting",
       "window": [
-        "2026-09",
-        "2026-09"
+        "2026-10",
+        "2027-06"
       ],
-      "window_text": "Open now: the main 2027 wave posted September 15 to 19, 2026, and more than 110 US intern and co-op requisitions are live on careers.jnj.com as of October 6 (Spring 2027 and Summer 2027 co-ops, Summer 2027 interns, Finance Internship). Each requisition prints its own apply-by date: the October 1 ones have closed, and live ones end October 7, 2026 to January 8, 2027, about three in four in October."
+      "window_text": "Open now for summer 2027: careers.jnj.com listed 46 US summer internship postings and 81 co-op postings on October 11, 2026, with end dates from October 13, 2026 to January 8, 2027. The main 2027 wave posted September 15 to 19, 2026 (Spring 2027 and Summer 2027 co-ops, Summer 2027 interns, Finance Internship). Each requisition prints its own end date, so apply before it: the October 1 ones have cl"
     },
     {
       "name": "Jane Street",
@@ -4732,19 +4732,19 @@
         "https://www.kaiserpermanentejobs.org/category/internships-jobs/641/48394/1"
       ],
       "rolling": "Most tracks are not strictly rolling. KP LAUNCH and Business/IT have fixed windows with a single deadline. Research reviews after the close. Administrative Fell",
-      "pay": "$21 to $42 per hour depending on track and level (Glassdoor, Indeed). KP LAUNCH College: $25\u2013$29 per hour. Business/IT interns average around $42 per hour per G",
+      "pay": "$25.09\u2013$29.16/hr for KP LAUNCH College interns, based on education year, as listed on the KP LAUNCH site on October 11, 2026. The one IT internship listed on ka",
       "tech_tracks": null,
       "tracks_total": 6,
       "programs": "6+ tracks: KP LAUNCH, Business/IT, Research & Evaluation, Community Health, Pharmacy, Administrative Fellowship, plus clinical placements",
       "no_formal_program": false,
-      "faq_open_answer": "It depends on the track. KP LAUNCH is expected to open mid-November 2026 and close early January 2027. Business/IT roles typically post January through April 2027. Research & Evaluation posts February through March 2027. The Administrative Fellowship opened July 6, 2026 and closes August 31, 2026. All dates are projected from prior-cycle timelines.",
+      "faq_open_answer": "It depends on the track. KP LAUNCH lists its summer 2027 application as opening November 16, 2026 and closing January 8, 2027. Business/IT roles typically post January through April 2027. Research & Evaluation posts February through March 2027. The Administrative Fellowship opened July 6, 2026 and closed August 31, 2026. The KP LAUNCH dates are the ones posted on the KP LAUNCH site on October 11, ",
       "interview": "Glassdoor rates intern interviews at 2.7 out of 5 difficulty, and 72% of candidates report a positive experience. Expect a 30- to 45-minute interview with 6 to 8 questions, a mix of behavioral (STAR format) and role-specific. The tone is conversational. IT roles may include technical scenario questi",
       "visa": "Not typically offered for internship programs. Applicants must provide proof of eligibility to work in the United States. CPT/OPT not explicitly confirmed for intern roles",
       "window": [
-        "2027-01",
-        "2027-04"
+        "2026-11",
+        "2026-11"
       ],
-      "window_text": "Varies by track. Business/IT: expected January to April 2027. KP LAUNCH: expected November 2026 to January 2027. Research: expected February to March 2027. Administrative Fellowship: expected July to August 2026. All projected from prior-cycle dates"
+      "window_text": "Varies by track. On October 11, 2026, no posting on kaiserpermanentejobs.org named summer 2027. KP LAUNCH: opens November 16, 2026 and closes January 8, 2027, per the KP LAUNCH site. Business/IT: expected January to April 2027. Research: expected February to March 2027. Administrative Fellowship: closed August 31, 2026 for programs starting in 2027. Business/IT and Research months follow Kaiser Pe"
     },
     {
       "name": "Kellanova",
@@ -5339,19 +5339,19 @@
         "https://careers.mastercard.com/us/en/internships"
       ],
       "rolling": "Yes. Mastercard reviews applications on a rolling basis. Roles close once filled, so applying early is the clearest edge",
-      "pay": "$29 to $44 per hour depending on role and location (Levels.fyi). $2,000 sign-on bonus reported for US roles. Housing and transportation benefits available for s",
+      "pay": "$25\u2013$46/hr base pay printed across the 8 US Summer 2027 intern postings listed on October 11, 2026. Four St. Louis roles (Site Reliability Engineering, Enterpri",
       "tech_tracks": "Software Engineer Intern; Data Science & Analytics Intern; Cybersecurity Intern",
       "tracks_total": 6,
       "programs": "6+ tracks: Software Engineering, Data Science & Analytics, Product Management, Associate Consultant (Consulting), Cybersecurity, Marketing & Communications",
       "no_formal_program": false,
-      "faq_open_answer": "For summer 2027 they opened in June 2026 and the main US wave has closed. Mastercard posts intern roles on a rolling, as-needed basis, the US summer 2027 reqs went live on the Workday portal from around June 2026, and the last US one (Sales Analyst Intern, Summer 2027, New York) came down in mid-September 2026. As of October 1, 2026 the only US req left is a late Product Management Intern, Summer ",
+      "faq_open_answer": "For summer 2027 they opened in June 2026, and US postings were still listed on October 11, 2026. Mastercard posts intern roles on a rolling, as-needed basis, and the US summer 2027 reqs went live on the Workday portal from around June 2026. An earlier wave of US reqs was gone by September 21, 2026 (the Sales Analyst Intern, Summer 2027 req in New York came down in mid-September), and two late Prod",
       "interview": "You apply, complete a recruiter phone screen (15 to 30 minutes), take a 60- to 90-minute online assessment on HackerRank or Codility with 2 to 3 coding problems, then 1 to 2 technical interviews plus a behavioral round focused on the Decency Quotient. Average time from application to offer is about ",
-      "visa": "Most US internship postings require authorization to work in the US for the duration of the program without Mastercard sponsorship. CPT-based F-1 authorization is generally accepted. Check each posting",
+      "visa": "Not available on the US Summer 2027 intern postings, and F-1 students are excluded. All 8 postings listed on October 11, 2026 print: \"This role is not eligible for Mastercard's work authorization sponsorship. As such, ca",
       "window": [
-        "2027-06",
-        "2027-06"
+        "2026-10",
+        "2026-10"
       ],
-      "window_text": "Mostly closed for summer 2027: the main US wave posted rolling from ~June 2026 and was gone by Sep 21, 2026. Of two late Product Management Intern, Summer 2027 reqs, one is still live as of Oct 1, 2026: St. Louis (R-287625-1, closes Oct 6, 2026). The Purchase, NY and Arlington, VA req (R-287624-1) closed Sep 28. Summer 2028 roles expected to start posting ~June 2027. Mastercard posts and fills on "
+      "window_text": "Partly open for summer 2027: 8 US intern postings were listed on Mastercard's Campus Workday portal on October 11, 2026 (5 in St. Louis, 1 each in Arlington, VA, San Francisco and Purchase, NY), mostly security, engineering and operations roles. Five of them posted October 5 to 7, 2026. Seven show no end date; the Marketing and Communications Intern posting in Purchase prints an end date of Octobe"
     },
     {
       "name": "McCann",
@@ -5983,14 +5983,14 @@
       "tracks_total": 7,
       "programs": "Engineering, Data Science, Supply Chain, Software, Design, and corporate tracks across 8+ locations",
       "no_formal_program": false,
-      "faq_open_answer": "Based on the Summer 2026 cycle, expect postings to appear on Nissan's Alliance Workday portal starting August to September 2026, with most positions closing by October to December 2026 as they fill. Check the portal at alliance.wd3.myworkdayjobs.com and follow Nissan on Handshake early in fall 2026.",
+      "faq_open_answer": "Applications for Summer 2027 opened in fall 2026. On October 11, 2026, Nissan's Alliance Workday portal listed 45 US Summer 2027 intern postings: one posted September 25, 2026 and 44 posted October 7 to 9, 2026. None prints a closing date. In the Summer 2026 cycle, most positions closed from October to December as they filled, so apply early. Check the portal at alliance.wd3.myworkdayjobs.com and ",
       "interview": "The process is relatively straightforward. After applying online, selected candidates have a recruiter phone or video screen, followed by an interview with the hiring manager (sometimes a panel of 2 to 3 people). Glassdoor rates the difficulty at 2.4 out of 5 for Nissan North America intern roles wi",
       "visa": "No. Multiple Nissan internship postings explicitly state no sponsorship. Candidates must be legally authorized to work in the United States without employer sponsorship. E-Verify is used to validate employment eligibilit",
       "window": [
-        "2026-08",
-        "2026-10"
+        "2027-06",
+        "2027-10"
       ],
-      "window_text": "Expected August\u2013October 2026 for Summer 2027 (documented pattern; not yet posted)"
+      "window_text": "Open now for summer 2027: 45 US intern postings titled Summer 2027 were listed on the Alliance Workday portal on October 11, 2026, most posted October 7 to 9, 2026. No closing date is printed on the postings."
     },
     {
       "name": "Nomura",
@@ -6408,14 +6408,14 @@
       "tracks_total": 6,
       "programs": "8+ tracks: Software Engineering, Security Research, Data Science/AI, Cybersecurity Engineering, Systems Engineering, Product Management, Sales/Marketing, plus the 1-year LEAP early-career program",
       "no_formal_program": false,
-      "faq_open_answer": "Expect most roles to post in early August 2026, with the priority window running August to September 2026. About 70% of positions fill in the first 6 to 8 weeks. Those dates are projected from the prior cycle and aren't official yet. Set a job alert on jobs.paloaltonetworks.com.",
+      "faq_open_answer": "Our estimate from the prior cycle was early August 2026, with a priority window of August to September 2026. On October 11, 2026, Palo Alto Networks' Workday job board listed 24 US intern postings that were accepting applications, but none named a summer 2027 term and all showed posting dates between January 24 and February 3, 2026. The early careers page gave no summer 2027 opening date that day.",
       "interview": "You apply, do a 20 to 30 minute recruiter phone screen, take a 60 to 90 minute technical assessment on HackerRank or CodeSignal (2 to 3 LeetCode-medium problems with possible security twists), go through 1 to 2 technical interviews, then a 45 to 60 minute behavioral/hiring manager final. Average tim",
       "visa": "U.S. work authorization required. F-1 CPT available; OPT with STEM extension supported; H-1B for full-time transitions",
       "window": [
-        "2026-08",
-        "2026-08"
+        "2026-10",
+        "2027-06"
       ],
-      "window_text": "Expected early August 2026 for most roles. Priority window August to September 2026; many close by mid-November. Projected from prior cycle, not yet posted"
+      "window_text": "Not confirmed for summer 2027 as of October 11, 2026: 24 US intern postings were listed on Palo Alto Networks' Workday job board and accepting applications, but none names a summer 2027 term. All 24 show posting dates between January 24 and February 3, 2026. The earlier estimate of early August 2026 came from the prior cycle"
     },
     {
       "name": "Paramount",
@@ -7540,20 +7540,20 @@
         "https://www.samsung.com/us/careers/internships/",
         "https://sra.samsung.com/internships/"
       ],
-      "rolling": "Semi-rolling. Samsung encourages checking year-round, but most positions fill during defined windows. SAS has a firm deadline (~late March). SRA posts with spec",
+      "rolling": "Semi-rolling. Samsung encourages checking year-round, but most positions fill during defined windows. SAS had a firm deadline (~late March) in the prior cycle; ",
       "pay": "$27 to $63/hr depending on division and role. SWE ~$62/hr (Levels.fyi); SRA research $48 to $63/hr (official JD); SAS engineering ~$30/hr. Housing stipend and r",
       "tech_tracks": "SRA AI/ML Research Intern; SRA Software Engineering Intern; SAS Engineering Summer Intern; SDS Cloud/AI Intern",
       "tracks_total": 7,
       "programs": "7 tracks: SRA AI/ML Research, SRA Software Engineering, SEA Summer Internship, SAS Engineering, SAS Fab Intern, SDS Cloud/AI, Samsung NEXT VC",
       "no_formal_program": false,
-      "faq_open_answer": "Expected: Samsung Austin Semiconductor around August 2026 with a deadline around late March 2027; Samsung Research America research roles around October 2026; Samsung Electronics America summer postings around January 2027. These dates are projected from the 2026 cycle and are not yet official.",
+      "faq_open_answer": "Samsung Austin Semiconductor posted its 2027 Summer Internship on August 4, 2026. The posting was accepting applications on October 11, 2026 and prints an end date of May 31, 2027 (the deadline fell around late March in the prior cycle). On October 11, 2026, Samsung Research America's internship board listed no specific intern role, only a general posting for sharing a resume, and Samsung Electron",
       "interview": "There is no standardized coding assessment across Samsung. Samsung Research America interviews focus on your research publications, design choices, and a project proposal with a potential mentor. Samsung Electronics America uses a short skills test plus two interviews covering behavioral and technic",
       "visa": "SRA JDs state applicants need legal US work authorization or visa sponsorship eligibility. Samsung has a track record of H-1B sponsorship for full-time roles; F-1 CPT is the typical intern path",
       "window": [
-        "2026-08",
-        "2026-08"
+        "2026-10",
+        "2027-05"
       ],
-      "window_text": "Expected: SAS and some SRA roles open ~Aug 2026; SEA summer postings ~Jan 2027; SRA research reqs ~Oct 2026. Projected from the 2026 cycle, not yet posted"
+      "window_text": "Partly open: on October 11, 2026, Samsung Austin Semiconductor (SAS) listed one 2027 Summer Internship posting, posted August 4, 2026, with a printed end date of May 31, 2027. Samsung Research America (SRA) and Samsung Electronics America (SEA) listed no intern roles that day; the SRA internship board carried only a general posting for sharing a resume. SRA research reqs ~Oct 2026 and SEA summer p"
     },
     {
       "name": "SAP",
@@ -7595,10 +7595,10 @@
       "interview": "Typically: a recruiter screen, a HackerRank OA with 1-2 medium-hard coding problems in 60 minutes, then a final loop covering coding, system design, and behavioral questions. The system design round is reportedly the hardest, focusing on data pipelines and throughput at scale. Some intern candidates",
       "visa": "Scale AI requires U.S. work authorization for most roles. The Technical Advisor track specifies 'fully remote within the U.S.' and public-sector roles may require security clearance. Scale doesn't explicitly confirm visa",
       "window": [
-        "2026-08",
-        "2026-10"
+        "2027-06",
+        "2027-06"
       ],
-      "window_text": "Applications for summer 2027 expected to open August to October 2026 (rolling; not yet posted)"
+      "window_text": "Open now for summer 2027: Scale AI's Software Engineering Intern (Summer 2027) posting for San Francisco went live September 4, 2026 and was still listed on October 11, 2026. No deadline is printed on the posting, and no other US intern track was listed that day."
     },
     {
       "name": "Schlumberger (SLB)",
@@ -7681,14 +7681,14 @@
       "tracks_total": 6,
       "programs": "15+ disciplines across Technical (Chemical, Mechanical, Electrical, Process, Petroleum, Well, Project Engineering, Geoscience, R&D) and Commercial (Trading, Finance, HR, IT, Sales & Marketing, Contracting & Procurement, Business Development)",
       "no_formal_program": false,
-      "faq_open_answer": "The 2027 Assessed Internship Program is already appearing globally as of July 2026. US-specific summer 2027 postings are expected in the fall 2026 to early 2027 window, projected from the 2026 cycle which posted in January 2026. Set a job alert on shell.com/careers.",
+      "faq_open_answer": "The US application opened on August 21, 2026, when Shell posted Shell Assessed Internship Program 2027 - United States. On October 11, 2026 it was the only US internship posting on Shell's job board and it was accepting applications, with no closing date shown. Shell states it may withdraw a job before the advertised closing date, so apply early on shell.com/careers.",
       "interview": "You apply online (5 to 10 minutes), complete four HireVue game-based assessments (20 minutes), then a Virtual Job Tryout plus On-Demand Video Interview (40 minutes), and finally a live case-study presentation with two Shell professionals. Average time from application to hire is about 120 days.",
       "visa": "Limited. US positions require US citizenship, permanent residency, or valid work authorization. Candidates on temporary visas (H-1, F-1, J-1) are generally not eligible. Limited PhD sponsorship in certain disciplines",
       "window": [
-        "2026-11",
-        "2027-02"
+        "2026-08",
+        "2026-10"
       ],
-      "window_text": "Expected late 2026 to early 2027 for US summer 2027 roles. The 2026 US program posted in January 2026; the 2027 cycle is already appearing globally as of July 2026. Projected from prior cycles"
+      "window_text": "Open now for summer 2027: the Shell Assessed Internship Program 2027 - United States posting went live on August 21, 2026 and was accepting applications on October 11, 2026. The posting shows no closing date. For comparison, the 2026 US program posted in January 2026"
     },
     {
       "name": "Shopify",
@@ -7698,20 +7698,20 @@
         "https://www.shopify.com/careers",
         "https://internships.shopify.com/"
       ],
-      "rolling": "Yes. Applications reviewed on a rolling basis, and postings warn they \"may close before the stated closing date\"",
-      "pay": "US: $42\u2013$45/hr + $1,000\u2013$2,500/mo housing stipend; Canada: CAD $27\u2013$35/hr",
+      "rolling": "Yes. Applications reviewed on a rolling basis, and postings warn they \"may close before the stated closing date\". The two US summer 2027 postings listed on Octo",
+      "pay": "$85,000\u2013$93,700/year base pay range for US locations (US Software Engineering Internships Summer 2027) and $103,000\u2013$111,000/year (US Applied Machine Learning E",
       "tech_tracks": "Software Engineering; Data Engineering; Product Data Science; Applied ML Engineering; Infrastructure Engineering; Security Engineering",
       "tracks_total": 6,
       "programs": "6 engineering tracks (SWE, Data Eng, Product Data Sci, Applied ML, Infrastructure, Security) plus the 4-year Dev Degree",
       "no_formal_program": false,
-      "faq_open_answer": "Based on the 2026 cycle, expect US summer internship postings to open around August\u2013September 2026 for a June 2027 start. Fall and winter terms open 4\u20135 months before start dates. Shopify has not posted 2027 dates yet, so join the Early Talent Community at internships.shopify.com and check shopify.com/careers regularly starting August 2026.",
+      "faq_open_answer": "They opened in September 2026. Shopify posted US Applied Machine Learning Engineering Internships Summer 2027 on September 21, 2026 and US Software Engineering Internships Summer 2027 on September 28, 2026. Both were listed on shopify.com/careers on October 11, 2026, and both state that applications close on October 12, 2026 at 11:59pm EDT. Fall and winter terms open 4\u20135 months before start dates,",
       "interview": "Shopify\u2019s funnel is faster than most big tech and distinctly different from the standard LeetCode gauntlet, averaging 3\u20135 weeks from application to decision: 1. Apply at shopify.com/careers with a resume, application questions, your LinkedIn, and a personal website or GitHub link. Shopify\u2019s postings",
       "visa": "No. Every internship posting states you must be legally entitled to work in the hiring country for the full duration. Shopify doesn't provide immigration sponsorship for intern candidates. However, candidates on existing",
       "window": [
-        "2026-08",
-        "2026-09"
+        "2027-01",
+        "2027-03"
       ],
-      "window_text": "Expected August\u2013September 2026 for summer 2027; fall 2027 postings expected January\u2013March 2027 (documented pattern; not yet posted)"
+      "window_text": "CLOSING: two US summer 2027 postings state that applications close on October 12, 2026 at 11:59pm EDT. Both were listed on shopify.com/careers on October 11, 2026: US Applied Machine Learning Engineering Internships Summer 2027 (posted September 21, 2026) and US Software Engineering Internships Summer 2027 (posted September 28, 2026). Fall 2027 postings expected January\u2013March 2027 (documented patt"
     },
     {
       "name": "Siemens",
@@ -7743,20 +7743,20 @@
         "https://sierra.ai/early-career-program",
         "https://jobs.ashbyhq.com/Sierra"
       ],
-      "rolling": "Yes. Sierra reviews applications on a rolling basis. From their FAQ: 'We encourage you to apply early to avoid missing out.' No fixed deadline; positions may cl",
+      "rolling": "Yes. An earlier version of Sierra's FAQ said applications are reviewed on a rolling basis and added: 'We encourage you to apply early to avoid missing out.' Tha",
       "pay": "Estimated $55 to $75 per hour ($11,000 to $15,000/month) based on comparable AI startup benchmarks. Not confirmed by Sierra. Full-time SWE median total comp is ",
       "tech_tracks": "Agent Engineering (Early Career); Software Engineer (General)",
       "tracks_total": 4,
       "programs": "3 tracks: APX Program (associate product), Agent Engineering (software engineering), and Intern, Agent Development (seasonal internship cohort)",
       "no_formal_program": false,
-      "faq_open_answer": "Expect postings in August or September 2026 on the Ashby ATS and Sierra careers page. Applications are reviewed on a rolling basis, with interviews wrapping by December. Apply early; Sierra explicitly encourages it.",
+      "faq_open_answer": "The Software Engineer Intern, Agent (Summer 2027) posting went up on the Ashby ATS on August 31, 2026 and was still listed there and on the Sierra careers page on October 11, 2026, with no closing date printed. Applications are reviewed on a rolling basis, with interviews wrapping by December. Apply early; an earlier version of Sierra's FAQ encouraged it, though that wording was not on the FAQ on ",
       "interview": "You apply, complete a take-home or online technical assessment, then attend in-person onsite interviews at a Sierra office. Onsites include coding rounds (LeetCode medium-to-hard), system design for AI agents, and behavioral questions aligned with Sierra's five values. Glassdoor rates the difficulty",
       "visa": "Sierra sponsors visas but cannot guarantee sponsorship for every candidate. From their FAQ: 'We'll do our best to support your visa process.' Relocation assistance available",
       "window": [
-        "2026-08",
-        "2026-09"
+        "2027-06",
+        "2027-06"
       ],
-      "window_text": "Expected August to September 2026 for summer 2027 roles. Rolling review with interviews wrapping by December 2026. Projected from the Fall 2026 cycle"
+      "window_text": "Open now for summer 2027: the Software Engineer Intern, Agent (Summer 2027) posting, dated August 31, 2026, was listed on Sierra's job board on October 11, 2026. No closing date is printed on the posting. Rolling review with interviews wrapping by December 2026, a timeline projected from the Fall 2026 cycle"
     },
     {
       "name": "Sierra Space",
@@ -8032,7 +8032,7 @@
         "https://www.spacex.com/careers/jobs/?keyword=internship"
       ],
       "rolling": "Yes. No fixed cohort deadlines. Apply within 48\u201372 hours of a posting going live for best odds",
-      "pay": "$28\u2013$40/hr undergrad (varies by level); $83K\u2013$100K annualized for graduate interns",
+      "pay": "$24.50\u2013$40/hr by posting and academic level, as printed in the Summer 2027 postings listed on October 11, 2026: Engineering and Civil Engineering $28.00 to $30.",
       "tech_tracks": "Engineering Intern; Software Engineering Intern; Graduate Engineer Intern",
       "tracks_total": 6,
       "programs": null,
@@ -8041,10 +8041,10 @@
       "interview": "SpaceX's interview funnel is technically demanding and project-depth-driven. The total process runs 4 to 12 weeks from application to offer, with Glassdoor reporting an average of 17 days for intern roles: 1. Apply at spacex.com/careers within 48 to 72 hours of a posting going live. Submit your resu",
       "visa": "No. SpaceX requires U.S. Person status under ITAR regulations. F-1 visa holders are ineligible regardless of CPT or OPT work authorization. H-1B holders are generally ineligible. SpaceX does not sponsor work visas for in",
       "window": [
-        "2026-08",
-        "2026-09"
+        "2026-10",
+        "2026-10"
       ],
-      "window_text": "Applications for summer 2027 expected to open late Aug\u2013Sep 2026 (projected from prior cycle); rolling admissions, positions fill as qualified candidates found"
+      "window_text": "Open now for summer 2027: six Summer 2027 internship postings were listed on SpaceX's job board on October 11, 2026, each first published August 3, 2026. No closing date is printed; rolling admissions, positions fill as qualified candidates found"
     },
     {
       "name": "Splunk",
@@ -8053,7 +8053,7 @@
       "career_urls": [
         "https://careers.cisco.com/global/en/splunk"
       ],
-      "rolling": "Yes, confirmed. Splunk posts roles in early September and fills them progressively through February. Apply in the first weeks",
+      "rolling": "Yes, confirmed. In prior cycles Splunk posted roles in early September and filled them progressively through February. The US posting listed on October 11, 2026",
       "pay": "SWE intern $42 to $60/hr ($7,280 to $10,400/mo) depending on location. Housing stipends $2,000 to $6,000 for select offices",
       "tech_tracks": "Software Engineering Intern (Backend/Full-Stack); C++ Software Engineer Intern; Solutions Engineer Intern; Security Engineering Intern; Data Science Intern",
       "tracks_total": 6,
@@ -8063,10 +8063,10 @@
       "interview": "A recruiter phone screen (15 to 30 minutes), then a Karat technical assessment (15-minute MCQ quiz plus 60-minute live coding), then a hiring manager behavioral interview (45 to 60 minutes). Some roles add a virtual onsite with 2 to 4 additional rounds. Total timeline is 3 to 5 weeks from first cont",
       "visa": "Roles available in US, Canada, UK, Germany, Poland, Australia, Japan, Singapore. US roles likely require valid work authorization (CPT for F-1 students)",
       "window": [
-        "2026-09",
-        "2026-09"
+        "2026-10",
+        "2026-10"
       ],
-      "window_text": "Applications for summer 2027 expected to open early September 2026, rolling through February 2027. Projected from prior cycles, not yet posted"
+      "window_text": "Partly open: on October 11, 2026, one US Splunk intern posting was accepting applications on careers.cisco.com, Splunk Solutions Engineer (Intern) - United States, posted October 7, 2026. It names no summer and no closing date, and says applications are accepted until further notice. No Splunk-branded software engineering intern posting was listed that day. The earlier estimate of an early Septemb"
     },
     {
       "name": "Spotify",
@@ -8142,20 +8142,20 @@
       "career_urls": [
         "https://apply.starbucks.com/careers?query=intern"
       ],
-      "rolling": "Partially. Starbucks reviews applications on a priority basis through October, then continues on a rolling basis until positions are filled. Technology and supp",
+      "rolling": "Partially. In the prior cycle Starbucks reviewed applications on a priority basis through October, then continued on a rolling basis until positions were filled",
       "pay": "$25 to $45 per hour depending on role and level. Technology roles $28 to $45 per hour (Levels.fyi reports $28/hr for SWE interns, Summer 2023). Corporate housin",
       "tech_tracks": "Technology Intern",
       "tracks_total": 6,
       "programs": "6+ tracks: Technology (SWE, Data Science), Supply Chain, Marketing, Finance & Accounting, Human Resources, MBA (Store Operations, Product Experience, Digital)",
       "no_formal_program": false,
-      "faq_open_answer": "Expect most roles to open in late August 2026, with a priority review window through October 2026. Some postings may remain active through December 2026. Those dates are projected from the Summer 2026 cycle and are not official yet. Set up job alerts on apply.starbucks.com.",
+      "faq_open_answer": "No US internship posting was listed on apply.starbucks.com on October 11, 2026. The earlier estimate (late August 2026 opening, priority review through October 2026, some postings active through December 2026) was projected from the Summer 2026 cycle and is not official. Starbucks\u2019s internships page says applications open around fall each year. Set up job alerts on apply.starbucks.com.",
       "interview": "You apply, complete a recruiter phone screen (15 to 20 minutes), then 2 to 3 behavioral interview rounds (45 to 60 minutes each) using the STAR method. Technology roles add a coding assessment. The total process spans 6 to 10 weeks. Glassdoor rates difficulty at 2.2 out of 5.",
       "visa": "Limited. CPT may be supported for F-1 students on a case-by-case basis, but most postings state sponsorship is not provided. Check the work-authorization line on each specific role",
       "window": [
-        "2026-12",
+        "2026-10",
         "2026-12"
       ],
-      "window_text": "Expected late August 2026 for summer 2027 roles. Priority review through October 2026, with some postings remaining open through December 2026. Projected from prior cycle"
+      "window_text": "Not posted as of October 11, 2026: no US internship posting was listed on apply.starbucks.com that day. The earlier estimate (late August 2026 opening, priority review through October 2026, some postings open through December 2026) was projected from the prior cycle. Starbucks\u2019s internships page says applications open around fall each year"
     },
     {
       "name": "State Street",
@@ -8440,14 +8440,14 @@
       "tracks_total": 6,
       "programs": "12+ tracks across U.S. and Canada: Investment Banking, Capital Markets, CIB Credit, Corporate Banking, Global Markets (Equities, Fixed Income, Municipals), M&A, Global Transaction Banking, Operations, Technology, and the Quantitative Rotational Program (graduate level)",
       "no_formal_program": false,
-      "faq_open_answer": "For TD Securities investment banking, expect U.S. summer analyst postings to go live between August and October 2027, with rolling interviews running from February through March 2028. For summer 2027, TD Cowen posted one late Investment Banking Summer Analyst role (Healthcare, San Francisco) on September 29, 2026, listed to close October 11, 2026. Outside IB, Finance, Risk and Audit in TD's US 202",
+      "faq_open_answer": "For TD Securities investment banking, expect U.S. summer analyst postings to go live between August and October 2027, with rolling interviews running from February through March 2028. On October 11, 2026, no summer 2028 IB Summer Analyst posting was listed on TD's Workday portal. Sophomores have one early route: the 2027 Invest in Success Program in New York (Class of 2029), a two-day program on J",
       "interview": "You apply, pass an initial screening review, then complete a 30-minute first-round phone or video interview with one to two bankers (behavioral plus technical), followed by a Superday with three back-to-back 30-minute interviews with MDs, Directors, and Analysts. Offers arrive within one to two week",
       "visa": "Mixed. Global Markets accepts U.S. Student Visa holders. IB and CIB Credit state no employer sponsorship needed. Check each track's posting carefully",
       "window": [
         "2027-08",
         "2027-10"
       ],
-      "window_text": "IB Summer Analyst (summer 2028): expected August to October 2027, not yet posted. On the board as of October 6, 2026: one late 2027 IB Summer Analyst role (TD Cowen Healthcare, San Francisco), posted September 29, end date October 11, 2026; US 2027 Summer Internship Program, non-IB: Finance, Risk and Audit closed October 2, Commercial Banking reposted (end dates October 14 and 17), Global Technolo"
+      "window_text": "Not posted as of October 11, 2026: the IB Summer Analyst posting for summer 2028 (expected August to October 2027). Listed on TD's board on October 11, 2026: the 2027 Invest in Success Program in New York, a two-day program for sophomores (Class of 2029) with guaranteed interviews for the 2028 U.S. Summer Analyst Program, application deadline October 28, 2026; US 2027 Summer Internship Program, no"
     },
     {
       "name": "Tempus AI",
@@ -8658,19 +8658,19 @@
         "https://job-boards.greenhouse.io/togetherai"
       ],
       "rolling": "Not stated. Positions close once filled; no fixed deadline published for most roles",
-      "pay": "$58\u201363/hr engineering/research; $43/hr marketing; $35/hr operations, plus housing stipend",
+      "pay": "$58\u2013$70/hr across the six Summer 2027 postings listed on October 11, 2026: $58/hr for Software Engineer Intern and Software Development In Test Intern, $58 to $",
       "tech_tracks": "Software Engineer Intern; Security Engineer Intern",
       "tracks_total": 7,
       "programs": "10+ intern roles across engineering, research, marketing, and operations in the 2026 cycle",
       "no_formal_program": false,
-      "faq_open_answer": "Expected October through December 2026, based on the 2026-cycle pattern where summer postings appeared in late 2025 and early 2026. Together AI doesn't publish a fixed recruiting calendar, so check the Greenhouse board regularly starting October 2026. Positions close once filled.",
+      "faq_open_answer": "They opened in September 2026. Six Summer 2027 intern postings were first published on Together AI's Greenhouse board on September 18, 2026, and all six were still listed on October 11, 2026. None of them prints an application deadline, and positions close once filled. Together AI doesn't publish a fixed recruiting calendar, so check the Greenhouse board for the roles that are live.",
       "interview": "For research interns, expect a PyTorch-based coding screen focused on ML-systems problems rather than traditional LeetCode. For engineering interns, expect coding interviews on distributed systems and full-stack development. The overall difficulty is rated 8 out of 10, comparable to Nvidia core GPU ",
       "visa": null,
       "window": [
         "2026-10",
-        "2026-12"
+        "2026-10"
       ],
-      "window_text": "Expected October\u2013December 2026, based on 2026-cycle cadence (not yet posted)"
+      "window_text": "Open now for summer 2027: Six Summer 2027 intern postings were listed on Together AI's Greenhouse board on October 11, 2026, all first published September 18, 2026. None of the six prints an application deadline."
     },
     {
       "name": "TotalEnergies",
@@ -9267,13 +9267,13 @@
       "programs": "10+ department tracks including SWE, Data Science, Merchandising, Supply Chain, Finance, plus the Sophomore Summit",
       "no_formal_program": false,
       "faq_open_answer": null,
-      "interview": "Walmart runs two distinct funnels depending on whether you're applying for a corporate/business track or a Walmart Global Tech/SWE track: 1. Apply at careers.walmart.com when summer 2027 postings go live (expected early August 2026). Each posting typically closes within 30 days. 2. Online assessment",
+      "interview": "Walmart runs two distinct funnels depending on whether you're applying for a corporate/business track or a Walmart Global Tech/SWE track: 1. Apply at careers.walmart.com . Summer 2027 postings started going live on August 25, 2026, and 17 US intern requisitions were listed on October 11, 2026. Ten p",
       "visa": "No. Walmart doesn't provide visa sponsorship (H-1B, TN) for internship roles. International students on CPT or OPT are eligible, provided they have valid work authorization during the full internship period.",
       "window": [
-        "2026-08",
-        "2026-09"
+        "2026-10",
+        "2027-08"
       ],
-      "window_text": "Open now for summer 2027: 24 US Summer 2027 intern requisitions posted August 25 to September 14, 2026 (Bentonville and Hoboken); most print no close date, the cybersecurity reqs close February 5, 2027"
+      "window_text": "Open now for summer 2027: 17 US Summer 2027 intern requisitions were listed on October 11, 2026 (first postings August 25, newest October 9, 2026). Ten print no close date; data science closes January 29, 2027, cybersecurity February 5, 2027, and three supply chain and transportation reqs March 1, 2027. The Accounting and Finance Development Program and Automation Engineer postings were no longer "
     },
     {
       "name": "Warner Bros Discovery",
@@ -9296,7 +9296,7 @@
         "2026-09",
         "2026-10"
       ],
-      "window_text": "Applications for summer 2027 \u2014 Tech/Games: expected to open mid-September to end-October 2026. Non-tech/media: expected January to February 2027 (projected from prior cycle; not yet posted)"
+      "window_text": "Not posted as of October 11, 2026: no US summer 2027 internship posting was listed on WBD's careers site on that date. Tech/Games: expected window mid-September to end-October 2026 (WBD's portal says applications open mid-September and stay open until the end of October). Non-tech/media: expected January to February 2027 (projected from prior cycle)"
     },
     {
       "name": "Warner Music Group",
