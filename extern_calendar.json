@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T17:53:33.081690+00:00",
+  "generated_at": "2026-10-15T17:43:44.192959+00:00",
   "companies": [
     {
       "name": "1Password",
@@ -1070,7 +1070,7 @@
         "2026-12",
         "2027-02"
       ],
-      "window_text": "Summer 2028 Summer Analyst (IB, Markets): not open yet, expected around December 2026 to February 2027, rolling. Summer 2027, still open on 6 October 2026: Technology Developer, Operations and Compliance Analyst (Whippany, NJ), US Consumer Bank Analyst (Wilmington, DE), Banking Associate for MBA students (New York, Chicago, San Francisco, Houston) and Quantitative Finance Associate (New York). The"
+      "window_text": "Summer 2028 Summer Analyst (IB, Markets): not open yet, expected around December 2026 to February 2027, rolling. Summer 2027, still open on 15 October 2026: Technology Developer (Whippany, NJ), US Consumer Bank Analyst (Wilmington, DE) and Banking Associate for MBA students (New York, Chicago, San Francisco, Houston). The other US summer 2027 tracks (Operations, Compliance, Quantitative Finance As"
     },
     {
       "name": "BCG",
@@ -1933,16 +1933,16 @@
       "pay": "$4,500\u2013$5,800/week base for SWE and quant trading interns (current JDs); $3,500\u2013$4,000/week for FI&M trading; plus sign-on bonus and ~$15,000 housing stipend or",
       "tech_tracks": "Quantitative Trader \u2013 Intern; Quantitative Research Analyst \u2013 Intern (BS/MS); Quantitative Researcher \u2013 PhD Intern; Software Engineer \u2013 Intern",
       "tracks_total": 6,
-      "programs": "Summer 2027 US intern postings still live at both firms (rechecked early October 2026; Citadel Securities alone listed 19 intern postings in July 2026); US intern tracks span QR, QT, trading, and SWE",
+      "programs": "Summer 2027 US intern postings still live at both firms (rechecked October 15, 2026; Citadel Securities alone listed 19 intern postings in July 2026); US intern tracks span QR, QT, trading, and SWE",
       "no_formal_program": false,
-      "faq_open_answer": "Citadel posts internships extraordinarily early: summer 2027 roles were live by July 2026. Expect summer 2028 postings around June to August 2027, roughly 11 months before the internship starts, with most quant and trading offers signed by October or November 2027. Sophomores should target Discover events and Datathons in spring 2027 instead.",
+      "faq_open_answer": "One track is open already: the Equities Citadel Associate Program Summer Internship 2028 was accepting applications on October 15, 2026, for undergraduates graduating December 2028 to May 2029. For quant, trading and engineering, Citadel posts summer 2027 roles by July 2026, so expect summer 2028 postings around June to August 2027, roughly 11 months before the internship starts, with most quant a",
       "interview": "Expect an online assessment heavy on probability and coding, then a 45 to 60 minute technical video interview (CoderPad for quant research; Python and C++ are the core languages), then three to five technical-plus-behavioral interviews, followed by team matching across both firms. Trading candidates",
       "visa": null,
       "window": [
         "2027-06",
         "2027-11"
       ],
-      "window_text": "Summer 2027 roles: LIVE NOW (rechecked early October 2026), no stated deadlines. Summer 2028 roles: expected to post June\u2013August 2027, most offers by October\u2013November 2027 (projected)"
+      "window_text": "Summer 2027 roles: LIVE NOW (rechecked October 15, 2026), no stated deadlines. Summer 2028: Equities Citadel Associate Program Summer Internship 2028 OPEN NOW (live October 15, 2026; the 2027 edition was already up by December 2025). Other summer 2028 roles: expected to post June\u2013August 2027, most offers by October\u2013November 2027 (projected)"
     },
     {
       "name": "Citi",
@@ -2568,7 +2568,7 @@
         "2026-12",
         "2027-03"
       ],
-      "window_text": "Partly open. Technology, Data and Innovation internship roles for 2027 are live as of August 2026. IB (summer 2028) still expected ~Dec 2026 through spring 2027 (UK/EMEA as early as Dec 2026). Rolling review"
+      "window_text": "Partly open. Technology, Data and Innovation internship roles for 2027 went live in August 2026. IB (summer 2028) expected from about December 2026, rolling into spring 2027 (the first 2027 Summer Analyst application posted in December 2025, per Adventis Finance). Rolling review"
     },
     {
       "name": "Discord",
@@ -2798,7 +2798,7 @@
       "career_urls": [
         "https://dukeenergy.wd1.myworkdayjobs.com/en-US/Search"
       ],
-      "rolling": "No. Each function has its own posting and end date; for summer 2027 the apply-by dates still ahead on October 11, 2026 run from October 12 to October 19",
+      "rolling": "No. Each function has its own posting and end date; on October 14, 2026 the summer 2027 apply-by dates still ahead ran from October 16 (engineering and Aviation",
       "pay": "$21\u2013$36/hr depending on role; housing stipend available for interns placed 50+ miles from home",
       "tech_tracks": "Engineering Intern & Co-op",
       "tracks_total": 6,
@@ -2811,7 +2811,7 @@
         "2026-10",
         "2026-10"
       ],
-      "window_text": "Open now for summer 2027: the Engineering Internship & Co-op Program posting asks for applications by 11:59 PM on October 16, 2026. Other apply-by dates printed on the postings: IT in Hartsville, SC October 12, Aviation October 16, Local IT Support in Huntersville, NC October 18, Construction Management in Ohio October 19. IT in Charlotte and Telecommunications (both posted August 31, 2026) show a"
+      "window_text": "Partly open for summer 2027: on October 14, 2026 the Engineering Internship & Co-op Program posting was still live and asks for applications by 11:59 PM on October 16, 2026. Other apply-by dates still ahead: Aviation October 16, Local IT Support in Huntersville, NC October 18, Construction Management in Ohio October 19, Substation / Line Tech in the Carolinas (posted October 12) October 29. Passed"
     },
     {
       "name": "Duolingo",
@@ -3135,8 +3135,8 @@
       "career_urls": [
         "https://careers.expediagroup.com/emerging-talent-and-careers/"
       ],
-      "rolling": "Yes. Most interview slots fill by mid-October; positions close once enough qualified candidates are received",
-      "pay": "$45/hr for SWE ($7,800/month) + $2,000/mo housing or $6,000 lump sum; PM ~$35/hr + corporate housing",
+      "rolling": "Yes. Each 2027 posting says it stays live at least 5 business days and is removed once application targets are met; in earlier cycles most interview slots repor",
+      "pay": "Per the 2027 postings (October 15, 2026): Software Development and Mobile Engineering $45/hr with a bachelor's or $51/hr with a master's in Seattle and Austin, ",
       "tech_tracks": "Software Development Engineering; Cloud Engineering; Data Science & Analytics; Machine Learning Science",
       "tracks_total": 6,
       "programs": "4 program types (internship, graduate, apprenticeship, military) across 10+ functional tracks",
@@ -3145,10 +3145,10 @@
       "interview": "The process spans 4\u20138 weeks with 4\u20135 stages: a recruiter screen, a strength-based behavioral assessment, a HackerRank online assessment with 2 coding problems and MCQs, and then 2 back-to-back 60-minute technical interviews with LeetCode-style questions. Difficulty is Easy to Medium, notably easier ",
       "visa": null,
       "window": [
-        "2026-08",
+        "2026-10",
         "2026-10"
       ],
-      "window_text": "Expected August\u2013October 2026 for summer 2027 (documented pattern; not yet posted)"
+      "window_text": "Partly open: 6 US summer 2027 intern postings went live on Expedia's Workday board on October 12, 2026 (Software Development Engineering, Mobile Engineering, and Applied Science Master's and PhD in Austin, San Jose, and Seattle; Security Engineering and Finance Analyst in Seattle) and were still listed on October 15, 2026. No apply-by date is printed; each post is removed once application targets "
     },
     {
       "name": "ExxonMobil",
@@ -3649,8 +3649,8 @@
       "career_urls": [
         "https://search-careers.gm.com/en/early-careers/internship-program/"
       ],
-      "rolling": "Per requisition. 32 of the 48 requisitions listed on October 11, 2026 carry a scheduled end date in GM's posting data, which the posting page itself does not di",
-      "pay": "$6,100\u2013$14,600/month printed on 24 of the 48 summer 2027 postings listed on October 11, 2026: $6,100 on four design postings, $6,400\u2013$10,300 on the two Digital ",
+      "rolling": "Per requisition. 44 of the 60 requisitions listed on October 14, 2026 carry a scheduled end date in GM's posting data, which the posting page itself does not di",
+      "pay": "$6,100\u2013$14,600/month printed on 24 of the 60 summer 2027 postings listed on October 14, 2026: $6,100 on three design postings, $6,400\u2013$10,300 on the two Digital",
       "tech_tracks": "Software Engineering (Autonomous Driving); AI/ML Engineering; Manufacturing Engineering",
       "tracks_total": 6,
       "programs": "12+ including Software Engineering, AI/ML, Manufacturing, Design, Finance, Energy, and Motorsports",
@@ -3662,7 +3662,7 @@
         "2026-10",
         "2026-10"
       ],
-      "window_text": "Open now for summer 2027: 48 US intern requisitions were listed on GM's Workday job board on October 11, 2026, with the nearest scheduled end dates on October 15 and 16, 2026. At least 26 requisitions have closed since postings began August 17, 2026, including Sales Intern (end date October 9, 2026) and the plant manufacturing engineering roles. Start dates May 24 or June 14, 2027"
+      "window_text": "Open now for summer 2027: 60 US intern requisitions were listed on GM's Workday job board on October 14, 2026, with the nearest scheduled end dates on October 15 (the seven motorsports postings) and October 16, 2026. At least 28 requisitions have closed since postings began August 17, 2026, including Sales Intern (end date October 9, 2026), PFMEA Manufacturing Engineer and Project Management, Crea"
     },
     {
       "name": "GitLab",
@@ -4599,14 +4599,14 @@
       "tracks_total": 6,
       "programs": "10+ tracks: Technology, R&D, Supply Chain, Finance, Marketing, Commercial (CLDP), MedTech Engineering, Global Market Access, Data Science, Enterprise Quality",
       "no_formal_program": false,
-      "faq_open_answer": "They are already open, and the earliest postings have closed. The Finance Internship / FLDP pipeline posted in July 2026, and the main wave followed on September 15 to 19, 2026: 127 US intern and co-op requisitions for 2027, 46 of them summer internships (MedTech, R&D, Process Engineering, Data Science, Software Engineering, Supply Chain) were listed on careers.jnj.com on October 11, 2026. The ear",
+      "faq_open_answer": "They are already open, and the earliest postings have closed. The Finance Internship / FLDP pipeline posted in July 2026, and the main wave followed on September 15 to 19, 2026: 130 US intern and co-op requisitions for 2027, 58 of them summer internships (MedTech, R&D, Process Engineering, Data Science, Software Engineering, Supply Chain) were listed on careers.jnj.com on October 14, 2026. The ear",
       "interview": "You apply online, complete a HireVue pre-recorded video with three behavioral questions, then have two to four live video interviews covering technical skills and Credo alignment. Competitive tracks may include a Superday with three to five stakeholder meetings. Average time to offer is about 19 day",
       "visa": "Most undergraduate roles require permanent U.S. work authorization. Advanced-degree roles (PhD, PharmD) may support CPT/OPT on a case-by-case basis. Check each specific posting",
       "window": [
         "2026-10",
         "2027-06"
       ],
-      "window_text": "Open now for summer 2027: careers.jnj.com listed 46 US summer internship postings and 81 co-op postings on October 11, 2026, with end dates from October 13, 2026 to January 8, 2027. The main 2027 wave posted September 15 to 19, 2026 (Spring 2027 and Summer 2027 co-ops, Summer 2027 interns, Finance Internship). Each requisition prints its own end date, so apply before it: the October 1 ones have cl"
+      "window_text": "Open now for summer 2027: careers.jnj.com listed 58 US summer internship postings and 72 co-op postings on October 14, 2026, with end dates from October 15, 2026 to January 8, 2027. The main 2027 wave posted September 15 to 19, 2026 (Spring 2027 and Summer 2027 co-ops, Summer 2027 interns, Finance Internship). Each requisition prints its own end date, so apply before it: the October 1 ones have cl"
     },
     {
       "name": "Jane Street",
@@ -4628,7 +4628,7 @@
         "2027-07",
         "2027-08"
       ],
-      "window_text": "Expected July\u2013August 2027 for summer 2028 (2025/2026 pattern; not yet posted). Summer 2027 postings still live as of July 2026"
+      "window_text": "Expected July\u2013August 2027 for summer 2028 (2025/2026 pattern; not yet posted). Summer 2027 postings still live as of October 15, 2026"
     },
     {
       "name": "Jefferies",
@@ -5344,14 +5344,14 @@
       "tracks_total": 6,
       "programs": "6+ tracks: Software Engineering, Data Science & Analytics, Product Management, Associate Consultant (Consulting), Cybersecurity, Marketing & Communications",
       "no_formal_program": false,
-      "faq_open_answer": "For summer 2027 they opened in June 2026, and US postings were still listed on October 11, 2026. Mastercard posts intern roles on a rolling, as-needed basis, and the US summer 2027 reqs went live on the Workday portal from around June 2026. An earlier wave of US reqs was gone by September 21, 2026 (the Sales Analyst Intern, Summer 2027 req in New York came down in mid-September), and two late Prod",
+      "faq_open_answer": "For summer 2027 they opened in June 2026, and US postings were still listed on October 14, 2026. Mastercard posts intern roles on a rolling, as-needed basis, and the US summer 2027 reqs went live on the Workday portal from around June 2026. An earlier wave of US reqs was gone by September 21, 2026 (the Sales Analyst Intern, Summer 2027 req in New York came down in mid-September), and two late Prod",
       "interview": "You apply, complete a recruiter phone screen (15 to 30 minutes), take a 60- to 90-minute online assessment on HackerRank or Codility with 2 to 3 coding problems, then 1 to 2 technical interviews plus a behavioral round focused on the Decency Quotient. Average time from application to offer is about ",
       "visa": "Not available on the US Summer 2027 intern postings, and F-1 students are excluded. All 8 postings listed on October 11, 2026 print: \"This role is not eligible for Mastercard's work authorization sponsorship. As such, ca",
       "window": [
         "2026-10",
         "2026-10"
       ],
-      "window_text": "Partly open for summer 2027: 8 US intern postings were listed on Mastercard's Campus Workday portal on October 11, 2026 (5 in St. Louis, 1 each in Arlington, VA, San Francisco and Purchase, NY), mostly security, engineering and operations roles. Five of them posted October 5 to 7, 2026. Seven show no end date; the Marketing and Communications Intern posting in Purchase prints an end date of Octobe"
+      "window_text": "Partly open for summer 2027: 4 US intern postings were listed on Mastercard's Campus Workday portal on October 14, 2026 (2 in St. Louis, 1 each in Arlington, VA and San Francisco), all security, engineering and data roles posted October 5 to 7, 2026, and none prints an end date. Of the 8 US postings listed on October 11, the Marketing and Communications Intern posting in Purchase, NY closed after "
     },
     {
       "name": "McCann",
@@ -6022,20 +6022,20 @@
       "career_urls": [
         "https://careers.nordstrom.com/"
       ],
-      "rolling": "No. Nordstrom uses batch review. Applications are screened after the posting window, with interviews concentrated in October and offers extended by early Novemb",
-      "pay": "$25 to $46 per hour depending on track. SWE at $44/hr (Levels.fyi), Data Science at $46/hr (Nordstrom posted rate), corporate/merchandising at $25 to $32/hr (SW",
+      "rolling": "No. Nordstrom uses batch review. Applications are screened after the October 12 to 18, 2026 window; most summer 2027 postings print interviews in November 2026 ",
+      "pay": "Summer 2027 postings print fixed hourly rates (October 15, 2026): $25 for Merchandising, Fashion Design and Technical Apparel Design; $32 for Supply Chain Opera",
       "tech_tracks": "Software Engineer Intern; Data Science Intern (Master's)",
       "tracks_total": 6,
-      "programs": "Summer 2027: 4 focuses (Finance, Fashion Design, Merchandising, Supply Chain). Earlier cycles also ran Software Engineering, Data Science, Marketing and Cybersecurity",
+      "programs": "Summer 2027: 4 focuses (Finance, Fashion Design, Merchandising, Supply Chain), listed as seven postings on Nordstrom's job board on October 15, 2026. Earlier cycles also ran Software Engineering, Data Science, Marketing and Cybersecurity",
       "no_formal_program": false,
-      "faq_open_answer": "Nordstrom has published the dates: applications for the summer 2027 internship are open October 12 to 18, 2026, for Finance, Fashion Design, Merchandising, and Supply Chain, with interviews in October and offers by early November. The program runs June 14 to August 20, 2027. Apply on careers.nordstrom.com during that week.",
-      "interview": "You apply on careers.nordstrom.com, complete a HireVue on-demand video interview, take an online coding assessment (for tech roles), then have virtual interviews with hiring managers and team members. For merchandising tracks, expect a business-case exercise. Decisions are typically made by early No",
+      "faq_open_answer": "Applications for the summer 2027 internship are open October 12 to 18, 2026, for Finance, Fashion Design, Merchandising, and Supply Chain. On October 15, 2026 Nordstrom's job board listed seven summer 2027 postings, all posted October 12. Most print interviews in November 2026 and decisions by January 2027; Finance prints January 2027 interviews and February 2027 decisions. The program runs June 1",
+      "interview": "You apply on careers.nordstrom.com, complete a HireVue on-demand video interview, take an online coding assessment (for tech roles), then have virtual interviews with hiring managers and team members. For merchandising tracks, expect a business-case exercise. For summer 2027, the postings anticipate",
       "visa": "Not available. Nordstrom is unable to sponsor visas or work authorizations for internship roles",
       "window": [
         "2026-10",
-        "2026-11"
+        "2026-10"
       ],
-      "window_text": "October 12 to 18, 2026 for summer 2027 (published on Nordstrom's careers site). One week only; interviews follow in October and offers by early November"
+      "window_text": "Open now: October 12 to 18, 2026 for summer 2027 (published on Nordstrom's careers site; the Finance posting prints Monday, 10/12 through Sunday, 10/18). Seven postings were live on October 15, 2026, all posted October 12. Most postings print November 2026 interviews and decisions by January 2027; Finance prints January 2027 interviews and February 2027 decisions"
     },
     {
       "name": "Northrop Grumman",
@@ -6842,7 +6842,7 @@
         "2027-09",
         "2027-10"
       ],
-      "window_text": "Expected September to October 2027 for Summer 2028 roles. Interviews run January through March 2028, with most offers by late March. Projected from prior cycles"
+      "window_text": "Expected September to October 2027 for Summer 2028 roles. Interviews run January through March 2028, with most offers by late March. Projected from prior cycles. Summer 2027: US postings expected September to December 2026 (Adventis Finance); London 2027 internship open now"
     },
     {
       "name": "Qualcomm",
@@ -6907,10 +6907,10 @@
       "interview": "Raymond James runs a five-stage funnel, and the rolling timeline means each stage can start within days of the previous one: 1. Apply through the Raymond James Workday portal with your resume, cover letter, and transcripts. Raymond James posts separate listings per division, so choose your strongest",
       "visa": "No. Raymond James does not offer visa sponsorship for internships. Applicants must be legally authorized to work in the U.S. without visa sponsorship now or in the future, including beyond OPT/EAD. International students",
       "window": [
-        "2026-09",
-        "2026-09"
+        "2026-10",
+        "2026-10"
       ],
-      "window_text": "Open now for summer 2027: IB Summer Analyst M&A (St. Petersburg), Capital Markets Summer Analyst and Equity Research Summer Internship posted September 11, 2026 on the Raymond James Early Careers Workday portal, no deadline printed. Summer 2028 not yet posted"
+      "window_text": "Open now for summer 2027: IB Summer Analyst roles posting group by group on the Raymond James Early Careers Workday portal (Chicago Financial Services Oct 5, Charlotte Consumer Oct 12, McLean Diversified Industrials Oct 15, 2026; McLean closes Oct 22). The September 11 wave (St. Petersburg M&A, Capital Markets, Equity Research) is already down. Summer 2028: Sophomore IB Bootcamp open since October"
     },
     {
       "name": "Raytheon",
@@ -7704,14 +7704,14 @@
       "tracks_total": 6,
       "programs": "6 engineering tracks (SWE, Data Eng, Product Data Sci, Applied ML, Infrastructure, Security) plus the 4-year Dev Degree",
       "no_formal_program": false,
-      "faq_open_answer": "They opened in September 2026. Shopify posted US Applied Machine Learning Engineering Internships Summer 2027 on September 21, 2026 and US Software Engineering Internships Summer 2027 on September 28, 2026. Both were listed on shopify.com/careers on October 11, 2026, and both state that applications close on October 12, 2026 at 11:59pm EDT. Fall and winter terms open 4\u20135 months before start dates,",
+      "faq_open_answer": "They opened in September 2026. Shopify posted US Applied Machine Learning Engineering Internships Summer 2027 on September 21, 2026 and US Software Engineering Internships Summer 2027 on September 28, 2026. Both were listed on shopify.com/careers on October 11, 2026, both stated that applications closed on October 12, 2026 at 11:59pm EDT, and neither was listed on October 14, 2026. Fall and winter",
       "interview": "Shopify\u2019s funnel is faster than most big tech and distinctly different from the standard LeetCode gauntlet, averaging 3\u20135 weeks from application to decision: 1. Apply at shopify.com/careers with a resume, application questions, your LinkedIn, and a personal website or GitHub link. Shopify\u2019s postings",
       "visa": "No. Every internship posting states you must be legally entitled to work in the hiring country for the full duration. Shopify doesn't provide immigration sponsorship for intern candidates. However, candidates on existing",
       "window": [
         "2027-01",
         "2027-03"
       ],
-      "window_text": "CLOSING: two US summer 2027 postings state that applications close on October 12, 2026 at 11:59pm EDT. Both were listed on shopify.com/careers on October 11, 2026: US Applied Machine Learning Engineering Internships Summer 2027 (posted September 21, 2026) and US Software Engineering Internships Summer 2027 (posted September 28, 2026). Fall 2027 postings expected January\u2013March 2027 (documented patt"
+      "window_text": "Closed for summer 2027 (US): US Applied Machine Learning Engineering Internships Summer 2027 (posted September 21, 2026) and US Software Engineering Internships Summer 2027 (posted September 28, 2026) stated that applications closed on October 12, 2026 at 11:59pm EDT. Neither was listed on shopify.com/careers on October 14, 2026, and no other intern posting was listed there that day. Fall 2027 pos"
     },
     {
       "name": "Siemens",
@@ -8447,7 +8447,7 @@
         "2027-08",
         "2027-10"
       ],
-      "window_text": "Not posted as of October 11, 2026: the IB Summer Analyst posting for summer 2028 (expected August to October 2027). Listed on TD's board on October 11, 2026: the 2027 Invest in Success Program in New York, a two-day program for sophomores (Class of 2029) with guaranteed interviews for the 2028 U.S. Summer Analyst Program, application deadline October 28, 2026; US 2027 Summer Internship Program, no"
+      "window_text": "Not posted as of October 14, 2026: the IB Summer Analyst posting for summer 2028 (expected August to October 2027). Listed on TD's board on October 14, 2026: the 2027 Invest in Success Program in New York, a two-day program for sophomores (Class of 2029) with guaranteed interviews for the 2028 U.S. Summer Analyst Program, application deadline October 28, 2026; US 2027 Summer Internship Program, no"
     },
     {
       "name": "Tempus AI",
@@ -9109,14 +9109,14 @@
       "tracks_total": 6,
       "programs": "80+ positions across technology, cybersecurity, AI/ML, marketing, finance, and more",
       "no_formal_program": false,
-      "faq_open_answer": "Based on the 2026 cycle, expect Verizon internship postings to appear on mycareer.verizon.com starting around September to November 2026, with some specialized tracks like Public Policy posting as early as September and technology and engineering roles following in October through November. Verizon has not posted 2027 dates yet, so join their Talent Network early.",
+      "faq_open_answer": "They have started to. On October 12, 2026 Verizon posted its first two US summer 2027 internships, both Verizon Consumer Group roles in Basking Ridge, NJ, one on the Verizon Value team and one on the Home and Mobile Value Prop team, each with an end date of October 17, 2026. No other US summer 2027 internship was listed on mycareer.verizon.com on October 15, 2026. In the 2026 cycle, Public Policy ",
       "interview": "After applying online, most candidates complete a Candidates Assessment on Workday (the ADEPT-15 personality test, about 25\u201330 minutes), followed by a self-recorded video interview with 6 behavioral questions and 2 attempts each. Strong candidates advance to a phone or virtual interview, and some ro",
       "visa": "No. All Verizon internship postings require \"authorization to work in the U.S. without restrictions or need for future sponsorship.\" International students on F-1 visas may qualify through CPT or OPT work authorization, ",
       "window": [
-        "2026-09",
-        "2026-11"
+        "2026-10",
+        "2026-10"
       ],
-      "window_text": "Expected September\u2013November 2026 for summer 2027 (documented pattern; not yet posted)"
+      "window_text": "Partly open for summer 2027: on October 15, 2026 Verizon's careers board listed two US summer 2027 internships, both Verizon Consumer Group roles in Basking Ridge, NJ (Verizon Value; Home & Mobile Value Prop), posted October 12, 2026, with an end date of October 17, 2026 (Verizon asks applicants to apply prior to it). No other US summer 2027 internship was listed that day; in the 2026 cycle, Publi"
     },
     {
       "name": "Vertex Pharmaceuticals",
@@ -9486,19 +9486,19 @@
         "https://www.williamblair.com/Careers/Campus-Recruiting"
       ],
       "rolling": "Yes. William Blair reviews applications on a rolling basis. For on-campus partners, specific deadlines are posted on school career sites. Apply as early as poss",
-      "pay": "$1,920 per week (~$99,840 annualized) for IB Summer Analysts. $5,000 housing stipend plus up to $1,200 domestic relocation. Dinner stipend and car service for l",
+      "pay": "$110,000 annualized base (about $2,115 per week) on the 2027 IB Summer Analyst postings. $5,000 housing stipend plus up to $1,200 domestic relocation. Dinner st",
       "tech_tracks": "Working in Technology (WiT) Intern",
       "tracks_total": 6,
       "programs": "6+ tracks: IB Summer Analyst, Investment Management, Equity Research/Sales & Trading, Private Wealth Management, Working in Technology (WiT), plus Frankfurt Off-Cycle and Bridge to IB diversity program",
       "no_formal_program": false,
-      "faq_open_answer": "Expect IB Summer Analyst applications to open as early as March 2027, with HireVue assessments due June to August 2027, Superdays August to November 2027, and offers extending through December 2027. Those dates are projected from prior cycles and follow the accelerated IB recruiting trend. Set a job alert on williamblair.com/Careers.",
+      "faq_open_answer": "Possibly as early as November or December 2026. William Blair posted its first 2027 Summer Analyst application in December 2025, per Adventis Finance's recruiting tracker, so expect summer 2028 postings on a similar schedule, followed by a Suited assessment within 48 hours of applying and rolling interviews and Superdays into 2027. Those dates are projected from last cycle. Set a job alert on will",
       "interview": "William Blair's funnel spans four stages from application to offer: 1. Apply on williamblair.com/Careers . Search for IB Summer Analyst or other tracks, select your preferred location(s), and submit resume, cover letter, and transcript. Multiple position and location applications are permitted. For ",
-      "visa": "William Blair will consider candidates who may require sponsorship; however, requirements vary by role. Check specific postings or contact recruiters directly",
+      "visa": "Not for IB Summer Analyst roles: the 2027 postings say William Blair is not hiring candidates who now or in the future require visa sponsorship. Check each posting for other tracks",
       "window": [
-        "2027-03",
-        "2027-06"
+        "2026-10",
+        "2026-10"
       ],
-      "window_text": "Expected March to June 2027 for Summer 2028 IB roles. HireVue assessments June to August 2027. Superdays August to November 2027. Offers September to December 2027. Projected from prior cycles"
+      "window_text": "Expected from about November 2026 into early 2027 for Summer 2028 IB roles (projected: the first 2027 Summer Analyst application posted in December 2025). Suited pre-interview assessment within 48 hours of applying, then rolling interviews and Superdays. Summer 2027 still open: Sports, Media & Entertainment Summer Analyst (New York), posted October 14, 2026"
     },
     {
       "name": "Windsurf (Codeium)",
