@@ -1,5 +1,5 @@
 {
-"checked_at": "2026-10-15T04:38:34.529920+00:00",
+"checked_at": "2026-10-15T06:28:15.587173+00:00",
 "seen_keys": [
 "adobe::\u2705 open]",
 "akuna capital::software engineer intern (summer 2027, python / c++ / full stack / c# .net)",
@@ -11,6 +11,7 @@
 "apple::machine learning & ai undergrad internship",
 "apple::software undergrad engineering internship",
 "aquatic capital::software engineer intern (summer 2027)",
+"architecture and design foundation / dallas ad ex::\u2705 open]",
 "arrowstreet capital::quantitative developer intern",
 "asm::software engineering intern (spring 2027)",
 "aws / nextgen::\u2705 open]",
@@ -36,6 +37,7 @@
 "canva::\u2705 open]",
 "capital one::teip",
 "career pathways initiative::\u2705 open]",
+"carroll university::\u2705 open]",
 "cava::\ud83d\udd25 closing soon]",
 "circleback::software engineering intern (summer 2027) \ud83d\udec2",
 "citadel / citadel securities::\u2705 open]",
@@ -61,21 +63,26 @@
 "dropbox::swe intern",
 "dtcc::information technology intern (2027 summer) \ud83d\udec2",
 "duolingo::thrive",
+"durham university::\u2705 open]",
 "ea::pathfinder",
 "elevenlabs::\u2705 open]",
 "elks national foundation::\u2705 open]",
 "ellipsis labs::software engineer intern (summer 2027)",
 "epic::software developer intern \u23f3",
+"eversheds sutherland::\u2705 open]",
 "five rings::link",
 "five rings::software developer intern (summer 2027)",
 "five rings::\u2705 open]",
+"fmg insurance::\u2705 open]",
 "gates foundation::\u2705 open]",
 "gates foundation::\ud83d\udd25 closing soon]",
 "gateway engineers::freshman internship \u2014 summer 2027 (complete freshman year before summer; return as sophomore; paid 64-hour civil enginee",
 "ge appliances::digital technology intern (spring 2027)",
+"gibson dunn::\u2705 open]",
 "girls who invest::\ud83d\udd25 closing soon]",
 "girlswhoml::\u2705 open]",
 "github::\u23f3 opens soon]",
+"golden apple foundation::\u2705 open]",
 "google::asdi",
 "google::software engineering intern, bs (summer 2027)",
 "google::step / asdi",
@@ -165,6 +172,7 @@
 "point72::\u2705 open]",
 "posse foundation::\u2705 open]",
 "princess polly::\u2705 open]",
+"princeton university / office of undergraduate research::\u2705 open]",
 "pwc::\u2705 open]",
 "questbridge::\u2705 open]",
 "questbridge::\ud83d\udd25 closing soon]",
@@ -177,6 +185,7 @@
 "salesforce::ai builder, emerging talent",
 "salesforce::futureforce launchpad",
 "salesforce::software engineer intern (futureforce) \ud83d\udd12",
+"san francisco state university / genentech foundation::\u2705 open]",
 "scale ai::ai builder intern (open to all undergrads; no class-year gate) \u2014 deadline: rolling",
 "schonfeld::2027 summer internships, express your interest",
 "second order effects::electrical engineering intern (summer 2027)",
@@ -185,7 +194,9 @@
 "shpe::\u2705 open]",
 "sig::discovery day",
 "sig::discovery event",
+"sisterson & co. llp::\u2705 open]",
 "skydio::software engineer intern (fall 2026 / winter 2027)",
+"slaughter and may::\u2705 open]",
 "sofi::\ud83d\udd25 closing soon]",
 "stanford university \u2014 public humanities::\u2705 open]",
 "stellic::\u2705 open]",
@@ -195,11 +206,13 @@
 "susquehanna::quantitative strategy developer intern (summer 2027, june start)",
 "susquehanna::trading system engineering intern \ud83c\uddfa\ud83c\uddf8",
 "susquehanna::\u2705 open]",
+"the college of wooster::\u2705 open]",
 "the home depot::\u2705 open]",
 "the home depot::\ud83d\udd25 closing soon]",
 "the rockefeller university / cuny hunter college::\u2705 open]",
 "the trade desk::software engineering intern (north america, summer 2027)",
 "tiktok::applied scientist intern, monetization technology (phd, 2027 start)",
+"touro college of pharmacy / touro university::\u2705 open]",
 "tower research capital::quantitative developer intern (summer 2027)",
 "tsmc arizona::engineering intern (12 roles: process, equipment, cim / software)",
 "two sigma::ai research scientist intern (ms / phd)",
@@ -581,6 +594,78 @@
 "posted": ""
 },
 {
+"section": "Underclassmen Programs (Fellowships, Externships, etc.)",
+"name": "\u2705 OPEN]",
+"org": "Sisterson & Co. LLP",
+"detail": "FORGE Career Exploration Program \u2014 First-Year Accounting, 2027 \u2014 Deadline: Rolling admissions; no final closing date published",
+"location": "",
+"link": "https://sisterson.bamboohr.com/careers/59",
+"posted": ""
+},
+{
+"section": "Underclassmen Programs (Fellowships, Externships, etc.)",
+"name": "\u2705 OPEN]",
+"org": "Sisterson & Co. LLP",
+"detail": "STEEL Summer Leadership Program \u2014 Sophomore Accounting, 2027 \u2014 Deadline: Rolling admissions; no final closing date published (October 1, 2026 preferred date has",
+"location": "",
+"link": "https://sisterson.bamboohr.com/careers/60",
+"posted": ""
+},
+{
+"section": "Underclassmen Programs (Fellowships, Externships, etc.)",
+"name": "\u2705 OPEN]",
+"org": "Golden Apple Foundation",
+"detail": "Golden Apple Scholars \u2014 College Freshman/Sophomore Track, 2026\u201327 Application \u2014 Deadline: December 1, 2026 priority; March 1, 2027 final (time and time zone not",
+"location": "",
+"link": "https://goldenapple-38434.app451.sites.451.io/",
+"posted": ""
+},
+{
+"section": "Underclassmen Programs (Fellowships, Externships, etc.)",
+"name": "\u2705 OPEN]",
+"org": "Touro College of Pharmacy / Touro University",
+"detail": "RxPLORE Summer Academy \u2014 First- and Second-Year College Students, 2027 \u2014 Deadline: February 16, 2027 (time and time zone not published)",
+"location": "",
+"link": "https://tourocollege.az1.qualtrics.com/jfe/form/SV_88jbNmOYtziaNG6",
+"posted": ""
+},
+{
+"section": "Underclassmen Programs (Fellowships, Externships, etc.)",
+"name": "\u2705 OPEN]",
+"org": "Gibson Dunn",
+"detail": "London First-Year Insight Days \u2014 In-Person / Virtual (2027) \u2014 Deadline: February 12, 2027 (time/timezone not published)",
+"location": "",
+"link": "https://gibsondunn.grad.allhires.com/app/",
+"posted": ""
+},
+{
+"section": "Underclassmen Programs (Fellowships, Externships, etc.)",
+"name": "\u2705 OPEN]",
+"org": "Slaughter and May",
+"detail": "Spring Forward Programme (2027) \u2014 Deadline: January 6, 2027 at 11:59 PM GMT",
+"location": "",
+"link": "https://joinus.slaughterandmay.com/V2/ViewVacancy?enc=mEgrBL4XQK0+ld8aNkwYmGliSsD0jQHs9hCoNm3AZC1rh/REER5YjzKFjNQXgVZrPn8oGvTgXiZiXgWFopswjDec1395ZVnNdt62DewzSM0ME0C5K2EwSeFmZSu8Q26XDBvazViZhaCD9/PZid6hLg==",
+"posted": ""
+},
+{
+"section": "Underclassmen Programs (Fellowships, Externships, etc.)",
+"name": "\u2705 OPEN]",
+"org": "Slaughter and May",
+"detail": "Spring Open Days (2027) \u2014 Deadline: January 6, 2027 at 11:59 PM GMT",
+"location": "",
+"link": "https://joinus.slaughterandmay.com/V2/ViewVacancy?enc=mEgrBL4XQK0+ld8aNkwYmJ/b9Dl+yTPR82VSONh9nnPMBOBcTGoApK7ARem/PL8yewyOXQ9+WvFl13jtU4QodlLQplejT/I00Rzm3kCsVXWrR0vbDtq/92dpDuZ8lWOX79YsEPvYqkBLKuNTd+OBsg==",
+"posted": ""
+},
+{
+"section": "Underclassmen Programs (Fellowships, Externships, etc.)",
+"name": "\u2705 OPEN]",
+"org": "Eversheds Sutherland",
+"detail": "First-Year Law / Second-Year Non-Law Virtual Open Day (2027) \u2014 Deadline: March 2, 2027 at 11:59 PM (provider timezone not published)",
+"location": "",
+"link": "https://eversheds-sutherland.grad.allhires.com/app/",
+"posted": ""
+},
+{
 "section": "Ambassador Programs",
 "name": "\u2705 OPEN]",
 "org": "Word of Life Bible Institute",
@@ -677,6 +762,24 @@
 "detail": "Student Research Fellows in Nineteenth-Century Studies (2027\u201328) \u2014 Deadline: March 29, 2027 (timezone/time not stated)",
 "location": "",
 "link": "https://leslie.dartmouth.edu/students/student-research-fellows-nineteenth-century-studies-2027-28",
+"posted": ""
+},
+{
+"section": "Underclassmen Research Programs",
+"name": "\u2705 OPEN]",
+"org": "Durham University",
+"detail": "Laidlaw Leadership and Research Programme \u2014 2027 Cohort \u2014 Deadline: January 30, 2027 at 23:59 (time zone not stated)",
+"location": "",
+"link": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=i9hQcmhLKUW-RNWaLYpvlN4Q1YCxW1lFvrgF9oC2GmFUM1ROUlQwVkNVR0ZMT0tDNVVYTjE1N1lNUi4u",
+"posted": ""
+},
+{
+"section": "Underclassmen Research Programs",
+"name": "\u2705 OPEN]",
+"org": "Princeton University / Office of Undergraduate Research",
+"detail": "ReMatch Research Mentorship \u2014 Academic Year 2026\u20132027 \u2014 Deadline: Current mentee signup deadline not published; provider says registration typically closes in e",
+"location": "",
+"link": "https://ourapps.princeton.edu/signup.php",
 "posted": ""
 },
 {
@@ -803,6 +906,60 @@
 "detail": "George Alexander Foundation Scholarship \u2014 First Year of Tertiary Study, 2027",
 "location": "",
 "link": "https://CourseworkScholarshipsOffice.formstack.com/forms/2027_gaf",
+"posted": ""
+},
+{
+"section": "Rising Freshmen & First-Year Opportunities",
+"name": "\u2705 OPEN]",
+"org": "Architecture and Design Foundation / Dallas AD EX",
+"detail": "Incoming College Scholarships \u2014 Architecture/Built Environment & CityLab All-Majors Track, 2027",
+"location": "",
+"link": "https://www.dallasadex.org/education/scholarships-fellowships/applications/academic-scholarships/",
+"posted": ""
+},
+{
+"section": "Rising Freshmen & First-Year Opportunities",
+"name": "\u2705 OPEN]",
+"org": "FMG Insurance",
+"detail": "FMG Agriculture Scholarship \u2014 Incoming First University Year, 2027",
+"location": "",
+"link": "https://www.fmg.co.nz/about-fmg/supporting-rural-nz/fmg-agriculture-scholarships/scholarship-form",
+"posted": ""
+},
+{
+"section": "Rising Freshmen & First-Year Opportunities",
+"name": "\u2705 OPEN]",
+"org": "San Francisco State University / Genentech Foundation",
+"detail": "Genentech Foundation Freshman Scholarship \u2014 Incoming Fall 2027 Biology / Chemistry / Biochemistry",
+"location": "",
+"link": "https://sfsu.co1.qualtrics.com/jfe/form/SV_bwHK09YqxI1qkOG",
+"posted": ""
+},
+{
+"section": "Rising Freshmen & First-Year Opportunities",
+"name": "\u2705 OPEN]",
+"org": "Carroll University",
+"detail": "Music Scholarships and Awards \u2014 Incoming First-Year Students, Fall 2027",
+"location": "",
+"link": "https://apply.carrollu.edu/register/fy-music-27",
+"posted": ""
+},
+{
+"section": "Rising Freshmen & First-Year Opportunities",
+"name": "\u2705 OPEN]",
+"org": "Carroll University",
+"detail": "Anne Hardy Art Scholarship \u2014 Incoming First-Year Students, Fall 2027",
+"location": "",
+"link": "https://apply.carrollu.edu/register/art-photography-27",
+"posted": ""
+},
+{
+"section": "Rising Freshmen & First-Year Opportunities",
+"name": "\u2705 OPEN]",
+"org": "The College of Wooster",
+"detail": "Music Scholarships \u2014 Incoming First-Year Performance/Composition Tracks, Fall 2027",
+"location": "",
+"link": "https://connect.wooster.edu/register/?id=4371ab01-f453-45c9-931b-45ba6acd16e7",
 "posted": ""
 },
 {
@@ -2114,6 +2271,78 @@
 "posted": ""
 },
 {
+"section": "Underclassmen Programs (Fellowships, Externships, etc.)",
+"name": "\u2705 OPEN]",
+"org": "Sisterson & Co. LLP",
+"detail": "FORGE Career Exploration Program \u2014 First-Year Accounting, 2027 \u2014 Deadline: Rolling admissions; no final closing date published",
+"location": "",
+"link": "https://sisterson.bamboohr.com/careers/59",
+"posted": ""
+},
+{
+"section": "Underclassmen Programs (Fellowships, Externships, etc.)",
+"name": "\u2705 OPEN]",
+"org": "Sisterson & Co. LLP",
+"detail": "STEEL Summer Leadership Program \u2014 Sophomore Accounting, 2027 \u2014 Deadline: Rolling admissions; no final closing date published (October 1, 2026 preferred date has",
+"location": "",
+"link": "https://sisterson.bamboohr.com/careers/60",
+"posted": ""
+},
+{
+"section": "Underclassmen Programs (Fellowships, Externships, etc.)",
+"name": "\u2705 OPEN]",
+"org": "Golden Apple Foundation",
+"detail": "Golden Apple Scholars \u2014 College Freshman/Sophomore Track, 2026\u201327 Application \u2014 Deadline: December 1, 2026 priority; March 1, 2027 final (time and time zone not",
+"location": "",
+"link": "https://goldenapple-38434.app451.sites.451.io/",
+"posted": ""
+},
+{
+"section": "Underclassmen Programs (Fellowships, Externships, etc.)",
+"name": "\u2705 OPEN]",
+"org": "Touro College of Pharmacy / Touro University",
+"detail": "RxPLORE Summer Academy \u2014 First- and Second-Year College Students, 2027 \u2014 Deadline: February 16, 2027 (time and time zone not published)",
+"location": "",
+"link": "https://tourocollege.az1.qualtrics.com/jfe/form/SV_88jbNmOYtziaNG6",
+"posted": ""
+},
+{
+"section": "Underclassmen Programs (Fellowships, Externships, etc.)",
+"name": "\u2705 OPEN]",
+"org": "Gibson Dunn",
+"detail": "London First-Year Insight Days \u2014 In-Person / Virtual (2027) \u2014 Deadline: February 12, 2027 (time/timezone not published)",
+"location": "",
+"link": "https://gibsondunn.grad.allhires.com/app/",
+"posted": ""
+},
+{
+"section": "Underclassmen Programs (Fellowships, Externships, etc.)",
+"name": "\u2705 OPEN]",
+"org": "Slaughter and May",
+"detail": "Spring Forward Programme (2027) \u2014 Deadline: January 6, 2027 at 11:59 PM GMT",
+"location": "",
+"link": "https://joinus.slaughterandmay.com/V2/ViewVacancy?enc=mEgrBL4XQK0+ld8aNkwYmGliSsD0jQHs9hCoNm3AZC1rh/REER5YjzKFjNQXgVZrPn8oGvTgXiZiXgWFopswjDec1395ZVnNdt62DewzSM0ME0C5K2EwSeFmZSu8Q26XDBvazViZhaCD9/PZid6hLg==",
+"posted": ""
+},
+{
+"section": "Underclassmen Programs (Fellowships, Externships, etc.)",
+"name": "\u2705 OPEN]",
+"org": "Slaughter and May",
+"detail": "Spring Open Days (2027) \u2014 Deadline: January 6, 2027 at 11:59 PM GMT",
+"location": "",
+"link": "https://joinus.slaughterandmay.com/V2/ViewVacancy?enc=mEgrBL4XQK0+ld8aNkwYmJ/b9Dl+yTPR82VSONh9nnPMBOBcTGoApK7ARem/PL8yewyOXQ9+WvFl13jtU4QodlLQplejT/I00Rzm3kCsVXWrR0vbDtq/92dpDuZ8lWOX79YsEPvYqkBLKuNTd+OBsg==",
+"posted": ""
+},
+{
+"section": "Underclassmen Programs (Fellowships, Externships, etc.)",
+"name": "\u2705 OPEN]",
+"org": "Eversheds Sutherland",
+"detail": "First-Year Law / Second-Year Non-Law Virtual Open Day (2027) \u2014 Deadline: March 2, 2027 at 11:59 PM (provider timezone not published)",
+"location": "",
+"link": "https://eversheds-sutherland.grad.allhires.com/app/",
+"posted": ""
+},
+{
 "section": "Ambassador Programs",
 "name": "\u2705 OPEN]",
 "org": "Word of Life Bible Institute",
@@ -2210,6 +2439,24 @@
 "detail": "Student Research Fellows in Nineteenth-Century Studies (2027\u201328) \u2014 Deadline: March 29, 2027 (timezone/time not stated)",
 "location": "",
 "link": "https://leslie.dartmouth.edu/students/student-research-fellows-nineteenth-century-studies-2027-28",
+"posted": ""
+},
+{
+"section": "Underclassmen Research Programs",
+"name": "\u2705 OPEN]",
+"org": "Durham University",
+"detail": "Laidlaw Leadership and Research Programme \u2014 2027 Cohort \u2014 Deadline: January 30, 2027 at 23:59 (time zone not stated)",
+"location": "",
+"link": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=i9hQcmhLKUW-RNWaLYpvlN4Q1YCxW1lFvrgF9oC2GmFUM1ROUlQwVkNVR0ZMT0tDNVVYTjE1N1lNUi4u",
+"posted": ""
+},
+{
+"section": "Underclassmen Research Programs",
+"name": "\u2705 OPEN]",
+"org": "Princeton University / Office of Undergraduate Research",
+"detail": "ReMatch Research Mentorship \u2014 Academic Year 2026\u20132027 \u2014 Deadline: Current mentee signup deadline not published; provider says registration typically closes in e",
+"location": "",
+"link": "https://ourapps.princeton.edu/signup.php",
 "posted": ""
 },
 {
@@ -2336,6 +2583,60 @@
 "detail": "George Alexander Foundation Scholarship \u2014 First Year of Tertiary Study, 2027",
 "location": "",
 "link": "https://CourseworkScholarshipsOffice.formstack.com/forms/2027_gaf",
+"posted": ""
+},
+{
+"section": "Rising Freshmen & First-Year Opportunities",
+"name": "\u2705 OPEN]",
+"org": "Architecture and Design Foundation / Dallas AD EX",
+"detail": "Incoming College Scholarships \u2014 Architecture/Built Environment & CityLab All-Majors Track, 2027",
+"location": "",
+"link": "https://www.dallasadex.org/education/scholarships-fellowships/applications/academic-scholarships/",
+"posted": ""
+},
+{
+"section": "Rising Freshmen & First-Year Opportunities",
+"name": "\u2705 OPEN]",
+"org": "FMG Insurance",
+"detail": "FMG Agriculture Scholarship \u2014 Incoming First University Year, 2027",
+"location": "",
+"link": "https://www.fmg.co.nz/about-fmg/supporting-rural-nz/fmg-agriculture-scholarships/scholarship-form",
+"posted": ""
+},
+{
+"section": "Rising Freshmen & First-Year Opportunities",
+"name": "\u2705 OPEN]",
+"org": "San Francisco State University / Genentech Foundation",
+"detail": "Genentech Foundation Freshman Scholarship \u2014 Incoming Fall 2027 Biology / Chemistry / Biochemistry",
+"location": "",
+"link": "https://sfsu.co1.qualtrics.com/jfe/form/SV_bwHK09YqxI1qkOG",
+"posted": ""
+},
+{
+"section": "Rising Freshmen & First-Year Opportunities",
+"name": "\u2705 OPEN]",
+"org": "Carroll University",
+"detail": "Music Scholarships and Awards \u2014 Incoming First-Year Students, Fall 2027",
+"location": "",
+"link": "https://apply.carrollu.edu/register/fy-music-27",
+"posted": ""
+},
+{
+"section": "Rising Freshmen & First-Year Opportunities",
+"name": "\u2705 OPEN]",
+"org": "Carroll University",
+"detail": "Anne Hardy Art Scholarship \u2014 Incoming First-Year Students, Fall 2027",
+"location": "",
+"link": "https://apply.carrollu.edu/register/art-photography-27",
+"posted": ""
+},
+{
+"section": "Rising Freshmen & First-Year Opportunities",
+"name": "\u2705 OPEN]",
+"org": "The College of Wooster",
+"detail": "Music Scholarships \u2014 Incoming First-Year Performance/Composition Tracks, Fall 2027",
+"location": "",
+"link": "https://connect.wooster.edu/register/?id=4371ab01-f453-45c9-931b-45ba6acd16e7",
 "posted": ""
 }
 ],
