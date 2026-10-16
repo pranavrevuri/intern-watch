@@ -1,5 +1,5 @@
 {
-"checked_at": "2026-10-16T16:58:32.375176+00:00",
+"checked_at": "2026-10-16T18:03:17.071871+00:00",
 "seen_keys": [
 "adobe::\u2705 open]",
 "akuna capital::software engineer intern (summer 2027, python / c++ / full stack / c# .net)",
@@ -22,6 +22,7 @@
 "bae systems::software engineering intern i (summer 2027) \ud83c\uddfa\ud83c\uddf8",
 "bae systems::systems engineering intern ii \u2014 summer 2027 (current sophomores; complete 2nd undergraduate year before summer 2027; ee/",
 "bain capital::\ud83d\udd25 closing soon]",
+"baird::\u2705 open]",
 "baird::\ud83d\udd25 closing soon]",
 "baker mckenzie::\u2705 open]",
 "bank of america::global technology summer analyst, business analyst \ud83d\udec2",
@@ -108,10 +109,12 @@
 "jane street::\u2705 open]",
 "jane street::\ud83d\udd25 closing soon]",
 "johns hopkins university \u2014 life design lab::\u2705 open]",
+"johns hopkins university \u2014 life design lab::\ud83d\udd25 closing soon]",
 "jpmorgan::fellowship",
 "jpmorganchase::fellowship",
 "jpmorganchase::\ud83d\udd25 closing soon]",
 "keybanc capital markets::\u2705 open]",
+"keybanc capital markets::\ud83d\udd25 closing soon]",
 "kudu dynamics::software engineer intern (1) \ud83c\uddfa\ud83c\uddf8",
 "kudu dynamics::software engineer intern (2) \ud83c\uddfa\ud83c\uddf8",
 "kudu dynamics::software engineer intern (3) \ud83c\uddfa\ud83c\uddf8",
@@ -120,6 +123,7 @@
 "latham & watkins::\u2705 open]",
 "lime connect::\u2705 open]",
 "lincoln international::\u2705 open]",
+"lincoln international::\ud83d\udd25 closing soon]",
 "linkedin::first play",
 "liveramp::software engineer intern, pixel serving",
 "lufco::summer intern (cs / software / engineering) \ud83c\uddfa\ud83c\uddf8",
@@ -300,15 +304,6 @@
 {
 "section": "Underclassmen Programs (Fellowships, Externships, etc.)",
 "name": "\ud83d\udd25 CLOSING SOON]",
-"org": "Baird",
-"detail": "Women in Equity Research Event (2026) \u2014 Deadline: Oct 15, 2026",
-"location": "",
-"link": "https://flows.beamery.com/httpwwwrwbairdcom/baird-women-in-equity-research-event-(virtual)",
-"posted": ""
-},
-{
-"section": "Underclassmen Programs (Fellowships, Externships, etc.)",
-"name": "\ud83d\udd25 CLOSING SOON]",
 "org": "Houlihan Lokey",
 "detail": "Investment Banking Insight Day \u2014 Corporate Finance (2026) \u2014 Deadline: Oct 19, 2026",
 "location": "",
@@ -340,6 +335,51 @@
 "detail": "Underclassmen Fellowship \u2014 January 2027 \u2014 Deadline: October 16, 2026 at 5:00 PM EDT",
 "location": "",
 "link": "https://job-boards.greenhouse.io/weissassetmanagement/jobs/8831639002",
+"posted": ""
+},
+{
+"section": "Underclassmen Programs (Fellowships, Externships, etc.)",
+"name": "\ud83d\udd25 CLOSING SOON]",
+"org": "KeyBanc Capital Markets",
+"detail": "Investment Banking Sophomore Series (2027) \u2014 Deadline: October 30, 2026",
+"location": "",
+"link": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=5a2KjEEc3kGOoxie4rSBs4AXk6c5n19OhIGoCOjEsZ9URTI1QUw2SjNZWElBVEhXUDFBSTUxTUJOWiQlQCN0PWcu&route=shorturl",
+"posted": ""
+},
+{
+"section": "Underclassmen Programs (Fellowships, Externships, etc.)",
+"name": "\ud83d\udd25 CLOSING SOON]",
+"org": "Johns Hopkins University \u2014 Life Design Lab",
+"detail": "BioTech Engineering Internship Academy (Spring 2027) \u2014 Deadline: Oct 30, 2026",
+"location": "",
+"link": "https://jh.qualtrics.com/jfe/form/SV_ey6RVne03xbh3Zc",
+"posted": ""
+},
+{
+"section": "Underclassmen Programs (Fellowships, Externships, etc.)",
+"name": "\ud83d\udd25 CLOSING SOON]",
+"org": "Lincoln International",
+"detail": "Sophomore Job Shadow Program (2026) \u2014 Deadline: Oct 30, 2026",
+"location": "",
+"link": "https://www.lincolninternational.com/greenhouse/?gh_jid=8170413",
+"posted": ""
+},
+{
+"section": "Underclassmen Programs (Fellowships, Externships, etc.)",
+"name": "\ud83d\udd25 CLOSING SOON]",
+"org": "Lincoln International",
+"detail": "Women in Finance Workshop (2026) \u2014 Deadline: Oct 30, 2026",
+"location": "",
+"link": "https://www.lincolninternational.com/greenhouse/?gh_jid=8169633",
+"posted": ""
+},
+{
+"section": "Underclassmen Programs (Fellowships, Externships, etc.)",
+"name": "\u2705 OPEN]",
+"org": "Baird",
+"detail": "Women in Equity Research Event (2026) \u2014 Deadline: Oct 15, 2026",
+"location": "",
+"link": "https://flows.beamery.com/httpwwwrwbairdcom/baird-women-in-equity-research-event-(virtual)",
 "posted": ""
 },
 {
@@ -498,46 +538,10 @@
 {
 "section": "Underclassmen Programs (Fellowships, Externships, etc.)",
 "name": "\u2705 OPEN]",
-"org": "KeyBanc Capital Markets",
-"detail": "Investment Banking Sophomore Series (2027) \u2014 Deadline: October 30, 2026",
-"location": "",
-"link": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=5a2KjEEc3kGOoxie4rSBs4AXk6c5n19OhIGoCOjEsZ9URTI1QUw2SjNZWElBVEhXUDFBSTUxTUJOWiQlQCN0PWcu&route=shorturl",
-"posted": ""
-},
-{
-"section": "Underclassmen Programs (Fellowships, Externships, etc.)",
-"name": "\u2705 OPEN]",
 "org": "Insight Partners",
 "detail": "Inclusion by Insight Virtual Summit (2027) \u2014 Deadline: November 6, 2026 (5:00 PM ET)",
 "location": "",
 "link": "https://jobs.ashbyhq.com/insight-partners/0addd648-adab-4dfd-9d77-152f1cc2b533",
-"posted": ""
-},
-{
-"section": "Underclassmen Programs (Fellowships, Externships, etc.)",
-"name": "\u2705 OPEN]",
-"org": "Johns Hopkins University \u2014 Life Design Lab",
-"detail": "BioTech Engineering Internship Academy (Spring 2027) \u2014 Deadline: Oct 30, 2026",
-"location": "",
-"link": "https://jh.qualtrics.com/jfe/form/SV_ey6RVne03xbh3Zc",
-"posted": ""
-},
-{
-"section": "Underclassmen Programs (Fellowships, Externships, etc.)",
-"name": "\u2705 OPEN]",
-"org": "Lincoln International",
-"detail": "Sophomore Job Shadow Program (2026) \u2014 Deadline: Oct 30, 2026",
-"location": "",
-"link": "https://www.lincolninternational.com/greenhouse/?gh_jid=8170413",
-"posted": ""
-},
-{
-"section": "Underclassmen Programs (Fellowships, Externships, etc.)",
-"name": "\u2705 OPEN]",
-"org": "Lincoln International",
-"detail": "Women in Finance Workshop (2026) \u2014 Deadline: Oct 30, 2026",
-"location": "",
-"link": "https://www.lincolninternational.com/greenhouse/?gh_jid=8169633",
 "posted": ""
 },
 {
@@ -1977,15 +1981,6 @@
 {
 "section": "Underclassmen Programs (Fellowships, Externships, etc.)",
 "name": "\ud83d\udd25 CLOSING SOON]",
-"org": "Baird",
-"detail": "Women in Equity Research Event (2026) \u2014 Deadline: Oct 15, 2026",
-"location": "",
-"link": "https://flows.beamery.com/httpwwwrwbairdcom/baird-women-in-equity-research-event-(virtual)",
-"posted": ""
-},
-{
-"section": "Underclassmen Programs (Fellowships, Externships, etc.)",
-"name": "\ud83d\udd25 CLOSING SOON]",
 "org": "Houlihan Lokey",
 "detail": "Investment Banking Insight Day \u2014 Corporate Finance (2026) \u2014 Deadline: Oct 19, 2026",
 "location": "",
@@ -2017,6 +2012,51 @@
 "detail": "Underclassmen Fellowship \u2014 January 2027 \u2014 Deadline: October 16, 2026 at 5:00 PM EDT",
 "location": "",
 "link": "https://job-boards.greenhouse.io/weissassetmanagement/jobs/8831639002",
+"posted": ""
+},
+{
+"section": "Underclassmen Programs (Fellowships, Externships, etc.)",
+"name": "\ud83d\udd25 CLOSING SOON]",
+"org": "KeyBanc Capital Markets",
+"detail": "Investment Banking Sophomore Series (2027) \u2014 Deadline: October 30, 2026",
+"location": "",
+"link": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=5a2KjEEc3kGOoxie4rSBs4AXk6c5n19OhIGoCOjEsZ9URTI1QUw2SjNZWElBVEhXUDFBSTUxTUJOWiQlQCN0PWcu&route=shorturl",
+"posted": ""
+},
+{
+"section": "Underclassmen Programs (Fellowships, Externships, etc.)",
+"name": "\ud83d\udd25 CLOSING SOON]",
+"org": "Johns Hopkins University \u2014 Life Design Lab",
+"detail": "BioTech Engineering Internship Academy (Spring 2027) \u2014 Deadline: Oct 30, 2026",
+"location": "",
+"link": "https://jh.qualtrics.com/jfe/form/SV_ey6RVne03xbh3Zc",
+"posted": ""
+},
+{
+"section": "Underclassmen Programs (Fellowships, Externships, etc.)",
+"name": "\ud83d\udd25 CLOSING SOON]",
+"org": "Lincoln International",
+"detail": "Sophomore Job Shadow Program (2026) \u2014 Deadline: Oct 30, 2026",
+"location": "",
+"link": "https://www.lincolninternational.com/greenhouse/?gh_jid=8170413",
+"posted": ""
+},
+{
+"section": "Underclassmen Programs (Fellowships, Externships, etc.)",
+"name": "\ud83d\udd25 CLOSING SOON]",
+"org": "Lincoln International",
+"detail": "Women in Finance Workshop (2026) \u2014 Deadline: Oct 30, 2026",
+"location": "",
+"link": "https://www.lincolninternational.com/greenhouse/?gh_jid=8169633",
+"posted": ""
+},
+{
+"section": "Underclassmen Programs (Fellowships, Externships, etc.)",
+"name": "\u2705 OPEN]",
+"org": "Baird",
+"detail": "Women in Equity Research Event (2026) \u2014 Deadline: Oct 15, 2026",
+"location": "",
+"link": "https://flows.beamery.com/httpwwwrwbairdcom/baird-women-in-equity-research-event-(virtual)",
 "posted": ""
 },
 {
@@ -2175,46 +2215,10 @@
 {
 "section": "Underclassmen Programs (Fellowships, Externships, etc.)",
 "name": "\u2705 OPEN]",
-"org": "KeyBanc Capital Markets",
-"detail": "Investment Banking Sophomore Series (2027) \u2014 Deadline: October 30, 2026",
-"location": "",
-"link": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=5a2KjEEc3kGOoxie4rSBs4AXk6c5n19OhIGoCOjEsZ9URTI1QUw2SjNZWElBVEhXUDFBSTUxTUJOWiQlQCN0PWcu&route=shorturl",
-"posted": ""
-},
-{
-"section": "Underclassmen Programs (Fellowships, Externships, etc.)",
-"name": "\u2705 OPEN]",
 "org": "Insight Partners",
 "detail": "Inclusion by Insight Virtual Summit (2027) \u2014 Deadline: November 6, 2026 (5:00 PM ET)",
 "location": "",
 "link": "https://jobs.ashbyhq.com/insight-partners/0addd648-adab-4dfd-9d77-152f1cc2b533",
-"posted": ""
-},
-{
-"section": "Underclassmen Programs (Fellowships, Externships, etc.)",
-"name": "\u2705 OPEN]",
-"org": "Johns Hopkins University \u2014 Life Design Lab",
-"detail": "BioTech Engineering Internship Academy (Spring 2027) \u2014 Deadline: Oct 30, 2026",
-"location": "",
-"link": "https://jh.qualtrics.com/jfe/form/SV_ey6RVne03xbh3Zc",
-"posted": ""
-},
-{
-"section": "Underclassmen Programs (Fellowships, Externships, etc.)",
-"name": "\u2705 OPEN]",
-"org": "Lincoln International",
-"detail": "Sophomore Job Shadow Program (2026) \u2014 Deadline: Oct 30, 2026",
-"location": "",
-"link": "https://www.lincolninternational.com/greenhouse/?gh_jid=8170413",
-"posted": ""
-},
-{
-"section": "Underclassmen Programs (Fellowships, Externships, etc.)",
-"name": "\u2705 OPEN]",
-"org": "Lincoln International",
-"detail": "Women in Finance Workshop (2026) \u2014 Deadline: Oct 30, 2026",
-"location": "",
-"link": "https://www.lincolninternational.com/greenhouse/?gh_jid=8169633",
 "posted": ""
 },
 {
