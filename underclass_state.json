@@ -1,5 +1,5 @@
 {
-"checked_at": "2026-10-17T15:34:22.365090+00:00",
+"checked_at": "2026-10-17T17:32:38.721040+00:00",
 "seen_keys": [
 "adobe::\u2705 open]",
 "akuna capital::software engineer intern (summer 2027, python / c++ / full stack / c# .net)",
@@ -237,6 +237,7 @@
 "walleye capital::quant developer intern",
 "walmart / satya blends::\u2705 open]",
 "wayne state college::\u2705 open]",
+"weiss asset management::\u2705 open]",
 "weiss asset management::\ud83d\udd25 closing soon]",
 "wells fargo::discovery",
 "wells fargo::sophomore experience",
@@ -331,15 +332,6 @@
 {
 "section": "Underclassmen Programs (Fellowships, Externships, etc.)",
 "name": "\ud83d\udd25 CLOSING SOON]",
-"org": "Weiss Asset Management",
-"detail": "Underclassmen Fellowship \u2014 January 2027 \u2014 Deadline: October 16, 2026 at 5:00 PM EDT",
-"location": "",
-"link": "https://job-boards.greenhouse.io/weissassetmanagement/jobs/8831639002",
-"posted": ""
-},
-{
-"section": "Underclassmen Programs (Fellowships, Externships, etc.)",
-"name": "\ud83d\udd25 CLOSING SOON]",
 "org": "KeyBanc Capital Markets",
 "detail": "Investment Banking Sophomore Series (2027) \u2014 Deadline: October 30, 2026",
 "location": "",
@@ -371,6 +363,15 @@
 "detail": "Women in Finance Workshop (2026) \u2014 Deadline: Oct 30, 2026",
 "location": "",
 "link": "https://www.lincolninternational.com/greenhouse/?gh_jid=8169633",
+"posted": ""
+},
+{
+"section": "Underclassmen Programs (Fellowships, Externships, etc.)",
+"name": "\u2705 OPEN]",
+"org": "Weiss Asset Management",
+"detail": "Underclassmen Fellowship \u2014 January 2027 \u2014 Deadline: October 16, 2026 at 5:00 PM EDT",
+"location": "",
+"link": "https://job-boards.greenhouse.io/weissassetmanagement/jobs/8831639002",
 "posted": ""
 },
 {
@@ -2008,15 +2009,6 @@
 {
 "section": "Underclassmen Programs (Fellowships, Externships, etc.)",
 "name": "\ud83d\udd25 CLOSING SOON]",
-"org": "Weiss Asset Management",
-"detail": "Underclassmen Fellowship \u2014 January 2027 \u2014 Deadline: October 16, 2026 at 5:00 PM EDT",
-"location": "",
-"link": "https://job-boards.greenhouse.io/weissassetmanagement/jobs/8831639002",
-"posted": ""
-},
-{
-"section": "Underclassmen Programs (Fellowships, Externships, etc.)",
-"name": "\ud83d\udd25 CLOSING SOON]",
 "org": "KeyBanc Capital Markets",
 "detail": "Investment Banking Sophomore Series (2027) \u2014 Deadline: October 30, 2026",
 "location": "",
@@ -2048,6 +2040,15 @@
 "detail": "Women in Finance Workshop (2026) \u2014 Deadline: Oct 30, 2026",
 "location": "",
 "link": "https://www.lincolninternational.com/greenhouse/?gh_jid=8169633",
+"posted": ""
+},
+{
+"section": "Underclassmen Programs (Fellowships, Externships, etc.)",
+"name": "\u2705 OPEN]",
+"org": "Weiss Asset Management",
+"detail": "Underclassmen Fellowship \u2014 January 2027 \u2014 Deadline: October 16, 2026 at 5:00 PM EDT",
+"location": "",
+"link": "https://job-boards.greenhouse.io/weissassetmanagement/jobs/8831639002",
 "posted": ""
 },
 {
