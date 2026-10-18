@@ -1,5 +1,5 @@
 {
-"checked_at": "2026-10-18T15:51:45.424267+00:00",
+"checked_at": "2026-10-18T18:16:40.356857+00:00",
 "seen_keys": [
 "adobe::\u2705 open]",
 "akuna capital::software engineer intern (summer 2027, python / c++ / full stack / c# .net)",
@@ -135,6 +135,7 @@
 "mlh::fellowship",
 "mlh::mlh fellowship",
 "mlt (management leadership for tomorrow)::\u2705 open]",
+"mlt (management leadership for tomorrow)::\ud83d\udd25 closing soon]",
 "monster energy::\u2705 open]",
 "montana state university honors college::\u2705 open]",
 "moonshot (formerly opentrade)::\u2705 open]",
@@ -172,6 +173,7 @@
 "palantir::year at palantir, forward deployed software engineer intern \u23f3",
 "pearson::\u2705 open]",
 "penn state / nasa pennsylvania space grant consortium::\u2705 open]",
+"penn state / nasa pennsylvania space grant consortium::\ud83d\udd25 closing soon]",
 "plante moran::\u2705 open]",
 "point72::\u2705 open]",
 "posse foundation::\u2705 open]",
@@ -211,6 +213,7 @@
 "susquehanna::trading system engineering intern \ud83c\uddfa\ud83c\uddf8",
 "susquehanna::\u2705 open]",
 "the college of wooster::\u2705 open]",
+"the college of wooster::\ud83d\udd25 closing soon]",
 "the home depot::\u2705 open]",
 "the home depot::\ud83d\udd25 closing soon]",
 "the rockefeller university / cuny hunter college::\u2705 open]",
@@ -228,6 +231,7 @@
 "uncf / fidelity investments::\u2705 open]",
 "unison (ge aerospace)::engineering intern (summer 2027) \ud83d\udec2 \ud83c\uddfa\ud83c\uddf8",
 "university of florida \u2014 center for undergraduate research::\u2705 open]",
+"university of florida \u2014 center for undergraduate research::\ud83d\udd25 closing soon]",
 "university of hong kong::\u2705 open]",
 "university of minnesota twin cities \u2014 pre-health student resource center::\ud83d\udd25 closing soon]",
 "university of north carolina wilmington::\u2705 open]",
@@ -367,6 +371,15 @@
 },
 {
 "section": "Underclassmen Programs (Fellowships, Externships, etc.)",
+"name": "\ud83d\udd25 CLOSING SOON]",
+"org": "MLT (Management Leadership for Tomorrow)",
+"detail": "Career Prep (Class of 2029) \u2014 Deadline: January 15, 2027 (11:59 PM EST); SWE/Technology/Corporate Priority November 1, 2026",
+"location": "",
+"link": "https://mlt.smapply.org/prog/careerprep2029_application/",
+"posted": ""
+},
+{
+"section": "Underclassmen Programs (Fellowships, Externships, etc.)",
 "name": "\u2705 OPEN]",
 "org": "Weiss Asset Management",
 "detail": "Underclassmen Fellowship \u2014 January 2027 \u2014 Deadline: October 16, 2026 at 5:00 PM EDT",
@@ -381,15 +394,6 @@
 "detail": "Women in Equity Research Event (2026) \u2014 Deadline: Oct 15, 2026",
 "location": "",
 "link": "https://flows.beamery.com/httpwwwrwbairdcom/baird-women-in-equity-research-event-(virtual)",
-"posted": ""
-},
-{
-"section": "Underclassmen Programs (Fellowships, Externships, etc.)",
-"name": "\u2705 OPEN]",
-"org": "MLT (Management Leadership for Tomorrow)",
-"detail": "Career Prep (Class of 2029) \u2014 Deadline: January 15, 2027 (11:59 PM EST); SWE/Technology/Corporate Priority November 1, 2026",
-"location": "",
-"link": "https://mlt.smapply.org/prog/careerprep2029_application/",
 "posted": ""
 },
 {
@@ -700,6 +704,24 @@
 },
 {
 "section": "Underclassmen Research Programs",
+"name": "\ud83d\udd25 CLOSING SOON]",
+"org": "Penn State / NASA Pennsylvania Space Grant Consortium",
+"detail": "Undergraduate Research Internship Program (URIP), 2027 \u2014 Deadline: November 1, 2026 (time zone not published)",
+"location": "",
+"link": "https://spacegrant.net/apps/pas2",
+"posted": ""
+},
+{
+"section": "Underclassmen Research Programs",
+"name": "\ud83d\udd25 CLOSING SOON]",
+"org": "University of Florida \u2014 Center for Undergraduate Research",
+"detail": "Emerging Scholars Program (2027) \u2014 Deadline: November 1, 2026, 11:59pm (timezone not stated)",
+"location": "",
+"link": "https://forms.gle/uiDgGkbKf6DRD5Hu5",
+"posted": ""
+},
+{
+"section": "Underclassmen Research Programs",
 "name": "\u2705 OPEN]",
 "org": "Barry Goldwater Scholarship & Excellence in Education Foundation",
 "detail": "Goldwater Summer Research Internship (2027) \u2014 Deadline: Nov 2, 2026",
@@ -728,15 +750,6 @@
 {
 "section": "Underclassmen Research Programs",
 "name": "\u2705 OPEN]",
-"org": "Penn State / NASA Pennsylvania Space Grant Consortium",
-"detail": "Undergraduate Research Internship Program (URIP), 2027 \u2014 Deadline: November 1, 2026 (time zone not published)",
-"location": "",
-"link": "https://spacegrant.net/apps/pas2",
-"posted": ""
-},
-{
-"section": "Underclassmen Research Programs",
-"name": "\u2705 OPEN]",
 "org": "Cornell University / Einaudi Center",
 "detail": "Laidlaw Leadership and Research Program, 2027\u20132029 \u2014 Deadline: January 6, 2027 (time zone not published)",
 "location": "",
@@ -750,15 +763,6 @@
 "detail": "Laidlaw Undergraduate Research and Leadership Programme, 2026\u20132027 Intake \u2014 Deadline: January 22, 2027 at 23:59 (time zone not stated by provider)",
 "location": "",
 "link": "https://hku.au1.qualtrics.com/jfe/form/SV_8llsP6pChCy6XhI",
-"posted": ""
-},
-{
-"section": "Underclassmen Research Programs",
-"name": "\u2705 OPEN]",
-"org": "University of Florida \u2014 Center for Undergraduate Research",
-"detail": "Emerging Scholars Program (2027) \u2014 Deadline: November 1, 2026, 11:59pm (timezone not stated)",
-"location": "",
-"link": "https://forms.gle/uiDgGkbKf6DRD5Hu5",
 "posted": ""
 },
 {
@@ -786,6 +790,15 @@
 "detail": "ReMatch Research Mentorship \u2014 Academic Year 2026\u20132027 \u2014 Deadline: Current mentee signup deadline not published; provider says registration typically closes in e",
 "location": "",
 "link": "https://ourapps.princeton.edu/signup.php",
+"posted": ""
+},
+{
+"section": "Rising Freshmen & First-Year Opportunities",
+"name": "\ud83d\udd25 CLOSING SOON]",
+"org": "The College of Wooster",
+"detail": "Music Scholarships \u2014 Incoming First-Year Performance/Composition Tracks, Fall 2027",
+"location": "",
+"link": "https://connect.wooster.edu/register/?id=4371ab01-f453-45c9-931b-45ba6acd16e7",
 "posted": ""
 },
 {
@@ -957,15 +970,6 @@
 "detail": "Anne Hardy Art Scholarship \u2014 Incoming First-Year Students, Fall 2027",
 "location": "",
 "link": "https://apply.carrollu.edu/register/art-photography-27",
-"posted": ""
-},
-{
-"section": "Rising Freshmen & First-Year Opportunities",
-"name": "\u2705 OPEN]",
-"org": "The College of Wooster",
-"detail": "Music Scholarships \u2014 Incoming First-Year Performance/Composition Tracks, Fall 2027",
-"location": "",
-"link": "https://connect.wooster.edu/register/?id=4371ab01-f453-45c9-931b-45ba6acd16e7",
 "posted": ""
 },
 {
@@ -2044,6 +2048,15 @@
 },
 {
 "section": "Underclassmen Programs (Fellowships, Externships, etc.)",
+"name": "\ud83d\udd25 CLOSING SOON]",
+"org": "MLT (Management Leadership for Tomorrow)",
+"detail": "Career Prep (Class of 2029) \u2014 Deadline: January 15, 2027 (11:59 PM EST); SWE/Technology/Corporate Priority November 1, 2026",
+"location": "",
+"link": "https://mlt.smapply.org/prog/careerprep2029_application/",
+"posted": ""
+},
+{
+"section": "Underclassmen Programs (Fellowships, Externships, etc.)",
 "name": "\u2705 OPEN]",
 "org": "Weiss Asset Management",
 "detail": "Underclassmen Fellowship \u2014 January 2027 \u2014 Deadline: October 16, 2026 at 5:00 PM EDT",
@@ -2058,15 +2071,6 @@
 "detail": "Women in Equity Research Event (2026) \u2014 Deadline: Oct 15, 2026",
 "location": "",
 "link": "https://flows.beamery.com/httpwwwrwbairdcom/baird-women-in-equity-research-event-(virtual)",
-"posted": ""
-},
-{
-"section": "Underclassmen Programs (Fellowships, Externships, etc.)",
-"name": "\u2705 OPEN]",
-"org": "MLT (Management Leadership for Tomorrow)",
-"detail": "Career Prep (Class of 2029) \u2014 Deadline: January 15, 2027 (11:59 PM EST); SWE/Technology/Corporate Priority November 1, 2026",
-"location": "",
-"link": "https://mlt.smapply.org/prog/careerprep2029_application/",
 "posted": ""
 },
 {
@@ -2377,6 +2381,24 @@
 },
 {
 "section": "Underclassmen Research Programs",
+"name": "\ud83d\udd25 CLOSING SOON]",
+"org": "Penn State / NASA Pennsylvania Space Grant Consortium",
+"detail": "Undergraduate Research Internship Program (URIP), 2027 \u2014 Deadline: November 1, 2026 (time zone not published)",
+"location": "",
+"link": "https://spacegrant.net/apps/pas2",
+"posted": ""
+},
+{
+"section": "Underclassmen Research Programs",
+"name": "\ud83d\udd25 CLOSING SOON]",
+"org": "University of Florida \u2014 Center for Undergraduate Research",
+"detail": "Emerging Scholars Program (2027) \u2014 Deadline: November 1, 2026, 11:59pm (timezone not stated)",
+"location": "",
+"link": "https://forms.gle/uiDgGkbKf6DRD5Hu5",
+"posted": ""
+},
+{
+"section": "Underclassmen Research Programs",
 "name": "\u2705 OPEN]",
 "org": "Barry Goldwater Scholarship & Excellence in Education Foundation",
 "detail": "Goldwater Summer Research Internship (2027) \u2014 Deadline: Nov 2, 2026",
@@ -2405,15 +2427,6 @@
 {
 "section": "Underclassmen Research Programs",
 "name": "\u2705 OPEN]",
-"org": "Penn State / NASA Pennsylvania Space Grant Consortium",
-"detail": "Undergraduate Research Internship Program (URIP), 2027 \u2014 Deadline: November 1, 2026 (time zone not published)",
-"location": "",
-"link": "https://spacegrant.net/apps/pas2",
-"posted": ""
-},
-{
-"section": "Underclassmen Research Programs",
-"name": "\u2705 OPEN]",
 "org": "Cornell University / Einaudi Center",
 "detail": "Laidlaw Leadership and Research Program, 2027\u20132029 \u2014 Deadline: January 6, 2027 (time zone not published)",
 "location": "",
@@ -2427,15 +2440,6 @@
 "detail": "Laidlaw Undergraduate Research and Leadership Programme, 2026\u20132027 Intake \u2014 Deadline: January 22, 2027 at 23:59 (time zone not stated by provider)",
 "location": "",
 "link": "https://hku.au1.qualtrics.com/jfe/form/SV_8llsP6pChCy6XhI",
-"posted": ""
-},
-{
-"section": "Underclassmen Research Programs",
-"name": "\u2705 OPEN]",
-"org": "University of Florida \u2014 Center for Undergraduate Research",
-"detail": "Emerging Scholars Program (2027) \u2014 Deadline: November 1, 2026, 11:59pm (timezone not stated)",
-"location": "",
-"link": "https://forms.gle/uiDgGkbKf6DRD5Hu5",
 "posted": ""
 },
 {
@@ -2463,6 +2467,15 @@
 "detail": "ReMatch Research Mentorship \u2014 Academic Year 2026\u20132027 \u2014 Deadline: Current mentee signup deadline not published; provider says registration typically closes in e",
 "location": "",
 "link": "https://ourapps.princeton.edu/signup.php",
+"posted": ""
+},
+{
+"section": "Rising Freshmen & First-Year Opportunities",
+"name": "\ud83d\udd25 CLOSING SOON]",
+"org": "The College of Wooster",
+"detail": "Music Scholarships \u2014 Incoming First-Year Performance/Composition Tracks, Fall 2027",
+"location": "",
+"link": "https://connect.wooster.edu/register/?id=4371ab01-f453-45c9-931b-45ba6acd16e7",
 "posted": ""
 },
 {
@@ -2634,15 +2647,6 @@
 "detail": "Anne Hardy Art Scholarship \u2014 Incoming First-Year Students, Fall 2027",
 "location": "",
 "link": "https://apply.carrollu.edu/register/art-photography-27",
-"posted": ""
-},
-{
-"section": "Rising Freshmen & First-Year Opportunities",
-"name": "\u2705 OPEN]",
-"org": "The College of Wooster",
-"detail": "Music Scholarships \u2014 Incoming First-Year Performance/Composition Tracks, Fall 2027",
-"location": "",
-"link": "https://connect.wooster.edu/register/?id=4371ab01-f453-45c9-931b-45ba6acd16e7",
 "posted": ""
 }
 ],
