@@ -1,5 +1,5 @@
 {
-"checked_at": "2026-10-23T17:28:18.727973+00:00",
+"checked_at": "2026-10-23T18:21:20.948603+00:00",
 "seen_keys": [
 "adobe::\u2705 open]",
 "akuna capital::software engineer intern (summer 2027, python / c++ / full stack / c# .net)",
@@ -102,6 +102,7 @@
 "imc trading::machine learning research intern (summer 2027)",
 "imc trading::software engineer intern (summer 2027)",
 "insight partners::\u2705 open]",
+"insight partners::\ud83d\udd25 closing soon]",
 "ioscholarships::\u2705 open]",
 "jack kent cooke foundation::\u2705 open]",
 "james madison university::\u2705 open]",
@@ -374,6 +375,15 @@
 },
 {
 "section": "Underclassmen Programs (Fellowships, Externships, etc.)",
+"name": "\ud83d\udd25 CLOSING SOON]",
+"org": "Insight Partners",
+"detail": "Inclusion by Insight Virtual Summit (2027) \u2014 Deadline: November 6, 2026 (5:00 PM ET)",
+"location": "",
+"link": "https://jobs.ashbyhq.com/insight-partners/0addd648-adab-4dfd-9d77-152f1cc2b533",
+"posted": ""
+},
+{
+"section": "Underclassmen Programs (Fellowships, Externships, etc.)",
 "name": "\u2705 OPEN]",
 "org": "Houlihan Lokey",
 "detail": "Investment Banking Insight Day \u2014 Corporate Finance (2026) \u2014 Deadline: Oct 19, 2026",
@@ -541,15 +551,6 @@
 "detail": "LINK 2027: Software Development Intensive Program \u2014 Deadline: No deadline published; application form currently open",
 "location": "",
 "link": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5394515008",
-"posted": ""
-},
-{
-"section": "Underclassmen Programs (Fellowships, Externships, etc.)",
-"name": "\u2705 OPEN]",
-"org": "Insight Partners",
-"detail": "Inclusion by Insight Virtual Summit (2027) \u2014 Deadline: November 6, 2026 (5:00 PM ET)",
-"location": "",
-"link": "https://jobs.ashbyhq.com/insight-partners/0addd648-adab-4dfd-9d77-152f1cc2b533",
 "posted": ""
 },
 {
@@ -2051,6 +2052,15 @@
 },
 {
 "section": "Underclassmen Programs (Fellowships, Externships, etc.)",
+"name": "\ud83d\udd25 CLOSING SOON]",
+"org": "Insight Partners",
+"detail": "Inclusion by Insight Virtual Summit (2027) \u2014 Deadline: November 6, 2026 (5:00 PM ET)",
+"location": "",
+"link": "https://jobs.ashbyhq.com/insight-partners/0addd648-adab-4dfd-9d77-152f1cc2b533",
+"posted": ""
+},
+{
+"section": "Underclassmen Programs (Fellowships, Externships, etc.)",
 "name": "\u2705 OPEN]",
 "org": "Houlihan Lokey",
 "detail": "Investment Banking Insight Day \u2014 Corporate Finance (2026) \u2014 Deadline: Oct 19, 2026",
@@ -2218,15 +2228,6 @@
 "detail": "LINK 2027: Software Development Intensive Program \u2014 Deadline: No deadline published; application form currently open",
 "location": "",
 "link": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5394515008",
-"posted": ""
-},
-{
-"section": "Underclassmen Programs (Fellowships, Externships, etc.)",
-"name": "\u2705 OPEN]",
-"org": "Insight Partners",
-"detail": "Inclusion by Insight Virtual Summit (2027) \u2014 Deadline: November 6, 2026 (5:00 PM ET)",
-"location": "",
-"link": "https://jobs.ashbyhq.com/insight-partners/0addd648-adab-4dfd-9d77-152f1cc2b533",
 "posted": ""
 },
 {
