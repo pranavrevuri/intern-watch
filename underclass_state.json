@@ -1,5 +1,5 @@
 {
-"checked_at": "2026-10-25T16:18:38.275582+00:00",
+"checked_at": "2026-10-25T17:52:14.446518+00:00",
 "seen_keys": [
 "adobe::\u2705 open]",
 "akuna capital::software engineer intern (summer 2027, python / c++ / full stack / c# .net)",
@@ -384,6 +384,15 @@
 },
 {
 "section": "Underclassmen Programs (Fellowships, Externships, etc.)",
+"name": "\ud83d\udd25 CLOSING SOON]",
+"org": "Jane Street",
+"detail": "FOCUS \u2014 London (2027) \u2014 Deadline: November 8, 2026 (11:59 PM GMT)",
+"location": "",
+"link": "https://www.janestreet.com/apply-focus-ldn/",
+"posted": ""
+},
+{
+"section": "Underclassmen Programs (Fellowships, Externships, etc.)",
 "name": "\u2705 OPEN]",
 "org": "Houlihan Lokey",
 "detail": "Investment Banking Insight Day \u2014 Corporate Finance (2026) \u2014 Deadline: Oct 19, 2026",
@@ -434,15 +443,6 @@
 "detail": "FTTP \u2014 First-Year Trading & Technology \u2014 New York (2027) \u2014 Deadline: January 31, 2027 (11:59 PM EST)",
 "location": "",
 "link": "https://www.janestreet.com/apply-fttp-nyc/",
-"posted": ""
-},
-{
-"section": "Underclassmen Programs (Fellowships, Externships, etc.)",
-"name": "\u2705 OPEN]",
-"org": "Jane Street",
-"detail": "FOCUS \u2014 London (2027) \u2014 Deadline: November 8, 2026 (11:59 PM GMT)",
-"location": "",
-"link": "https://www.janestreet.com/apply-focus-ldn/",
 "posted": ""
 },
 {
@@ -2061,6 +2061,15 @@
 },
 {
 "section": "Underclassmen Programs (Fellowships, Externships, etc.)",
+"name": "\ud83d\udd25 CLOSING SOON]",
+"org": "Jane Street",
+"detail": "FOCUS \u2014 London (2027) \u2014 Deadline: November 8, 2026 (11:59 PM GMT)",
+"location": "",
+"link": "https://www.janestreet.com/apply-focus-ldn/",
+"posted": ""
+},
+{
+"section": "Underclassmen Programs (Fellowships, Externships, etc.)",
 "name": "\u2705 OPEN]",
 "org": "Houlihan Lokey",
 "detail": "Investment Banking Insight Day \u2014 Corporate Finance (2026) \u2014 Deadline: Oct 19, 2026",
@@ -2111,15 +2120,6 @@
 "detail": "FTTP \u2014 First-Year Trading & Technology \u2014 New York (2027) \u2014 Deadline: January 31, 2027 (11:59 PM EST)",
 "location": "",
 "link": "https://www.janestreet.com/apply-fttp-nyc/",
-"posted": ""
-},
-{
-"section": "Underclassmen Programs (Fellowships, Externships, etc.)",
-"name": "\u2705 OPEN]",
-"org": "Jane Street",
-"detail": "FOCUS \u2014 London (2027) \u2014 Deadline: November 8, 2026 (11:59 PM GMT)",
-"location": "",
-"link": "https://www.janestreet.com/apply-focus-ldn/",
 "posted": ""
 },
 {
