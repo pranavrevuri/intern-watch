@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T16:31:31.659124+00:00",
+  "generated_at": "2026-10-25T17:09:07.726576+00:00",
   "companies": [
     {
       "name": "1Password",
@@ -1353,14 +1353,14 @@
       "tracks_total": 6,
       "programs": "3 official career areas (Engineering, Business, IT/Data & Analytics) plus Millennium Space Systems and EHS",
       "no_formal_program": false,
-      "faq_open_answer": "They already have. Summer 2027 reqs went live from August 3, 2026 and list a posting end date of October 23, 2026, with a smaller Spring wave expected in February and March 2027. That's roughly 9 to 10 months before a mid-May or June 2027 start. Review is rolling and reqs can close early, so apply now.",
+      "faq_open_answer": "They already have. Summer 2027 reqs went live from August 3, 2026, roughly 9 to 10 months before a mid-May or June 2027 start, and most closed after their October 23, 2026 posting end date. Four reqs were still listed on October 25, 2026, with end dates from October 26 to November 15, and a smaller Spring wave is expected in February and March 2027. Review is rolling and reqs can close early, so a",
       "interview": "Expect one to three behavioral, STAR-style interviews by phone or video, sometimes a HireVue recorded video or a skill-alignment survey, and occasionally an offer with no live interview. There's no standardized LeetCode coding test for standard intern reqs. Glassdoor rates difficulty about 2.8 to 2.",
       "visa": null,
       "window": [
-        "2026-10",
-        "2026-10"
+        "2027-02",
+        "2027-03"
       ],
-      "window_text": "Fall wave for summer 2027 open now: reqs posted from August 3, 2026, posting end date October 23, 2026 (Finance October 30). A smaller spring wave for summer 2027 is expected February to March 2027"
+      "window_text": "Fall wave for summer 2027 mostly ended: reqs posted from August 3, 2026, most closed after the October 23, 2026 posting end date. Four reqs remain; Workday lists an end date of October 26 (Supply Chain, Methods Process Analyst), October 30 (Finance) and November 15 (Security and Fire Operations). A smaller spring wave for summer 2027 is expected February to March 2027"
     },
     {
       "name": "Booking Holdings",
@@ -5743,14 +5743,14 @@
       "tracks_total": 4,
       "programs": "4+ tracks: Software Engineering (Product), Data Science, Product Management, Industry Solutions, and more",
       "no_formal_program": false,
-      "faq_open_answer": "No date is announced. Prior cycles opened in early September, but no summer 2027 intern roles were on MongoDB's job board on October 6, 2026. In past cycles most positions filled within about six weeks of opening, with a formal close in mid-November. Set a job alert on mongodb.com/careers/students-and-graduates.",
+      "faq_open_answer": "They are open now. Prior cycles opened in early September; this year MongoDB posted its 2027 Software Engineering Intern, AMER requisition on October 23, 2026, for Austin, New York City and San Francisco, and on October 25 it was the only intern role on the board. No deadline is printed. In past cycles most positions filled within about six weeks of opening, so apply this week rather than waiting ",
       "interview": "Five stages: resume screening, a 30-minute recruiter phone screen, a 60-minute Karat technical assessment (two LeetCode easy-to-medium problems), a 2.5 to 3-hour virtual onsite with 2 to 3 panel interviews, and an offer decision. The whole process runs about 7 to 9 weeks.",
       "visa": "May be available. Job postings state authorized to work in the US, with sponsorship possible",
       "window": [
         "2026-10",
         "2026-10"
       ],
-      "window_text": "Not posted yet. No summer 2027 intern roles on MongoDB's job board on October 6, 2026, past the early-September opening of prior cycles. MongoDB has not announced dates; check weekly"
+      "window_text": "Open. On October 25, 2026, MongoDB's board listed one intern requisition, 2027 Software Engineering Intern, AMER (Austin, New York City, San Francisco), posted October 23 with no printed deadline. Rolling; apply this week"
     },
     {
       "name": "Morgan Stanley",
@@ -6813,14 +6813,14 @@
       "tracks_total": 6,
       "programs": "8 entry-level tracks across Summer and Winter seasons, from Audit to Products & Technology, plus While You Work and Destination CPA",
       "no_formal_program": false,
-      "faq_open_answer": "Earlier than you'd think: the first wave already opened and closed. PwC's Audit, Tax, and DAT postings for summer 2028 began going live on September 10, 2026, about 22 months before the internship starts, and closed on October 3, 2026 (a few October 2). A handful of late office adds (Portland, San Francisco, Silicon Valley) end October 11 to 12, 2026. Advisory and Consulting windows for summer 202",
+      "faq_open_answer": "Earlier than you'd think: the first wave already opened and closed. PwC's Audit, Tax, and DAT postings for summer 2028 began going live on September 10, 2026, about 22 months before the internship starts, and closed on October 3, 2026 (a few October 2). The late office adds (Portland, San Francisco, Silicon Valley) ended October 11 to 12, 2026; on October 25 the only summer 2028 intern reqs listed",
       "interview": "The whole process runs through PwC's recruiting page playbook : 1. Pick one track. You can interview for only one opportunity at a time, so match your major to a career area first. 2. Apply at pwc.to/entryleveljobs . Search \"summer 2028\" by keyword, select a preferred office, and upload your resume ",
       "visa": null,
       "window": [
         "2026-09",
         "2027-03"
       ],
-      "window_text": "Summer 2028, first wave CLOSED Oct 3, 2026: 92 Audit/Tax/DAT (Destination CPA) reqs, first posted Sep 10, 2026 (~22 months before the internship starts), closed Oct 2 to 3, as did 76 Winter 2028 Audit/Tax reqs and the Deals Summer 2028 intern reqs (Financial Due Diligence, CMAAS). Late adds still live on Oct 6: Portland Audit, San Francisco Tax, Silicon Valley Tax (Summer 2028, end Oct 11 to 12) a"
+      "window_text": "Summer 2028, first wave CLOSED Oct 3, 2026: 92 Audit/Tax/DAT (Destination CPA) reqs, first posted Sep 10, 2026 (~22 months before the internship starts), closed Oct 2 to 3, as did 76 Winter 2028 Audit/Tax reqs and the Deals Summer 2028 intern reqs (Financial Due Diligence, CMAAS). The late adds (Portland Audit, San Francisco Tax, Silicon Valley Tax for Summer 2028; Portland Audit for Winter 2028) "
     },
     {
       "name": "Qatalyst Partners",
@@ -7474,7 +7474,7 @@
         "https://salesforce.wd12.myworkdayjobs.com/en-US/Futureforce_Internships/"
       ],
       "rolling": "Yes, explicitly. Most spots fill by December; week-one applicants interview at 40\u201360% higher rates",
-      "pay": "Summer 2027 postings live Oct 21, 2026 print $43 to $52/hr (Software Engineer), $49 to $68/hr (AI Research), $46\u2013$57/hr (MBA consultant), $33/hr (Solution Engin",
+      "pay": "Summer 2027 postings checked Oct 21, 2026 printed $43 to $52/hr (Software Engineer), $49 to $68/hr (AI Research), $46\u2013$57/hr (MBA consultant, closed after Oct 2",
       "tech_tracks": "Software Engineering (SWE); AI & Data Science Analyst; AI Research; Product Security Engineering",
       "tracks_total": 6,
       "programs": "12+ confirmed pathways from SWE and AI Research to Sales Strategy and UX Design",
@@ -7486,7 +7486,7 @@
         "2026-08",
         "2026-10"
       ],
-      "window_text": "OPEN for summer 2027 on the Software Engineer track: Software Engineer Intern posted Aug 31, 2026 (San Francisco, Palo Alto, New York, Seattle, Bellevue, Burlington, Atlanta, Indianapolis), no end date printed, still live Oct 21. Also live Oct 21: Software Engineer (Security/Government), San Francisco and Bellevue (posted Oct 19); AI Research, Palo Alto (posted Oct 20); Solution Engineer, New York"
+      "window_text": "OPEN for summer 2027 on the Software Engineer track: Software Engineer Intern posted Aug 31, 2026 (San Francisco, Palo Alto, New York, Seattle, Bellevue, Burlington, Atlanta, Indianapolis), no end date printed, still live Oct 25, 2026. Also live Oct 25: Software Engineer (Security/Government), San Francisco and Bellevue (posted Oct 19); AI Research, Palo Alto (posted Oct 20); Solution Engineer, Ne"
     },
     {
       "name": "SambaNova",
@@ -8447,7 +8447,7 @@
         "2027-08",
         "2027-10"
       ],
-      "window_text": "Not posted as of October 22, 2026: the IB Summer Analyst posting for summer 2028 (expected August to October 2027). Listed on TD's board on October 22, 2026: the 2027 Invest in Success Program in New York, a two-day program for sophomores (Class of 2029) with guaranteed interviews for the 2028 U.S. Summer Analyst Program, application deadline October 28, 2026; Graduate Leadership Program summer in"
+      "window_text": "Not posted as of October 25, 2026: the IB Summer Analyst posting for summer 2028 (expected August to October 2027). Listed on TD's board on October 25, 2026: the 2027 Invest in Success Program in New York, a two-day program for sophomores (Class of 2029) with guaranteed interviews for the 2028 U.S. Summer Analyst Program, application deadline October 28, 2026; Graduate Leadership Program summer in"
     },
     {
       "name": "Tempus AI",
@@ -9109,14 +9109,14 @@
       "tracks_total": 6,
       "programs": "80+ positions across technology, cybersecurity, AI/ML, marketing, finance, and more",
       "no_formal_program": false,
-      "faq_open_answer": "They have started to. Verizon posted its first two US summer 2027 internships on October 12, 2026 (end date October 17, now closed), then eight more on October 19 and 20, 2026, all with an end date of October 24, 2026. The four open to all applicants are Data Science, Call Routing Optimization Engineering, and Sales and Service Operations in Basking Ridge, NJ and Solutions Architect in Irving, TX.",
+      "faq_open_answer": "They have started to, in short bursts. Verizon posted its first two US summer 2027 internships on October 12, 2026 (end date October 17, closed), then eight more on October 19 and 20, 2026 (Data Science, Call Routing Optimization Engineering and Sales and Service Operations in Basking Ridge, NJ, Solutions Architect in Irving, TX, and four limited to program attendees), all of which closed after th",
       "interview": "After applying online, most candidates complete a Candidates Assessment on Workday (the ADEPT-15 personality test, about 25\u201330 minutes), followed by a self-recorded video interview with 6 behavioral questions and 2 attempts each. Strong candidates advance to a phone or virtual interview, and some ro",
       "visa": "No. All Verizon internship postings require \"authorization to work in the U.S. without restrictions or need for future sponsorship.\" The summer 2027 postings live October 22, 2026 print no CPT or OPT exception, so F-1 st",
       "window": [
         "2026-10",
         "2026-10"
       ],
-      "window_text": "Open for summer 2027 until October 24, 2026: on October 22, 2026 Verizon's careers board listed eight US summer 2027 internships posted October 19 and 20, 2026, all with an end date of October 24, 2026. Four are open to all applicants: Call Routing Optimization Engineering, Data Science, and Sales and Service Operations (Verizon Consumer Group, Basking Ridge, NJ) and Solutions Architect (Verizon B"
+      "window_text": "Open for summer 2027, one posting at a time: on October 25, 2026 Verizon's careers board listed one US summer 2027 internship, Verizon Consumer Group Customer Go To Channel Operations (Basking Ridge, NJ), posted October 23, 2026 with an end date of October 28, 2026. The second wave of eight postings (October 19 and 20; Call Routing Optimization Engineering, Data Science, Sales and Service Operatio"
     },
     {
       "name": "Vertex Pharmaceuticals",
@@ -9495,10 +9495,10 @@
       "interview": "William Blair's funnel spans four stages from application to offer: 1. Apply on williamblair.com/Careers . Search for IB Summer Analyst or other tracks, select your preferred location(s), and submit resume, cover letter, and transcript. Multiple position and location applications are permitted. For ",
       "visa": "Not for IB Summer Analyst roles: the 2027 postings say William Blair is not hiring candidates who now or in the future require visa sponsorship. Check each posting for other tracks",
       "window": [
-        "2026-11",
-        "2027-02"
+        "2027-12",
+        "2027-12"
       ],
-      "window_text": "Expected from about November 2026 into early 2027 for Summer 2028 IB roles (projected: the first 2027 Summer Analyst application posted in December 2025). Suited pre-interview assessment within 48 hours of applying, then rolling interviews and Superdays. Summer 2027 Sports, Media & Entertainment Summer Analyst (New York), posted October 14, 2026, was no longer listed as of October 21, 2026"
+      "window_text": "Expected from about November 2026 into early 2027 for Summer 2028 IB roles (projected: the first 2027 Summer Analyst application posted in December 2025). Suited pre-interview assessment within 48 hours of applying, then rolling interviews and Superdays. Summer 2027 Sports, Media & Entertainment Summer Analyst (New York), posted October 14, 2026, was no longer listed as of October 21, 2026. Live o"
     },
     {
       "name": "Windsurf (Codeium)",
