@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T19:07:14.942693+00:00",
+  "generated_at": "2026-10-27T18:39:42.023642+00:00",
   "companies": [
     {
       "name": "1Password",
@@ -3897,20 +3897,20 @@
       "career_urls": [
         "https://gusto.com/about/careers"
       ],
-      "rolling": "For SWE, yes in past cycles: Gusto extends offers on a rolling basis within the application window. The Summer 2027 Finance Intern posting instead has a fixed d",
+      "rolling": "For SWE, yes in past cycles: Gusto extends offers on a rolling basis within the application window. The Summer 2027 Finance Intern posting instead had a fixed d",
       "pay": "SWE, Summer 2026 cycle (no Summer 2027 SWE posting yet): $58.65/hr undergrad, $64.42/hr graduate (SF & NYC). $46.63/hr undergrad, $51.44/hr graduate (Denver). P",
       "tech_tracks": "Software Engineering Intern",
       "tracks_total": 3,
       "programs": "2+ confirmed tracks: Software Engineering Intern and Finance Intern. Vault reports 51\u2013100 total interns across all departments, suggesting additional tracks",
       "no_formal_program": false,
-      "faq_open_answer": "The Finance Intern (Summer 2027) is already on Greenhouse, posted October 13, 2026, with a deadline of Monday, October 26, 2026 at 4:00 pm PST. The SWE intern posting had not appeared as of October 22, 2026; based on the Summer 2026 cycle it is expected this fall, with rolling offers as early as November. Those SWE dates are projected, not official.",
+      "faq_open_answer": "The Finance Intern (Summer 2027) has already come and gone: it posted October 13, 2026 and closed Monday, October 26, 2026 at 4:00 pm PST. The SWE intern posting had not appeared as of October 27, 2026; based on the Summer 2026 cycle it is expected this fall, with rolling offers as early as November. Those SWE dates are projected, not official.",
       "interview": "The process has five stages: a CodeSignal GCA with 3 coding questions, a recruiter phone screen via Zoom, a 60-minute technical interview with 1 to 2 LeetCode medium-to-hard problems, a 90-minute collaborative work session simulating pair programming, and two 30-minute behavioral interviews covering",
-      "visa": "Not available for SWE in past cycles: Gusto's SWE intern postings stated the role is not available for sponsorship. The Summer 2027 Finance Intern posting, live October 22, 2026, prints no sponsorship line",
+      "visa": "Not available for SWE in past cycles: Gusto's SWE intern postings stated the role is not available for sponsorship. The Summer 2027 Finance Intern posting (closed October 26, 2026) printed no sponsorship line",
       "window": [
         "2026-11",
         "2027-01"
       ],
-      "window_text": "Finance Intern (Summer 2027): live on Greenhouse since October 13, 2026, deadline Monday, October 26, 2026 at 4:00 pm PST. SWE intern (Summer 2027): not yet posted as of October 22, 2026; expected this fall, with rolling offers November through January, projected from the Summer 2026 cycle"
+      "window_text": "Finance Intern (Summer 2027): closed (posted October 13, deadline October 26, 2026). SWE intern (Summer 2027): not yet posted as of October 27, 2026; expected this fall, with rolling offers November through January, projected from the Summer 2026 cycle"
     },
     {
       "name": "Halliburton",
@@ -8344,19 +8344,19 @@
         "https://careers.t-mobile.com/internship"
       ],
       "rolling": "Yes, effectively. Roles are posted on a 1:1 basis and close once the position is filled, so apply the week a req opens",
-      "pay": "Summer 2027 postings (live October 22, 2026): $27 to $50/hr for Software Engineering and Cloud Security, $26\u2013$47/hr for Human Resources & Workplace Experience. ",
+      "pay": "Summer 2027 postings (October 15 to 27, 2026): $27 to $50/hr for Software Engineering and Cloud Security, $26\u2013$47/hr for Human Resources & Workplace Experience.",
       "tech_tracks": "Software Engineering; Data / Analytics; Cybersecurity",
       "tracks_total": 6,
-      "programs": "One umbrella summer program (Team Magenta) with multiple tracks: SWE, Finance, Product, Data/Analytics, Cybersecurity, Marketing, and Business. Three Summer 2027 reqs posted by October 22, 2026 (SWE, HR & Workplace Experience, Cloud Security); the SWE req closed October 23",
+      "programs": "One umbrella summer program (Team Magenta) with multiple tracks: SWE, Finance, Product, Data/Analytics, Cybersecurity, Marketing, and Business. Three Summer 2027 reqs posted October 15, 2026 (SWE, HR & Workplace Experience, Cloud Security); all three closed October 23 to 27",
       "no_formal_program": false,
       "faq_open_answer": null,
       "interview": "Typically a recruiter phone screen, then a behavioral or hiring-manager round (sometimes a group interview), with an online assessment added for some technology roles. After interviews, candidates often fill out a form to rank project teams. Glassdoor rates interview difficulty a moderate 2.7/5, and",
-      "visa": "The Summer 2027 postings (live October 22, 2026) print no sponsorship sentence; the SWE postings require authorization to work in the US now and in the future. Prior-cycle JDs said T-Mobile does not sponsor work visas, i",
+      "visa": "The Summer 2027 postings (October 15 to 27, 2026) printed no sponsorship sentence; the SWE postings require authorization to work in the US now and in the future. Prior-cycle JDs said T-Mobile does not sponsor work visas",
       "window": [
         "2027-06",
         "2027-10"
       ],
-      "window_text": "Open now, with short posting end dates. Two Summer 2027 reqs live on T-Mobile's Workday on October 24, 2026: Human Resources & Workplace Experience (ends October 26, 2026) and Software Engineer, Cloud Security (Atlanta and Frisco, ends October 27, 2026). The Software Engineering Intern req (Bellevue) closed after its October 23 end date. Other tracks not yet posted"
+      "window_text": "First Summer 2027 wave closed: Software Engineering Intern (Bellevue, ended October 23), Human Resources & Workplace Experience (ended October 26) and Software Engineer, Cloud Security (Atlanta and Frisco, ended October 27, 2026). No Summer 2027 reqs were live on T-Mobile's Workday on October 27, 2026. Other tracks (Finance, Cybersecurity and more) not yet posted; last cycle they closed in April"
     },
     {
       "name": "T. Rowe Price",
