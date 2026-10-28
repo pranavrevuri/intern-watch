@@ -1,5 +1,5 @@
 {
-"checked_at": "2026-10-28T19:07:19.285580+00:00",
+"checked_at": "2026-10-28T22:34:45.337221+00:00",
 "seen_keys": [
 "adobe::\u2705 open]",
 "akuna capital::software engineer intern (summer 2027, python / c++ / full stack / c# .net)",
@@ -106,6 +106,7 @@
 "insight partners::\ud83d\udd25 closing soon]",
 "ioscholarships::\u2705 open]",
 "jack kent cooke foundation::\u2705 open]",
+"jack kent cooke foundation::\ud83d\udd25 closing soon]",
 "james madison university::\u2705 open]",
 "jane street::focus (replaces jsip)",
 "jane street::fttp",
@@ -808,6 +809,15 @@
 },
 {
 "section": "Rising Freshmen & First-Year Opportunities",
+"name": "\ud83d\udd25 CLOSING SOON]",
+"org": "Jack Kent Cooke Foundation",
+"detail": "College Scholarship Program \u2014 Entering Fall 2027",
+"location": "",
+"link": "https://apply.commonapp.org/login",
+"posted": ""
+},
+{
+"section": "Rising Freshmen & First-Year Opportunities",
 "name": "\u2705 OPEN]",
 "org": "UNCF / Fidelity Investments",
 "detail": "Fidelity Scholars Bachelor\u2019s Degree Program (Incoming 2027\u20132028 Freshmen)",
@@ -840,15 +850,6 @@
 "detail": "Incoming Freshman Foundation Scholarships \u2014 2027\u20132028",
 "location": "",
 "link": "https://docs.google.com/forms/d/e/1FAIpQLSdhbN5zIxutp34Urs5s6RvKExH4-uTTlXnHTUSP21p2Zdw_SQ/viewform",
-"posted": ""
-},
-{
-"section": "Rising Freshmen & First-Year Opportunities",
-"name": "\u2705 OPEN]",
-"org": "Jack Kent Cooke Foundation",
-"detail": "College Scholarship Program \u2014 Entering Fall 2027",
-"location": "",
-"link": "https://apply.commonapp.org/login",
 "posted": ""
 },
 {
@@ -2485,6 +2486,15 @@
 },
 {
 "section": "Rising Freshmen & First-Year Opportunities",
+"name": "\ud83d\udd25 CLOSING SOON]",
+"org": "Jack Kent Cooke Foundation",
+"detail": "College Scholarship Program \u2014 Entering Fall 2027",
+"location": "",
+"link": "https://apply.commonapp.org/login",
+"posted": ""
+},
+{
+"section": "Rising Freshmen & First-Year Opportunities",
 "name": "\u2705 OPEN]",
 "org": "UNCF / Fidelity Investments",
 "detail": "Fidelity Scholars Bachelor\u2019s Degree Program (Incoming 2027\u20132028 Freshmen)",
@@ -2517,15 +2527,6 @@
 "detail": "Incoming Freshman Foundation Scholarships \u2014 2027\u20132028",
 "location": "",
 "link": "https://docs.google.com/forms/d/e/1FAIpQLSdhbN5zIxutp34Urs5s6RvKExH4-uTTlXnHTUSP21p2Zdw_SQ/viewform",
-"posted": ""
-},
-{
-"section": "Rising Freshmen & First-Year Opportunities",
-"name": "\u2705 OPEN]",
-"org": "Jack Kent Cooke Foundation",
-"detail": "College Scholarship Program \u2014 Entering Fall 2027",
-"location": "",
-"link": "https://apply.commonapp.org/login",
 "posted": ""
 },
 {
