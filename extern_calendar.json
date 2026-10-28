@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T18:39:42.023642+00:00",
+  "generated_at": "2026-10-28T18:45:17.273005+00:00",
   "companies": [
     {
       "name": "1Password",
@@ -831,7 +831,7 @@
       "guide_url": "https://www.extern.com/post/astrazeneca-internship-guide",
       "career_urls": [
         "https://careers.astrazeneca.com/student-worker-and-internships-us",
-        "https://astrazeneca.wd3.myworkdayjobs.com/Emerging-Talent"
+        "https://astrazeneca.wd3.myworkdayjobs.com/careers?q=intern"
       ],
       "rolling": "Effectively yes. Applications evaluated as submitted; candidate pools close once target numbers are reached",
       "pay": "$25\u201365/hr by education level; Glassdoor average ~$35.68/hr; housing stipend $2,500\u20134,000 for non-local candidates",
@@ -839,14 +839,14 @@
       "tracks_total": 6,
       "programs": "5 academic tracks plus Alexion Rare Disease, Leaders in Finance Tomorrow, and Statistics specializations",
       "no_formal_program": false,
-      "faq_open_answer": "Based on past cycles, expect applications to open in early-to-mid September 2026 on careers.astrazeneca.com. Priority review happens by October, with final deadlines in late November to mid-December 2026. AstraZeneca hasn't confirmed 2027 dates yet, so check the Early Talent page starting September 2026 and apply within the first three weeks.",
+      "faq_open_answer": "They are open now. As of October 28, 2026, AstraZeneca has five US summer 2027 postings on its Workday careers site: Undergraduate Summer Internships in Frederick, MD (posted September 30, closes November 20), In Vitro Oncology and OTD Chemistry interns in Cambridge, MA (close November 13), Preclinical Mathematical Modeling in Cambridge (closes November 5) and a Medical Writing Operations PhD inte",
       "interview": "After an ATS resume screen, expect a HireVue video interview with behavioral questions scored primarily on your transcript. Some roles add an SHL assessment (60\u201390 minutes of quantitative reasoning and situational judgment). Finalists do a 20\u201330 minute phone screen followed by a formal 45\u201390 minute ",
       "visa": "F-1 students may participate via CPT (Curricular Practical Training) if the internship aligns with their academic program. However, AstraZeneca typically requires candidates to have unrestricted US work authorization wit",
       "window": [
-        "2026-09",
-        "2026-09"
+        "2027-06",
+        "2027-09"
       ],
-      "window_text": "Expected early-to-mid September 2026, with priority deadline in October and final deadline late November to mid-December 2026 (documented pattern; not yet posted)"
+      "window_text": "Summer 2027: OPEN. Five US postings live as of October 28, 2026: Undergraduate Summer Internships in Frederick, MD (posted September 30, closes November 20, $28/hr); In Vitro Oncology and OTD Chemistry interns in Cambridge, MA (close November 13, $37\u2013$39/hr); Preclinical Mathematical Modeling in Cambridge (closes November 5); Medical Writing Operations PhD intern in New Haven, CT (closes November "
     },
     {
       "name": "AT&T",
@@ -5493,6 +5493,7 @@
       "slug": "mercor",
       "guide_url": "https://www.extern.com/post/mercor-internship-guide",
       "career_urls": [
+        "https://jobs.ashbyhq.com/mercor",
         "https://www.mercor.com/careers/"
       ],
       "rolling": "Not confirmed. The AI interview round appears to be administered on a rolling basis upon application. Whether reviews happen rolling or in batches is not public",
@@ -5501,14 +5502,14 @@
       "tracks_total": 5,
       "programs": "1 umbrella Summer Internship program covering 3+ tracks: Engineering, Product, and Strategy/Operations",
       "no_formal_program": false,
-      "faq_open_answer": "Not yet announced. Based on the Summer 2026 cycle, applications are estimated to open in late fall 2026 or early winter 2027. Monitor the Mercor careers page and jobs platform for updates.",
+      "faq_open_answer": "They are open now. As of October 28, 2026, Mercor lists five intern postings on its Ashby job board, all in San Francisco: Software Engineer Intern and Data Science Intern (posted in August, $70 an hour), Research Intern (October 5, $80 an hour) and two Research Engineer Interns (October 27, $70 an hour). Start dates are rolling, and summer 2027 is one of the terms on offer.",
       "interview": "Mercor uses its own AI interviewer as the first screen, a roughly 20-minute camera-on rapid-fire interview. Only the top 3 to 4% advance to a 72-hour take-home assignment, followed by a system design Super Day (up to 5 hours), background verification with past managers, and then an offer. There is n",
       "visa": "Not confirmed for interns. Mercor sponsors H-1B and E-3 visas for full-time employees (30 LCA filings, 86% certification rate). OPT/CPT support likely but not guaranteed",
       "window": [
-        "2026-09",
-        "2026-09"
+        "2026-10",
+        "2027-08"
       ],
-      "window_text": "Not yet announced. Based on the Summer 2026 cycle, applications are estimated to open late fall 2026 or early winter 2027"
+      "window_text": "OPEN, rolling. Five intern postings live as of October 28, 2026, all in-person in San Francisco: Software Engineer Intern (posted August 4, $70/hr), Data Science Intern (August 19, $70/hr), Research Intern (October 5, $80/hr) and two Research Engineer Interns (October 27, $70/hr). Interns start on a rolling basis, so summer, spring and fall terms all work; no closing date printed"
     },
     {
       "name": "Mercury",
@@ -6229,14 +6230,14 @@
       "tracks_total": 4,
       "programs": "4+ tracks: SWE Internship (summer), Quant Trader Micro-Internship (winter), Quant Trader Graduate Program (February and August starts), SWE Graduate Program (August start)",
       "no_formal_program": false,
-      "faq_open_answer": "It is open now. The Summer 2027 SWE internship posted on Old Mission's Greenhouse board on July 15, 2026 and is still live as of October 6, 2026, past the August expiry that university portals showed. No closing date is published and it closes when filled, so apply immediately.",
-      "interview": "You apply through Greenhouse, pass a resume screen, then complete a HackerRank OA (30 MCQs on CS fundamentals plus 2 coding problems, rated one of the hardest in the industry). If you advance, there is a phone/video interview and a final 2-hour in-person onsite at the Chicago office. Total process: ",
+      "faq_open_answer": "It is open now. The Summer 2027 SWE internship posted on July 15, 2026 and is still live on Old Mission's Ashby board as of October 28, 2026, past the August expiry that university portals showed. No closing date is published and it closes when filled, so apply immediately.",
+      "interview": "You apply through Ashby, pass a resume screen, then complete a HackerRank OA (30 MCQs on CS fundamentals plus 2 coding problems, rated one of the hardest in the industry). If you advance, there is a phone/video interview and a final 2-hour in-person onsite at the Chicago office. Total process: 1 to ",
       "visa": "Yes. Ellis.com data shows Old Mission has filed H-1B visa sponsorship with a median salary of $162,500, suggesting openness to international students",
       "window": [
         "2027-06",
         "2027-06"
       ],
-      "window_text": "Open now. SWE internship (summer 2027): posted July 15, 2026 and still live on October 6, 2026; no closing date published, closes when filled. Quant Trader Micro-Internship (January 2027): posted October 1, 2026"
+      "window_text": "Open now. SWE internship (summer 2027): posted July 15, 2026 and still live on October 28, 2026; no closing date published, closes when filled. Legal Intern (summer 2027): posted August 10, 2026, also live. The January 2027 Quant Trader Micro-Internship has closed"
     },
     {
       "name": "Oliver Wyman",
@@ -7641,9 +7642,9 @@
       "visa": "No. Sephora does not sponsor H-1B visas for internships. International students must have independent work authorization through CPT or OPT. You must be authorized to work in the U.S. without employer sponsorship.",
       "window": [
         "2026-10",
-        "2027-02"
+        "2027-08"
       ],
-      "window_text": "Not posted yet. No US summer 2027 internships on Sephora's careers sites on October 6, 2026, later than last cycle's early-September opening. Expected from October 2026 into early 2027; last cycle closed by mid-November"
+      "window_text": "OPEN. Six US summer 2027 internships posted October 27, 2026 on join.sephora.com (San Francisco, Salt Lake City, Maryland and remote); program runs June 14 to August 20, 2027 for students graduating in 2027 or 2028. No closing date printed; last cycle closed by mid-November, and more tracks may post"
     },
     {
       "name": "ServiceNow",
@@ -9182,10 +9183,10 @@
       "interview": "Visa runs a four-to-five stage funnel, and the rolling timeline means stage one triggers within hours of submission: 1. Apply through corporate.visa.com/en/jobs or the Workday portal with your resume in ATS-friendly format. Visa posts separate listings per track and location, so target your stronges",
       "visa": "No. All US internship job descriptions state Visa won't sponsor work visas for intern positions. However, international students already authorized to work in the US (such as F-1 visa holders using Curricular Practical T",
       "window": [
-        "2026-09",
-        "2026-09"
+        "2027-08",
+        "2027-09"
       ],
-      "window_text": "Summer 2027: MID-CYCLE, mostly closed. The wave opened September 16\u201318, 2026 and most tracks came down within about ten days; as of October 2, 2026 only three PhD research intern reqs are still live (Agentic AI in Austin, Foundational AI and Quantum in Foster City); the Associate Technical Program Analyst Intern has also closed. Summer 2028: expected August\u2013September 2027 (rolling)"
+      "window_text": "Summer 2027: OPEN AGAIN. A second wave of 18 US reqs posted October 27, 2026: Software Engineer Intern (Ashburn, Austin, Foster City), the 2027 Sophomore Internship Program SWE (Ashburn, Highlands Ranch, Austin, Bellevue, Foster City), Network and Security Engineering, Technical Product/Project Management, Business Planning, Data and AI team roles (Data Science, Product Management, Business Strate"
     },
     {
       "name": "VMware",
