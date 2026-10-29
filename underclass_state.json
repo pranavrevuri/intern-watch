@@ -1,5 +1,5 @@
 {
-"checked_at": "2026-10-29T17:05:06.953273+00:00",
+"checked_at": "2026-10-29T19:37:57.536029+00:00",
 "seen_keys": [
 "adobe::\u2705 open]",
 "akuna capital::software engineer intern (summer 2027, python / c++ / full stack / c# .net)",
@@ -70,6 +70,7 @@
 "ea::pathfinder",
 "elevenlabs::\u2705 open]",
 "elks national foundation::\u2705 open]",
+"elks national foundation::\ud83d\udd25 closing soon]",
 "ellipsis labs::software engineer intern (summer 2027)",
 "epic::software developer intern \u23f3",
 "eversheds sutherland::\u2705 open]",
@@ -818,6 +819,15 @@
 },
 {
 "section": "Rising Freshmen & First-Year Opportunities",
+"name": "\ud83d\udd25 CLOSING SOON]",
+"org": "Elks National Foundation",
+"detail": "Most Valuable Student Scholarship \u2014 2027 Incoming College Cohort",
+"location": "",
+"link": "https://elks.applyists.net/ElksMVS",
+"posted": ""
+},
+{
+"section": "Rising Freshmen & First-Year Opportunities",
 "name": "\u2705 OPEN]",
 "org": "UNCF / Fidelity Investments",
 "detail": "Fidelity Scholars Bachelor\u2019s Degree Program (Incoming 2027\u20132028 Freshmen)",
@@ -859,15 +869,6 @@
 "detail": "Hagan Scholarship \u2014 Incoming College Freshmen, 2027\u20132028",
 "location": "",
 "link": "https://fs28.formsite.com/DanHagan/zamqld4dle/signup",
-"posted": ""
-},
-{
-"section": "Rising Freshmen & First-Year Opportunities",
-"name": "\u2705 OPEN]",
-"org": "Elks National Foundation",
-"detail": "Most Valuable Student Scholarship \u2014 2027 Incoming College Cohort",
-"location": "",
-"link": "https://elks.applyists.net/ElksMVS",
 "posted": ""
 },
 {
@@ -2495,6 +2496,15 @@
 },
 {
 "section": "Rising Freshmen & First-Year Opportunities",
+"name": "\ud83d\udd25 CLOSING SOON]",
+"org": "Elks National Foundation",
+"detail": "Most Valuable Student Scholarship \u2014 2027 Incoming College Cohort",
+"location": "",
+"link": "https://elks.applyists.net/ElksMVS",
+"posted": ""
+},
+{
+"section": "Rising Freshmen & First-Year Opportunities",
 "name": "\u2705 OPEN]",
 "org": "UNCF / Fidelity Investments",
 "detail": "Fidelity Scholars Bachelor\u2019s Degree Program (Incoming 2027\u20132028 Freshmen)",
@@ -2536,15 +2546,6 @@
 "detail": "Hagan Scholarship \u2014 Incoming College Freshmen, 2027\u20132028",
 "location": "",
 "link": "https://fs28.formsite.com/DanHagan/zamqld4dle/signup",
-"posted": ""
-},
-{
-"section": "Rising Freshmen & First-Year Opportunities",
-"name": "\u2705 OPEN]",
-"org": "Elks National Foundation",
-"detail": "Most Valuable Student Scholarship \u2014 2027 Incoming College Cohort",
-"location": "",
-"link": "https://elks.applyists.net/ElksMVS",
 "posted": ""
 },
 {
