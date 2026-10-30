@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T18:55:47.674602+00:00",
+  "generated_at": "2026-10-30T18:35:50.479287+00:00",
   "companies": [
     {
       "name": "1Password",
@@ -15,14 +15,14 @@
       "tracks_total": 5,
       "programs": "~60 interns/year across 3 cohorts, hired into Technology (Developer), Product, Design & UX, Data, Finance, Marketing, and Legal. Developer is the largest technical track",
       "no_formal_program": false,
-      "faq_open_answer": "Expected ~Fall 2026 through Winter 2026\u201327, projected from prior cycles; nothing was officially posted as of August 2026. Summer roles have historically appeared six to nine months ahead of the term, so watch the Ashby board and LinkedIn from early fall 2026 and apply the week a posting goes live.",
+      "faq_open_answer": "Expected ~Fall 2026 through Winter 2026\u201327, projected from prior cycles; no Summer 2027 role was posted as of October 30, 2026, though 11 Winter 2027 (January to April) intern roles went up October 22 and 23, 2026. Summer roles have historically appeared six to nine months ahead of the term, so watch the Ashby board and LinkedIn from early fall 2026 and apply the week a posting goes live.",
       "interview": "Recruiter screen (sometimes an AI-helped pre-screen) \u2192 hiring-manager interview \u2192 a ~48-hour take-home assignment \u2192 one or two technical deep-dives (coding plus design and threat-aware reasoning) \u2192 a culture/values round. There is no LeetCode-style timed online assessment; the take-home is the cente",
       "visa": null,
       "window": [
         "2026-09",
         "2026-12"
       ],
-      "window_text": "Not yet posted. Summer 2027 developer-intern roles are expected to open ~Fall 2026 through Winter 2026\u201327, projected from prior cycles (Summer 2026 roles were posted in late 2025). All 2027 dates are expected, not official"
+      "window_text": "Summer 2027 not yet posted. The winter 2027 cohort is open: on October 30, 2026 the Ashby board listed 11 Winter 2027 intern roles (January to April 2027), posted October 22 and 23, 2026, each Remote (United States | Canada), no deadline printed. Summer 2027 developer-intern roles are expected to open ~Fall 2026 through Winter 2026\u201327, projected from prior cycles (Summer 2026 roles were posted in "
     },
     {
       "name": "3M",
@@ -577,7 +577,7 @@
         "2026-12",
         "2027-03"
       ],
-      "window_text": "Still open for Summer Analyst (2027 start): the Generalist and Accounting deadline of September 30, 2026 has passed, but both postings were live on October 2, 2026 and the firm keeps reviewing on a rolling basis, considering late applicants pending availability. Health Care (HEOR, Epidemiology & Market Access) deadline: October 28, 2026. Summer Associate: expected December 2026 to March 2027"
+      "window_text": "Still open for Summer Analyst (2027 start): the Generalist and Accounting deadline of September 30, 2026 has passed, but both postings were still live on October 30, 2026 and the firm keeps reviewing on a rolling basis, considering late applicants pending availability. Health Care (HEOR, Epidemiology & Market Access): its October 28, 2026 deadline has passed and the posting is no longer on the boa"
     },
     {
       "name": "Anduril",
@@ -1204,7 +1204,7 @@
         "2026-12",
         "2027-02"
       ],
-      "window_text": "Expected December 2026 to early February 2027 for summer 2027 (documented pattern; not yet posted as of October 1, 2026). Separate January to June 2027 co-ops are open now"
+      "window_text": "Expected December 2026 to early February 2027 for summer 2027 (documented pattern; not yet posted as of October 30, 2026). The MBA IMPACT summer 2027 posting and separate January to June 2027 co-ops are open now"
     },
     {
       "name": "BlackRock",
@@ -1675,7 +1675,7 @@
         "2027-08",
         "2027-11"
       ],
-      "window_text": "Summer 2027: the 2027 Client Solutions Group Intern posting (New York) went up October 20, 2026 and was live on October 21, 2026, no deadline printed. Summer 2028: PE track listings expected August to November 2027. Credit and Real Assets follow through December 2027. Rolling review once interview lists populate"
+      "window_text": "Summer 2027: the 2027 Client Solutions Group Intern posting (New York) went up October 20, 2026 and was still live on October 30, 2026, no deadline printed. Summer 2028: PE track listings expected August to November 2027. Credit and Real Assets follow through December 2027. Rolling review once interview lists populate"
     },
     {
       "name": "Caterpillar",
@@ -2509,7 +2509,7 @@
         "https://apply.deloitte.com/careers/SearchJobs",
         "https://www.deloitte.com/us/en/careers/internships.html"
       ],
-      "rolling": "Stated end dates, and they can move. Each posting states the day recruiting ends (Oct 25, 2026 on the Financial Statement Audit and summer 2028 tax postings). T",
+      "rolling": "Stated end dates, and they can move. Each posting states the day recruiting ends (Nov 29, 2026 on the Japanese Services Group audit postings still listed). The ",
       "pay": "$23.22\u2013$59.50/hr spans every wage range and flat rate printed on the audit, tax and Summer Scholar intern postings listed Oct 11, 2026, before geographic adjust",
       "tech_tracks": "Risk & Financial Advisory Intern (incl. Cyber)",
       "tracks_total": 6,
@@ -2519,10 +2519,10 @@
       "interview": null,
       "visa": null,
       "window": [
-        "2026-10",
-        "2026-10"
+        "2026-11",
+        "2026-11"
       ],
-      "window_text": "Partly open: Financial Statement Audit intern postings for summer 2027 and summer 2028 and the summer 2028 tax posting all state Oct 25, 2026 as the last day of recruiting. The Financial Statement Audit postings were extended from Oct 11 to Oct 25; the six other summer 2027 audit postings that stated Oct 11 are no longer listed. The Japanese Services Group summer 2027 audit role runs to Nov 29, 20"
+      "window_text": "Mostly closed: the Financial Statement Audit intern postings for summer 2027, summer 2028 and the fall and winter cohorts, and the summer 2028 Accounting and summer 2027 Global Employer Services tax postings, stated Oct 25, 2026 as the last day of recruiting and were no longer listed on Oct 30, 2026. Still open: the Japanese Services Group Financial Statement Audit intern postings for summer 2027 "
     },
     {
       "name": "Delta",
@@ -2798,8 +2798,8 @@
       "career_urls": [
         "https://dukeenergy.wd1.myworkdayjobs.com/en-US/Search"
       ],
-      "rolling": "No. Each function has its own posting and end date; on October 21, 2026 the undergraduate summer 2027 apply-by dates still ahead were October 29 (Substation / L",
-      "pay": "The summer 2027 postings print no pay (checked October 21, 2026); reported pay runs $21 to $36/hr depending on role; housing stipend available for interns place",
+      "rolling": "No. Each function has its own posting and end date; on October 30, 2026 the last undergraduate summer 2027 apply-by date was that day (Waste & Groundwater, Nucl",
+      "pay": "The summer 2027 postings print no pay (checked October 30, 2026); reported pay runs $21 to $36/hr depending on role; housing stipend available for interns place",
       "tech_tracks": "Engineering Intern & Co-op",
       "tracks_total": 6,
       "programs": "8 tracks: Engineering, IT, Supply Chain, EH&S, MBA, STEM Sophomore, Returning Intern, and Power Careers",
@@ -2811,7 +2811,7 @@
         "2026-10",
         "2026-10"
       ],
-      "window_text": "Partly open for summer 2027: on October 21, 2026 the Engineering Internship & Co-op Program posting was still listed and accepting applications after the October 16 date it prints. Apply-by dates still ahead: Substation / Line Tech in the Carolinas October 29, Waste & Groundwater Programs Engineering and Nuclear Cybersecurity (Hartsville, SC) October 30, MBA Internship November 13, 2026. Passed an"
+      "window_text": "Partly open for summer 2027: on October 30, 2026 the Engineering Internship & Co-op Program posting was still listed and accepting applications; its text prints October 16, but its Workday end date is now November 7, 2026. Waste & Groundwater Programs Engineering and Nuclear Cybersecurity (Hartsville, SC) list October 30 as the last day to apply (11:59 PM); MBA Internship November 13, 2026. Passed"
     },
     {
       "name": "Duolingo",
@@ -3543,14 +3543,14 @@
       "tracks_total": 6,
       "programs": "6+ internship tracks across Gas Power, Wind, Nuclear, Digital Technology, Commercial, Finance, and Grid",
       "no_formal_program": false,
-      "faq_open_answer": "They are open now: 62 US intern and co-op requisitions titled 2027 were live on October 11, 2026 (most posted in September, the newest on October 9), with end dates, where printed, running October 30 to November 30, 2026. Summer 2028 is not posted yet; if the Summer 2027 pattern repeats, expect the earliest Summer 2028 engineering postings between January and March 2027 and the main wave around Se",
+      "faq_open_answer": "They are open now: 66 US intern and co-op requisitions titled 2027 were live on October 30, 2026 (the newest posted October 29), with end dates, where printed, running October 31 to November 30, 2026. Summer 2028 is not posted yet; if the Summer 2027 pattern repeats, expect the earliest Summer 2028 engineering postings between January and March 2027 and the main wave around September 2027, so moni",
       "interview": "Expect 2 rounds over about 26 days total. The interview is a mix of behavioral and technical questions, though Glassdoor rates the difficulty at only 2.4 out of 5. You will likely meet with an HR representative and a team member on Zoom or Teams. Behavioral questions focus on leadership, teamwork, a",
       "visa": "No. All US internship postings state applicants must have \"the ability to work in the United States for an unlimited amount of time without sponsorship.\" This language is stricter than many other companies and likely exc",
       "window": [
         "2026-10",
-        "2026-10"
+        "2027-08"
       ],
-      "window_text": "Open now for summer 2027: 62 US intern and co-op reqs titled 2027 were listed on October 11, 2026 (42 naming summer, plus Spring and Fall 2027 terms), most posted in September, the newest on October 9. No single deadline; where an end date is printed it runs October 30 to November 30, 2026, so check each req"
+      "window_text": "Open now for summer 2027: 66 US intern and co-op reqs titled 2027 were listed on October 30, 2026 (46 naming summer, plus Spring and Fall 2027 terms), posted from August through October 29. No single deadline; where an end date is printed it runs October 31 to November 30, 2026, so check each req"
     },
     {
       "name": "Genentech",
@@ -3565,14 +3565,14 @@
       "tracks_total": 6,
       "programs": "4 major tracks: Life Sciences and Research, Engineering and Manufacturing, Data and Technology (computational biology, AI, bioinformatics), Business and Operations. Plus the Genentech Community College Internship Program",
       "no_formal_program": false,
-      "faq_open_answer": "The first two 2027 Summer Intern postings were listed on careers.gene.com on October 11, 2026, both in Hillsboro, Oregon: Quality Control (end date October 19, 2026) and Hillsboro Technical Operations (end date October 20, 2026). If either fits you, apply before its end date. Expect the main wave to begin posting in November 2026, with new roles added on an ongoing basis through March 2027. Most h",
+      "faq_open_answer": "They have started. On October 30, 2026, four 2027 Summer Intern postings were open: three Product Technical Development internships in South San Francisco, each listing October 31, 2026 as its end date, and Hillsboro Technical Operations in Hillsboro, Oregon, with an end date of January 1, 2027. A Hillsboro Quality Control posting ended October 19. Expect more roles from November 2026, with new ro",
       "interview": "You apply with a resume, cover letter, and letters of recommendation. Then a phone screen with HR, a call with the hiring manager (sometimes including a short research presentation), a knowledge interview on your field, and a behavioral round using the STAR method. The average time to offer is 37 da",
       "visa": "International students may apply. Visa sponsorship availability varies by position and department. You must be legally authorized to work in the US during the internship",
       "window": [
         "2026-10",
-        "2026-10"
+        "2027-01"
       ],
-      "window_text": "Partly open: on October 11, 2026, two 2027 Summer Intern postings were listed, both in Hillsboro, Oregon, with end dates of October 19 and October 20, 2026. They are Quality Control and Hillsboro Technical Operations. The main wave of summer 2027 roles is expected November 2026 through March 2027, projected from prior cycles. Most hiring decisions made by end of March"
+      "window_text": "Partly open: on October 30, 2026, four 2027 Summer Intern postings were open on Genentech's job board: three Product Technical Development internships in South San Francisco (Laboratory, Engineering and Manufacturing, and Digital Sciences focus, posted October 20), each listing October 31, 2026 as its end date, and Hillsboro Technical Operations in Hillsboro, Oregon, reposted October 21 with an en"
     },
     {
       "name": "General Dynamics",
@@ -3888,7 +3888,7 @@
         "2027-01",
         "2027-03"
       ],
-      "window_text": "US postings expected January to March 2027; rolling review, adverts may close at any time (documented pattern; not yet posted)"
+      "window_text": "US postings expected January to March 2027; rolling review, adverts may close at any time (documented pattern; not yet posted as of October 30, 2026, when only an MBA Finance summer 2027 role and winter/spring 2027 co-ops were live)"
     },
     {
       "name": "Gusto",
@@ -4599,14 +4599,14 @@
       "tracks_total": 6,
       "programs": "10+ tracks: Technology, R&D, Supply Chain, Finance, Marketing, Commercial (CLDP), MedTech Engineering, Global Market Access, Data Science, Enterprise Quality",
       "no_formal_program": false,
-      "faq_open_answer": "They are already open, and the earliest postings have closed. The Finance Internship / FLDP pipeline posted in July 2026, and the main wave followed on September 15 to 19, 2026: 117 US intern and co-op requisitions for 2027, 48 of them internships (MedTech, R&D, Process Engineering, Supply Chain and more), were listed on careers.jnj.com on October 21, 2026. The October 1, 13 and 19 end dates have ",
+      "faq_open_answer": "They are already open, and the earliest postings have closed. The Finance Internship / FLDP pipeline posted in July 2026, and the main wave followed on September 15 to 19, 2026: 78 US intern and co-op requisitions for 2027, 36 of them internships (MedTech, R&D, Process Engineering, Supply Chain and more), were listed on careers.jnj.com on October 30, 2026. The October 1, 13 and 19 end dates have p",
       "interview": "You apply online, complete a HireVue pre-recorded video with three behavioral questions, then have two to four live video interviews covering technical skills and Credo alignment. Competitive tracks may include a Superday with three to five stakeholder meetings. Average time to offer is about 19 day",
       "visa": "Not offered on the postings checked October 22, 2026 (El Paso Finance, CLDP, MLDP, IM North America Operations); CLDP, MLDP and Operations add that students on CPT, OPT or STEM OPT require future sponsorship. Lines can d",
       "window": [
         "2026-10",
         "2027-06"
       ],
-      "window_text": "Open now for summer 2027: careers.jnj.com listed 48 US internship postings and 69 co-op postings on October 21, 2026, with end dates from October 22, 2026 to January 2, 2027. The main 2027 wave posted September 15 to 19, 2026 (Spring 2027 and Summer 2027 co-ops, Summer 2027 interns, Finance Internship). Each requisition prints its own end date, so apply before it: the October 1 ones have closed, m"
+      "window_text": "Open now for summer 2027: careers.jnj.com listed 36 US internship postings and 42 co-op postings on October 30, 2026, with end dates from October 31, 2026 to January 2, 2027. The main 2027 wave posted September 15 to 19, 2026 (Spring 2027 and Summer 2027 co-ops, Summer 2027 interns, Finance Internship). Each requisition prints its own end date, so apply before it: the October 1 ones have closed, m"
     },
     {
       "name": "Jane Street",
@@ -4968,7 +4968,7 @@
         "2026-08",
         "2026-08"
       ],
-      "window_text": "Summer 2027: opened August 13, 2026; the stated review window ended September 30, 2026, and on October 9, 2026, only the IT (Berkeley Heights, NJ) and Research and Innovation (Clark, NJ) postings were still listed. Summer 2028: expected around mid-August 2027 (projected from the 2025 and 2026 cycles)"
+      "window_text": "Summer 2027: opened August 13, 2026; the stated review window ended September 30, 2026, and by October 30, 2026, no summer 2027 posting was still listed. Summer 2028: expected around mid-August 2027 (projected from the 2025 and 2026 cycles)"
     },
     {
       "name": "L3Harris",
@@ -5956,19 +5956,19 @@
         "https://careers.nintendo.com/"
       ],
       "rolling": "No. Hard December 1 deadline with batch review. Offers in January, all candidates notified by February",
-      "pay": "$25/hr (marketing, UX, CSR) to $40/hr (NTD software engineering) + housing/travel support",
+      "pay": "Summer 2027 postings: $30\u2013$35/hr main program (UX, Business Intelligence and IT at $35); $45/hr NTD software engineering contract roles; plus housing/travel sup",
       "tech_tracks": "Software Engineering (NTD)",
       "tracks_total": 6,
-      "programs": "7 confirmed: SWE (NTD), UX/Design, Marketing, PR, Business Intelligence, CSR, IT Security",
+      "programs": "21 summer 2027 postings across about a dozen functions, including SWE (NTD), UX, PR, Business Intelligence, IT, Supply Chain, Sustainability and E-Commerce",
       "no_formal_program": false,
       "faq_open_answer": null,
       "interview": "Nintendo\u2019s funnel is structured and predictable, running roughly 3 to 4 months from application to offer: 1. Apply at careers.nintendo.com with a resume, cover letter showing Nintendo brand knowledge, and the Internship Questionnaire. Design roles require a portfolio. Submit before December 1. 2. Re",
       "visa": "No. Nintendo of America requires applicants to be legally authorized to work in the United States and states that visa sponsorship is not available for internship positions. International students with valid CPT authoriz",
       "window": [
         "2026-10",
-        "2026-10"
+        "2026-12"
       ],
-      "window_text": "Applications for summer 2027 expected to open ~October 2026, closing December 1, 2026 (documented pattern; not yet posted)"
+      "window_text": "Open: 14 summer 2027 postings went live October 19, 2026 and list December 1, 2026 as the application deadline; 7 NTD software engineering roles posted October 28 to 29 print no deadline (checked October 30, 2026)"
     },
     {
       "name": "Nissan",
@@ -7487,7 +7487,7 @@
         "2026-08",
         "2026-10"
       ],
-      "window_text": "OPEN for summer 2027 on the Software Engineer track: Software Engineer Intern posted Aug 31, 2026 (San Francisco, Palo Alto, New York, Seattle, Bellevue, Burlington, Atlanta, Indianapolis), no end date printed, still live Oct 25, 2026. Also live Oct 25: Software Engineer (Security/Government), San Francisco and Bellevue (posted Oct 19); AI Research, Palo Alto (posted Oct 20); Solution Engineer, Ne"
+      "window_text": "OPEN for summer 2027 on the Software Engineer track: Software Engineer Intern posted Aug 31, 2026 (San Francisco, Palo Alto, New York, Seattle, Bellevue, Burlington, Atlanta, Indianapolis), no end date printed, still live Oct 30, 2026. Also live Oct 30: Software Engineer (Security/Government), San Francisco and Bellevue (posted Oct 19); AI Research, Palo Alto (posted Oct 20); Tableau Research, Pal"
     },
     {
       "name": "SambaNova",
@@ -8171,14 +8171,14 @@
       "tracks_total": 6,
       "programs": "13+ tracks: Global Markets, Finance, Technology, Alpha, Global Advisors (SSGA), Enterprise Risk, and more",
       "no_formal_program": false,
-      "faq_open_answer": "Expect July to August 2027, based on prior-cycle patterns. State Street uses rolling admissions, so apply within the first 30 days for the best chance. Those dates are projected from the prior cycle and aren't official yet. Set a job alert on careers.statestreet.com.",
+      "faq_open_answer": "Not yet: summer 2028 postings are not up as of October 30, 2026. The summer 2027 postings went up October 26, 2026, so expect summer 2028 postings around fall 2027. The exception is the Markets Rising Junior program, which runs over two consecutive summers (2027 and 2028); its current posting lists November 6, 2026 as the last day. State Street uses rolling admissions, so apply within the first 30",
       "interview": "You apply online, pass resume screening (estimated 35 to 40% advance), take a digital video interview via Modern Hire (3 to 5 pre-recorded questions, 2 minutes each), then attend a Superday with 2 to 3 back-to-back interviews. The average process takes about 21 days.",
       "visa": "H-1B limited, primarily specialized tech and quant roles. F-1 STEM OPT candidates viewed more favorably",
       "window": [
-        "2027-07",
-        "2027-08"
+        "2027-09",
+        "2027-09"
       ],
-      "window_text": "Expected July to August 2027 for Summer 2028. Projected from prior-cycle pattern, not yet posted"
+      "window_text": "Summer 2028: not posted as of October 30, 2026; expected fall 2027. The summer 2027 Finance and Markets postings went up October 26, 2026 and list November 6, 2026 as the last day"
     },
     {
       "name": "Stellantis",
@@ -8345,19 +8345,19 @@
         "https://careers.t-mobile.com/internship"
       ],
       "rolling": "Yes, effectively. Roles are posted on a 1:1 basis and close once the position is filled, so apply the week a req opens",
-      "pay": "Summer 2027 postings (October 15 to 27, 2026): $27 to $50/hr for Software Engineering and Cloud Security, $26\u2013$47/hr for Human Resources & Workplace Experience.",
+      "pay": "Summer 2027 postings (October 15 to 29, 2026): $27 to $50/hr on the Software Engineering, Cloud Security, Production Manager and Assoc AI Engineer postings, $26",
       "tech_tracks": "Software Engineering; Data / Analytics; Cybersecurity",
       "tracks_total": 6,
-      "programs": "One umbrella summer program (Team Magenta) with multiple tracks: SWE, Finance, Product, Data/Analytics, Cybersecurity, Marketing, and Business. Three Summer 2027 reqs posted October 15, 2026 (SWE, HR & Workplace Experience, Cloud Security); all three closed October 23 to 27",
+      "programs": "One umbrella summer program (Team Magenta) with multiple tracks: SWE, Finance, Product, Data/Analytics, Cybersecurity, Marketing, and Business. Three Summer 2027 reqs posted October 15, 2026 closed October 23 to 27; a second wave of eight reqs posted October 27 to 29 (SWE, Assoc ",
       "no_formal_program": false,
       "faq_open_answer": null,
       "interview": "Typically a recruiter phone screen, then a behavioral or hiring-manager round (sometimes a group interview), with an online assessment added for some technology roles. After interviews, candidates often fill out a form to rank project teams. Glassdoor rates interview difficulty a moderate 2.7/5, and",
-      "visa": "The Summer 2027 postings (October 15 to 27, 2026) printed no sponsorship sentence; the SWE postings require authorization to work in the US now and in the future. Prior-cycle JDs said T-Mobile does not sponsor work visas",
+      "visa": "The Summer 2027 postings (October 15 to 29, 2026) printed no sponsorship sentence; the SWE postings require authorization to work in the US now and in the future. Prior-cycle JDs said T-Mobile does not sponsor work visas",
       "window": [
         "2027-06",
-        "2027-10"
+        "2027-06"
       ],
-      "window_text": "First Summer 2027 wave closed: Software Engineering Intern (Bellevue, ended October 23), Human Resources & Workplace Experience (ended October 26) and Software Engineer, Cloud Security (Atlanta and Frisco, ended October 27, 2026). No Summer 2027 reqs were live on T-Mobile's Workday on October 27, 2026. Other tracks (Finance, Cybersecurity and more) not yet posted; last cycle they closed in April"
+      "window_text": "Open: eight Summer 2027 reqs were live on T-Mobile's Workday on October 30, 2026. The first wave (Software Engineering Intern, Bellevue; Software Engineer, Cloud Security) ended October 23 and 27, and a second wave posted October 27 to 29, 2026: Software Engineering (REQ380441, Overland Park) and Associate Technical Product Manager (REQ380499, Frisco), each listing November 4 as its end date; Prod"
     },
     {
       "name": "T. Rowe Price",
@@ -9117,7 +9117,7 @@
         "2026-10",
         "2026-10"
       ],
-      "window_text": "Open for summer 2027, one posting at a time: on October 25, 2026 Verizon's careers board listed one US summer 2027 internship, Verizon Consumer Group Customer Go To Channel Operations (Basking Ridge, NJ), posted October 23, 2026 with an end date of October 28, 2026. The second wave of eight postings (October 19 and 20; Call Routing Optimization Engineering, Data Science, Sales and Service Operatio"
+      "window_text": "Open for summer 2027, one posting at a time: on October 30, 2026 Verizon's careers board listed one US summer 2027 internship, Verizon Consumer Group Customer Go To Channel Operations (Basking Ridge, NJ, R-1102390), posted October 23, 2026; its end date, first set as October 28, now reads November 3, 2026. The second wave of eight postings (October 19 and 20; Call Routing Optimization Engineering,"
     },
     {
       "name": "Vertex Pharmaceuticals",
