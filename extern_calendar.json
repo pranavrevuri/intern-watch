@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T18:35:50.479287+00:00",
+  "generated_at": "2026-10-31T17:37:50.251417+00:00",
   "companies": [
     {
       "name": "1Password",
@@ -1953,7 +1953,7 @@
         "https://jobs.citi.com/programfinder"
       ],
       "rolling": "Yes. IB fills 80% of its class by August; all other divisions review on a rolling basis with early applicants seeing higher interview rates",
-      "pay": "$60,000\u2013$135,000 annualized on the 12 US Summer Analyst 2027 postings live October 24, 2026 (Technology $80,000\u2013$110,000; Corporate Banking Houston $100,000\u2013$13",
+      "pay": "$60,000\u2013$135,000 annualized on the 13 US Summer Analyst 2027 postings live October 31, 2026 (Technology $80,000\u2013$110,000; Corporate Banking Houston $100,000\u2013$13",
       "tech_tracks": "Markets \u2013 Quantitative Analysis; Technology \u2013 Application Development",
       "tracks_total": 6,
       "programs": "13+ across Banking, Markets, Services, Technology, Wealth Management, and more",
@@ -1965,7 +1965,7 @@
         "2026-12",
         "2027-01"
       ],
-      "window_text": "Summer 2027 (juniors graduating December 2027 to June 2028): 12 US Summer Analyst requisitions live on Citi's Workday board on October 24, 2026: seven Technology reqs posted October 23 (Application Development in Irving, Jacksonville, Tampa and New York/New Jersey; Cyber Security in Irving; Production Support in New York and Tampa), each printing a close date of October 30, 2026 , plus Corporate B"
+      "window_text": "Summer 2027 (juniors graduating December 2027 to June 2028): 13 US Summer Analyst requisitions live on Citi's Workday board on October 31, 2026: seven Technology reqs posted October 23 (Application Development in Irving, Jacksonville, Tampa and New York/New Jersey; Cyber Security in Irving; Production Support in New York and Tampa), still listed and accepting applications past the October 30, 2026"
     },
     {
       "name": "Clorox",
@@ -2798,8 +2798,8 @@
       "career_urls": [
         "https://dukeenergy.wd1.myworkdayjobs.com/en-US/Search"
       ],
-      "rolling": "No. Each function has its own posting and end date; on October 30, 2026 the last undergraduate summer 2027 apply-by date was that day (Waste & Groundwater, Nucl",
-      "pay": "The summer 2027 postings print no pay (checked October 30, 2026); reported pay runs $21 to $36/hr depending on role; housing stipend available for interns place",
+      "rolling": "No. Each function has its own posting and end date; the last undergraduate summer 2027 apply-by date (October 30, Waste & Groundwater and Nuclear Cybersecurity)",
+      "pay": "The summer 2027 postings print no pay (checked October 31, 2026); reported pay runs $21 to $36/hr depending on role; housing stipend available for interns place",
       "tech_tracks": "Engineering Intern & Co-op",
       "tracks_total": 6,
       "programs": "8 tracks: Engineering, IT, Supply Chain, EH&S, MBA, STEM Sophomore, Returning Intern, and Power Careers",
@@ -2811,7 +2811,7 @@
         "2026-10",
         "2026-10"
       ],
-      "window_text": "Partly open for summer 2027: on October 30, 2026 the Engineering Internship & Co-op Program posting was still listed and accepting applications; its text prints October 16, but its Workday end date is now November 7, 2026. Waste & Groundwater Programs Engineering and Nuclear Cybersecurity (Hartsville, SC) list October 30 as the last day to apply (11:59 PM); MBA Internship November 13, 2026. Passed"
+      "window_text": "Partly open for summer 2027: on October 31, 2026 the Engineering Internship & Co-op Program posting was still listed and accepting applications; its text prints October 16, but its Workday end date is November 7, 2026. MBA Internship November 13, 2026. Passed and no longer listed: Waste & Groundwater Programs Engineering and Nuclear Cybersecurity (Hartsville, SC; apply-by date October 30), Substat"
     },
     {
       "name": "Duolingo",
@@ -3649,8 +3649,8 @@
       "career_urls": [
         "https://search-careers.gm.com/en/early-careers/internship-program/"
       ],
-      "rolling": "Per requisition. 36 of the 60 requisitions listed on October 21, 2026 carry a scheduled end date in GM's posting data, which the posting page itself does not di",
-      "pay": "$6,100\u2013$14,600/month printed on 33 of the 60 summer 2027 postings listed on October 21, 2026. Re-read October 22, 2026: $6,100 on the four Warren design posting",
+      "rolling": "Per requisition. 40 of the 65 requisitions listed on October 31, 2026 carry a scheduled end date in GM's posting data, which the posting page itself does not di",
+      "pay": "$6,100\u2013$14,600/month printed on 34 of the 65 summer 2027 postings listed on October 31, 2026. Re-read October 31, 2026: $6,100 on the three Warren design postin",
       "tech_tracks": "Software Engineering (Autonomous Driving); AI/ML Engineering; Manufacturing Engineering",
       "tracks_total": 6,
       "programs": "12+ including Software Engineering, AI/ML, Manufacturing, Design, Finance, Energy, and Motorsports",
@@ -3662,7 +3662,7 @@
         "2026-10",
         "2026-10"
       ],
-      "window_text": "Open now for summer 2027: 60 US intern requisitions were listed on GM's Workday job board on October 21, 2026. Human Interface Design came down after its October 23 end date, and on October 24 the nearest scheduled end dates were October 30 and November 6, 2026. At least 28 requisitions have closed since postings began August 17, 2026, including the seven motorsports postings (end date October 15,"
+      "window_text": "Open now for summer 2027: 65 US intern requisitions were listed on GM's Workday job board on October 31, 2026, 16 of them posted October 23 to 30. Human Interface Design (October 23), Global Workplace Safety and Lean Material Strategies (October 30) came down after their end dates, and on October 31 the nearest scheduled end dates were November 6, 12 and 13, 2026. At least 31 requisitions have clo"
     },
     {
       "name": "GitLab",
@@ -6814,7 +6814,7 @@
       "tracks_total": 6,
       "programs": "8 entry-level tracks across Summer and Winter seasons, from Audit to Products & Technology, plus While You Work and Destination CPA",
       "no_formal_program": false,
-      "faq_open_answer": "Earlier than you'd think: the first wave already opened and closed. PwC's Audit, Tax, and DAT postings for summer 2028 began going live on September 10, 2026, about 22 months before the internship starts, and closed on October 3, 2026 (a few October 2). The late office adds (Portland, San Francisco, Silicon Valley) ended October 11 to 12, 2026; on October 25 the only summer 2028 intern reqs listed",
+      "faq_open_answer": "Earlier than you'd think: the first wave already opened and closed. PwC's Audit, Tax, and DAT postings for summer 2028 began going live on September 10, 2026, about 22 months before the internship starts, and closed on October 3, 2026 (a few October 2). The late office adds (Portland, San Francisco, Silicon Valley) ended October 11 to 12, 2026; on October 31 the only summer 2028 intern reqs listed",
       "interview": "The whole process runs through PwC's recruiting page playbook : 1. Pick one track. You can interview for only one opportunity at a time, so match your major to a career area first. 2. Apply at pwc.to/entryleveljobs . Search \"summer 2028\" by keyword, select a preferred office, and upload your resume ",
       "visa": null,
       "window": [
