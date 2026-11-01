@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T17:37:50.251417+00:00",
+  "generated_at": "2026-11-01T18:28:21.373067+00:00",
   "companies": [
     {
       "name": "1Password",
@@ -418,8 +418,8 @@
       "interview": "The process takes about 6 to 7 weeks: an 80-question mental math test, a probability test, a HackerRank coding test, a VidCruiter video interview with a strategic betting game, a technical phone screen with brainteasers, and a final round combining HR and in-depth technical interviews.",
       "visa": "U.S. work authorization required, including F-1 students with OPT/CPT/STEM authorization",
       "window": [
-        "2026-07",
-        "2026-07"
+        "2027-06",
+        "2027-06"
       ],
       "window_text": "Summer 2027: OPEN NOW (as of July 2026) on the official careers portal; rolling, roles fill fast \u2014 apply immediately."
     },
@@ -664,7 +664,7 @@
       "interview": "The full-time SWE loop runs 2 to 3 weeks: a recruiter screen focused on product familiarity, 1 to 3 technical phone screens with applied AI-systems problems (not LeetCode), a 2- to 8-hour take-home project using Cursor's real codebase, a paid 8- to 9-hour onsite project building a real feature, and ",
       "visa": "Anysphere has filed 7 H-1B LCAs in FY2026. Intern visa sponsorship not confirmed. Post-SpaceX policies may change",
       "window": [
-        "2026-07",
+        "2026-09",
         "2026-09"
       ],
       "window_text": "Not yet announced. No formal internship program exists as of July 2026. If SpaceXAI introduces early-career roles, postings could appear as early as fall 2026"
@@ -999,8 +999,8 @@
       "interview": "Baker Tilly's funnel is short, behavioral, and moves fast, with an average of ~16 days from application to hire : 1. Apply on careers.bakertilly.com or the Workday portal . Select a specific role and office location. No separate cover letter requirement documented. 2. Recruiter screening (~15 minute",
       "visa": "No. Every intern JD states: \"There is currently no immigration sponsorship available for this position\"",
       "window": [
-        "2026-07",
-        "2026-07"
+        "2027-11",
+        "2027-11"
       ],
       "window_text": "Summer 2027 postings are open now (as of July 2026) on the careers portal. Summer 2028 roles projected ~mid-to-late 2027 (~11 to 12 months before start). Baker Tilly posts year-round on a rolling basis"
     },
@@ -1223,7 +1223,7 @@
       "interview": "The process runs four stages for the Summer Internship: 1. Online application at careers.blackrock.com: one program, up to two functions, resume. Choose your two functions deliberately, because withdrawing bars you from reapplying to the program that year. 2. Pre-interview assessment. An email link ",
       "visa": null,
       "window": [
-        "2026-07",
+        "2026-09",
         "2026-12"
       ],
       "window_text": "Summer 2027: Operations & Technology open since July 2026 (posting confirmed live Sep 21, 2026), review Sep\u2013Dec 2026. Summer 2028 (expected): posting ~Jan 2027, Investments first; Client & Product / Corporate & Strategic ~Mar 2027; Operations & Technology ~Jul 2027"
@@ -1806,8 +1806,8 @@
       "interview": "The process typically includes an online application, an initial screening (often at a campus career fair), a behavioral interview using the STAR method, and a technical interview for engineering and IT roles. A background check and drug screen are required before starting. Average time from applica",
       "visa": "Limited. Chevron generally does not sponsor employment visas for intern positions unless the candidate holds or is pursuing a Ph.D. CPT may be accepted for some roles; check each posting",
       "window": [
-        "2026-07",
-        "2026-07"
+        "2026-11",
+        "2026-11"
       ],
       "window_text": "Open now (as of mid-July 2026) through fall for summer 2027 roles; postings went live in July across all major tracks. Window runs roughly July through November 2026, with additional campus recruiting at select universities and conferences"
     },
@@ -1906,7 +1906,7 @@
       "career_urls": [
         "https://careers.cisco.com/global/en/internships-and-co-ops"
       ],
-      "rolling": "Yes. Positions filled continuously; most current postings are scheduled to close Oct 21 or Oct 30, 2026",
+      "rolling": "Yes. Positions filled continuously; most postings closed Oct 21 or Oct 30, 2026, and the reqs live on Nov 1 are scheduled to close between Nov 2 and Dec 31, 202",
       "pay": "$38\u2013$55/hr; Meraki division at the top of range. Housing stipends in select markets",
       "tech_tracks": "Software Engineer (Networking); Software Engineer (Backend/Platform); Software Engineer (Data/AI); Full Stack Engineer (Meraki); AI/ML Engineer; ASIC/Hardware Engineer",
       "tracks_total": 6,
@@ -1916,10 +1916,10 @@
       "interview": "Cisco\u2019s hiring funnel runs four stages, all on a rolling basis. The total timeline from application to offer averages 4\u20138 weeks for early applicants: 1. Apply at careers.cisco.com with a one-page, ATS-optimized resume. Quantify achievements, include GitHub/portfolio links, and tailor to the specific",
       "visa": "Yes. Cisco actively sponsors F-1 students on CPT for internships. H-1B sponsorship is available for full-time engineering roles post-graduation, though it depends on the lottery. Some Meraki positions require existing wo",
       "window": [
-        "2026-09",
-        "2026-10"
+        "2026-11",
+        "2026-11"
       ],
-      "window_text": "Open now for summer 2027: 28 US intern reqs live, most posted Sep 3 \u2013 Oct 1, 2026; most scheduled to close Oct 21 or Oct 30, 2026 (earliest still open: five RTP reqs ending Oct 9; latest Dec 4; the Hardware Engineer PhD req closed Oct 2). Each posting says it advertises a potential opening, and all accept applications"
+      "window_text": "Still open for summer 2027, narrowing: 17 US intern and 3 co-op reqs live on Nov 1, 2026. Business Analyst I, Data Analyst I and both FLEX leadership reqs are scheduled to come down Nov 2; Security Consulting Engineer I Nov 5; Sustainability Analyst I Nov 9; PROPEL and Software Engineer Data & AI PhD Nov 13; Consulting Engineer I Nov 20; most others Nov 27 to 29; Legal Rising 2L and 3L Dec 4; Stra"
     },
     {
       "name": "Citadel",
@@ -2365,7 +2365,7 @@
       "interview": "The process has four main stages: (1) application review by a human reviewer, (2) a 90-to-120-minute HackerRank online assessment with 3 to 5 LeetCode-hard problems, (3) one or more phone/virtual interviews covering coding, CS fundamentals, and quantitative reasoning, and (4) a Superday with 4 to 5 ",
       "visa": "Yes. D.E. Shaw assists with work authorization for international candidates, which is a meaningful differentiator from banks and firms that don't sponsor intern visas.",
       "window": [
-        "2026-07",
+        "2026-10",
         "2026-10"
       ],
       "window_text": "Open now (rolling). Opened July 2026; SWE, Quant Analyst and Prop Trading roles still live as of October 22, 2026 with no deadline printed; MBA tracks close December 2, 2026"
@@ -2387,8 +2387,8 @@
       "interview": "Average 17 days from initial screen to offer for SWE interns, compared to 35 days company-wide. The total timeline from application to offer is typically 3 to 6 weeks depending on when you apply in the cycle. Early-wave applicants tend to move faster.",
       "visa": "Yes. US roles require valid CPT authorization during the internship period. Databricks also offers internships at international offices in Amsterdam, Berlin, and other locations. For full-time conversion after graduation",
       "window": [
-        "2026-07",
-        "2026-07"
+        "2026-10",
+        "2026-10"
       ],
       "window_text": "OPEN NOW (as of July 2026): first summer 2027 roles went live mid-July 2026; more tracks rolling out through October 2026 on the careers portal. Apply immediately"
     },
@@ -2786,8 +2786,8 @@
       "interview": "A three-to-four-stage funnel: a timed take-home technical challenge, a phone interview with a trader or developer, and a two-day on-site in Chicago with technical and behavioral rounds. Trading interviews split roughly 30% probability, 25% mental math, 25% market intuition, and 20% behavioral.",
       "visa": "Not explicitly stated in public postings. DRW hires internationally (offices in London, Singapore, Montreal) but no public visa policy for US interns found",
       "window": [
-        "2026-07",
-        "2026-07"
+        "2027-06",
+        "2027-06"
       ],
       "window_text": "Summer 2027: OPEN NOW (as of July 2026) on the official careers portal; rolling, roles fill fast \u2014 apply immediately."
     },
@@ -3100,8 +3100,8 @@
       "interview": "Six stages: apply online, receive a role overview, complete the Sphinx skills assessment, attend a conversational final interview, receive an offer, and visit Epic's campus. Average time from application to offer is about 27 days for SWE intern roles.",
       "visa": "Epic sponsors H-1B visas for full-time roles. International students are listed as eligible for internships on Vault. Confirm CPT/OPT support with your recruiter",
       "window": [
-        "2026-07",
-        "2026-07"
+        "2027-06",
+        "2027-06"
       ],
       "window_text": "OPEN NOW (as of July 2026): Summer 2027 Software Developer Intern postings are live on careers.epic.com . Apply immediately; review is rolling"
     },
@@ -3391,8 +3391,8 @@
       "interview": "It starts with a 19-question online assessment covering mental math, probability, combinatorics, geometry, and integrals (2 to 3 minutes per question). Then a first-round interview with 10 to 15 rapid-fire questions at 30 seconds each. Then multiple subsequent technical rounds, described as entirely",
       "visa": "Yes. Five Rings sponsors H-1B visas (19 LCAs filed FY2022\u20132024). F-1 CPT available for international student interns",
       "window": [
-        "2026-07",
-        "2026-07"
+        "2027-06",
+        "2027-06"
       ],
       "window_text": "Summer 2027: OPEN NOW (as of July 2026) on the official careers portal; rolling, roles fill fast \u2014 apply immediately"
     },
@@ -3524,10 +3524,7 @@
       "faq_open_answer": "They are open now. As of July 2026, summer 2027 postings are already live on the FTI Student Careers portal (Forensic & Litigation Consulting and Financial Services confirmed), with the remaining segments rolling out through fall. Segment-specific deadlines run through mid-November: Economic Consulting historically closes earliest, around mid-September, and Strategic Communications last, around mi",
       "interview": "You apply online, complete a HireVue or digital assessment, then two 45-minute first-round interviews with behavioral and case components, followed by a Superday with 3 to 4 interviews including advanced cases and a panel. The average timeline from application to offer is about 26 days.",
       "visa": "Official 2026 intern postings state candidates must be authorized to work in the US on a full-time basis and the position does not provide visa sponsorship. F-1 students on CPT (university-authorized) should verify eligi",
-      "window": [
-        "2026-07",
-        "2026-07"
-      ],
+      "window": null,
       "window_text": "Open now (as of July 2026) for summer 2027 roles, with early segments like Forensic & Litigation Consulting and Financial Services already live on the careers portal; remaining segments roll out through fall. Expected segment deadlines: Economic Consulting around September 15, Corporate Finance around October 1, Strategic Communications around October 15. Apply immediately, first 14 days"
     },
     {
@@ -3543,14 +3540,14 @@
       "tracks_total": 6,
       "programs": "6+ internship tracks across Gas Power, Wind, Nuclear, Digital Technology, Commercial, Finance, and Grid",
       "no_formal_program": false,
-      "faq_open_answer": "They are open now: 66 US intern and co-op requisitions titled 2027 were live on October 30, 2026 (the newest posted October 29), with end dates, where printed, running October 31 to November 30, 2026. Summer 2028 is not posted yet; if the Summer 2027 pattern repeats, expect the earliest Summer 2028 engineering postings between January and March 2027 and the main wave around September 2027, so moni",
+      "faq_open_answer": "They are open now: 62 US intern and co-op requisitions titled 2027 were live on November 1, 2026 (the newest posted October 29), with end dates, where printed, running November 3 to November 30, 2026. Summer 2028 is not posted yet; if the Summer 2027 pattern repeats, expect the earliest Summer 2028 engineering postings between January and March 2027 and the main wave around September 2027, so moni",
       "interview": "Expect 2 rounds over about 26 days total. The interview is a mix of behavioral and technical questions, though Glassdoor rates the difficulty at only 2.4 out of 5. You will likely meet with an HR representative and a team member on Zoom or Teams. Behavioral questions focus on leadership, teamwork, a",
       "visa": "No. All US internship postings state applicants must have \"the ability to work in the United States for an unlimited amount of time without sponsorship.\" This language is stricter than many other companies and likely exc",
       "window": [
-        "2026-10",
-        "2027-08"
+        "2026-11",
+        "2027-09"
       ],
-      "window_text": "Open now for summer 2027: 66 US intern and co-op reqs titled 2027 were listed on October 30, 2026 (46 naming summer, plus Spring and Fall 2027 terms), posted from August through October 29. No single deadline; where an end date is printed it runs October 31 to November 30, 2026, so check each req"
+      "window_text": "Open now for summer 2027: 62 US intern and co-op reqs titled 2027 were listed on November 1, 2026 (42 naming summer, plus Spring and Fall 2027 terms), posted from August through October 29. No single deadline; where an end date is printed it runs November 3 to November 30, 2026, so check each req"
     },
     {
       "name": "Genentech",
@@ -4201,7 +4198,7 @@
       "interview": "A timed online assessment on HackerRank or Codility (2 to 3 algorithmic problems, 60 to 90 minutes), two technical phone screens (systems knowledge plus live coding), then a full-day loop of 3 to 4 back-to-back 45-minute interviews testing programming, systems, problem-solving, and collaboration. Th",
       "visa": "Full H-1B and green card sponsorship available; CPT supported for internships (community-reported)",
       "window": [
-        "2026-07",
+        "2026-08",
         "2026-10"
       ],
       "window_text": "Open now for summer 2027: Algorithm Development and Software Engineering posted July 13, 2026, Hardware Engineering August 31, Data Scientist September 22 (all live October 1, 2026, no deadline printed). Positions fill rolling until closed"
@@ -4599,14 +4596,14 @@
       "tracks_total": 6,
       "programs": "10+ tracks: Technology, R&D, Supply Chain, Finance, Marketing, Commercial (CLDP), MedTech Engineering, Global Market Access, Data Science, Enterprise Quality",
       "no_formal_program": false,
-      "faq_open_answer": "They are already open, and the earliest postings have closed. The Finance Internship / FLDP pipeline posted in July 2026, and the main wave followed on September 15 to 19, 2026: 78 US intern and co-op requisitions for 2027, 36 of them internships (MedTech, R&D, Process Engineering, Supply Chain and more), were listed on careers.jnj.com on October 30, 2026. The October 1, 13 and 19 end dates have p",
+      "faq_open_answer": "They are already open, and the earliest postings have closed. The Finance Internship / FLDP pipeline posted in July 2026, and the main wave followed on September 15 to 19, 2026: 70 US intern and co-op requisitions for 2027, 32 of them internships (MedTech, R&D, Process Engineering, Supply Chain and more), were listed on careers.jnj.com on November 1, 2026. The October 1, 13, 19 and 31 end dates ha",
       "interview": "You apply online, complete a HireVue pre-recorded video with three behavioral questions, then have two to four live video interviews covering technical skills and Credo alignment. Competitive tracks may include a Superday with three to five stakeholder meetings. Average time to offer is about 19 day",
       "visa": "Not offered on the postings checked October 22, 2026 (El Paso Finance, CLDP, MLDP, IM North America Operations); CLDP, MLDP and Operations add that students on CPT, OPT or STEM OPT require future sponsorship. Lines can d",
       "window": [
-        "2026-10",
-        "2027-06"
+        "2026-11",
+        "2027-09"
       ],
-      "window_text": "Open now for summer 2027: careers.jnj.com listed 36 US internship postings and 42 co-op postings on October 30, 2026, with end dates from October 31, 2026 to January 2, 2027. The main 2027 wave posted September 15 to 19, 2026 (Spring 2027 and Summer 2027 co-ops, Summer 2027 interns, Finance Internship). Each requisition prints its own end date, so apply before it: the October 1 ones have closed, m"
+      "window_text": "Open now for summer 2027: careers.jnj.com listed 32 US internship postings and 38 co-op postings on November 1, 2026, with end dates from November 2, 2026 to January 2, 2027. The main 2027 wave posted September 15 to 19, 2026 (Spring 2027 and Summer 2027 co-ops, Summer 2027 interns, Finance Internship). Each requisition prints its own end date, so apply before it: the October 1 ones have closed, m"
     },
     {
       "name": "Jane Street",
@@ -5326,7 +5323,7 @@
       "interview": "After applying, you will receive a HireVue digital video interview with 2-5 behavioral questions, using about 30 seconds of prep and 2 minutes per answer. Mars recommends the STAR method. If successful, you advance to a panel interview, either on campus or virtually. Expect a decision within 2-3 wee",
       "visa": null,
       "window": [
-        "2026-07",
+        "2026-10",
         "2026-10"
       ],
       "window_text": "OPEN NOW: summer-2027 reqs posting since late July 2026 (11 US reqs live on 6 Oct 2026); each req prints its own close date, from 15 Oct 2026 (Snacking Sales, Chicago) and 16 Oct (VCA Finance, Los Angeles) through 1 January 2027. Closed so far: Petcare Commercial and End to End Planning (28 Sep) and Petcare Finance (5 Oct)"
@@ -5790,7 +5787,10 @@
       "faq_open_answer": "NASA hasn't published 2028 deadlines yet. Based on the documented pattern, expect the Spring 2028 deadline around mid-September 2027, Summer 2028 around late February 2028, and Fall 2028 around late May 2028, with each window opening on STEM Gateway a few months earlier. Check the official internship page for confirmation.",
       "interview": "What about the HireVue-and-assessment gauntlet every other internship guide preps you for? It doesn't exist here. OSTEM's process is unusual: no online assessment, no coding test, and usually no formal interview loop. Here's the whole thing: 1. Create a NASA STEM Gateway account at stemgateway.nasa.",
       "visa": null,
-      "window": null,
+      "window": [
+        "2028-03",
+        "2028-03"
+      ],
       "window_text": null
     },
     {
@@ -5853,7 +5853,7 @@
       "interview": "After applying, qualifying candidates take online assessments (situational judgment, reasoning tests, or game-based evaluations) that screen out 50 to 80 percent of applicants. Survivors proceed to a HireVue on-demand video interview with about 7 questions. Next is a 20-to-30-minute recruiter call, ",
       "visa": null,
       "window": [
-        "2026-07",
+        "2026-10",
         "2026-10"
       ],
       "window_text": "Sales opened July 2026 and was no longer accepting applications on October 1, 2026; two Dublin, OH quality lab internships (Microbiology Quality Technician, Chemistry Technician) posted October 8, 2026 and are open now; the corporate summer 2027 tracks had not posted as of October 22, 2026 (prior cycles: August\u2013October), so expect them through fall 2026"
@@ -6054,10 +6054,7 @@
       "faq_open_answer": null,
       "interview": "Northrop Grumman's interview funnel is shorter and less technical than Big Tech's, averaging 21 days from application to offer with a difficulty rating of 2.5 out of 5: 1. Create your profile at jobs.northropgrumman.com (Workday-based system). Upload your resume, transcripts, and confirm US citizens",
       "visa": null,
-      "window": [
-        "2026-07",
-        "2026-07"
-      ],
+      "window": null,
       "window_text": "Open now: Summer 2027 postings live on jobs.northropgrumman.com (first reqs early July 2026); rolling, postings stay open ~20 days"
     },
     {
@@ -6301,8 +6298,8 @@
       "interview": "Expect four to five rounds over three to six weeks. First comes the online assessment with five sections: mental math, probability, sequence puzzles, reaction games, and a behavioral questionnaire. Then a phone interview on probability and market scenarios. Finally, a virtual final round with the hi",
       "visa": null,
       "window": [
-        "2026-07",
-        "2026-07"
+        "2027-06",
+        "2027-06"
       ],
       "window_text": "Summer 2027: OPEN NOW (as of July 2026) on the official careers portal; rolling, roles fill fast \u2014 apply immediately."
     },
@@ -6752,7 +6749,7 @@
       "visa": "Check each posting individually. PCNA roles typically require US work authorization. Porsche AG roles in Germany follow German student-visa rules",
       "window": [
         "2027-09",
-        "2028-02"
+        "2028-03"
       ],
       "window_text": "Open now: PCNA posted at least 10 intern roles between September 15 and 30, 2026, most running March to September 2027 (Accounting, Finance, Compliance, Aftersales Projects and Strategy, Digital Transformation and Data Intelligence), plus a Miami role running February to September 2027. More postings may follow through January 2027. Porsche AG recommends applying about six months before desired st"
     },
@@ -6908,10 +6905,10 @@
       "interview": "Raymond James runs a five-stage funnel, and the rolling timeline means each stage can start within days of the previous one: 1. Apply through the Raymond James Workday portal with your resume, cover letter, and transcripts. Raymond James posts separate listings per division, so choose your strongest",
       "visa": "No. Raymond James does not offer visa sponsorship for internships. Applicants must be legally authorized to work in the U.S. without visa sponsorship now or in the future, including beyond OPT/EAD. International students",
       "window": [
-        "2026-10",
-        "2026-10"
+        "2026-12",
+        "2026-12"
       ],
-      "window_text": "Open now for summer 2027: IB Summer Analyst roles posting group by group on the Raymond James Early Careers Workday portal (Chicago Financial Services Oct 5, Charlotte Consumer Oct 12, McLean Diversified Industrials Oct 15, 2026; McLean closes Oct 22). The September 11 wave (St. Petersburg M&A, Capital Markets, Equity Research) is already down. Summer 2028: Sophomore IB Bootcamp open since October"
+      "window_text": "Open now for summer 2027: IB Summer Analyst roles posting group by group on the Raymond James Early Careers Workday portal. Live on November 1, 2026: McLean Diversified Industrials (relisted Oct 23), San Francisco Financial Services (Oct 20) and New York Leveraged Finance (Oct 26), none with a printed deadline. The September 11 wave (St. Petersburg M&A, Capital Markets, Equity Research) and the Oc"
     },
     {
       "name": "Raytheon",
@@ -7286,14 +7283,14 @@
       "tracks_total": 7,
       "programs": "7+ named US programs across Roche and Genentech, plus global tracks (OUR, RiSE, RICH) and rotational pipelines",
       "no_formal_program": false,
-      "faq_open_answer": "Based on the prior cycle, expect the main wave of Roche and Genentech summer 2027 postings from November 2026 through March 2027, with most hiring decisions made by March 2027. Early Roche Diagnostics and Academy programs can post from August, but as of October 1, 2026 none of Roche's US openings was an internship. Join the Talent Community at careers.roche.com or careers.gene.com for alerts.",
+      "faq_open_answer": "Based on the prior cycle, expect the main wave of Roche and Genentech summer 2027 postings from November 2026 through March 2027, with most hiring decisions made by March 2027. The first postings are already up: as of November 1, 2026, Roche's Tucson Systems and Hardware Development internship lists November 13, 2026 as its closing date, and Genentech's Hillsboro Technical Operations internship li",
       "interview": "After applying, most candidates go through a phone or video screen (20 to 30 minutes) followed by one to three interviews mixing technical and behavioral questions. Some programs add an assessment center, group exercise, or presentation. The entire process averages about 42 days from application to ",
       "visa": null,
       "window": [
-        "2026-11",
-        "2027-03"
+        "2026-10",
+        "2026-10"
       ],
-      "window_text": "Summer 2027 main wave expected Nov 2026\u2013Mar 2027 (documented pattern; not yet posted). No Roche internship postings live in the US as of Oct 1, 2026; Genentech posts separately on careers.gene.com"
+      "window_text": "Early postings open now: Roche's 2027 Summer Intern, Systems & Hardware Development (Tucson, posted Oct 30, 2026, scheduled to close Nov 13, 2026) and Genentech's 2027 Summer Intern, Hillsboro Technical Operations (Hillsboro, OR, scheduled to close Jan 1, 2027), checked Nov 1, 2026. Main wave expected Nov 2026\u2013Mar 2027; Genentech posts separately on careers.gene.com"
     },
     {
       "name": "Rocket Lab",
@@ -7485,9 +7482,9 @@
       "visa": "It depends on the posting. The undergraduate summer 2027 postings checked October 22, 2026 print no sponsorship line, and F-1 CPT students at US or Canadian universities have been eligible in past cycles. The three MBA c",
       "window": [
         "2026-08",
-        "2026-10"
+        "2026-11"
       ],
-      "window_text": "OPEN for summer 2027 on the Software Engineer track: Software Engineer Intern posted Aug 31, 2026 (San Francisco, Palo Alto, New York, Seattle, Bellevue, Burlington, Atlanta, Indianapolis), no end date printed, still live Oct 30, 2026. Also live Oct 30: Software Engineer (Security/Government), San Francisco and Bellevue (posted Oct 19); AI Research, Palo Alto (posted Oct 20); Tableau Research, Pal"
+      "window_text": "OPEN for summer 2027 on the Software Engineer track: Software Engineer Intern posted Aug 31, 2026 (San Francisco, Palo Alto, New York, Seattle, Bellevue, Burlington, Atlanta, Indianapolis), no end date printed, still live Nov 1, 2026. Also live Nov 1: AI Labs Summer Internship, Emerging Talent, San Francisco and Seattle (posted Oct 30, graduating Dec 2027 to June 2028); Software Engineer (Security"
     },
     {
       "name": "SambaNova",
@@ -8377,7 +8374,7 @@
       "interview": "You apply, complete a HireVue asynchronous video assessment (~45 minutes of behavioral questions), then a recruiter phone screen, 1 to 2 first-round interviews with analysts or associates, and a Superday final round with 2 to 5 back-to-back interviews. Investment tracks include stock pitch presentat",
       "visa": "No. T. Rowe Price requires US work authorization that does not now or in the future require sponsorship. No H-1B, F-1 OPT, TN, or other non-immigrant status",
       "window": [
-        "2026-07",
+        "2026-09",
         "2026-09"
       ],
       "window_text": "OPEN NOW: nine 2027 Internship Programs posted July 20, 2026 (Business Enablement, Client Services, Controllers & Global Tax, Fund Accounting, Global Product, Investment Operations, Procurement, Quantitative Equity Investing, Technology and Data), plus Digital Assets Strategy (posted September 4). No closing date is printed; review is rolling"
@@ -8557,8 +8554,8 @@
       "interview": "The Trade Desk's funnel is technical and fast, averaging about 33 days from application to decision: 1. Apply at careers.thetradedesk.com with a resume and one location choice for North America. You're automatically considered for all listed cities (Bellevue, Boulder, Denver, Irvine, New York, Seatt",
       "visa": null,
       "window": [
-        "2026-07",
-        "2026-07"
+        "2026-11",
+        "2026-11"
       ],
       "window_text": "2027 NA SWE posted July 20, 2026; open until filled. Postings typically close by November"
     },
@@ -8713,8 +8710,8 @@
       "interview": "A 90-minute online assessment with CS MCQs, a SQL question, and two coding problems, followed by technical interviews testing probability, algorithms, and quantitative reasoning, then a behavioral round. The whole process spans 3 to 5 weeks. Interviewers are described as friendly and conversational ",
       "visa": "Not explicitly stated in intern postings. No confirmation of sponsorship or restriction found",
       "window": [
-        "2026-07",
-        "2026-07"
+        "2027-06",
+        "2027-06"
       ],
       "window_text": "Summer 2027: OPEN NOW (as of July 2026) on the official careers portal; rolling, roles fill fast \u2014 apply immediately."
     },
@@ -8821,14 +8818,14 @@
       "tracks_total": 6,
       "programs": "8+ tracks including SWE, Data Science, Product, Strategy & Operations, plus UberSTAR and She++",
       "no_formal_program": false,
-      "faq_open_answer": "They are open now for software engineering. Uber posted 2027 Software Engineering Intern, US on October 20, 2026, later than its usual August to September opening, and the posting carries a scheduled end date of October 31, 2026. Review is rolling, so apply as early as you can.",
+      "faq_open_answer": "For software engineering they opened and closed already. Uber posted 2027 Software Engineering Intern, US on October 20, 2026, later than its usual August to September opening, and it was no longer listed on November 1, 2026, after its scheduled October 31 end date. No other US intern posting was listed that day, so set an alert on Uber\u2019s emerging talent page in case more 2027 roles post.",
       "interview": "Uber\u2019s SWE internship funnel runs 4 stages, averaging about 28 days from application to decision: 1. Submit your application at jobs.uber.com with a resume. List 3 to 5 city preferences in order. No cover letter required. 2. Complete the CodeSignal Online Assessment (70 minutes, 4 problems, threshol",
       "visa": "Yes. Uber accepts CPT and OPT for interns. For full-time conversion, Uber filed 823 H-1B petitions in FY2025 (ranked #41 among US employers). STEM OPT 24-month extension eligible.",
       "window": [
         "2026-10",
-        "2026-10"
+        "2026-11"
       ],
-      "window_text": "Open now for software engineering: Uber posted 2027 Software Engineering Intern, US (San Francisco, Seattle, Sunnyvale) on October 20, 2026, with a scheduled end date of October 31, 2026. On October 22 it was the only US intern requisition on Uber\u2019s careers board"
+      "window_text": "Closed for software engineering: Uber posted 2027 Software Engineering Intern, US (San Francisco, Seattle, Sunnyvale) on October 20, 2026, with a scheduled end date of October 31, 2026, and it was no longer listed on November 1, 2026. No other US intern requisition was on Uber\u2019s careers board that day"
     },
     {
       "name": "Ubisoft",
@@ -9022,10 +9019,7 @@
       "faq_open_answer": null,
       "interview": "Vanguard runs a multi-stage funnel, and the rolling timeline means each stage can start shortly after the previous one: 1. Create a Talent Profile at vanguardjobs.com and apply for your chosen track. Browse listings on the Workday portal, complete the questionnaire, and attach a professional resume.",
       "visa": "Most U.S. internship roles require existing work authorization, and Vanguard does not typically sponsor work visas for intern positions. Acceptance is also contingent upon successful drug screening. If you need employmen",
-      "window": [
-        "2026-07",
-        "2026-07"
-      ],
+      "window": null,
       "window_text": "Open now (rolling); postings began mid-July 2026, apply immediately, priority ends by fall (as of July 2026 via the Vanguard careers portal)"
     },
     {
@@ -9739,7 +9733,7 @@
       "interview": "You apply, complete a recruiter phone screen (15 to 30 minutes), take a 60- to 90-minute online coding assessment with 2 to 3 LeetCode-medium problems, then 2 to 3 technical interviews plus a behavioral round. Decisions come within 3 to 5 business days of the final interview.",
       "visa": "CPT supported for F-1 students, OPT for new graduates, and H-1B sponsorship available",
       "window": [
-        "2026-07",
+        "2026-08",
         "2026-08"
       ],
       "window_text": "Expected late July to early August 2026 for summer 2027 engineering roles. Priority deadline around late September 2026, final deadline around mid-November 2026. Projected from prior cycle"
