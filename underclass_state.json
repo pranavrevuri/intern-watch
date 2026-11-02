@@ -1,5 +1,5 @@
 {
-"checked_at": "2026-11-02T17:27:21.482878+00:00",
+"checked_at": "2026-11-02T23:29:31.816011+00:00",
 "seen_keys": [
 "adobe::\u2705 open]",
 "akuna capital::software engineer intern (summer 2027, python / c++ / full stack / c# .net)",
@@ -220,6 +220,7 @@
 "susquehanna::quantitative strategy developer intern (summer 2027, june start)",
 "susquehanna::trading system engineering intern \ud83c\uddfa\ud83c\uddf8",
 "susquehanna::\u2705 open]",
+"susquehanna::\ud83d\udd25 closing soon]",
 "the college of wooster::\u2705 open]",
 "the college of wooster::\ud83d\udd25 closing soon]",
 "the home depot::\u2705 open]",
@@ -344,15 +345,6 @@
 {
 "section": "Underclassmen Programs (Fellowships, Externships, etc.)",
 "name": "\ud83d\udd25 CLOSING SOON]",
-"org": "MLT (Management Leadership for Tomorrow)",
-"detail": "Career Prep (Class of 2029) \u2014 Deadline: January 15, 2027 (11:59 PM EST); SWE/Technology/Corporate Priority November 1, 2026",
-"location": "",
-"link": "https://mlt.smapply.org/prog/careerprep2029_application/",
-"posted": ""
-},
-{
-"section": "Underclassmen Programs (Fellowships, Externships, etc.)",
-"name": "\ud83d\udd25 CLOSING SOON]",
 "org": "Insight Partners",
 "detail": "Inclusion by Insight Virtual Summit (2027) \u2014 Deadline: November 6, 2026 (5:00 PM ET)",
 "location": "",
@@ -384,6 +376,42 @@
 "detail": "Academy Spring Insight Programme \u2014 UK (2027) \u2014 Deadline: Nov 15, 2026, 11:59pm UTC",
 "location": "",
 "link": "https://job-boards.greenhouse.io/point72/jobs/8845395002?gh_jid=8845395002",
+"posted": ""
+},
+{
+"section": "Underclassmen Programs (Fellowships, Externships, etc.)",
+"name": "\ud83d\udd25 CLOSING SOON]",
+"org": "Susquehanna",
+"detail": "Discovery \u2014 Trading System Engineer (2027) \u2014 Deadline: November 16, 2026",
+"location": "",
+"link": "https://careers.sig.com/jobs/11491?lang=en-us",
+"posted": ""
+},
+{
+"section": "Underclassmen Programs (Fellowships, Externships, etc.)",
+"name": "\ud83d\udd25 CLOSING SOON]",
+"org": "Susquehanna",
+"detail": "Discovery \u2014 Quantitative Trading & Strategy Development (2027) \u2014 Deadline: November 16, 2026",
+"location": "",
+"link": "https://careers.sig.com/jobs/11148?lang=en-us",
+"posted": ""
+},
+{
+"section": "Underclassmen Programs (Fellowships, Externships, etc.)",
+"name": "\ud83d\udd25 CLOSING SOON]",
+"org": "Susquehanna",
+"detail": "Discovery \u2014 Equity + Macro Research (2027) \u2014 Deadline: November 16, 2026",
+"location": "",
+"link": "https://careers.sig.com/jobs/11150?lang=en-us",
+"posted": ""
+},
+{
+"section": "Underclassmen Programs (Fellowships, Externships, etc.)",
+"name": "\u2705 OPEN]",
+"org": "MLT (Management Leadership for Tomorrow)",
+"detail": "Career Prep (Class of 2029) \u2014 Deadline: January 15, 2027 (11:59 PM EST); SWE/Technology/Corporate Priority November 1, 2026",
+"location": "",
+"link": "https://mlt.smapply.org/prog/careerprep2029_application/",
 "posted": ""
 },
 {
@@ -492,33 +520,6 @@
 "detail": "Discover \u2014 Hong Kong (2027) \u2014 Deadline: February 14, 2027",
 "location": "",
 "link": "https://www.citadelsecurities.com/careers/programs-and-events/discover-citadel-securities/hong-kong/",
-"posted": ""
-},
-{
-"section": "Underclassmen Programs (Fellowships, Externships, etc.)",
-"name": "\u2705 OPEN]",
-"org": "Susquehanna",
-"detail": "Discovery \u2014 Trading System Engineer (2027) \u2014 Deadline: November 16, 2026",
-"location": "",
-"link": "https://careers.sig.com/jobs/11491?lang=en-us",
-"posted": ""
-},
-{
-"section": "Underclassmen Programs (Fellowships, Externships, etc.)",
-"name": "\u2705 OPEN]",
-"org": "Susquehanna",
-"detail": "Discovery \u2014 Quantitative Trading & Strategy Development (2027) \u2014 Deadline: November 16, 2026",
-"location": "",
-"link": "https://careers.sig.com/jobs/11148?lang=en-us",
-"posted": ""
-},
-{
-"section": "Underclassmen Programs (Fellowships, Externships, etc.)",
-"name": "\u2705 OPEN]",
-"org": "Susquehanna",
-"detail": "Discovery \u2014 Equity + Macro Research (2027) \u2014 Deadline: November 16, 2026",
-"location": "",
-"link": "https://careers.sig.com/jobs/11150?lang=en-us",
 "posted": ""
 },
 {
@@ -803,15 +804,6 @@
 {
 "section": "Rising Freshmen & First-Year Opportunities",
 "name": "\ud83d\udd25 CLOSING SOON]",
-"org": "The College of Wooster",
-"detail": "Music Scholarships \u2014 Incoming First-Year Performance/Composition Tracks, Fall 2027",
-"location": "",
-"link": "https://connect.wooster.edu/register/?id=4371ab01-f453-45c9-931b-45ba6acd16e7",
-"posted": ""
-},
-{
-"section": "Rising Freshmen & First-Year Opportunities",
-"name": "\ud83d\udd25 CLOSING SOON]",
 "org": "Jack Kent Cooke Foundation",
 "detail": "College Scholarship Program \u2014 Entering Fall 2027",
 "location": "",
@@ -825,6 +817,15 @@
 "detail": "Most Valuable Student Scholarship \u2014 2027 Incoming College Cohort",
 "location": "",
 "link": "https://elks.applyists.net/ElksMVS",
+"posted": ""
+},
+{
+"section": "Rising Freshmen & First-Year Opportunities",
+"name": "\u2705 OPEN]",
+"org": "The College of Wooster",
+"detail": "Music Scholarships \u2014 Incoming First-Year Performance/Composition Tracks, Fall 2027",
+"location": "",
+"link": "https://connect.wooster.edu/register/?id=4371ab01-f453-45c9-931b-45ba6acd16e7",
 "posted": ""
 },
 {
@@ -2021,15 +2022,6 @@
 {
 "section": "Underclassmen Programs (Fellowships, Externships, etc.)",
 "name": "\ud83d\udd25 CLOSING SOON]",
-"org": "MLT (Management Leadership for Tomorrow)",
-"detail": "Career Prep (Class of 2029) \u2014 Deadline: January 15, 2027 (11:59 PM EST); SWE/Technology/Corporate Priority November 1, 2026",
-"location": "",
-"link": "https://mlt.smapply.org/prog/careerprep2029_application/",
-"posted": ""
-},
-{
-"section": "Underclassmen Programs (Fellowships, Externships, etc.)",
-"name": "\ud83d\udd25 CLOSING SOON]",
 "org": "Insight Partners",
 "detail": "Inclusion by Insight Virtual Summit (2027) \u2014 Deadline: November 6, 2026 (5:00 PM ET)",
 "location": "",
@@ -2061,6 +2053,42 @@
 "detail": "Academy Spring Insight Programme \u2014 UK (2027) \u2014 Deadline: Nov 15, 2026, 11:59pm UTC",
 "location": "",
 "link": "https://job-boards.greenhouse.io/point72/jobs/8845395002?gh_jid=8845395002",
+"posted": ""
+},
+{
+"section": "Underclassmen Programs (Fellowships, Externships, etc.)",
+"name": "\ud83d\udd25 CLOSING SOON]",
+"org": "Susquehanna",
+"detail": "Discovery \u2014 Trading System Engineer (2027) \u2014 Deadline: November 16, 2026",
+"location": "",
+"link": "https://careers.sig.com/jobs/11491?lang=en-us",
+"posted": ""
+},
+{
+"section": "Underclassmen Programs (Fellowships, Externships, etc.)",
+"name": "\ud83d\udd25 CLOSING SOON]",
+"org": "Susquehanna",
+"detail": "Discovery \u2014 Quantitative Trading & Strategy Development (2027) \u2014 Deadline: November 16, 2026",
+"location": "",
+"link": "https://careers.sig.com/jobs/11148?lang=en-us",
+"posted": ""
+},
+{
+"section": "Underclassmen Programs (Fellowships, Externships, etc.)",
+"name": "\ud83d\udd25 CLOSING SOON]",
+"org": "Susquehanna",
+"detail": "Discovery \u2014 Equity + Macro Research (2027) \u2014 Deadline: November 16, 2026",
+"location": "",
+"link": "https://careers.sig.com/jobs/11150?lang=en-us",
+"posted": ""
+},
+{
+"section": "Underclassmen Programs (Fellowships, Externships, etc.)",
+"name": "\u2705 OPEN]",
+"org": "MLT (Management Leadership for Tomorrow)",
+"detail": "Career Prep (Class of 2029) \u2014 Deadline: January 15, 2027 (11:59 PM EST); SWE/Technology/Corporate Priority November 1, 2026",
+"location": "",
+"link": "https://mlt.smapply.org/prog/careerprep2029_application/",
 "posted": ""
 },
 {
@@ -2169,33 +2197,6 @@
 "detail": "Discover \u2014 Hong Kong (2027) \u2014 Deadline: February 14, 2027",
 "location": "",
 "link": "https://www.citadelsecurities.com/careers/programs-and-events/discover-citadel-securities/hong-kong/",
-"posted": ""
-},
-{
-"section": "Underclassmen Programs (Fellowships, Externships, etc.)",
-"name": "\u2705 OPEN]",
-"org": "Susquehanna",
-"detail": "Discovery \u2014 Trading System Engineer (2027) \u2014 Deadline: November 16, 2026",
-"location": "",
-"link": "https://careers.sig.com/jobs/11491?lang=en-us",
-"posted": ""
-},
-{
-"section": "Underclassmen Programs (Fellowships, Externships, etc.)",
-"name": "\u2705 OPEN]",
-"org": "Susquehanna",
-"detail": "Discovery \u2014 Quantitative Trading & Strategy Development (2027) \u2014 Deadline: November 16, 2026",
-"location": "",
-"link": "https://careers.sig.com/jobs/11148?lang=en-us",
-"posted": ""
-},
-{
-"section": "Underclassmen Programs (Fellowships, Externships, etc.)",
-"name": "\u2705 OPEN]",
-"org": "Susquehanna",
-"detail": "Discovery \u2014 Equity + Macro Research (2027) \u2014 Deadline: November 16, 2026",
-"location": "",
-"link": "https://careers.sig.com/jobs/11150?lang=en-us",
 "posted": ""
 },
 {
@@ -2480,15 +2481,6 @@
 {
 "section": "Rising Freshmen & First-Year Opportunities",
 "name": "\ud83d\udd25 CLOSING SOON]",
-"org": "The College of Wooster",
-"detail": "Music Scholarships \u2014 Incoming First-Year Performance/Composition Tracks, Fall 2027",
-"location": "",
-"link": "https://connect.wooster.edu/register/?id=4371ab01-f453-45c9-931b-45ba6acd16e7",
-"posted": ""
-},
-{
-"section": "Rising Freshmen & First-Year Opportunities",
-"name": "\ud83d\udd25 CLOSING SOON]",
 "org": "Jack Kent Cooke Foundation",
 "detail": "College Scholarship Program \u2014 Entering Fall 2027",
 "location": "",
@@ -2502,6 +2494,15 @@
 "detail": "Most Valuable Student Scholarship \u2014 2027 Incoming College Cohort",
 "location": "",
 "link": "https://elks.applyists.net/ElksMVS",
+"posted": ""
+},
+{
+"section": "Rising Freshmen & First-Year Opportunities",
+"name": "\u2705 OPEN]",
+"org": "The College of Wooster",
+"detail": "Music Scholarships \u2014 Incoming First-Year Performance/Composition Tracks, Fall 2027",
+"location": "",
+"link": "https://connect.wooster.edu/register/?id=4371ab01-f453-45c9-931b-45ba6acd16e7",
 "posted": ""
 },
 {
