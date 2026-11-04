@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T20:03:35.125212+00:00",
+  "generated_at": "2026-11-04T20:23:20.939493+00:00",
   "companies": [
     {
       "name": "1Password",
@@ -1906,7 +1906,7 @@
       "career_urls": [
         "https://careers.cisco.com/global/en/internships-and-co-ops"
       ],
-      "rolling": "Yes. Positions filled continuously; most postings closed Oct 21 or Oct 30, 2026, four more on Nov 2, and the reqs live on November 3 are scheduled to close betw",
+      "rolling": "Yes. Positions filled continuously; most postings closed Oct 21 or Oct 30, 2026, three more on Nov 2 and Security Consulting Engineer I by Nov 3, and the reqs l",
       "pay": "$38\u2013$55/hr; Meraki division at the top of range. Housing stipends in select markets",
       "tech_tracks": "Software Engineer (Networking); Software Engineer (Backend/Platform); Software Engineer (Data/AI); Full Stack Engineer (Meraki); AI/ML Engineer; ASIC/Hardware Engineer",
       "tracks_total": 6,
@@ -1919,7 +1919,7 @@
         "2026-11",
         "2026-11"
       ],
-      "window_text": "Still open for summer 2027, narrowing: 13 US intern and 3 co-op reqs live on November 3, 2026. Business Analyst I, Data Analyst I and both FLEX leadership reqs closed after their Nov 2 end date, and Security Consulting Engineer I (set to run to Nov 5) is no longer listed. Still live, by listed end date: Sustainability Analyst I Nov 9 (the posting says it is expected to close Nov 8); PROPEL and Sof"
+      "window_text": "Still open for summer 2027, narrowing: 14 US intern and 4 co-op reqs live on November 4, 2026. Data Analyst I and both FLEX leadership reqs closed after their Nov 2 end date, and Security Consulting Engineer I (set to run to Nov 5) closed early. Business Analyst I also came down Nov 2 but was reposted Nov 3. Still live, by listed end date: Business Analyst I Nov 6; Sustainability Analyst I Nov 9 ("
     },
     {
       "name": "Citadel",
@@ -1953,7 +1953,7 @@
         "https://jobs.citi.com/programfinder"
       ],
       "rolling": "Yes. IB fills 80% of its class by August; all other divisions review on a rolling basis with early applicants seeing higher interview rates",
-      "pay": "$60,000\u2013$135,000 annualized on the 13 US Summer Analyst 2027 postings live November 1, 2026 (Technology $80,000\u2013$110,000; Corporate Banking Houston $100,000\u2013$13",
+      "pay": "$60,000\u2013$135,000 annualized on the 14 US Summer Analyst 2027 postings live November 4, 2026 (Technology $80,000\u2013$110,000; Corporate Banking Houston $100,000\u2013$13",
       "tech_tracks": "Markets \u2013 Quantitative Analysis; Technology \u2013 Application Development",
       "tracks_total": 6,
       "programs": "13+ across Banking, Markets, Services, Technology, Wealth Management, and more",
@@ -1965,7 +1965,7 @@
         "2026-12",
         "2027-01"
       ],
-      "window_text": "Summer 2027 (juniors graduating December 2027 to June 2028): 13 US Summer Analyst requisitions live on Citi's Workday board on November 1, 2026: seven Technology reqs posted October 23 (Application Development in Irving, Jacksonville, Tampa and New York/New Jersey; Cyber Security in Irving; Production Support in New York and Tampa), still listed and accepting applications past the October 30, 2026"
+      "window_text": "Summer 2027 (juniors graduating December 2027 to June 2028): 14 US Summer Analyst requisitions live on Citi's Workday board on November 4, 2026: seven Technology reqs posted October 23 (Application Development in Irving, Jacksonville, Tampa and New York/New Jersey; Cyber Security in Irving; Production Support in New York and Tampa), still listed and accepting applications past the October 30, 2026"
     },
     {
       "name": "Clorox",
@@ -3540,14 +3540,14 @@
       "tracks_total": 6,
       "programs": "6+ internship tracks across Gas Power, Wind, Nuclear, Digital Technology, Commercial, Finance, and Grid",
       "no_formal_program": false,
-      "faq_open_answer": "They are open now: 62 US intern and co-op requisitions titled 2027 were live on November 1, 2026 (the newest posted October 29), with end dates, where printed, running November 3 to November 30, 2026. Summer 2028 is not posted yet; if the Summer 2027 pattern repeats, expect the earliest Summer 2028 engineering postings between January and March 2027 and the main wave around September 2027, so moni",
+      "faq_open_answer": "They are open now: 62 US intern and co-op requisitions titled 2027 were live on November 1, 2026 (the newest posted October 29); as of November 4, the end dates still printed run from November 6 to November 30, 2026. Summer 2028 is not posted yet; if the Summer 2027 pattern repeats, expect the earliest Summer 2028 engineering postings between January and March 2027 and the main wave around Septemb",
       "interview": "Expect 2 rounds over about 26 days total. The interview is a mix of behavioral and technical questions, though Glassdoor rates the difficulty at only 2.4 out of 5. You will likely meet with an HR representative and a team member on Zoom or Teams. Behavioral questions focus on leadership, teamwork, a",
       "visa": "No. All US internship postings state applicants must have \"the ability to work in the United States for an unlimited amount of time without sponsorship.\" This language is stricter than many other companies and likely exc",
       "window": [
         "2026-11",
         "2027-09"
       ],
-      "window_text": "Open now for summer 2027: 62 US intern and co-op reqs titled 2027 were listed on November 1, 2026 (42 naming summer, plus Spring and Fall 2027 terms), posted from August through October 29. No single deadline; where an end date is printed it runs November 3 to November 30, 2026, so check each req"
+      "window_text": "Open now for summer 2027: 62 US intern and co-op reqs titled 2027 were listed on November 1, 2026 (42 naming summer, plus Spring and Fall 2027 terms), posted from August through October 29. No single deadline; where an end date is printed it runs November 6 to November 30, 2026 as of November 4, so check each req"
     },
     {
       "name": "Genentech",
@@ -4098,7 +4098,7 @@
       "career_urls": [
         "https://careers.homedepot.com/students-internships/"
       ],
-      "rolling": "Yes. Tech roles fill by mid-October; business roles extend into January",
+      "rolling": "Rolling review inside a fixed window: summer 2027 ran August 31 to October 23, 2026; interviews for business roles can run into January",
       "pay": "$24\u2013$27/hr SWE and Cybersecurity (official); $22\u2013$35/hr across all tracks",
       "tech_tracks": "Software Engineering; Cybersecurity; Data Science (UG)",
       "tracks_total": 6,
@@ -4108,10 +4108,10 @@
       "interview": "Home Depot's funnel runs 2\u20134 weeks from first interview to offer, faster than most Fortune 50 programs: 1. Create a profile at careers.homedepot.com and upload your resume (PDF or Word, under 5MB). A cover letter is optional but recommended for business tracks. Complete the 3\u20135 role-specific screeni",
       "visa": "F-1 students on CPT are explicitly accepted. OPT is also eligible. H-1B sponsorship for interns is described as \"case-by-case\" and isn't guaranteed. Full-time H-1B sponsorship is more common after conversion.",
       "window": [
-        "2026-08",
-        "2026-08"
+        "2027-08",
+        "2027-09"
       ],
-      "window_text": "Open now for summer 2027: 11 requisitions live since August 31, 2026; \"Applications are accepted on an ongoing basis\" (employer header); program May 17 to July 30, 2027"
+      "window_text": "Closed for summer 2027: Home Depot lists applications as accepted August 31 to October 23, 2026, and no summer 2027 intern requisition is on Workday as of November 4, 2026 (program May 17 to July 30, 2027). Summer 2028 window expected late August to mid-September 2027"
     },
     {
       "name": "Honda",
@@ -5543,14 +5543,14 @@
       "tracks_total": 6,
       "programs": "8+ intern tracks across engineering, data, research, design, and product",
       "no_formal_program": false,
-      "faq_open_answer": "They have started to open. Meta's first summer 2027 req (Data Engineer Intern, Product Analytics) went live on 29 September 2026, roughly 9 months before the summer start. The main Software Engineer intern req had not posted when we checked on 1 October 2026, and the remaining reqs are expected to follow on a rolling basis this fall, projected from Meta's documented prior cycle. Have your resume r",
+      "faq_open_answer": "They are open. Meta's first summer 2027 req (Data Engineer Intern, Product Analytics) went live on 29 September 2026, roughly 9 months before the summer start. The main Software Engineering Intern req went up on 7 October 2026 and was still live when we checked on November 4, 2026, and more reqs keep posting on a rolling basis this fall. Apply now, because review is rolling, and apply within the f",
       "interview": "A recruiter screen, a 45-minute CoderPad phone screen with about 2 LeetCode Easy-to-Medium problems, then a four-round loop of 2 coding, 1 design, and 1 behavioral round. A CodeSignal online assessment appears for many candidates, and Meta is rolling out an AI-assisted coding round in 2026.",
       "visa": null,
       "window": [
         "2027-06",
         "2027-06"
       ],
-      "window_text": "Opening now, rolling: the first summer 2027 req (Data Engineer Intern, Product Analytics) went live on 29 September 2026; the Software Engineer intern req was not yet posted on 1 October 2026, and more summer 2027 reqs are expected through the fall (projected from prior cycle)"
+      "window_text": "Open, rolling: the first summer 2027 req (Data Engineer Intern, Product Analytics) went live on 29 September 2026, and the Software Engineering Intern req went up on 7 October 2026 and was still live on November 4, 2026. More intern reqs keep posting through the fall"
     },
     {
       "name": "Micron",
@@ -7629,7 +7629,7 @@
         "https://join.sephora.com/careers?query=intern"
       ],
       "rolling": "Yes. Applications reviewed on a rolling basis; last cycle gave priority consideration by mid-October",
-      "pay": "$22\u2013$25/hr depending on role (~$9,000 total at top rate)",
+      "pay": "$27 or $30/hr in the summer 2027 postings live on November 4, 2026 ($30 for technology and distribution-automation roles; $27 for DC systems engineering, distri",
       "tech_tracks": "Digital / Technology; Data Analytics",
       "tracks_total": 6,
       "programs": "10 corporate tracks from Marketing to Digital/Tech",
@@ -7638,10 +7638,10 @@
       "interview": "Typically 3 to 4 stages over roughly 22 days: an on-demand video interview with behavioral and beauty-passion questions, a recruiter phone screen, a hiring manager interview, and for competitive tracks a final panel or Superday with senior leaders. Some roles include a 60 to 90 minute online assessm",
       "visa": "No. Sephora does not sponsor H-1B visas for internships. International students must have independent work authorization through CPT or OPT. You must be authorized to work in the U.S. without employer sponsorship.",
       "window": [
-        "2026-10",
-        "2027-08"
+        "2026-09",
+        "2027-06"
       ],
-      "window_text": "OPEN. Six US summer 2027 internships posted October 27, 2026 on join.sephora.com (San Francisco, Salt Lake City, Maryland and remote); program runs June 14 to August 20, 2027 for students graduating in 2027 or 2028. No closing date printed; last cycle closed by mid-November, and more tracks may post"
+      "window_text": "MID-CYCLE. Seven US summer 2027 internships still live on join.sephora.com as of November 4, 2026 (remote, San Francisco, Las Vegas, Avon IN and Maryland), out of more than 30 US intern roles posted October 9 to 27, 2026; most run June 14 to August 20, 2027 for students graduating in 2027 or 2028. No closing date printed; roles come down as they fill, and last cycle closed by mid-November"
     },
     {
       "name": "ServiceNow",
