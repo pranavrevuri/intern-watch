@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T20:21:58.214010+00:00",
+  "generated_at": "2026-11-11T20:05:56.006980+00:00",
   "companies": [
     {
       "name": "1Password",
@@ -186,20 +186,20 @@
       "career_urls": [
         "https://addepar.com/careers"
       ],
-      "rolling": "Likely yes. No published deadlines; job postings remain open until filled. Community data shows candidates hearing back at varying timelines",
-      "pay": "$51/hr (~$8,840/month) for US-based roles in 2025 (Levels.fyi). JD range: $34 to $53/hr depending on state. Historical rates: $43 to $60/hr (2021 to 2023)",
+      "rolling": "Yes. The summer 2027 postings say applications are reviewed on a rolling basis between November 2026 and March 2027 and may close once the program is filled. No",
+      "pay": "Summer 2027 postings print one base pay figure per role (checked November 11, 2026): $48/hr for Software Engineering ( Software Engineering Intern, Summer 2027 ",
       "tech_tracks": "SWE Intern - Platform Services; SWE Intern - Research; SWE Intern - ADM (Automated Data Management); SWE Intern - Core Applications",
       "tracks_total": 6,
-      "programs": "6+ tracks under the AddeU Internship Program: SWE (Platform Services, Research, ADM, Core Applications), Content Design, and Communications & Brand",
+      "programs": "Summer 2027 US postings: Software Engineering, AI Engineering, Data Engineering, Product and Design, all in New York. Earlier AddeU cohorts listed SWE teams (Platform Services, Research, ADM, Core Applications), Content Design, and Communications & Brand",
       "no_formal_program": false,
-      "faq_open_answer": "Expect postings between October and December 2026, with rolling review through January to February 2027. Those dates are projected from 2022 to 2025 cycles and are not official. Set a job alert on addepar.com/careers.",
+      "faq_open_answer": "They are open now. Addepar posted five summer 2027 intern roles in New York on November 10, 2026 (Software Engineering, AI Engineering, Data Engineering, Product and Design), and the postings say applications are reviewed on a rolling basis between November 2026 and March 2027. Apply soon on addepar.com/careers or the Greenhouse board, since a posting may close once the program is filled.",
       "interview": "Candidates report 4 to 7 rounds: a recruiter screen, hiring manager call, 1 to 2 live coding interviews with domain-specific problems (portfolio reconciliation, transaction processing), and a behavioral round. Glassdoor rates the difficulty at 3 out of 5, with an average time to offer of approximate",
-      "visa": "Must be enrolled at a US or Canadian institution. Specific visa sponsorship details not confirmed in job postings",
+      "visa": "Not offered. The summer 2027 postings say applicants must be legally authorized to work in the United States for any employer without requiring current or future visa sponsorship (for example H-1B or F-1/OPT) and must be",
       "window": [
-        "2026-10",
-        "2027-02"
+        "2026-11",
+        "2026-11"
       ],
-      "window_text": "Expected October to December 2026 for summer 2027 roles, with rolling review through January to February 2027. Projected from 2022 to 2025 cycles"
+      "window_text": "Open now: Addepar posted five summer 2027 intern roles in New York on its Greenhouse board on November 10, 2026 (Software Engineering, AI Engineering, Data Engineering, Product and Design). Each posting says applications are reviewed on a rolling basis between November 2026 and March 2027 and the posting may close once the program is filled (checked November 11, 2026)"
     },
     {
       "name": "Adept AI",
@@ -475,7 +475,7 @@
       "career_urls": [
         "https://careers.amd.com/students/jobs"
       ],
-      "rolling": "Yes. Positions close individually once filled; top-tier locations fill by late October",
+      "rolling": "Yes, with no posted deadline. Positions closed individually as they filled, and every US req was down by November 11, 2026",
       "pay": "$38\u2013$42/hr undergrad, $45\u2013$55/hr MS, $52\u2013$60+/hr PhD (technical) + $3K\u2013$4.5K housing stipend",
       "tech_tracks": "Software Engineering; Firmware Engineering; Machine Learning / AI; Compiler Engineering",
       "tracks_total": 6,
@@ -485,10 +485,10 @@
       "interview": "AMD's hiring funnel is shorter and less stressful than FAANG peers, averaging 4 to 8 weeks from application to decision, with interviews rated 3.2 out of 5 difficulty on Glassdoor (84% positive experience): 1. Create a profile at careers.amd.com and join the University Talent Community for early not",
       "visa": "AMD does not sponsor H-1B visas for internship positions. International students must have valid CPT (Curricular Practical Training) authorization through their university. Apply at least 10 to 12 weeks before your start",
       "window": [
-        "2026-08",
-        "2026-09"
+        "2027-08",
+        "2027-08"
       ],
-      "window_text": "Open now for summer 2027: 57 US 2027-titled intern/co-op reqs live on careers.amd.com, first wave August 20, 2026, latest wave September 16; no close dates listed"
+      "window_text": "Closed for US summer 2027: 57 US 2027-titled intern/co-op reqs went up on careers.amd.com from August 20, 2026 (no close date listed), and all US postings came down between November 10 and November 11, 2026. Summer 2028 expected to open around late August 2027 (projection)"
     },
     {
       "name": "American Airlines",
@@ -1838,7 +1838,7 @@
       "slug": "chime",
       "guide_url": "https://www.extern.com/post/chime-internship-guide",
       "career_urls": [
-        "https://careers.chime.com/early-talent/"
+        "https://careers.chime.com/"
       ],
       "rolling": "Yes, confirmed. In past cycles roles posted October to November and filled rolling; this cycle none had posted as of November 1, 2026, so apply the first week a",
       "pay": "SWE intern $50/hr (~$8,667/month) plus ~$3,000 housing stipend for relocators. Data science intern $42\u2013$52/hr",
@@ -1885,7 +1885,7 @@
         "https://jobs.thecignagroup.com/us/en/studentandgraduates"
       ],
       "rolling": "Fixed seasonal window with rolling review. Postings note they \"may close before the stated closing date,\" so apply the week you see the role, not at the deadlin",
-      "pay": "Official: a \"competitive hourly rate\" that scales with actuarial exam progress, plus paid travel, fully furnished shared housing, and paid exam study materials.",
+      "pay": "Posted, as of November 11, 2026: Risk and Underwriting ( Job ID 26009228 ) $24/hr; Legal Operations Financial, Data and AI Analytics ( Job ID 25016386 ) $24 to ",
       "tech_tracks": "ALDP) Analytics Leadership Development Program; TECDP: Technology Development Program",
       "tracks_total": 4,
       "programs": "4 named early-career programs with summer internship tracks: AEDP (actuarial), ALDP (analytics), TECDP (technology, 6 sub-tracks), and the general Summer Internship Program (10 business majors)",
@@ -1897,7 +1897,7 @@
         "2026-11",
         "2026-11"
       ],
-      "window_text": "Mid-cycle as of November 7, 2026. Closed: AEDP actuarial (req 26006087), ALDP, AIIDP, all five TECDP tracks (the last, Data & Analytics Engineering, came down after its November 2 end date), tax accounting and the two Evernorth analytics roles. Still live: Risk & Underwriting (Workday posting set to end November 8, 2026), Business Analytics and PBM Strategy (both set to end November 13), Legal Ope"
+      "window_text": "Mid-cycle as of November 11, 2026. Closed: AEDP actuarial (req 26006087), ALDP, AIIDP, all five TECDP tracks (the last, Data & Analytics Engineering, came down after its November 2 end date), tax accounting and the two Evernorth analytics roles. Still live: Risk & Underwriting (reposted November 10 after its November 8 end date, no end date printed), Business Analytics and PBM Strategy (both list "
     },
     {
       "name": "Cisco",
@@ -1906,8 +1906,8 @@
       "career_urls": [
         "https://careers.cisco.com/global/en/internships-and-co-ops"
       ],
-      "rolling": "Yes. Positions filled continuously; most postings closed Oct 21 or Oct 30, 2026, three more on Nov 2, Security Consulting Engineer I by Nov 3 and Business Analy",
-      "pay": "$38\u2013$55/hr; Meraki division at the top of range. Housing stipends in select markets",
+      "rolling": "Yes. Positions filled continuously; most postings closed Oct 21 or Oct 30, 2026, three more on Nov 2 and Security Consulting Engineer I by Nov 3. Cisco also rep",
+      "pay": "$38 to $55/hr as self-reported by past interns; Meraki division at the top of range. Housing stipends in select markets. Cisco\u2019s own 2027 intern postings print ",
       "tech_tracks": "Software Engineer (Networking); Software Engineer (Backend/Platform); Software Engineer (Data/AI); Full Stack Engineer (Meraki); AI/ML Engineer; ASIC/Hardware Engineer",
       "tracks_total": 6,
       "programs": null,
@@ -1919,7 +1919,7 @@
         "2026-11",
         "2026-11"
       ],
-      "window_text": "Still open for summer 2027, narrowing: 14 US intern and 4 co-op reqs live on November 7, 2026. Data Analyst I and both FLEX leadership reqs closed after their Nov 2 end date, and Security Consulting Engineer I (set to run to Nov 5) closed early. Business Analyst I came down Nov 2, was reposted Nov 3 and closed again at its Nov 6 end date. Amplify Marketing Specialist I was reposted Nov 5. Still li"
+      "window_text": "Still open for summer 2027: 18 US intern and 5 co-op reqs live on November 11, 2026. New since November 7: Software Engineer Full-Stack / Backend I (Intern), posted Nov 9, and Software Engineer Embedded Systems I (Intern) and Hardware Engineer I (Intern), posted Nov 10. Business Analyst I (closed at its Nov 6 end date), Sustainability Analyst I and Systems Quality Engineer II (Co-op) were reposted"
     },
     {
       "name": "Citadel",
@@ -1953,7 +1953,7 @@
         "https://jobs.citi.com/programfinder"
       ],
       "rolling": "Yes. IB fills 80% of its class by August; all other divisions review on a rolling basis with early applicants seeing higher interview rates",
-      "pay": "$60,000\u2013$135,000 annualized on the 14 US Summer Analyst 2027 postings live November 4, 2026 (Technology $80,000\u2013$110,000; Corporate Banking Houston $100,000\u2013$13",
+      "pay": "$60,000\u2013$135,000 annualized on the 14 US Summer Analyst 2027 postings live November 11, 2026 (Technology $80,000\u2013$110,000; Corporate Banking Houston and New Yor",
       "tech_tracks": "Markets \u2013 Quantitative Analysis; Technology \u2013 Application Development",
       "tracks_total": 6,
       "programs": "13+ across Banking, Markets, Services, Technology, Wealth Management, and more",
@@ -1965,7 +1965,7 @@
         "2026-12",
         "2027-01"
       ],
-      "window_text": "Summer 2027 (juniors graduating December 2027 to June 2028): 14 US Summer Analyst requisitions live on Citi's Workday board on November 4, 2026: seven Technology reqs posted October 23 (Application Development in Irving, Jacksonville, Tampa and New York/New Jersey; Cyber Security in Irving; Production Support in New York and Tampa), still listed and accepting applications past the October 30, 2026"
+      "window_text": "Summer 2027 (juniors graduating December 2027 to June 2028): 14 US Summer Analyst requisitions live on Citi's Workday board on November 11, 2026: seven Technology reqs posted October 23 (Application Development in Irving, Jacksonville, Tampa and New York/New Jersey; Cyber Security in Irving; Production Support in New York and Tampa), still listed and accepting applications past the October 30, 202"
     },
     {
       "name": "Clorox",
@@ -2798,8 +2798,8 @@
       "career_urls": [
         "https://dukeenergy.wd1.myworkdayjobs.com/en-US/Search"
       ],
-      "rolling": "No. Each function has its own posting and apply-by date, often only four to ten days after it goes up; on November 7, 2026 the open dates ran from November 8 (S",
-      "pay": "The summer 2027 postings print no pay (checked November 7, 2026); reported pay runs $21 to $36/hr depending on role; housing stipend available for interns place",
+      "rolling": "No. Each function has its own posting and apply-by date, often only four to ten days after it goes up; on November 11, 2026 the two remaining dates were Novembe",
+      "pay": "The summer 2027 postings print no pay (checked November 11, 2026); reported pay runs $21 to $36/hr depending on role; housing stipend available for interns plac",
       "tech_tracks": "Engineering Intern & Co-op",
       "tracks_total": 6,
       "programs": "8 tracks: Engineering, IT, Supply Chain, EH&S, MBA, STEM Sophomore, Returning Intern, and Power Careers",
@@ -2811,7 +2811,7 @@
         "2026-11",
         "2026-11"
       ],
-      "window_text": "Partly open for summer 2027, with short apply-by windows. Listed on November 7, 2026: Substation / Line Tech (Carolinas), reposted November 2, apply by November 8; Project Controls, new on November 6, apply by November 9; UX Design, reposted November 5, apply by November 10; MBA Internship, apply by November 13; and Training Technology and System Operations, new on November 6, apply by November 15"
+      "window_text": "Partly open for summer 2027, two postings left. Listed on November 11, 2026: MBA Internship, apply by November 13, and Training Technology and System Operations, new on November 6, apply by November 15 (both 11:59 PM, 2026). Passed and no longer listed: Substation / Line Tech (Carolinas; apply by November 8), Project Controls (November 9), UX Design (November 10), the Engineering Internship & Co-o"
     },
     {
       "name": "Duolingo",
@@ -3369,10 +3369,10 @@
       "interview": "Fiserv's funnel runs 3 to 4 rounds, with an average of about 25 days from application to hire and an interview difficulty of 2.6 out of 5: 1. Apply on careers.fiserv.com or the Workday portal . Create a profile, submit a one-page ATS-friendly resume highlighting projects, coursework, and internships",
       "visa": "No. All positions require legal US work authorization. F-1 students may use CPT but Fiserv does not sponsor",
       "window": [
-        "2026-08",
-        "2026-09"
+        "2026-11",
+        "2026-11"
       ],
-      "window_text": "Applications for summer 2027 expected to open Aug to Sep 2026 for tech tracks; finance may open with a very short window (as few as 6 days in past cycles). Projected pattern, not yet posted"
+      "window_text": "Finance track open for summer 2027 as of November 11, 2026: Finance Internship Program (New York), posted November 9 and listed through November 14; Finance & Accounting Internship in Milwaukee (through November 23) and Alpharetta (through November 29). No summer 2027 technology internship posting was live on Fiserv's careers site on November 11, 2026"
     },
     {
       "name": "Five Rings",
@@ -3535,19 +3535,19 @@
         "https://careers.gevernova.com/early-careers"
       ],
       "rolling": "Yes. Postings are \"expected to remain open for at least seven days\" and close once filled. Apply within two weeks of a posting going live",
-      "pay": "$21\u2013$50/hr depending on role and year of study; housing allowance and relocation reimbursement for 50+ mile commutes",
+      "pay": "Postings print either $1,000 to $2,000 a week (about $25 to $50/hr at 40 hours) or an hourly range starting at $21 and topping out at $27, $34 or $36, set by ye",
       "tech_tracks": "Wind Engineering; Gas Power Engineering; Digital Technology; Nuclear Engineering",
       "tracks_total": 6,
       "programs": "6+ internship tracks across Gas Power, Wind, Nuclear, Digital Technology, Commercial, Finance, and Grid",
       "no_formal_program": false,
-      "faq_open_answer": "They are open now: 54 US intern and co-op requisitions titled 2027 were live on November 5, 2026 (the newest posted November 3), and the end dates they print run from November 6 to November 30, 2026. Summer 2028 is not posted yet; if the Summer 2027 pattern repeats, expect the earliest Summer 2028 engineering postings between January and March 2027 and the main wave around September 2027, so monit",
+      "faq_open_answer": "They are open now: 49 US intern and co-op requisitions titled 2027 were live on November 11, 2026 (the newest posted November 10), and the end dates they print run from November 13 to December 31, 2026, with 14 listing November 13 as the last day. Summer 2028 is not posted yet; if the Summer 2027 pattern repeats, expect the earliest Summer 2028 engineering postings between January and March 2027 a",
       "interview": "Expect 2 rounds over about 26 days total. The interview is a mix of behavioral and technical questions, though Glassdoor rates the difficulty at only 2.4 out of 5. You will likely meet with an HR representative and a team member on Zoom or Teams. Behavioral questions focus on leadership, teamwork, a",
       "visa": "No. All US internship postings state applicants must have \"the ability to work in the United States for an unlimited amount of time without sponsorship.\" This language is stricter than many other companies and likely exc",
       "window": [
         "2026-11",
         "2027-09"
       ],
-      "window_text": "Open now for summer 2027: 54 US intern and co-op reqs titled 2027 were listed on November 5, 2026 (37 naming summer, plus Spring and Fall 2027 terms), posted from August through November 3. No single deadline; 28 of them print an end date, from November 6 to November 30, 2026, so check each req"
+      "window_text": "Open now for summer 2027: 49 US intern and co-op reqs titled 2027 were listed on November 11, 2026 (32 naming summer, plus Spring and Fall 2027 terms), posted from August through November 10. No single deadline; 24 of them print an end date, from November 13 to December 31, 2026 (14 list November 13 as the last day), so check each req"
     },
     {
       "name": "Genentech",
@@ -4596,14 +4596,14 @@
       "tracks_total": 6,
       "programs": "10+ tracks: Technology, R&D, Supply Chain, Finance, Marketing, Commercial (CLDP), MedTech Engineering, Global Market Access, Data Science, Enterprise Quality",
       "no_formal_program": false,
-      "faq_open_answer": "They are already open, and the earliest postings have closed. The Finance Internship / FLDP pipeline posted in July 2026, and the main wave followed on September 15 to 19, 2026: 36 US intern and co-op requisitions for 2027, 27 of them internships (MedTech, R&D, Oncology, Supply Chain and more), were listed on careers.jnj.com on November 7, 2026. The October 1, 13, 19 and 31 and November 2, 3, 6 an",
+      "faq_open_answer": "They are already open, and the earliest postings have closed. The Finance Internship / FLDP pipeline posted in July 2026, and the main wave followed on September 15 to 19, 2026: 25 US intern and co-op requisitions for 2027, 13 of them internships (MedTech, R&D, Commercial, Operations and more), were listed on careers.jnj.com on November 11, 2026. The October 1, 13, 19 and 31 and November 2 to 11 e",
       "interview": "You apply online, complete a HireVue pre-recorded video with three behavioral questions, then have two to four live video interviews covering technical skills and Credo alignment. Competitive tracks may include a Superday with three to five stakeholder meetings. Average time to offer is about 19 day",
       "visa": "Not offered on the postings checked October 22, 2026 (El Paso Finance, CLDP, MLDP, IM North America Operations); CLDP, MLDP and Operations add that students on CPT, OPT or STEM OPT require future sponsorship. Lines can d",
       "window": [
         "2026-11",
         "2027-09"
       ],
-      "window_text": "Open now for summer 2027: careers.jnj.com listed 27 US internship postings and 9 co-op postings on November 7, 2026, with end dates from November 9, 2026 to January 2, 2027. The main 2027 wave posted September 15 to 19, 2026 (Spring 2027 and Summer 2027 co-ops, Summer 2027 interns, Finance Internship). Each requisition prints its own end date, so apply before it: the October 1 ones have closed, mo"
+      "window_text": "Open now for summer 2027: careers.jnj.com listed 13 US internship postings and 12 co-op postings on November 11, 2026, with end dates from November 12, 2026 to January 2, 2027. The main 2027 wave posted September 15 to 19, 2026 (Spring 2027 and Summer 2027 co-ops, Summer 2027 interns, Finance Internship). Each requisition prints its own end date, so apply before it: the October 1 ones have closed,"
     },
     {
       "name": "Jane Street",
@@ -4690,14 +4690,14 @@
       "tracks_total": 6,
       "programs": "88 student programs globally; about 10 core US summer tracks, plus Spring Week, the first-year programme in the UK and EMEA with its own application window",
       "no_formal_program": false,
-      "faq_open_answer": "They have started. JPMorgan posted its first summer 2028 internship, the Global Investment Banking Summer Analyst Program in Houston, on November 4, 2026, and it lists November 8, 2026 (11:55 PM ET) as the last day. No other US 2028 posting was live on November 7, 2026. Based on the 2027 cycle, expect the remaining Investment Banking locations around December 2026 to March 2027, with Markets and m",
+      "faq_open_answer": "One early posting has come and gone. JPMorgan posted its first summer 2028 internship, the Global Investment Banking Summer Analyst Program in Houston, on November 4, 2026, and it closed after its November 8, 2026 (11:55 PM ET) last day. No US 2028 posting was live on November 11, 2026. Based on the 2027 cycle, expect the remaining Investment Banking locations around December 2026 to March 2027, w",
       "interview": "The process runs three stages for nearly every US summer program: 1. Online application. Resume plus program and location choice. JPMorgan's FAQ recommends you focus \"on no more than three summer internship program applications.\" So pick deliberately instead of carpet-bombing every track. 2. HireVue",
       "visa": null,
       "window": [
         "2026-12",
         "2027-03"
       ],
-      "window_text": "For summer 2028 internships: the first US posting, the 2028 Global Investment Banking Summer Analyst Program in Houston (Natural Resources team), went up November 4, 2026 and lists November 8, 2026 (11:55 PM ET) as the last day. No other US 2028 posting was live on November 7, 2026; the main IB locations are expected December 2026 to March 2027 and most other programs spring 2027 (projected from l"
+      "window_text": "For summer 2028 internships: the first US posting, the 2028 Global Investment Banking Summer Analyst Program in Houston (Natural Resources team), went up November 4, 2026 and closed after its November 8, 2026 (11:55 PM ET) last day. No US 2028 posting was live on November 11, 2026; the main IB locations are expected December 2026 to March 2027 and most other programs spring 2027 (projected from la"
     },
     {
       "name": "Jump Trading",
@@ -5086,7 +5086,7 @@
       "slug": "live-nation",
       "guide_url": "https://www.extern.com/post/live-nation-internship-guide",
       "career_urls": [
-        "https://livenation.wd1.myworkdayjobs.com/LNExternalSite",
+        "https://livenation.wd503.myworkdayjobs.com/LNExternalSite",
         "https://www.livenationentertainment.com/careers"
       ],
       "rolling": "Yes, de facto. Positions close as they fill; the posted deadline (e.g., Feb 1 for College Associate) is a ceiling, not a target",
@@ -5538,7 +5538,7 @@
         "https://www.metacareers.com/careerprograms/students/"
       ],
       "rolling": "Yes. AI-research JDs state \"various start dates throughout the year\"; quotas fill by roughly December",
-      "pay": "$7,188 to $12,134/month official JD bands, plus housing assistance (~$2,600/mo commonly cited); SWE community figure ~$51.35/hr",
+      "pay": "$7,188 to $12,667/month on the summer 2027 JDs as of November 11, 2026 (Software Engineering Intern: $7,313 to $12,667; Data Scientist Intern, Product Analytics",
       "tech_tracks": "Software Engineer Intern / Co-op; Production Engineering Intern; Data Scientist Intern, Product Analytics; Research Scientist Intern (PhD, AI/FAIR); ML / AI Software Engineer Intern",
       "tracks_total": 6,
       "programs": "8+ intern tracks across engineering, data, research, design, and product",
@@ -6468,14 +6468,14 @@
         "https://careers.pypl.com/university-hiring/university-overview/"
       ],
       "rolling": "Yes. PayPal reviews applications on a rolling basis. Apply within the first two weeks of a posting for the strongest response rates",
-      "pay": "$26 to $55 per hour depending on role and location. Levels.fyi reports $46/hr in San Jose and $49/hr in Austin for SWE interns (Summer 2026 data), plus housing ",
+      "pay": "As of November 11, 2026 the summer 2027 postings print hourly ranges by role and city. Software Engineer Intern - Summer 2027 (R0138586), Mobile Engineer and Cy",
       "tech_tracks": "Back-End Software Engineer Intern; Full-Stack Software Engineer Intern; Data Science Intern; Cybersecurity Intern",
       "tracks_total": 7,
       "programs": "7+ tracks: Software Engineering (Back-End, Full-Stack), Data Science, Product Management, Risk Management, Finance, Marketing, Cybersecurity",
       "no_formal_program": false,
       "faq_open_answer": "They are open now. PayPal posted six summer 2027 internships on November 5, 2026 (Software Engineer, Mobile Engineer, Machine Learning Engineer, Machine Learning Engineer PhD, Data Scientist and Cybersecurity), and the postings say applications are accepted through Sunday, December 6, 2026. Apply within the first two weeks, and set a job alert on careers.pypl.com for the product, risk, finance and",
       "interview": "You apply online, complete a recruiter phone screen (30 minutes), take a 60- to 90-minute HackerRank online assessment with 2 to 3 easy-to-medium DSA problems, then a live technical screen via Karat or a PayPal engineer, followed by a behavioral round with a hiring manager.",
-      "visa": "Work authorization required. PayPal may sponsor on a case-by-case basis for specific roles, but sponsorship is not guaranteed for all intern positions",
+      "visa": "Not offered. All six summer 2027 postings say \u201cVisa Sponsorship through PayPal is not available for this position now or any time in the future\u201d and require US work authorization without sponsorship (as of November 11, 2",
       "window": [
         "2026-11",
         "2027-06"
@@ -6540,16 +6540,16 @@
       "pay": "$26\u2013$29/hr undergrad (official); $45\u2013$52/hr PhD (community-reported). Housing stipend available for relocated interns",
       "tech_tracks": "Digital / Technology",
       "tracks_total": 6,
-      "programs": "8 tracks posted for summer 2027: Research & Development, Digital & Technology, Pfizer Global Supply, U.S. Commercial, Finance & Global Business Services, People Experience (HR), Legal & Compliance, Strategy & Executive Operations",
+      "programs": "8 tracks posted for summer 2027 (applications closed November 8, 2026): Research & Development, Digital & Technology, Pfizer Global Supply, U.S. Commercial, Finance & Global Business Services, People Experience (HR), Legal & Compliance, Strategy & Executive Operations",
       "no_formal_program": false,
-      "faq_open_answer": "They are open now. Applications for summer 2027 opened October 5, 2026 and close November 8, 2026, according to the Pfizer Futures page and every summer 2027 posting (the summer 2026 portal opened October 1, 2025). Apply through the Pfizer Futures page as early as you can, because review is rolling.",
-      "interview": "Pfizer's funnel has two to three interview levels, and the process typically runs 4 to 8 weeks from application to final decision: 1. Apply through the Pfizer Futures page , which links to the Atrium application portal (summer 2027 window: October 5 to November 8, 2026). Pfizer's Workday board does ",
+      "faq_open_answer": "They opened and have already closed. Applications for summer 2027 opened October 5, 2026 and closed November 8, 2026, according to the Pfizer Futures page (the summer 2026 portal opened October 1, 2025). As of November 11, 2026 the portal lists no jobs and Pfizer has not announced a second undergraduate wave. MBA students are a separate track: Pfizer's MBA Summer Associate roles (Finance, Marketin",
+      "interview": "Pfizer's funnel has two to three interview levels, and the process typically runs 4 to 8 weeks from application to final decision: 1. Apply through the Pfizer Futures page , which links to the Atrium application portal (summer 2027 window: October 5 to November 8, 2026, now closed; the summer 2028 w",
       "visa": null,
       "window": [
         "2026-10",
-        "2026-10"
+        "2026-11"
       ],
-      "window_text": "Open now. Applications for summer 2027 opened October 5, 2026 and close November 8, 2026 (stated on the Pfizer Futures page and on every summer 2027 posting)"
+      "window_text": "Closed for summer 2027. Applications opened October 5, 2026 and closed November 8, 2026 (stated on the Pfizer Futures page); as of November 11, 2026 the portal lists no jobs. The summer 2028 window is expected in early October 2027"
     },
     {
       "name": "Phillips 66",
@@ -6806,12 +6806,12 @@
         "https://jobs-us.pwc.com/us/en/entry-level"
       ],
       "rolling": "Yes, by location. Official: applications close \"as offers are accepted and positions are filled\"",
-      "pay": "Audit $30.75\u2013$40.75/hr; Tax up to $44.75; Advisory & Products & Tech up to $48.00 (from PwC JDs); Glassdoor average ~$33/hr",
+      "pay": "$29.25 to $48.00/hr on every undergraduate and JD intern posting live November 11, 2026, across Audit, Tax and Digital Assurance & Transparency (e.g. Chicago Ta",
       "tech_tracks": "Digital Assurance & Transparency (DAT) Intern; Products & Technology Intern",
       "tracks_total": 6,
       "programs": "8 entry-level tracks across Summer and Winter seasons, from Audit to Products & Technology, plus While You Work and Destination CPA",
       "no_formal_program": false,
-      "faq_open_answer": "Earlier than you'd think: the first wave already opened and closed. PwC's Audit, Tax, and DAT postings for summer 2028 began going live on September 10, 2026, about 22 months before the internship starts, and closed on October 3, 2026 (a few October 2). The late office adds (Portland, San Francisco, Silicon Valley) ended October 11 to 12, 2026; on November 7 two summer 2028 Destination CPA intern ",
+      "faq_open_answer": "Earlier than you'd think: the first wave already opened and closed. PwC's Audit, Tax, and DAT postings for summer 2028 began going live on September 10, 2026, about 22 months before the internship starts, and closed on October 3, 2026 (a few October 2). The late office adds (Portland, San Francisco, Silicon Valley) ended October 11 to 12, 2026; on November 11 two summer 2028 Destination CPA intern",
       "interview": "The whole process runs through PwC's recruiting page playbook : 1. Pick one track. You can interview for only one opportunity at a time, so match your major to a career area first. 2. Apply at pwc.to/entryleveljobs . Search \"summer 2028\" by keyword, select a preferred office, and upload your resume ",
       "visa": null,
       "window": [
@@ -7143,19 +7143,19 @@
         "https://www.riotgames.com/en/work-with-us/jobs"
       ],
       "rolling": "Partially. Review is rolling within each deadline window; applying early is recommended",
-      "pay": "$56.59/hr SWE; $35\u2013$43/hr non-engineering; ~$2K/mo housing stipend",
+      "pay": "Summer 2027 postings (checked November 11, 2026): Community Manager Intern - Summer 2027 $33.94/hr, Social Media Manager $35.00, Animation Art $35.48, Concept A",
       "tech_tracks": "Software Engineering; Technical Game Design; Research Scientist (AI)",
       "tracks_total": 6,
       "programs": null,
       "no_formal_program": false,
-      "faq_open_answer": "They have started. Software engineering posted first, on 1 October 2026, and the posting says applications close November 6, 2026. Art, design, production, and analytics tracks had not posted as of 6 October 2026; projected from the prior cycle, they post later this fall and stay open through about January 2027.",
+      "faq_open_answer": "They have started. Software engineering posted first, on 1 October 2026, and closed November 6, 2026. Animation Art, Concept Art (Teamfight Tactics), Motion Graphics Art, Community Manager, Social Media Manager and Data Engineering posted on 10 November 2026, and those postings say applications close January 4, 2027. Design, production and analytics tracks had not posted as of 11 November 2026.",
       "interview": "For SWE: a HackerRank OA (2 hours, 4 to 5 medium LeetCode problems), then 3 to 4 remote interviews over about 3 weeks testing technical skills, behavioral alignment, and culture fit. Creative tracks get take-home craft tests instead of the OA. Average time from application to decision is roughly 70 ",
       "visa": null,
       "window": [
         "2027-06",
         "2027-06"
       ],
-      "window_text": "Open now for SWE: the summer 2027 Software Engineering Intern posting went live 1 October 2026 and closes November 6, 2026. Other tracks for summer 2027 not posted as of 6 October 2026; expected later this fall and open through about January 2027 (projected from prior cycle)"
+      "window_text": "Open now for six tracks: Riot posted Animation Art, Concept Art (Teamfight Tactics), Motion Graphics Art, Community Manager, Social Media Manager and Data Engineering Intern - Summer 2027 on 10 November 2026, and the postings say applications close January 4, 2027 (see Data Engineering Intern - Summer 2027 ). The Software Engineering Intern posting (live 1 October 2026) closed November 6, 2026 and"
     },
     {
       "name": "Rippling",
@@ -7629,19 +7629,19 @@
         "https://join.sephora.com/careers?query=intern"
       ],
       "rolling": "Yes. Applications reviewed on a rolling basis; last cycle gave priority consideration by mid-October",
-      "pay": "$27 or $30/hr in the summer 2027 postings live on November 4, 2026 ($30 for technology and distribution-automation roles; $27 for DC systems engineering, distri",
+      "pay": "$27 or $30/hr in the summer 2027 postings live on November 11, 2026 ($30 for technology and distribution-automation roles; $27 for DC systems engineering and en",
       "tech_tracks": "Digital / Technology; Data Analytics",
       "tracks_total": 6,
       "programs": "10 corporate tracks from Marketing to Digital/Tech",
       "no_formal_program": false,
       "faq_open_answer": null,
       "interview": "Typically 3 to 4 stages over roughly 22 days: an on-demand video interview with behavioral and beauty-passion questions, a recruiter phone screen, a hiring manager interview, and for competitive tracks a final panel or Superday with senior leaders. Some roles include a 60 to 90 minute online assessm",
-      "visa": "No. Sephora does not sponsor H-1B visas for internships. International students must have independent work authorization through CPT or OPT. You must be authorized to work in the U.S. without employer sponsorship.",
+      "visa": "No. Sephora does not sponsor H-1B visas for internships. The summer 2027 postings also say you must permanently reside and work in the U.S., and they print no sponsorship line. You must be authorized to work in the U.S. ",
       "window": [
         "2026-09",
         "2027-06"
       ],
-      "window_text": "MID-CYCLE. Seven US summer 2027 internships still live on join.sephora.com as of November 4, 2026 (remote, San Francisco, Las Vegas, Avon IN and Maryland), out of more than 30 US intern roles posted October 9 to 27, 2026; most run June 14 to August 20, 2027 for students graduating in 2027 or 2028. No closing date printed; roles come down as they fill, and last cycle closed by mid-November"
+      "window_text": "MID-CYCLE. Seven US summer 2027 internships still live on join.sephora.com as of November 11, 2026 (remote, San Francisco, Las Vegas, Avon IN and Maryland), out of more than 30 US intern roles posted October 9 to 27, 2026; most run June 14 to August 20, 2027 for students graduating in 2027 or 2028. No closing date printed; roles come down as they fill, and last cycle closed by mid-November"
     },
     {
       "name": "ServiceNow",
@@ -8818,14 +8818,14 @@
       "tracks_total": 6,
       "programs": "8+ tracks including SWE, Data Science, Product, Strategy & Operations, plus UberSTAR and She++",
       "no_formal_program": false,
-      "faq_open_answer": "For software engineering they opened and closed already. Uber posted 2027 Software Engineering Intern, US on October 20, 2026, later than its usual August to September opening, and it was no longer listed on November 1, 2026, after its scheduled October 31 end date. No other US intern posting was listed that day, so set an alert on Uber\u2019s emerging talent page in case more 2027 roles post.",
+      "faq_open_answer": "For software engineering they opened and closed already. Uber posted 2027 Software Engineering Intern, US on October 20, 2026, later than its usual August to September opening, and it was no longer listed on November 1, 2026, after its scheduled October 31 end date. Finance is open for a few more days: Uber posted a San Francisco Strategic Finance Intern for summer 2027 on November 9, 2026, and th",
       "interview": "Uber\u2019s SWE internship funnel runs 4 stages, averaging about 28 days from application to decision: 1. Submit your application at jobs.uber.com with a resume. List 3 to 5 city preferences in order. No cover letter required. 2. Complete the CodeSignal Online Assessment (70 minutes, 4 problems, threshol",
       "visa": "Yes. Uber accepts CPT and OPT for interns. For full-time conversion, Uber filed 823 H-1B petitions in FY2025 (ranked #41 among US employers). STEM OPT 24-month extension eligible.",
       "window": [
-        "2026-10",
+        "2026-11",
         "2026-11"
       ],
-      "window_text": "Closed for software engineering: Uber posted 2027 Software Engineering Intern, US (San Francisco, Seattle, Sunnyvale) on October 20, 2026, with a scheduled end date of October 31, 2026, and it was no longer listed on November 1, 2026. No other US intern requisition was on Uber\u2019s careers board that day"
+      "window_text": "Closed for software engineering: Uber posted 2027 Software Engineering Intern, US (San Francisco, Seattle, Sunnyvale) on October 20, 2026, with a scheduled end date of October 31, 2026, and it was no longer listed on November 1, 2026. Open for finance: Uber posted San Francisco Strategic Finance Intern - 2027 (Job ID 302523) on November 9, 2026, and the posting lists November 12 as the last day (c"
     },
     {
       "name": "Ubisoft",
@@ -9747,19 +9747,19 @@
         "https://zoox.com/careers"
       ],
       "rolling": "Yes (implied). Positions close when filled; Reddit confirms varied offer timelines with rolling team matching",
-      "pay": "$40\u2013$55/hr for SWE ($7,500\u2013$9,500/mo) + $1,000/mo housing stipend + free meals + medical insurance",
+      "pay": "Monthly ranges printed on the summer 2027 postings (as of November 11, 2026): $6,500 to $10,500 ( Software Engineer Intern, Autonomy Software ); $6,500 to $9,50",
       "tech_tracks": "Software Engineering; AI / Machine Learning; Data / Analytics",
       "tracks_total": 6,
       "programs": "9 internship categories across autonomy, AI/ML, SWE, robotics, hardware, vehicle engineering, product, data, and business ops",
       "no_formal_program": false,
-      "faq_open_answer": "They are open now. Zoox's Lever board listed 12 summer 2027 internships on November 7, 2026, all in Foster City, CA, across software, hardware, data science, IT, safety, program management and process improvement. Zoox typically posts summer roles between September and November of the prior year and fills them on a rolling basis, so apply within two weeks to the posting that fits you.",
+      "faq_open_answer": "They are open now. Zoox's Lever board listed 12 summer 2027 internships on November 7, 2026, all in Foster City, CA (Data Science also lists Boston, MA), across software, hardware, data science, IT, safety, program management and process improvement. Zoox typically posts summer roles between September and November of the prior year and fills them on a rolling basis, so apply within two weeks to th",
       "interview": "After applying, expect an online assessment (2 LeetCode-medium questions, 90 minutes, typically Python), a recruiter phone screen, and then a technical interview loop of 2 to 3 back-to-back rounds totaling about 3 hours. Topics include coding, low-level design, and system design. A team-matching con",
       "visa": null,
       "window": [
         "2026-11",
         "2026-11"
       ],
-      "window_text": "Open: 12 summer 2027 internships live on Zoox's Lever board as of November 7, 2026 (software, hardware, data science, IT, safety, program management and process improvement), all in Foster City, CA. Positions close when filled"
+      "window_text": "Open: 12 summer 2027 internships live on Zoox's Lever board as of November 7, 2026 (software, hardware, data science, IT, safety, program management and process improvement), all in Foster City, CA (Data Science also lists Boston, MA). Positions close when filled"
     },
     {
       "name": "ZS Associates",
