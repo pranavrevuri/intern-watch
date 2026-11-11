@@ -1,5 +1,5 @@
 {
-"checked_at": "2026-11-11T09:51:50.870160+00:00",
+"checked_at": "2026-11-11T17:53:24.034332+00:00",
 "seen_keys": [
 "adobe::\u2705 open]",
 "akuna capital::software engineer intern (summer 2027, python / c++ / full stack / c# .net)",
@@ -1708,8 +1708,8 @@
 "name": "Fellowship",
 "org": "JPMorganChase",
 "detail": "Sophomore \u00b7 5 wks",
-"location": "Last cycle Nov 11 to Jan 13",
-"link": "https://www.jpmorganchase.com/careers/explore-opportunities/programs/jpmcfellowship",
+"location": "Last cycle Nov 11 to Jan 13; no posting on Nov 11, 2026",
+"link": null,
 "posted": ""
 },
 {
@@ -1726,7 +1726,7 @@
 "name": "Thrive",
 "org": "Duolingo",
 "detail": "Sophomore \u00b7 10 wks",
-"location": "SWE closed Sep 30, 2026",
+"location": "SWE closed Sep 30, 2026; Product Designer track open to Dec 9, 2026",
 "link": null,
 "posted": ""
 },
@@ -1789,7 +1789,7 @@
 "name": "Fellowship",
 "org": "MLH",
 "detail": "All years (18+) \u00b7 12 wks",
-"location": "Fall 2026 batch running; 2027 not posted",
+"location": "Spring 2027 batch Jan 25 to Apr 16, 2027; rolling applications",
 "link": "https://fellowship.mlh.com/programs/software-engineering",
 "posted": ""
 },
@@ -3389,8 +3389,8 @@
 "name": "Fellowship",
 "org": "JPMorganChase",
 "detail": "Sophomore \u00b7 5 wks",
-"location": "Last cycle Nov 11 to Jan 13",
-"link": "https://www.jpmorganchase.com/careers/explore-opportunities/programs/jpmcfellowship",
+"location": "Last cycle Nov 11 to Jan 13; no posting on Nov 11, 2026",
+"link": null,
 "posted": ""
 },
 {
@@ -3407,7 +3407,7 @@
 "name": "Thrive",
 "org": "Duolingo",
 "detail": "Sophomore \u00b7 10 wks",
-"location": "SWE closed Sep 30, 2026",
+"location": "SWE closed Sep 30, 2026; Product Designer track open to Dec 9, 2026",
 "link": null,
 "posted": ""
 },
@@ -3470,7 +3470,7 @@
 "name": "Fellowship",
 "org": "MLH",
 "detail": "All years (18+) \u00b7 12 wks",
-"location": "Fall 2026 batch running; 2027 not posted",
+"location": "Spring 2027 batch Jan 25 to Apr 16, 2027; rolling applications",
 "link": "https://fellowship.mlh.com/programs/software-engineering",
 "posted": ""
 },
