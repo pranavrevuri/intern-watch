@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T20:05:56.006980+00:00",
+  "generated_at": "2026-11-12T20:44:25.749349+00:00",
   "companies": [
     {
       "name": "1Password",
@@ -177,7 +177,7 @@
         "2026-09",
         "2026-09"
       ],
-      "window_text": "Open now : 17 Activision US 2027 Summer Internships posted September 10 to 16, 2026 on the Workday board (Software, Game, Graphics and Analytics Engineering, Game Design, Tech Art, Animation, Environment Art, VFX, Audio, UI/UX, Production, Game Economy, User Research, InfoSec, IT, MBA). No close dates printed; on the 2026 pattern most engineering roles close ~November and art roles run longer. No "
+      "window_text": "Open now : 17 Activision US 2027 Summer Internships posted September 10 to 16, 2026 on the Workday board (Software, Game, Graphics and Analytics Engineering, Game Design, Tech Art, Animation, Environment Art, VFX, Audio, UI/UX, Production, Game Economy, User Research, InfoSec, IT, MBA). No close dates printed; on the 2026 pattern most engineering roles close ~November and art roles run longer. Bli"
     },
     {
       "name": "Addepar",
@@ -443,7 +443,7 @@
         "2026-09",
         "2027-06"
       ],
-      "window_text": "OPEN NOW. 37 US intern roles titled 2027 live at amazon.jobs as of Sep 21, 2026, led by the flagship Software Development Engineer Intern, Summer 2027 (USA) posted Sep 17, plus AWS Solutions Architect, Annapurna Labs, Robotics, PMT, Finance Rotation, Area Manager and WHS Specialist. Rolling review"
+      "window_text": "OPEN NOW. 37 US intern roles titled 2027 live at amazon.jobs as of Sep 21, 2026, led by the flagship Software Development Engineer Intern, Summer 2027 (USA) posted Sep 17, plus Annapurna Labs, Robotics, PMT, Finance Rotation, Area Manager and WHS Specialist. No US AWS Solutions Architect intern role was posted as of November 12, 2026. Rolling review"
     },
     {
       "name": "AMC Networks",
@@ -2157,7 +2157,7 @@
         "https://www.nbcunicareers.com/internships"
       ],
       "rolling": "Semi-rolling. Official deadline exists but programs close early due to volume; apply week one",
-      "pay": "Not published on Comcast's or NBCUniversal's own pages; check each posting",
+      "pay": "NBCUniversal summer 2027 postings: $19 to $43/hr by track. Comcast Corporate pay is not published on its own pages; check each posting",
       "tech_tracks": "Media Tech Internship",
       "tracks_total": 6,
       "programs": "8 named programs across Comcast Corporate, NBCUniversal, and ERP tracks",
@@ -2169,7 +2169,7 @@
         "2026-11",
         "2026-11"
       ],
-      "window_text": "Main window for summer 2027 expected to open mid-November 2026; may close early December 2026 (semi-rolling, volume-dependent, projected from prior cycle). As of November 7, 2026 Comcast's own board lists no summer 2027 internship; NBCUniversal's first summer 2027 postings, five part-time roles at NBC Sports Bay Area & California in San Francisco, went up November 5, 2026"
+      "window_text": "NBCUniversal's main summer 2027 window opened November 9, 2026 and closes on or before December 4, 2026 (may close early on applicant volume). As of November 7, 2026 Comcast's own board listed no summer 2027 internship; NBCUniversal's first summer 2027 postings, five part-time roles at NBC Sports Bay Area & California in San Francisco, went up November 5, 2026"
     },
     {
       "name": "Confluent",
@@ -3585,14 +3585,14 @@
       "tracks_total": 6,
       "programs": "Internships span 10 business units across engineering, software development, cybersecurity, manufacturing, finance, supply chain, and more",
       "no_formal_program": false,
-      "faq_open_answer": "They are opening now. As of September 21, 2026, Gulfstream lists 25 Summer 2027 Collegiate Associate Intern reqs and Mission Systems has Summer 2027 engineering intern reqs live, with the other units expected to post through October. Apply on the unit's own portal (careers.gulfstream.com, gdmissionsystems.com/careers) and set job alerts on gd.com/careers for the rest.",
+      "faq_open_answer": "Some units have already opened and closed. Gulfstream's main Summer 2027 wave closed on October 30, 2026, with two US student roles still open as of November 10. As of September 21, 2026, Mission Systems had Summer 2027 engineering intern reqs live, with the other units expected to post through October. Apply on the unit's own portal (careers.gulfstream.com, gdmissionsystems.com/careers) and set j",
       "interview": "Typically a recruiter phone screen (15 to 30 minutes), then a technical or panel interview (45 to 90 minutes) focused on engineering fundamentals, project experience, and behavioral questions. Glassdoor rates difficulty at 2.5 out of 5 with 71% positive experiences. Decisions usually arrive within 2",
       "visa": "Not generally available. Most positions require U.S. citizenship due to classified defense programs and security clearance eligibility requirements",
       "window": [
-        "2026-09",
-        "2027-06"
+        "2026-11",
+        "2026-11"
       ],
-      "window_text": "Open now (as of September 21, 2026) at Gulfstream (25 Summer 2027 reqs, posted from Sep 9) and Mission Systems (Summer 2027 engineering interns, open until filled). Other units vary: GDIT posts August to September; Electric Boat and Bath Iron Works often post through October"
+      "window_text": "Gulfstream : main Summer 2027 wave closed October 30, 2026, with two US student roles still open as of November 10. Open as of September 21, 2026 at Mission Systems (Summer 2027 engineering interns, open until filled). Other units vary: GDIT posts August to September; Electric Boat and Bath Iron Works often post through October"
     },
     {
       "name": "General Electric",
@@ -7942,19 +7942,19 @@
         "https://careers.playstation.com/early-careers"
       ],
       "rolling": "Sony Pictures recruits on a rolling basis until the right candidate is found. PlayStation and Sony Electronics typically review in waves. Apply as soon as posti",
-      "pay": "Varies widely by division and role. PlayStation SWE: $49.50 to $53/hr ($8,580 to $9,187/mo). Sony Electronics SWE: $25 to $40/hr. General entertainment roles: a",
+      "pay": "Varies widely by division and role. PlayStation summer 2027 postings: $36.50 to $63.50/hr, set by role, degree and location, with relocation assistance for elig",
       "tech_tracks": "PlayStation/SIE Software Engineer Intern; Sony Electronics Software Engineer Intern",
       "tracks_total": 6,
       "programs": "6+ divisions with 15+ tracks: Software Engineering, AI/ML, Data Science, Marketing, Music A&R, Film Production, Animation, Business Development, UX Research, and more",
       "no_formal_program": false,
-      "faq_open_answer": "It depends on the division. Sony Music's deadline is expected late January 2027. Sony Pictures Animation's deadline is expected late February 2027. PlayStation and Sony Electronics typically post roles in fall 2026. All dates are projected from prior cycles and are not official. Set job alerts on each division's portal.",
+      "faq_open_answer": "It depends on the division. PlayStation's summer 2027 roles are open now and close on November 20, 2026. Sony Music's deadline is expected late January 2027. Sony Pictures Animation's deadline is expected late February 2027. Sony Electronics typically posts roles in fall 2026. Dates other than PlayStation's are projected from prior cycles and are not official. Set job alerts on each division's por",
       "interview": "Most divisions follow a three- to four-round process: recruiter screen or video interview, a technical or supervisor round, and a panel or leadership behavioral round. PlayStation SWE roles include live coding on algorithms and system design. Sony Music uses a SparkHire video screen. Glassdoor rates",
-      "visa": "PlayStation/SIE: F-1 visa holders eligible, CPT supported. Sony Electronics SWE roles: H-1B sponsorship and STEM OPT/CPT welcomed. Sony Pictures and Sony Music: must be authorized to work in the U.S. for the duration. Ch",
+      "visa": "PlayStation/SIE: US work authorization required, no visa sponsorship. Sony Electronics SWE roles: H-1B sponsorship and STEM OPT/CPT welcomed. Sony Pictures and Sony Music: must be authorized to work in the U.S. for the d",
       "window": [
-        "2027-02",
-        "2027-03"
+        "2026-11",
+        "2026-11"
       ],
-      "window_text": "Varies by division. Sony Music: expected deadline late January 2027. Sony Pictures: postings expected February 2027 for summer. PlayStation/SIE and Sony Electronics: expected fall 2026 to spring 2027. All dates projected from prior cycles"
+      "window_text": "Varies by division. Sony Music: expected deadline late January 2027. Sony Pictures: postings expected February 2027 for summer. PlayStation/SIE: summer 2027 roles posted October 2026, open until November 20, 2026. Sony Electronics: expected fall 2026 to spring 2027. Other dates projected from prior cycles"
     },
     {
       "name": "Sourcegraph",
