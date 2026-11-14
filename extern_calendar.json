@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T20:25:27.960436+00:00",
+  "generated_at": "2026-11-14T18:43:46.756658+00:00",
   "companies": [
     {
       "name": "1Password",
@@ -7277,20 +7277,20 @@
         "https://careers.roche.com/global/en/roche-internship-program",
         "https://careers.gene.com/us/en/internships"
       ],
-      "rolling": "Implied yes. Postings may close before stated deadlines and Genentech posts positions \"on an ongoing basis\"",
-      "pay": "Roche median $37/hr ($28\u2013$49); Genentech median $35/hr ($28\u2013$45); PhD AI/ML $40\u2013$50/hr per official postings",
+      "rolling": "Yes in effect. Postings may close before stated deadlines, Genentech posts positions \"on an ongoing basis,\" and most summer 2027 postings checked Nov 14, 2026 l",
+      "pay": "Roche median $37/hr ($28\u2013$49); Genentech median $35/hr ($28\u2013$45); summer 2027 postings checked Nov 14, 2026 list $25\u2013$55/hr by role and degree (Roche Tucson eng",
       "tech_tracks": "Genentech Summer Internship; Genentech Research Intern (PhD); Genentech Co-Op",
       "tracks_total": 7,
       "programs": "7+ named US programs across Roche and Genentech, plus global tracks (OUR, RiSE, RICH) and rotational pipelines",
       "no_formal_program": false,
-      "faq_open_answer": "Based on the prior cycle, expect the main wave of Roche and Genentech summer 2027 postings from November 2026 through March 2027, with most hiring decisions made by March 2027. The first postings are already up: as of November 1, 2026, Roche's Tucson Systems and Hardware Development internship lists November 13, 2026 as its closing date, and Genentech's Hillsboro Technical Operations internship li",
+      "faq_open_answer": "Based on the prior cycle, the main wave of Roche and Genentech summer 2027 postings runs from November 2026 through March 2027, with most hiring decisions made by March 2027. That wave has started: as of November 14, 2026, 12 US summer 2027 internship postings are live across both companies. The earliest, Genentech\u2019s External Quality (PTQX) internship, lists November 18, 2026 as its posting end da",
       "interview": "After applying, most candidates go through a phone or video screen (20 to 30 minutes) followed by one to three interviews mixing technical and behavioral questions. Some programs add an assessment center, group exercise, or presentation. The entire process averages about 42 days from application to ",
       "visa": null,
       "window": [
-        "2026-10",
-        "2026-10"
+        "2026-11",
+        "2026-11"
       ],
-      "window_text": "Early postings open now: Roche's 2027 Summer Intern, Systems & Hardware Development (Tucson, posted Oct 30, 2026, scheduled to close Nov 13, 2026) and Genentech's 2027 Summer Intern, Hillsboro Technical Operations (Hillsboro, OR, scheduled to close Jan 1, 2027), checked Nov 1, 2026. Main wave expected Nov 2026\u2013Mar 2027; Genentech posts separately on careers.gene.com"
+      "window_text": "Main wave open: 12 US summer 2027 postings live as of Nov 14, 2026 (2 Roche, 10 Genentech). Earliest posting end date Nov 18, 2026 (Genentech External Quality); Roche's Tucson Systems & Hardware Development internship was reposted Nov 11 with a Nov 25, 2026 end date (the original posting closed Nov 13); Genentech's Hillsboro Technical Operations runs to Jan 1, 2027. More postings expected through "
     },
     {
       "name": "Rocket Lab",
@@ -8818,14 +8818,14 @@
       "tracks_total": 6,
       "programs": "8+ tracks including SWE, Data Science, Product, Strategy & Operations, plus UberSTAR and She++",
       "no_formal_program": false,
-      "faq_open_answer": "For software engineering they opened and closed already. Uber posted 2027 Software Engineering Intern, US on October 20, 2026, later than its usual August to September opening, and it was no longer listed on November 1, 2026, after its scheduled October 31 end date. Finance is open for a few more days: Uber posted a San Francisco Strategic Finance Intern for summer 2027 on November 9, 2026, and th",
+      "faq_open_answer": "For software engineering they opened and closed already. Uber posted 2027 Software Engineering Intern, US on October 20, 2026, later than its usual August to September opening, and it was no longer listed on November 1, 2026, after its scheduled October 31 end date. Finance followed the same pattern: Uber posted a San Francisco Strategic Finance Intern for summer 2027 on November 9, 2026, and it c",
       "interview": "Uber\u2019s SWE internship funnel runs 4 stages, averaging about 28 days from application to decision: 1. Submit your application at jobs.uber.com with a resume. List 3 to 5 city preferences in order. No cover letter required. 2. Complete the CodeSignal Online Assessment (70 minutes, 4 problems, threshol",
       "visa": "Yes. Uber accepts CPT and OPT for interns. For full-time conversion, Uber filed 823 H-1B petitions in FY2025 (ranked #41 among US employers). STEM OPT 24-month extension eligible.",
       "window": [
-        "2026-11",
+        "2026-10",
         "2026-11"
       ],
-      "window_text": "Closed for software engineering: Uber posted 2027 Software Engineering Intern, US (San Francisco, Seattle, Sunnyvale) on October 20, 2026, with a scheduled end date of October 31, 2026, and it was no longer listed on November 1, 2026. Open for finance: Uber posted San Francisco Strategic Finance Intern - 2027 (Job ID 302523) on November 9, 2026, and the posting lists November 12 as the last day (c"
+      "window_text": "Closed for software engineering: Uber posted 2027 Software Engineering Intern, US (San Francisco, Seattle, Sunnyvale) on October 20, 2026, with a scheduled end date of October 31, 2026, and it was no longer listed on November 1, 2026. Finance closed too: San Francisco Strategic Finance Intern - 2027 (Job ID 302523) went up November 9, 2026, listed November 12 as the last day and was no longer list"
     },
     {
       "name": "Ubisoft",
