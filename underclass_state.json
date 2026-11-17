@@ -1,5 +1,5 @@
 {
-"checked_at": "2026-11-17T14:54:57.287905+00:00",
+"checked_at": "2026-11-17T22:23:20.306150+00:00",
 "seen_keys": [
 "adobe::\u2705 open]",
 "akuna capital::software engineer intern (summer 2027, python / c++ / full stack / c# .net)",
@@ -88,6 +88,7 @@
 "girlswhoml::\u2705 open]",
 "github::\u23f3 opens soon]",
 "golden apple foundation::\u2705 open]",
+"golden apple foundation::\ud83d\udd25 closing soon]",
 "google::asdi",
 "google::software engineering intern, bs (summer 2027)",
 "google::step / asdi",
@@ -95,6 +96,7 @@
 "google::\u2705 open]",
 "hagan scholarship foundation::\u23f3 opens soon]",
 "hagan scholarship foundation::\u2705 open]",
+"hagan scholarship foundation::\ud83d\udd25 closing soon]",
 "handshake::\u2705 open]",
 "headstart fellowship::\ud83d\udd25 closing soon]",
 "houlihan lokey::\u2705 open]",
@@ -145,6 +147,7 @@
 "mlt (management leadership for tomorrow)::\ud83d\udd25 closing soon]",
 "monster energy::\u2705 open]",
 "montana state university honors college::\u2705 open]",
+"montana state university honors college::\ud83d\udd25 closing soon]",
 "moonshot (formerly opentrade)::\u2705 open]",
 "morgan stanley::early insights",
 "naive::software engineer intern \ud83c\uddfa\ud83c\uddf8 \u23f3",
@@ -252,6 +255,7 @@
 "walleye capital::quant developer intern",
 "walmart / satya blends::\u2705 open]",
 "wayne state college::\u2705 open]",
+"wayne state college::\ud83d\udd25 closing soon]",
 "weiss asset management::\u2705 open]",
 "weiss asset management::\ud83d\udd25 closing soon]",
 "wells fargo::discovery",
@@ -432,6 +436,15 @@
 "detail": "Women in Equity Research Event (2026) \u2014 Deadline: Oct 15, 2026",
 "location": "",
 "link": "https://flows.beamery.com/httpwwwrwbairdcom/baird-women-in-equity-research-event-(virtual)",
+"posted": ""
+},
+{
+"section": "Underclassmen Programs (Fellowships, Externships, etc.)",
+"name": "\ud83d\udd25 CLOSING SOON]",
+"org": "Golden Apple Foundation",
+"detail": "Golden Apple Scholars \u2014 College Freshman/Sophomore Track, 2026\u201327 Application \u2014 Deadline: December 1, 2026 priority; March 1, 2027 final (time and time zone not",
+"location": "",
+"link": "https://goldenapple-38434.app451.sites.451.io/",
 "posted": ""
 },
 {
@@ -635,15 +648,6 @@
 {
 "section": "Underclassmen Programs (Fellowships, Externships, etc.)",
 "name": "\u2705 OPEN]",
-"org": "Golden Apple Foundation",
-"detail": "Golden Apple Scholars \u2014 College Freshman/Sophomore Track, 2026\u201327 Application \u2014 Deadline: December 1, 2026 priority; March 1, 2027 final (time and time zone not",
-"location": "",
-"link": "https://goldenapple-38434.app451.sites.451.io/",
-"posted": ""
-},
-{
-"section": "Underclassmen Programs (Fellowships, Externships, etc.)",
-"name": "\u2705 OPEN]",
 "org": "Touro College of Pharmacy / Touro University",
 "detail": "RxPLORE Summer Academy \u2014 First- and Second-Year College Students, 2027 \u2014 Deadline: February 16, 2027 (time and time zone not published)",
 "location": "",
@@ -841,11 +845,38 @@
 },
 {
 "section": "Rising Freshmen & First-Year Opportunities",
-"name": "\u2705 OPEN]",
+"name": "\ud83d\udd25 CLOSING SOON]",
 "org": "The College of Wooster",
 "detail": "Music Scholarships \u2014 Incoming First-Year Performance/Composition Tracks, Fall 2027",
 "location": "",
 "link": "https://connect.wooster.edu/register/?id=4371ab01-f453-45c9-931b-45ba6acd16e7",
+"posted": ""
+},
+{
+"section": "Rising Freshmen & First-Year Opportunities",
+"name": "\ud83d\udd25 CLOSING SOON]",
+"org": "Hagan Scholarship Foundation",
+"detail": "Hagan Scholarship \u2014 Incoming College Freshmen, 2027\u20132028",
+"location": "",
+"link": "https://fs28.formsite.com/DanHagan/zamqld4dle/signup",
+"posted": ""
+},
+{
+"section": "Rising Freshmen & First-Year Opportunities",
+"name": "\ud83d\udd25 CLOSING SOON]",
+"org": "Montana State University Honors College",
+"detail": "Presidential Scholarship \u2014 Incoming First-Year Students, Fall 2027",
+"location": "",
+"link": "https://montana.academicworks.com/opportunities/30968",
+"posted": ""
+},
+{
+"section": "Rising Freshmen & First-Year Opportunities",
+"name": "\ud83d\udd25 CLOSING SOON]",
+"org": "Wayne State College",
+"detail": "Career Scholars Cooperative Education Program \u2014 Incoming Freshmen (Fall 2027)",
+"location": "",
+"link": "https://wsc.academicworks.com/opportunities/7820",
 "posted": ""
 },
 {
@@ -887,37 +918,10 @@
 {
 "section": "Rising Freshmen & First-Year Opportunities",
 "name": "\u2705 OPEN]",
-"org": "Hagan Scholarship Foundation",
-"detail": "Hagan Scholarship \u2014 Incoming College Freshmen, 2027\u20132028",
-"location": "",
-"link": "https://fs28.formsite.com/DanHagan/zamqld4dle/signup",
-"posted": ""
-},
-{
-"section": "Rising Freshmen & First-Year Opportunities",
-"name": "\u2705 OPEN]",
-"org": "Montana State University Honors College",
-"detail": "Presidential Scholarship \u2014 Incoming First-Year Students, Fall 2027",
-"location": "",
-"link": "https://montana.academicworks.com/opportunities/30968",
-"posted": ""
-},
-{
-"section": "Rising Freshmen & First-Year Opportunities",
-"name": "\u2705 OPEN]",
 "org": "Lander University Foundation / College of Nursing",
 "detail": "Nahn Joo Chang Scholarship \u2014 Incoming First-Year Pre-Nursing (2027\u20132028)",
 "location": "",
 "link": "https://lander.academicworks.com/opportunities/9920",
-"posted": ""
-},
-{
-"section": "Rising Freshmen & First-Year Opportunities",
-"name": "\u2705 OPEN]",
-"org": "Wayne State College",
-"detail": "Career Scholars Cooperative Education Program \u2014 Incoming Freshmen (Fall 2027)",
-"location": "",
-"link": "https://wsc.academicworks.com/opportunities/7820",
 "posted": ""
 },
 {
@@ -2113,6 +2117,15 @@
 },
 {
 "section": "Underclassmen Programs (Fellowships, Externships, etc.)",
+"name": "\ud83d\udd25 CLOSING SOON]",
+"org": "Golden Apple Foundation",
+"detail": "Golden Apple Scholars \u2014 College Freshman/Sophomore Track, 2026\u201327 Application \u2014 Deadline: December 1, 2026 priority; March 1, 2027 final (time and time zone not",
+"location": "",
+"link": "https://goldenapple-38434.app451.sites.451.io/",
+"posted": ""
+},
+{
+"section": "Underclassmen Programs (Fellowships, Externships, etc.)",
 "name": "\u2705 OPEN]",
 "org": "Insight Partners",
 "detail": "Inclusion by Insight Virtual Summit (2027) \u2014 Deadline: November 6, 2026 (5:00 PM ET)",
@@ -2307,15 +2320,6 @@
 "detail": "STEEL Summer Leadership Program \u2014 Sophomore Accounting, 2027 \u2014 Deadline: Rolling admissions; no final closing date published (October 1, 2026 preferred date has",
 "location": "",
 "link": "https://sisterson.bamboohr.com/careers/60",
-"posted": ""
-},
-{
-"section": "Underclassmen Programs (Fellowships, Externships, etc.)",
-"name": "\u2705 OPEN]",
-"org": "Golden Apple Foundation",
-"detail": "Golden Apple Scholars \u2014 College Freshman/Sophomore Track, 2026\u201327 Application \u2014 Deadline: December 1, 2026 priority; March 1, 2027 final (time and time zone not",
-"location": "",
-"link": "https://goldenapple-38434.app451.sites.451.io/",
 "posted": ""
 },
 {
@@ -2518,11 +2522,38 @@
 },
 {
 "section": "Rising Freshmen & First-Year Opportunities",
-"name": "\u2705 OPEN]",
+"name": "\ud83d\udd25 CLOSING SOON]",
 "org": "The College of Wooster",
 "detail": "Music Scholarships \u2014 Incoming First-Year Performance/Composition Tracks, Fall 2027",
 "location": "",
 "link": "https://connect.wooster.edu/register/?id=4371ab01-f453-45c9-931b-45ba6acd16e7",
+"posted": ""
+},
+{
+"section": "Rising Freshmen & First-Year Opportunities",
+"name": "\ud83d\udd25 CLOSING SOON]",
+"org": "Hagan Scholarship Foundation",
+"detail": "Hagan Scholarship \u2014 Incoming College Freshmen, 2027\u20132028",
+"location": "",
+"link": "https://fs28.formsite.com/DanHagan/zamqld4dle/signup",
+"posted": ""
+},
+{
+"section": "Rising Freshmen & First-Year Opportunities",
+"name": "\ud83d\udd25 CLOSING SOON]",
+"org": "Montana State University Honors College",
+"detail": "Presidential Scholarship \u2014 Incoming First-Year Students, Fall 2027",
+"location": "",
+"link": "https://montana.academicworks.com/opportunities/30968",
+"posted": ""
+},
+{
+"section": "Rising Freshmen & First-Year Opportunities",
+"name": "\ud83d\udd25 CLOSING SOON]",
+"org": "Wayne State College",
+"detail": "Career Scholars Cooperative Education Program \u2014 Incoming Freshmen (Fall 2027)",
+"location": "",
+"link": "https://wsc.academicworks.com/opportunities/7820",
 "posted": ""
 },
 {
@@ -2564,37 +2595,10 @@
 {
 "section": "Rising Freshmen & First-Year Opportunities",
 "name": "\u2705 OPEN]",
-"org": "Hagan Scholarship Foundation",
-"detail": "Hagan Scholarship \u2014 Incoming College Freshmen, 2027\u20132028",
-"location": "",
-"link": "https://fs28.formsite.com/DanHagan/zamqld4dle/signup",
-"posted": ""
-},
-{
-"section": "Rising Freshmen & First-Year Opportunities",
-"name": "\u2705 OPEN]",
-"org": "Montana State University Honors College",
-"detail": "Presidential Scholarship \u2014 Incoming First-Year Students, Fall 2027",
-"location": "",
-"link": "https://montana.academicworks.com/opportunities/30968",
-"posted": ""
-},
-{
-"section": "Rising Freshmen & First-Year Opportunities",
-"name": "\u2705 OPEN]",
 "org": "Lander University Foundation / College of Nursing",
 "detail": "Nahn Joo Chang Scholarship \u2014 Incoming First-Year Pre-Nursing (2027\u20132028)",
 "location": "",
 "link": "https://lander.academicworks.com/opportunities/9920",
-"posted": ""
-},
-{
-"section": "Rising Freshmen & First-Year Opportunities",
-"name": "\u2705 OPEN]",
-"org": "Wayne State College",
-"detail": "Career Scholars Cooperative Education Program \u2014 Incoming Freshmen (Fall 2027)",
-"location": "",
-"link": "https://wsc.academicworks.com/opportunities/7820",
 "posted": ""
 },
 {
